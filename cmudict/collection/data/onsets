@@ -1,0 +1,92 @@
+# All single consonant phonemes except /ŋ/:
+b
+t͡ʃ
+d
+ð
+f
+ɡ
+h
+d͡ʒ
+k
+l
+m
+n
+p
+ɹ
+s
+ʃ
+t
+θ
+v
+w
+j
+z
+ʒ
+
+# Stop plus approximant other than /j/:
+pl
+bl
+kl
+ɡl
+pɹ
+bɹ
+tɹ
+dɹ
+kɹ
+ɡɹ
+tw
+dw
+ɡw
+kw
+pw
+
+# Voiceless fricative or /v/ plus approximant other than /j/:
+fl
+sl
+θl
+ʃl
+vl
+fɹ
+θɹ
+ʃɹ
+hw
+sw
+θw
+vw
+
+# Non-coronal consonant plus /j/:
+pj
+bj
+kj
+ɡj
+mj
+fj
+vj
+hj
+
+# /s/ plus voiceless stop:
+sp
+st
+sk
+
+# /s/ plus nasal other than /ŋ/:
+sm
+sn
+
+# /s/ plus voiceless non-sibilant fricative:
+sf
+sθ
+
+# /s/ plus voiceless stop plus approximant:
+spl
+skl
+spɹ
+stɹ
+skɹ
+skw
+smj
+spj
+skj
+
+# /s/ plus voiceless non-sibilant fricative plus approximant:
+sfɹ
