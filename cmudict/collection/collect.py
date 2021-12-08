@@ -6,7 +6,7 @@ import re
 from typing import Iterator, Pattern, Optional, Union
 
 CMUDICT_COMMENT = ';;;'
-CMUDICT_TABULATION = re.compile(r' {2,}')  # https://github.com/Alexir/CMUdict/pull/3
+CMUDICT_TAB = re.compile(r' {2,}')  # https://github.com/Alexir/CMUdict/pull/3
 CMUDICT_PHONEME_DELIMITER = ' '
 CMUDICT_IGNORE_UTF8_ERRORS = True  # https://github.com/Alexir/CMUdict/issues/5
 
@@ -14,7 +14,7 @@ PRIMARY_STRESS = 1
 SECONDARY_STRESS = 2
 NO_STRESS = 0
 
-TABULATION = '\t'
+TAB = '\t'
 COMMENT = '#'
 
 DATA_DIRECTORY = 'data'
@@ -60,7 +60,7 @@ def get_data_path(file: str) -> Path:
 
 
 def load_phonemes() -> Phonemes:
-    return dict(map(partial(split_pair, TABULATION), get_lines(get_data_path(DATA_PHONEMES))))
+    return dict(map(partial(split_pair, TAB), get_lines(get_data_path(DATA_PHONEMES))))
 
 
 def load_onsets() -> Onsets:
@@ -68,7 +68,7 @@ def load_onsets() -> Onsets:
 
 
 def load_compounds() -> Compounds:
-    return set(map(partial(split_pair, TABULATION), get_lines(get_data_path(DATA_COMPOUNDS), comment_prefix=COMMENT)))
+    return set(map(partial(split_pair, TAB), get_lines(get_data_path(DATA_COMPOUNDS), comment_prefix=COMMENT)))
 
 
 def normalize_word(word: str) -> str:
@@ -210,7 +210,7 @@ def run() -> None:
 
     data: list[WordData] = []
     for line in get_lines(arguments.input, comment_prefix=CMUDICT_COMMENT, ignore_errors=CMUDICT_IGNORE_UTF8_ERRORS):
-        word, transcription = split_pair(CMUDICT_TABULATION, line)
+        word, transcription = split_pair(CMUDICT_TAB, line)
         data.append((normalize_word(word), cmu_to_ipa_with_stress(transcription, phonemes)))
 
     # The following is to detect compound words, which allows for better splitting into syllables
@@ -219,7 +219,7 @@ def run() -> None:
     entry_index: set[str] = set()
     with open(arguments.output, 'w') as output_data:
         for word, ipa_with_stress in data:
-            entry = f'{word}{TABULATION}{construct_ipa(ipa_with_stress, word, onsets, word_data_index, compounds)}\n'
+            entry = f'{word}{TAB}{construct_ipa(ipa_with_stress, word, onsets, word_data_index, compounds)}\n'
             if entry not in entry_index:
                 entry_index.add(entry)
                 output_data.write(entry)
