@@ -11,4 +11,4 @@ Both ASCII and non-ASCII romanizations are currently limited to be no longer tha
 
 [CMU Dictionary](https://github.com/Alexir/CMUdict) transcriptions were converted into IPA with a straightforward[^1] algorithm: see [conversion chart](cmudict/collection/data/phonemes). Note that `AH` in unstressed syllables is represented as `ə`, and `ER` as `ɚ`. These are the only instances of vowel reduction applied.
 
-[^1]: apart from the syllabification bit
+[^1]: That is, apart from the syllabification bit.
