@@ -7,7 +7,7 @@ Wiktionary data is collected partly using a [Wiktextract](https://github.com/tat
 
 ASCII romanizations are identical to the romanizations found in Wiktionary, except for being additionally normalized (using [AnyAscii](https://github.com/anyascii/anyascii)) to only contain lowercase Latin letters (a-z) and spaces.
 
-Both ASCII and non-ASCII romanizations are currently limited to be no longer than 20 (non-combining) characters, which helps make the data much cleaner. This constraint applies to both columns in the romanization files, but doesn't apply to IPA files.
+Both ASCII and non-ASCII romanizations are currently filtered to be at most 20 (non-combining) characters long, which helps make the data much cleaner. This constraint applies to the words being romanized as well.
 
 [CMU Dictionary](https://github.com/Alexir/CMUdict) transcriptions were converted into IPA with a straightforward[^1] algorithm: see [conversion chart](cmudict/collection/data/phonemes). Note that `AH` in unstressed syllables is represented as `ə`, and `ER` as `ɚ`. These are the only instances of vowel reduction applied.
 
