@@ -1,0 +1,4482 @@
+-j	/(ej)/
+-j	/ej/
+-j	/eʔ/
+-j	/i/
+-j	/ij/
+-j	/t/
+-j	/ɾ/
+-nw	/nuː/
+-t	/at/
+-t	/aʔ/
+-t	/eʔ/
+-t	/it/
+-t	/iʔ/
+-t	/ut/
+-t	/uʔ/
+-t	/wVːt/
+-t	/øʔ/
+-t	/ə/
+-t	/ɛt/
+-tj	/t(ə)/
+-tj	/tVj/
+-tj	/ti/
+-w	/(w)/
+-w	/(ə)/
+-w	/aw/
+-w	/uː/
+-w	/w/
+-w	/ʔ/
+-wj	/w/
+-wj	/wVj/
+-wj	/wi/
+-wt	/uːt/
+-wt	/wat/
+-wt	/waʔ/
+-wt	/wə/
+-wtj	/uːti/
+-y	/iː/
+-yt	/iːt/
+-yw	/iːuː/
+.f	/f/
+.f	/ʔɛf/
+.fj	/ʔɛfi/
+.ḫr	/ʔxɛr/
+.j	/(ʔ)/
+.j	/aj/
+.j	/t/
+.j	/ɾ/
+.j	/ʔ/
+.j	/ʔi/
+.jn	/ʔin/
+.k	/k/
+.k	/ʔɛk/
+.kj	/ʔki/
+.kj	/ʔɛki/
+.kw	/ku/
+.kw	/ʔkuː/
+.kꜣ	/ʔkɑ/
+.n	/en/
+.n	/in/
+.n	/ʔɛn/
+.nj	/inVj/
+.nj	/ʔɛni/
+.nw	/ʔnuː/
+.s	/s/
+.s	/ʔɛs/
+.sj	/ʔɛsi/
+.sn	/ʔsɛn/
+.snj	/ʔsɛni/
+.st	/ʔsɛt/
+.sw	/ʔsuː/
+.t	/ʔɛt/
+.tj	/ʔti/
+.tjwn	/ʔtiuːn/
+.tjwnj	/ʔtiuːni/
+.tn	/ʔtɛn/
+.tnj	/ʔtɛni/
+.tw	/ʔtuː/
+.twn	/ʔtuːn/
+.ty	/ʔtiː/
+.ṯ	/(ʔ)/
+.ṯ	/c/
+.ṯ	/t/
+.ṯ	/ʔ/
+.ṯ	/ʔɛt͡ʃ/
+.ṯn	/cin/
+.ṯn	/ten/
+.ṯn	/tin/
+.ṯn	/ʔt͡ʃɛn/
+.ṯnj	/cinVj/
+.ṯnj	/tinVj/
+.ṯnj	/ʔt͡ʃɛni/
+.w	/ʔuː/
+.wj	/ʔuːi/
+.wjn	/ʔuːin/
+.wn	/ʔuːn/
+.wy	/ʔuːiː/
+.y	/ʔiː/
+bbr	/bɛbɛr/
+bbt	/bɛbɛt/
+bbwt	/bɛbuːt/
+bddw kꜣ	/bɛdɛduː kɑ/
+bdš	/bɛdɛʃ/
+bdt	/bɛdɛt/
+bgs	/bɛɡɛs/
+bḥdt	/bɛħdɛt/
+bḥn	/bɛħɛn/
+bḥs	/bɛħɛs/
+bḥz	/bɛħɛz/
+bḫnt	/bɛxnɛt/
+bẖbẖ	/bɛçbɛç/
+bhꜣw	/bɛhɑuː/
+bjf	/bif/
+bjk	/bik/
+bjn	/bin/
+bjn	/ˈbaːjin/
+bjn	/ˈbaːʔən/
+bjn	/ˈβoːʔən/
+bjnt	/binɛt/
+bjnt	/ˈbajnVt/
+bjnt	/ˈbajnVʔ/
+bjnt	/ˈβajnə/
+bjrwnygꜣt	/biruːniːɡɑt/
+bjrwnygꜣt	/βəɾəˈniːkə/
+bjt	/bit/
+bjt	/biˈjat/
+bjt	/biˈjaʔ/
+bjt	/βəˈjaʔ/
+bjtj	/biti/
+bjtj	/biˈjatVj/
+bjtj	/βəˈjat(ə)/
+bjꜣ	/biɑ/
+bjꜣ n pt	/biɑ ɛn pɛt/
+bjꜣt	/biɑt/
+bjꜣyt	/biɑiːt/
+bkꜣ	/bɛkɑ/
+bn	/bɛn/
+bnbnt	/bɛnbɛnɛt/
+bnr	/biˈnij/
+bnr	/biˈniɾ/
+bnr	/bɛnɛr/
+bnr	/βəˈneʔ/
+bns	/bɛnɛs/
+bnš	/bɛnɛʃ/
+bntj	/bɛnti/
+bntwt	/bɛntuːt/
+bnw	/bɛnuː/
+bs	/bɛs/
+bšj	/bɛʃi/
+bšṯ	/bɛʃɛt͡ʃ/
+btj	/bɛti/
+bṯ	/bɛt͡ʃ/
+btꜣ	/bɛtɑ/
+bw	/buː/
+bw-nb	/buː nɛb/
+bwt	/buːt/
+bwtj	/buːti/
+bzj	/bɛzi/
+bꜣ	/biʀ/
+bꜣ	/bɑ/
+bꜣ	/βej/
+bꜣbꜣrw	/bɑbɑruː/
+bꜣgj	/bɑɡi/
+bꜣgj	/ˈbiʀkʼit/
+bꜣgj	/ˈbiʀkʼiʔ/
+bꜣgj	/ˈbiːkʼaʔ/
+bꜣgj	/ˈβiːkʼə/
+bꜣgsw	/bɑɡsuː/
+bꜣḥ	/bɑħ/
+bꜣẖ	/bɑç/
+bꜣẖw	/bɑçuː/
+bꜣẖw	/ˈbaʀçaw/
+bꜣẖw	/ˈbaːçəʔ/
+bꜣẖw	/βoːç/
+bꜣj	/bɑi/
+bꜣjr	/bɑir/
+bꜣjr	/ˈβøʔɾ(ə)/
+bꜣk	/bɑk/
+bꜣk	/ˈbaːʀak/
+bꜣk	/ˈbaːʔək/
+bꜣk	/ˈβoːʔək/
+bꜣk jm	/bɑk im/
+bꜣk-n-rn.f	/bɑk ɛn rɛnʔɛf/
+bꜣk-n-rn.f	/ˌbaːʀak-Vn-ˈɾiːnVf/
+bꜣk-n-rn.f	/βokkoˈɾiː(nə)/
+bꜣkt	/bɑkɛt/
+bꜣkt	/ˈbaʀkat/
+bꜣkt	/ˈbaʀkaʔ/
+bꜣkt	/ˈbaːkaʔ/
+bꜣkt	/ˈβoːkə/
+bꜣkw	/bɑkuː/
+bꜣkw	/ˈbaʀkaw/
+bꜣkw	/ˈbaːkəʔ/
+bꜣkw	/βoːk/
+bꜣkꜣ	/bɑkɑ/
+bꜣs	/bɑs/
+bꜣst	/bɑsɛt/
+bꜣstt	/buˈʀistit/
+bꜣstt	/buˈʀistiʔ/
+bꜣstt	/bɑstɛt/
+bꜣstt	/ʔuˈβestə/
+bꜣt	/bɑt/
+bꜣt	/ˈbaːʀat/
+bꜣt	/ˈbaːʀaʔ/
+bꜣt	/ˈβoːʔə/
+bꜣw	/baˈʀuːwaw/
+bꜣw	/bɑuː/
+bꜣw	/bəˈʔuːwəʔ/
+bꜣw	/βeːw/
+bꜣyt	/bɑiːt/
+bꜥḥ	/bɑːħ/
+bꜥḥj	/bɑːħi/
+bꜥḥj	/ˈbiʕħit/
+bꜥḥj	/ˈbiʕħiʔ/
+bꜥḥj	/ˈβeʕħə/
+bꜥḥw	/bɑːħuː/
+bꜥr	/bɑːr/
+db	/dɛb/
+db	/tʼep/
+db	/tʼib/
+dbḥ	/dɛbɛħ/
+dbḥ	/ˈtʼaːbaħ/
+dbḥ	/ˈtʼoːβəħ/
+dbḥt-ḥtp	/dɛbħɛt ħɛtɛp/
+dbn	/dɛbɛn/
+dbn	/ˈtʼiːban/
+dbn	/ˈtʼiːβən/
+dbnt	/dɛbnɛt/
+dbꜣ	/dɛbɑ/
+ddw	/dɛduː/
+dgj	/dɛɡi/
+dgm	/dɛɡɛm/
+dgm	/ˈtʼeːkʼəm/
+dgm	/ˈtʼuːkʼVm/
+dgꜣj	/dɛɡɑi/
+dhnt	/dɛhnɛt/
+dḥr	/dɛħɛr/
+dj	/di/
+djnw	/dinuː/
+djw	/diuː/
+djw	/tʼiːw/
+djw	/ˈtʼiːjaw/
+djw	/ˈtʼiːwəʔ/
+djw ḥrjw rnpt	/diuː ħɛriuː rɛnpɛt/
+dm	/dɛm/
+dmḏ	/dɛmɛd͡ʒ/
+dmḏj	/dɛmɛd͡ʒi/
+dmḏj	/ˈtʼaːmacʼ/
+dmḏj	/ˈtʼaːmatʼ/
+dmḏj	/ˈtʼemtʼə/
+dmḏj	/ˈtʼimcʼit/
+dmḏj	/ˈtʼimtʼiʔ/
+dmḏj	/ˈtʼoːmətʼ/
+dmj	/dɛmi/
+dmj	/ˈtʼiːmij/
+dmj	/ˈtʼiːmiʔ/
+dmj	/ˈtʼiːmə/
+dmꜣt	/dɛmɑt/
+dn	/dɛn/
+dnd	/dɛnɛd/
+dng	/dɛnɛɡ/
+dnjt	/dɛnit/
+dnjt	/ˈtʼanjut/
+dnjt	/ˈtʼanjuʔ/
+dnjt	/ˈtʼanʔə/
+dns	/dɛnɛs/
+dp	/dɛp/
+dpt	/dɛpɛt/
+dpt	/ˈtʼVːput/
+dpt	/ˈtʼVːpuʔ/
+dpt	/ˈtʼVːpə/
+dpt	/ˈtʼiːpVt/
+dpt	/ˈtʼiːpVʔ/
+dpt	/ˈtʼiːpə/
+dpy	/dɛpiː/
+dqr	/dɛkɛr/
+dr	/dɛr/
+drp	/dɛrɛp/
+ds	/dɛs/
+dsj	/dɛsi/
+dšr	/dɛʃɛr/
+dšr	/tʼaˈɾaʃ/
+dšr	/tʼaˈʃaɾ/
+dšr	/tʼəˈɾaʃ/
+dšr	/ˈtʼaːɾiʃ/
+dšr	/ˈtʼaːʃiɾ/
+dšr	/ˈtʼeːʃə/
+dšr	/ˈtʼoːɾəʃ/
+dšr	/ˈtʼuːʃVɾ/
+dšr	/ˈtʼuːʃVʔ/
+dšrt	/dɛʃrɛt/
+dšrt	/ˈtʼaʃɾat/
+dšrt	/ˈtʼaʃɾaʔ/
+dšrt	/ˈtʼaʃɾə/
+dwn	/duːn/
+dwn	/ˈtʼaːwan/
+dwn	/ˈtʼoːwən/
+dwꜣ	/duːɑ/
+dwꜣ nṯr n	/duːɑ nɛt͡ʃɛr ɛn/
+dwꜣ-mwt.f	/duːɑ muːtʔɛf/
+dwꜣ-mwt.f	/ˌtʼawaʀˈmuwtif/
+dwꜣt	/duːɑt/
+dwꜣt	/tʼeːʔ/
+dwꜣt	/ˈtʼuwʀat/
+dwꜣt	/ˈtʼuwʀaʔ/
+dwꜣt	/ˈtʼuːʔəʔ/
+dwꜣtj	/duːɑti/
+dwꜣw	/duːɑuː/
+dyw	/diːuː/
+dyw	/ˈtʼijjaw/
+ḏbt	/d͡ʒɛbɛt/
+ḏbt	/ˈcʼaːbVt/
+ḏbt	/ˈtʼaːbVʔ/
+ḏbt	/ˈtʼoːβə/
+ḏbꜣ	/d͡ʒɛbɑ/
+ḏbꜣ	/ˈcʼaːbaʀ/
+ḏbꜣ	/ˈtʼaːbaʀ/
+ḏbꜣ	/ˈtʼoːβə/
+ḏbꜣt	/d͡ʒɛbɑt/
+ḏbꜣw	/d͡ʒɛbɑuː/
+ḏbꜥ	/cʼaˈbaʕ/
+ḏbꜥ	/d͡ʒɛbɑː/
+ḏbꜥ	/tʼaˈbaʕ/
+ḏbꜥ	/tʼəˈβaʕ/
+ḏbꜥ	/ˈcʼaːbaʕ/
+ḏbꜥ	/ˈcʼuːbaʕ/
+ḏbꜥ	/ˈtʼaːbaʕ/
+ḏbꜥ	/ˈtʼeːβəʕ/
+ḏbꜥ	/ˈtʼoːβəʕ/
+ḏbꜥ	/ˈtʼuːbaʕ/
+ḏbꜥw	/d͡ʒɛbɑːuː/
+ḏbꜥwt	/d͡ʒɛbɑːuːt/
+ḏd	/cʼaːtʼ/
+ḏd	/d͡ʒɛd/
+ḏd	/t/
+ḏd	/tʼ/
+ḏd	/t͡ʃʼaːʔ/
+ḏd	/t͡ʃʼoːʔ/
+ḏd	/ʔ/
+ḏd	/ˈcʼitʼnu/
+ḏd-ḥr	/d͡ʒɛd ħɛr/
+ḏd-mdw	/d͡ʒɛd mɛduː/
+ḏd-mdw	/t͡ʃʼəməˈtʼøww/
+ḏd-mdw	/ˌcʼaːtʼ maˈtʼuww/
+ḏd-mdw	/ˌt͡ʃʼaːʔ maˈtʼuww/
+ḏd-pꜣ-nṯr-jw.f-ꜥnḫ	/d͡ʒɛd pɑ nɛt͡ʃɛr iuːʔɛf ɑːnx/
+ḏd-pꜣ-nṯr-jw.f-ꜥnḫ	/t͡ʃʼaːʔ piʀ ˈnaːtaʔ ˈjuwf ʕaˈnaχ/
+ḏdb	/d͡ʒɛdɛb/
+ḏdft	/d͡ʒɛdfɛt/
+ḏdj	/d͡ʒɛdi/
+ḏdw	/d͡ʒɛduː/
+ḏḏt-jmn	/d͡ʒɛd͡ʒɛt imɛn/
+ḏḏw-ms	/d͡ʒɛd͡ʒuː mɛs/
+ḏdꜣ	/d͡ʒɛdɑ/
+ḏfd	/d͡ʒɛfɛd/
+ḏfḏ	/d͡ʒɛfɛd͡ʒ/
+ḏfꜣ	/d͡ʒɛfɑ/
+ḏḥwtj	/cʼVˈħawtij/
+ḏḥwtj	/d͡ʒɛħuːti/
+ḏḥwtj	/tʼVˈħawtij/
+ḏḥwtj	/tʼəˈħawt/
+ḏḥwtj	/tʼəˈħawtəʔ/
+ḏḥwtj-ms	/d͡ʒɛħuːti mɛs/
+ḏḥwtj-ms	/tʼaˈħawtij ˈmissaw/
+ḏḥwtt	/cʼaˈħawtat/
+ḏḥwtt	/d͡ʒɛħuːtɛt/
+ḏḥwtt	/tʼaˈħawtaʔ/
+ḏḥwtt	/tʼəˈħawtə/
+ḏḥꜥ	/d͡ʒɛħɑː/
+ḏj ꜥnḫ	/d͡ʒi ɑːnx/
+ḏj ꜥnḫ ḏd wꜣs	/d͡ʒi ɑːnx d͡ʒɛd wɑs/
+ḏmꜥ	/d͡ʒɛmɑː/
+ḏmꜥ	/ˈcʼaːmiʕ/
+ḏmꜥ	/ˈt͡ʃʼaːmiʕ/
+ḏmꜥ	/ˈt͡ʃʼoːməʕ/
+ḏnb	/d͡ʒɛnɛb/
+ḏnd	/d͡ʒɛnɛd/
+ḏnḥ	/d͡ʒɛnɛħ/
+ḏnḥ	/ˈcʼuːnaħ/
+ḏnḥ	/ˈtʼeːnəħ/
+ḏnḥ	/ˈtʼuːnaħ/
+ḏnjt	/d͡ʒɛnit/
+ḏnnt	/d͡ʒɛnɛnɛt/
+ḏr	/d͡ʒɛr/
+ḏr bꜣḥ	/d͡ʒɛr bɑħ/
+ḏr ntt	/d͡ʒɛr nɛtɛt/
+ḏr ntt	/d͡ʒɛr ɛntɛt/
+ḏrḏr	/d͡ʒɛrd͡ʒɛr/
+ḏrj	/cʼaɾja-/
+ḏrj	/d͡ʒɛri/
+ḏrt	/d͡ʒɛrɛt/
+ḏrt	/ˈcʼaːɾat/
+ḏrt	/ˈtʼaːɾaʔ/
+ḏrt	/ˈtʼoːɾə/
+ḏrtj	/d͡ʒɛrti/
+ḏrtjw	/d͡ʒɛrtiuː/
+ḏrw	/d͡ʒɛruː/
+ḏryt	/d͡ʒɛriːt/
+ḏs	/d͡ʒɛs/
+ḏs.f	/d͡ʒɛsʔɛf/
+ḏs.j	/d͡ʒɛsʔi/
+ḏs.k	/d͡ʒɛsʔɛk/
+ḏs.s	/d͡ʒɛsʔɛs/
+ḏsr	/d͡ʒɛsɛr/
+ḏsr-kꜣ-rꜥ	/d͡ʒɛsɛr kɑ rɑː/
+ḏsr-kꜣ-rꜥ	/ˈtʼaːsaʔ kuʔ ˈɾiːʕəʔ/
+ḏsrt	/d͡ʒɛsrɛt/
+ḏt	/d͡ʒɛt/
+ḏt	/t͡ʃʼajt/
+ḏt	/ˈcʼajtuw/
+ḏt	/ˈt͡ʃʼajtuw/
+ḏt	/ˈt͡ʃʼajtəʔ/
+ḏw	/cʼaw/
+ḏw	/d͡ʒuː/
+ḏw	/tʼaw/
+ḏwj	/d͡ʒuːi/
+ḏwjw	/d͡ʒuːiuː/
+ḏws	/d͡ʒuːs/
+ḏwt	/d͡ʒuːt/
+ḏꜣ	/d͡ʒɑ/
+ḏꜣdw	/d͡ʒɑduː/
+ḏꜣḏꜣ	/d͡ʒɑd͡ʒɑ/
+ḏꜣḏꜣ	/ˈcʼaʀcʼaʀ/
+ḏꜣḏꜣ	/ˈt͡ʃʼaʀt͡ʃʼaʀ/
+ḏꜣḏꜣ	/ˈt͡ʃʼaːt͡ʃʼəʔ/
+ḏꜣḏꜣ	/ˈt͡ʃʼoːt͡ʃʼ/
+ḏꜣḏꜣt	/d͡ʒɑd͡ʒɑt/
+ḏꜣḏꜣw	/d͡ʒɑd͡ʒɑuː/
+ḏꜣf	/d͡ʒɑf/
+ḏꜣf	/ˈcʼaːʀaf/
+ḏꜣf	/ˈt͡ʃʼaːʀaf/
+ḏꜣf	/ˈt͡ʃʼoːʔəf/
+ḏꜣhꜣ	/d͡ʒɑhɑ/
+ḏꜣj	/d͡ʒɑi/
+ḏꜣj tꜣ	/d͡ʒɑi tɑ/
+ḏꜣjs	/d͡ʒɑis/
+ḏꜣr	/d͡ʒɑr/
+ḏꜣt	/d͡ʒɑt/
+ḏꜣtt	/d͡ʒɑtɛt/
+ḏꜣyt	/d͡ʒɑiːt/
+ḏꜣyw	/d͡ʒɑiːuː/
+ḏꜥ	/d͡ʒɑː/
+ḏꜥm	/d͡ʒɑːm/
+ḏꜥnt	/d͡ʒɑːnɛt/
+ḏꜥnt	/ˈcʼuʕnat/
+ḏꜥnt	/ˈt͡ʃʼuʕnaʔ/
+ḏꜥnt	/ˈt͡ʃʼøʕnə/
+ḏꜥr	/d͡ʒɑːr/
+dꜣ	/dɑ/
+dꜣb	/dɑb/
+dꜣdꜣ	/dɑdɑ/
+dꜣjr	/dɑir/
+dꜣr	/dɑr/
+dꜣt	/dɑt/
+fdq	/fɛdɛk/
+fgn	/fɛɡɛn/
+fḫ	/fɛx/
+fḫt	/fɛxɛt/
+fk	/fɛk/
+fn	/fɛn/
+fnḏ	/fɛnɛd͡ʒ/
+fnḫw	/fɛnɛxuː/
+fnṯ	/fent/
+fnṯ	/fɛnɛt͡ʃ/
+fnṯ	/ˈfincuw/
+fnṯ	/ˈfintaʔ/
+fnṯ	/ˈfintuw/
+ftft	/fɛtfɛt/
+fꜣj	/fɑi/
+fꜣj	/ˈfiːʀit/
+fꜣj	/ˈfiːʀiʔ/
+fꜣj	/ˈfiːʔə/
+fꜣt	/fɑt/
+gbb	/kʼeːβ/
+gbb	/ɡɛbɛb/
+gbb	/ˈkʼuːbab/
+gbtjw	/ɡɛbtiuː/
+gbꜣ	/ɡɛbɑ/
+gḥs	/kʼaˈħas/
+gḥs	/kʼəˈħas/
+gḥs	/ɡɛħɛs/
+gm	/ɡɛm/
+gmgm	/kʼamkʼam/
+gmgm	/ɡɛmɡɛm/
+gmgm	/ˈkʼamkʼam/
+gmgm	/ˈkʼamkʼəm/
+gmḥ	/ɡɛmɛħ/
+gmḥt	/ɡɛmħɛt/
+gmj	/ɡɛmi/
+gmj	/ˈkʼiːmit/
+gmj	/ˈkʼiːmiʔ/
+gmj	/ˈkʼiːmə/
+gmt	/ɡɛmɛt/
+gnẖ	/ɡɛnɛç/
+gnn	/kʼaˈnan/
+gnn	/kʼəˈnan/
+gnn	/ɡɛnɛn/
+gp	/kʼaːp/
+gp	/kʼeːp/
+gp	/kʼoːp/
+gp	/ɡɛp/
+gp	/ˈkʼuːpaw/
+gr	/kʼaːɾ/
+gr	/kʼaːʔ/
+gr	/kʼoːʔ/
+gr	/ɡɛr/
+grg	/ɡɛrɛɡ/
+grg	/ˈkʼalkʼ/
+grg	/ˈkʼalkʼuw/
+grg	/ˈkʼalkʼəʔ/
+grgt	/kʼaˈɾuːkʼVt/
+grgt	/kʼaˈɾuːkʼVʔ/
+grgt	/kʼəˈɾeːkʼə/
+grgt	/kʼəˈɾuːkʼaʔ/
+grgt	/ɡɛrɡɛt/
+grḥ	/ɡɛrɛħ/
+grḥ	/ˈkʼaːɾaħ/
+grḥ	/ˈkʼoːɾəħ/
+grt	/ɡɛrɛt/
+grw	/ɡɛruː/
+gs	/kʼas/
+gs	/ɡɛs/
+gs-tp	/ɡɛs tɛp/
+gs-tp	/ˌkʼasˈtʼap/
+gs-tp	/ˌkʼəsˈtʼap/
+gstj	/kʼast/
+gstj	/ɡɛsti/
+gstj	/ˈkʼastVj/
+gsꜣ	/ɡɛsɑ/
+gwš	/ɡuːʃ/
+gwꜣwꜣ	/ɡuːɑuːɑ/
+gꜣbt	/ɡɑbɛt/
+gꜣbt	/ˈkʼaʀbat/
+gꜣbt	/ˈkʼaʀbaʔ/
+gꜣbt	/ˈkʼoːβə/
+gꜣš	/kʼeʃ/
+gꜣš	/ɡɑʃ/
+gꜣw	/ɡɑuː/
+h	/hɛ/
+hb	/hɛb/
+hbhb	/hɛbhɛb/
+hbj	/hɛbi/
+hbj	/ˈhibjaw/
+hbj	/ˈhijbaw/
+hbj	/ˈhiːbəʔ/
+hbj	/ˈhiːp/
+hbnj	/hɛbni/
+hd	/hɛd/
+hh	/hɛh/
+hj	/hej/
+hj	/hi/
+hj	/hij/
+hkr	/hɛkɛr/
+hmhmt	/hɛmhɛmɛt/
+hmy	/hɛmiː/
+hn	/hɛn/
+hndwꜣy	/hɛnduːɑiː/
+hnn	/hɛnɛn/
+hnw	/hɛnuː/
+hnw	/ˈhiːn/
+hnw	/ˈhiːnaw/
+hnw	/ˈhiːnəʔ/
+hp	/hɛp/
+hp	/ħep/
+hp	/ħip/
+hr	/haːɾ/
+hr	/hoːɾ/
+hr	/hɛr/
+hrm	/hɛrɛm/
+hrw	/haˈɾuwwaw/
+hrw	/həˈɾuwwəʔ/
+hrw	/həˈɾøww/
+hrw	/hɛruː/
+hrw	/ˈhaɾwuw/
+hrw	/ˈhaʔw/
+hrw	/ˈhaʔwuw/
+hrw	/ˈhaʔwəʔ/
+hrw-ḥꜣb	/hɛruː ħɑb/
+hrw-ḥꜣb	/ˌhaɾwuwħaˈʀab/
+hwhw	/huːhuː/
+hy	/hiː/
+ḥbnnwt	/ħɛbnɛnuːt/
+ḥbs	/ħaˈbas/
+ḥbs	/ħəˈβas/
+ḥbs	/ħɛbɛs/
+ḥbsw	/ħɛbɛsuː/
+ḥbsyt	/ħɛbsiːt/
+ḥbw	/ħɛbuː/
+ḥbꜣbꜣ	/ħɛbɑbɑ/
+ḥdb	/ħɛdɛb/
+ḥḏ	/ħaːcʼ/
+ḥḏ	/ħaːtʼ/
+ḥḏ	/ħetʼ/
+ḥḏ	/ħeːtʼ/
+ḥḏ	/ħicʼ/
+ḥḏ	/ħitʼ/
+ḥḏ	/ħoːtʼ/
+ḥḏ	/ħɛd͡ʒ/
+ḥḏ	/ˈħuːcʼaw/
+ḥḏ	/ˈħuːtʼaw/
+ḥḏ ḥr	/ħɛd͡ʒ ħɛr/
+ḥḏ tꜣ	/ħɛd͡ʒ tɑ/
+ḥḏj	/ħɛd͡ʒi/
+ḥḏt	/ħecʼjə/
+ḥḏt	/ħucʼjat/
+ḥḏt	/ħucʼjaʔ/
+ḥḏt	/ħɛd͡ʒɛt/
+ḥḏw	/ħɛd͡ʒuː/
+ḥfn	/ħɛfɛn/
+ḥfꜣt	/ħaˈfaːʀat/
+ḥfꜣt	/ħaˈfaːʀaʔ/
+ḥfꜣt	/ħəˈfaːʔaʔ/
+ḥfꜣt	/ħəˈfoːʔə/
+ḥfꜣt	/ħɛfɑt/
+ḥfꜣw	/ħaf/
+ḥfꜣw	/ħafˈʀaːwaw/
+ḥfꜣw	/ħəfˈʔaːjəʔ/
+ḥfꜣw	/ħəˈfoːj/
+ḥfꜣw	/ħɛfɑuː/
+ḥfꜣw	/ˈħafʀaw/
+ḥfꜣw	/ˈħafʔəʔ/
+ḥḥ	/ħaħ/
+ḥḥ	/ħɛħ/
+ḥḥj	/ħɛħi/
+ḥḥw	/ħɛħuː/
+ḥjp	/ħip/
+ḥjpt	/ħipɛt/
+ḥkn	/ħɛkɛn/
+ḥknw	/ħɛkɛnuː/
+ḥkꜣ	/ħɛkɑ/
+ḥm	/ħɛm/
+ḥm-kꜣ	/ħɛm kɑ/
+ḥm-nswt	/ħɛm nɛsuːt/
+ḥm-nṯr	/ħɛm nɛt͡ʃɛr/
+ḥm-nṯr	/ˈħamˌnacaɾ/
+ḥm-nṯr	/ˈħamˌnataʔ/
+ḥm-nṯr	/ˈħannətə/
+ḥm-nṯr tpj	/ħɛm nɛt͡ʃɛr tɛpi/
+ḥmj	/ħɛmi/
+ḥmsj	/ħɛmɛsi/
+ḥmsj	/ˈħemsaʔ/
+ḥmsj	/ˈħemsə/
+ḥmsj	/ˈħimsit/
+ḥmsj	/ˈħimsiʔ/
+ḥmt	/ħiˈjamwat/
+ḥmt	/ħiˈjamwaʔ/
+ḥmt	/ħəˈjamwə/
+ḥmt	/ħɛmɛt/
+ḥmt	/ˈħiːmat/
+ḥmt	/ˈħiːmaʔ/
+ḥmt	/ˈħiːmə/
+ḥmt-nṯr	/ħɛmɛt nɛt͡ʃɛr/
+ḥmw	/ħiˈmiw/
+ḥmw	/ħəˈmeʔ/
+ḥmw	/ħɛmuː/
+ḥmwt	/ħɛmuːt/
+ḥmww	/ħɛmuːʔuː/
+ḥmy	/ħɛmiː/
+ḥmꜣt	/ħɛmɑt/
+ḥn	/ħɛn/
+ḥnj	/ħɛni/
+ḥnk	/ħɛnɛk/
+ḥnk	/ˈħaːnak/
+ḥnk	/ˈħoːnək/
+ḥnkt	/ħɛnkɛt/
+ḥnkyt	/ħɛnkiːt/
+ḥnmmt	/ħɛnmɛmɛt/
+ḥnmnm	/ħɛnɛmnɛm/
+ḥnn	/ħɛnɛn/
+ḥnqt	/ħɛnkɛt/
+ḥns	/ħɛnɛs/
+ḥnt	/ħɛnɛt/
+ḥnw	/ħəˈnew/
+ḥnw	/ħɛnuː/
+ḥnwt	/ħɛnuːt/
+ḥnwt-tꜣwj	/ħɛnuːt tɑuːi/
+ḥnꜥ	/ħɛnɑː/
+ḥnꜥ-ḏd	/ħɛnɑː d͡ʒɛd/
+ḥnꜥj	/ħɛnɑːi/
+ḥnꜥw	/ħɛnɑːuː/
+ḥp	/ħɛp/
+ḥp	/ˈħujpVw/
+ḥp	/ˈħøʔp/
+ḥpt	/ħɛpɛt/
+ḥpy	/ħɛpiː/
+ḥqr	/ħaˈqʼaɾ/
+ḥqr	/ħaˈqʼaʔ/
+ḥqr	/ħəˈqʼaʔ/
+ḥqr	/ħɛkɛr/
+ḥqt	/ħɛkɛt/
+ḥqꜣ	/ħɛkɑ/
+ḥqꜣ-ḥwt	/ħɛkɑ ħuːt/
+ḥqꜣ-ḫꜣst	/ħɛkɑ xɑsɛt/
+ḥqꜣt	/ħɛkɑt/
+ḥr	/ħaɾ/
+ḥr	/ħaʔ/
+ḥr	/ħɛr/
+ḥr	/ˈħaːɾuw/
+ḥr	/ˈħaːɾəʔ/
+ḥr	/ˈħoːɾ(ə)/
+ḥr jb	/ħɛr ib/
+ḥr mj	/ħɛr mi/
+ḥr ntt	/ħɛr nɛtɛt/
+ḥr ntt	/ħɛr ɛntɛt/
+ḥr sꜣ	/ħɛr sɑ/
+ḥr tp	/ħɛr tɛp/
+ḥr zj jšst	/ħɛr zi iʃɛsɛt/
+ḥr ꜥ	/ħɛr ɑː/
+ḥr ꜥwj	/ħɛr ɑːuːi/
+ḥr-bḥdtj	/ħɛr bɛħdɛti/
+ḥr-ḏd.f	/ħɛr d͡ʒɛdʔɛf/
+ḥr-m-ḥꜣt	/ħɛr ɛm ħɑt/
+ḥr-m-ꜣḫt	/ħɛr ɛm ɑxɛt/
+ḥr-m-ꜣḫt	/ˈħaːɾəʔ m̩ə aːχət/
+ḥr-m-ꜣḫt-ḫprj-rꜥ-tm	/ħɛr ɛm ɑxɛt xɛpri rɑː tɛm/
+ḥr-m-ꜣḫt-ḫprj-rꜥ-tm	/ˈħaːɾəʔ m̩ə aːχət ˈχaːpəj ˈɾiːʕəʔ ʔaˈtaːməʔ/
+ḥr-nb	/ħɛr nɛb/
+ḥr-zꜣ-ꜣst	/ħoːɾ siːʔ ˈʔeːsə/
+ḥr-zꜣ-ꜣst	/ħɛr zɑ ɑsɛt/
+ḥr-ꜣḫtj	/ħɛr ɑxti/
+ḥrj	/ħaˈɾij/
+ḥrj	/ħəˈɾej/
+ḥrj	/ħɛri/
+ḥrj jb	/ħɛri ib/
+ḥrj-pḏt	/ħaɾijˈpiːcʼat/
+ḥrj-pḏt	/ħaɾijˈpiːtʼaʔ/
+ḥrj-pḏt	/ħəɾiˈpiːtʼə/
+ḥrj-pḏt	/ħɛri pɛd͡ʒɛt/
+ḥrj-pr	/ħɛri pɛr/
+ḥrj-tp	/ħɛri tɛp/
+ḥrrt	/ħaˈɾuːɾat/
+ḥrrt	/ħaˈɾuːɾaʔ/
+ḥrrt	/ħəˈɾeːɾə/
+ḥrrt	/ħɛrɛrɛt/
+ḥrt	/ħɛrɛt/
+ḥrt-pr	/ħɛrɛt pɛr/
+ḥrw r	/ħɛruː ɛr/
+ḥs	/ħɛs/
+ḥsb	/ħɛsɛb/
+ḥsbwt	/ħɛsbuːt/
+ḥsj	/ħɛsi/
+ḥsq	/ħɛsɛk/
+ḥtj	/ħɛti/
+ḥtm	/ħɛtɛm/
+ḥtp	/ħotɛp/
+ḥtp	/ħɛtɛp/
+ḥtp	/ˈħaːtip/
+ḥtp	/ˈħoːtəp/
+ḥtp-ḏj	/ħɛtɛp d͡ʒi/
+ḥtp-ḏj-nswt	/ħɛtɛp d͡ʒi nɛsuːt/
+ḥtp-ḥr.s	/ħɛtɛp ħɛrʔɛs/
+ḥtp-sḫmwj	/ħɛtɛp sɛxɛmuːi/
+ḥtpt	/ħɛtɛpɛt/
+ḥtpw	/ħaʔp/
+ḥtpw	/ħɛtɛpuː/
+ḥtpw	/ˈħatpaw/
+ḥtpw	/ˈħaʔpaw/
+ḥtpwt	/ħɛtɛpuːt/
+ḥtrj	/ħɛtri/
+ḥtrw	/ħɛtɛruː/
+ḥts	/ħɛtɛs/
+ḥtt	/ħɛtɛt/
+ḥtyt	/ħɛtiːt/
+ḥṯṯt	/ħacˈcat/
+ḥṯṯt	/ħaʔˈt͡ʃaʔ/
+ḥṯṯt	/ħəʔˈt͡ʃaʔ/
+ḥṯṯt	/ħɛt͡ʃɛt͡ʃɛt/
+ḥw	/ħuː/
+ḥwj	/ħuːi/
+ḥwj ꜣ	/ħuːi ɑ/
+ḥwn	/ħuːn/
+ḥwnt	/ħuːnɛt/
+ḥwrw	/ħuːruː/
+ḥwt	/ħa(wə)/
+ḥwt	/ħuːt/
+ḥwt	/ħə(wə)/
+ḥwt	/ˈħaːwit/
+ḥwt	/ˈħaːwiʔ/
+ḥwt	/ˈħoː(wə)/
+ḥwt-ḥr	/ħuːt ħɛr/
+ḥwt-ḥr	/ˌħawitˈħaːɾuw/
+ḥwt-kꜣ-ptḥ	/ħajəˌkuʔpəˈtaħ/
+ḥwt-kꜣ-ptḥ	/ħawitˌkuʀpiˈtaħ/
+ḥwt-kꜣ-ptḥ	/ħawiʔˌkuʀpiˈtaħ/
+ḥwt-kꜣ-ptḥ	/ħuːt kɑ pɛtɛħ/
+ḥwt-kꜣ-ptḥ	/ħəjˌkøʔpəˈtaħ/
+ḥwt-nṯr	/ħa(wə)ˈnoːtə/
+ḥwt-nṯr	/ħawitˈnaːcaɾ/
+ḥwt-nṯr	/ħawiʔˈnaːtaʔ/
+ḥwt-nṯr	/ħuːt nɛt͡ʃɛr/
+ḥwt-nṯr	/ħə(wə)ˈnoːtə/
+ḥwt-wꜥrt	/ħuːt wɑːrɛt/
+ḥwt-ꜥꜣt	/ħuːt ɑːʔɑt/
+ḥww	/ħuːʔuː/
+ḥwꜣ	/ħoːw/
+ḥwꜣ	/ħuːɑ/
+ḥwꜣ	/ˈħaːwaʀ/
+ḥwꜣ	/ˈħaːwəʔ/
+ḥwꜣꜣt	/ħuːɑʔɑt/
+ḥwꜥ	/ħuːɑː/
+ḥz.tj	/ħɛzʔti/
+ḥzj	/ħɛzi/
+ḥzmn	/ħɛzmɛn/
+ḥzp	/ħɛzɛp/
+ḥzt	/ħɛzɛt/
+ḥzy	/ħɛziː/
+ḥzꜣ	/ħɛzɑ/
+ḥzꜣt	/ħɛzɑt/
+ḥꜣ	/ħɑ/
+ḥꜣ ꜣ	/ħɑ ɑ/
+ḥꜣb	/ħap/
+ḥꜣb	/ħaˈʀab/
+ḥꜣb	/ħɑb/
+ḥꜣb	/ħəˈʔab/
+ḥꜣb-sd	/ħaˌʀabˈsitʼ/
+ḥꜣb-sd	/ħɑb sɛd/
+ḥꜣb-wr	/ħɑb wɛr/
+ḥꜣbj	/ħɑbi/
+ḥꜣbj	/ˈħiʀbit/
+ḥꜣbj	/ˈħiʀbiʔ/
+ḥꜣbj	/ˈħiːbaʔ/
+ḥꜣbj	/ˈħiːβə/
+ḥꜣḥꜣ	/ħɑħɑ/
+ḥꜣj	/ħɑi/
+ḥꜣm	/ħɑm/
+ḥꜣp	/ħɑp/
+ḥꜣp	/ˈħaːʀap/
+ḥꜣp	/ˈħoːʔəp/
+ḥꜣq	/ħɑk/
+ḥꜣt	/ħɑt/
+ḥꜣt	/ˈħeːʔ/
+ḥꜣt	/ˈħuːʀit/
+ḥꜣt	/ˈħuːʀiʔ/
+ḥꜣt-špswt	/ħɑt ʃɛpsuːt/
+ḥꜣt-ꜥ	/ħɑt ɑː/
+ḥꜣt-ꜥ m	/ħɑt ɑː ɛm/
+ḥꜣtj	/ħeːt/
+ḥꜣtj	/ħuˈʀiːtij/
+ḥꜣtj	/ħɑti/
+ḥꜣtj-ꜥ	/ħɑti ɑː/
+ḥꜣtt	/ħɑtɛt/
+ḥꜣw	/ħɑuː/
+ḥꜣw-nbwt	/ħɑuː nɛbuːt/
+ḥꜣyt	/ħɑiːt/
+ḥꜥb	/ħɑːb/
+ḥꜥḏꜣ	/ħɑːd͡ʒɑ/
+ḥꜥj	/ħɑːi/
+ḥꜥpj	/ħVjˈpij/
+ḥꜥpj	/ħVʕˈpij/
+ḥꜥpj	/ħɑːpi/
+ḥꜥpj	/ħəʔˈpej/
+ḥꜥpj	/ħəˈpej/
+ḥꜥt	/ħɑːt/
+ḥꜥw	/ħɑːuː/
+ḥꜥꜥwt	/ħɑːʔɑːuːt/
+ḫ	/xɛ/
+ḫbj	/xɛbi/
+ḫbs	/xɛbɛs/
+ḫbzt	/xɛbzɛt/
+ḫbzwt	/xɛbzuːt/
+ḫbꜣ	/xɛbɑ/
+ḫbꜣ	/ˈχaːbaʀ/
+ḫbꜣ	/χoːp/
+ḫdj	/xɛdi/
+ḫdj	/ˈχiːtʼit/
+ḫdj	/ˈχiːtʼiʔ/
+ḫdj	/ˈχiːtʼə/
+ḫft	/xɛfɛt/
+ḫft ḥr	/xɛfɛt ħɛr/
+ḫft jrj	/xɛfɛt iri/
+ḫft ntt	/xɛfɛt nɛtɛt/
+ḫft ntt	/xɛfɛt ɛntɛt/
+ḫftj	/xɛfti/
+ḫftt	/xɛfɛtɛt/
+ḫftw	/xɛfɛtuː/
+ḫfꜣꜣt	/xɛfɑʔɑt/
+ḫfꜥ	/xɛfɑː/
+ḫḫ	/xɛx/
+ḫḫ	/χeχ/
+ḫḫ	/χiχ/
+ḫm	/xɛm/
+ḫm	/χaːm/
+ḫm	/χoːm/
+ḫmnjw	/xɛmniuː/
+ḫmnjw	/χamˈnijjaw/
+ḫmnnw	/xɛmɛnnuː/
+ḫmnw	/xɛmɛnuː/
+ḫmnw	/χaˈmaːnaw/
+ḫmnw	/χəˈmaːnəʔ/
+ḫmnw	/χəˈmoːn/
+ḫmnyw	/xɛmɛniːuː/
+ḫmt	/xɛmɛt/
+ḫmt-rw	/xɛmɛt ruː/
+ḫmt-rw	/ˌχamtawˈɾaːʀaw/
+ḫmt-rw	/ˌχəmtəʔˈɾaːwəʔ/
+ḫmt-rw	/ˌχəmtəˈɾoːw/
+ḫmtnw	/xɛmɛtnuː/
+ḫmtw	/xɛmɛtuː/
+ḫmtw	/ˈχamt/
+ḫmtw	/ˈχamtaw/
+ḫmtw	/ˈχamtəʔ/
+ḫmw	/xɛmuː/
+ḫmꜥt	/xɛmɑːt/
+ḫn	/xɛn/
+ḫnd	/xɛnɛd/
+ḫndw	/xɛnduː/
+ḫnfw	/xɛnɛfuː/
+ḫnj	/xɛni/
+ḫnm	/xɛnɛm/
+ḫnms	/xɛnmɛs/
+ḫnmt	/xɛnmɛt/
+ḫnmw	/xɛnɛmuː/
+ḫnp	/xɛnɛp/
+ḫnr	/xɛnɛr/
+ḫnrt	/xɛnrɛt/
+ḫnrtt	/xɛnrɛtɛt/
+ḫnsw	/xɛnsuː/
+ḫnsw	/ˈχansVw/
+ḫnsw	/ˈχansəʔ/
+ḫnsw	/χans/
+ḫnt	/xɛnɛt/
+ḫnt-ẖty-prtj	/xɛnɛt çɛtiː pɛrti/
+ḫntj	/xɛnti/
+ḫntj	/xɛnɛti/
+ḫntj	/ˈχentə/
+ḫntj	/ˈχintit/
+ḫntj	/ˈχintiʔ/
+ḫntj-jmntjw	/xɛnti imɛntiuː/
+ḫntj-š	/xɛnti ʃɛ/
+ḫntj-zḥ-nṯr	/xɛnti zɛħ nɛt͡ʃɛr/
+ḫntš	/xɛntɛʃ/
+ḫntw	/xɛnɛtuː/
+ḫntyt	/xɛntiːt/
+ḫnws	/xɛnuːs/
+ḫnz	/xɛnɛz/
+ḫpd	/xɛpɛd/
+ḫpdwj	/xɛpduːi/
+ḫpj	/xɛpi/
+ḫpr	/xɛpɛr/
+ḫpr	/ˈχaːpaɾ/
+ḫpr	/ˈχaːpaʔ/
+ḫpr	/ˈχoːpə/
+ḫpr-ḏs.f	/xɛpɛr d͡ʒɛsʔɛf/
+ḫpr-kꜣ-rꜥ	/xɛpɛr kɑ rɑː/
+ḫprj	/xɛpri/
+ḫprr	/xɛprɛr/
+ḫprš	/xɛprɛʃ/
+ḫprw	/xɛpɛruː/
+ḫprw	/ˈχupɾaw/
+ḫprw	/ˈχøpɾ/
+ḫprw	/χuˈpiɾwaw/
+ḫprw	/χəˈpeʔɾ/
+ḫpš	/xopɛʃ/
+ḫpš	/xɛpɛʃ/
+ḫpš	/ˈχaːpVʃ/
+ḫpš	/ˈχoːpəʃ/
+ḫr	/xɛr/
+ḫrj	/xɛri/
+ḫrp	/xɛrɛp/
+ḫrp	/ˈχaːɾap/
+ḫrp	/ˈχoːɾəp/
+ḫrpw	/xɛrpuː/
+ḫrs	/xɛrɛs/
+ḫrt	/xɛrɛt/
+ḫrt-jb	/xɛrɛt ib/
+ḫrw	/xɛruː/
+ḫrw	/χaˈɾaw/
+ḫrw	/χəˈɾaw/
+ḫrw.fj	/xɛruːʔfi/
+ḫrwy	/xɛruːiː/
+ḫrwyw	/xɛruːiːuː/
+ḫryt	/xɛriːt/
+ḫsbd	/xɛsbɛd/
+ḫsbḏ	/xɛsbɛd͡ʒ/
+ḫsf	/xɛsɛf/
+ḫsf	/ˈχaːsaf/
+ḫsf	/ˈχoːsəf/
+ḫsf ꜣt	/xɛsɛf ɑt/
+ḫsfj	/xɛsfi/
+ḫsr	/xɛsɛr/
+ḫšꜣyꜣrwšꜣ	/xɛʃɑiːɑruːʃɑ/
+ḫt	/xɛt/
+ḫt	/χeʔ/
+ḫt	/χit/
+ḫt	/χiʔ/
+ḫt n ꜥnḫ	/xɛt ɛn ɑːnx/
+ḫt n ꜥnḫ	/χeʔ nə ˈʕoːnəχ/
+ḫt n ꜥnḫ	/χit nij ˈʕaːnaχ/
+ḫt n ꜥnḫ	/χiʔ nij ˈʕaːnaχ/
+ḫt-n-šnj	/xɛt ɛn ʃɛni/
+ḫt-ꜥꜣ	/xɛt ɑːʔɑ/
+ḫtḫt	/xɛtxɛt/
+ḫtj	/xɛti/
+ḫtj	/ˈχiːtaʔ/
+ḫtj	/ˈχiːtit/
+ḫtj	/ˈχiːtiʔ/
+ḫtj	/ˈχiːtə/
+ḫtm	/xɛtɛm/
+ḫtꜣ	/xɛtɑ/
+ḫw	/xuː/
+ḫw.f-wj	/xuːfuː/
+ḫw.f-wj	/xuːʔɛf wi/
+ḫw.f-wj	/χawˈjafwij/
+ḫw.f-wj	/χawˈwafwij/
+ḫw.f-wj	/χəwˈwaf(w)/
+ḫw.n-jnpw	/xuːʔɛn inpuː/
+ḫwd	/xuːd/
+ḫwj	/xuːi/
+ḫwzj	/xuːzi/
+ḫwzj	/ˈχiwzit/
+ḫꜣ	/xɑ/
+ḫꜣ	/χaʀ/
+ḫꜣ	/χaʔ/
+ḫꜣ tꜣ	/xɑ tɑ/
+ḫꜣb	/xɑb/
+ḫꜣbꜣbꜣšꜣ	/xɑbɑbɑʃɑ/
+ḫꜣḫ	/xɑx/
+ḫꜣḫꜣ	/xɑxɑ/
+ḫꜣj	/xɑi/
+ḫꜣjw	/xɑiuː/
+ḫꜣm	/xɑm/
+ḫꜣrw	/xɑruː/
+ḫꜣrw	/ˈχuɾɾaw/
+ḫꜣrw	/ˈχøɾɾ/
+ḫꜣst	/xɑsɛt/
+ḫꜣstjw	/xɑstiuː/
+ḫꜣt	/xɑt/
+ḫꜣtb	/xɑtɛb/
+ḫꜣwj	/xɑuːi/
+ḫꜣwt	/xɑuːt/
+ḫꜣy	/xɑiː/
+ḫꜣyt	/xɑiːt/
+ḫꜣz	/xɑz/
+ḫꜣꜥ	/xɑʔɑː/
+ḫꜣꜥ	/ˈχaːʀaʕ/
+ḫꜣꜥ	/ˈχoːʔəʕ/
+ḫꜥ-m-wꜣst	/xɑː ɛm wɑsɛt/
+ḫꜥ-sḫmwj	/xɑː sɛxɛmuːi/
+ḫꜥ.f-rꜥ	/xɑːʔɛf rɑː/
+ḫꜥj	/xɑːi/
+ḫꜥj	/ˈχeʕjə/
+ḫꜥj	/ˈχiʕjit/
+ḫꜥj	/ˈχiʕjiʔ/
+ḫꜥj	/χaʕˈja/
+ḫꜥw	/xɑːuː/
+ẖdb	/çɛdɛb/
+ẖdb	/ˈçaːtʼab/
+ẖdb	/ˈçoːtʼəβ/
+ẖkr	/çɛkɛr/
+ẖkrw	/çɛkɛruː/
+ẖn	/çɛn/
+ẖn-nḫn	/çɛn nɛxɛn/
+ẖnj	/çɛni/
+ẖnm	/çɛnɛm/
+ẖnmt	/çɛnmɛt/
+ẖnmt	/ˈçanmaʔ/
+ẖnmt	/ˈçanmə/
+ẖnmt-nfr-ḥḏt	/çɛnmɛt nɛfɛr ħɛd͡ʒɛt/
+ẖnmw	/çaˈnaːmaw/
+ẖnmw	/çəˈnoːm/
+ẖnmw	/çɛnmuː/
+ẖnmw-ḥtp	/çɛnmuː ħɛtɛp/
+ẖnn	/çɛnɛn/
+ẖnnw	/çɛnɛnuː/
+ẖnt ḥwt-ḥr	/çɛnɛt ħuːt ħɛr/
+ẖntj	/çɛnti/
+ẖnw	/çɛnuː/
+ẖnw	/ˈçaːnaw/
+ẖnw	/ˈçaːnəʔ/
+ẖnw	/ˈçoːn/
+ẖnyt	/çɛniːt/
+ẖpꜣ	/çapˈlaw/
+ẖpꜣ	/çəpˈle/
+ẖpꜣ	/çɛpɑ/
+ẖpꜣw	/çɛpɑuː/
+ẖr	/çuɾ/
+ẖr	/çuʔ/
+ẖr	/çøʔ/
+ẖr	/çɛr/
+ẖr ḥꜣt	/çɛr ħɑt/
+ẖr st ḥr	/çɛr sɛt ħɛr/
+ẖrd	/çaˈɾatʼ/
+ẖrd	/çəˈɾatʼ/
+ẖrd	/çɛrɛd/
+ẖrdw	/çɛrɛduː/
+ẖrj	/çuˈɾij/
+ẖrj	/çəˈɾej/
+ẖrj	/çɛri/
+ẖrj-ḥꜣb	/çɛri ħɑb/
+ẖrj-nṯr	/çuˈɾij ˈnaːcaɾ/
+ẖrj-nṯr	/çuˈɾij ˈnaːtaʔ/
+ẖrj-nṯr	/çəˈɾej ˈnoːtə/
+ẖrj-nṯr	/çɛri nɛt͡ʃɛr/
+ẖrj-qnj	/çɛri kɛni/
+ẖrj-tp-nswt	/çɛri tɛp nɛsuːt/
+ẖrj-ꜥ	/çɛri ɑː/
+ẖrt	/çuˈɾit/
+ẖrt	/çuˈɾiʔ/
+ẖrt	/çəˈɾeʔ/
+ẖrt	/çɛrɛt/
+ẖrt-hrw	/çɛrɛt hɛruː/
+ẖrt-ꜥ	/çɛrɛt ɑː/
+ẖrw	/çɛruː/
+ẖrwj	/çɛruːi/
+ẖt	/çɛt/
+ẖt	/ˈçeːwə/
+ẖt	/ˈçuːwat/
+ẖt	/ˈçuːwaʔ/
+ẖzj	/çɛzi/
+ẖzj	/ˈçiːsiʔ/
+ẖzj	/ˈçiːsə/
+ẖzj	/ˈçiːzit/
+ẖꜣr	/çɑr/
+ẖꜣrt	/çɑrɛt/
+ẖꜣt	/çɑt/
+ẖꜣyt	/çɑiːt/
+ẖꜥm	/çɑːm/
+ẖꜥq	/çɑːk/
+hꜣ	/hɑ/
+hꜣb	/hɑb/
+hꜣb	/ˈhaːʀab/
+hꜣb	/ˈhoːʔəβ/
+hꜣj	/hɑi/
+hꜣj	/ˈheʔjaʔ/
+hꜣj	/ˈheʔjə/
+hꜣj	/ˈhiʀjit/
+hꜣj	/ˈhiʀjiʔ/
+hꜣkr	/hɑkɛr/
+hꜣw	/hɑuː/
+j	/i/
+j.	/i/
+j.ḫm-sk	/ixɛm sɛk/
+j.ḫm-wrḏ	/ixɛm wɛrɛd͡ʒ/
+j.nḏ ḥr	/inɛd͡ʒ ħɛr/
+j.zj ḥꜣq	/izi ħɑk/
+jb	/ib/
+jb	/jib/
+jb	/ʔep/
+jbhyt	/ibhiːt/
+jbḥ	/ibɛħ/
+jbj	/ibi/
+jbj	/ˈjiːbit/
+jbj	/ˈjiːbiʔ/
+jbj	/ˈʔiːβə/
+jbn	/ibɛn/
+jbr	/ibɛr/
+jbt	/ibɛt/
+jbt	/ˈjiːbat/
+jbt	/ˈjiːbaʔ/
+jbt	/ˈʔiːβə/
+jbṯt	/ibt͡ʃɛt/
+jbꜣ	/ibɑ/
+jd	/id/
+jdb	/idɛb/
+jdbwj	/idɛbuːi/
+jdḥw	/idħuː/
+jdj	/idi/
+jdmj	/idmi/
+jdmj	/jVˈtʼuːmVj/
+jdmj	/ʔəˈtʼeːm/
+jdr	/idɛr/
+jdt	/idɛt/
+jdt	/ˈʔaʔtʼə/
+jdw	/iduː/
+jdwmꜥ	/iduːmɑː/
+jdyt	/idiːt/
+jf	/if/
+jfd	/ifɛd/
+jfd	/ˈjaːfatʼ/
+jfd	/ˈʔoːfətʼ/
+jfdnw	/ifɛdnuː/
+jfdw	/ifɛduː/
+jfdw	/jafˈtʼaw/
+jfdw	/ʔəfˈtʼaw/
+jft	/ifɛt/
+jgrt	/iɡrɛt/
+jhm	/ihɛm/
+jḥ	/iħ/
+jḥ	/jaˈħij/
+jḥ	/jaˈħiww/
+jḥ	/ʔəˈħeww/
+jḥ	/ʔəˈħeʔ/
+jḥw	/iħuː/
+jḥw	/jaˈħaːwaw/
+jḥw	/ʔəˈħoːw/
+jḫ	/ix/
+jḫ	/juχ/
+jḫ	/ʔuχ/
+jḫ	/ʔøχ/
+jḫḫw	/ixɛxuː/
+jḫmt	/ixmɛt/
+jḫr	/ixɛr/
+jḫt	/ixɛt/
+jj	/iʔi/
+jj	/ʔiːʔ/
+jj	/ˈjiːjit/
+jj	/ˈjiːjiʔ/
+jj	/ˈʔiːʔəʔ/
+jj-m-ḥtp	/iʔi ɛm ħotɛp/
+jj-m-ḥtp	/iʔi ɛm ħɛtɛp/
+jj.tj	/iʔiʔti/
+jjwj	/iʔiuːi/
+jkm	/ikɛm/
+jkn	/ikɛn/
+jky	/ikiː/
+jm	/im/
+jmḏr	/imd͡ʒɛr/
+jmḥ	/imɛħ/
+jmḥt	/imħɛt/
+jmj	/imi/
+jmj	/jaˈmij/
+jmj	/ʔəˈmeʔ/
+jmj	/ˈjiːmit/
+jmj	/ˈjiːmiʔ/
+jmj	/ˈʔiːmaʔ/
+jmj	/ˈʔiːmə/
+jmj dwꜣt	/imi duːɑt/
+jmj jb	/imi ib/
+jmj jb	/jaˈmij jib/
+jmj jb	/ʔəˈmeʔ ʔep/
+jmj-bꜣḥ	/imi bɑħ/
+jmj-ḥꜣt	/imi ħɑt/
+jmj-ḫnt	/imi xɛnɛt/
+jmj-ḫt	/imi xɛt/
+jmj-r	/imi ɛr/
+jmj-r ḥwt-nṯr	/imi ɛr ħuːt nɛt͡ʃɛr/
+jmj-r mšꜥ	/imi ɛr mɛʃɑː/
+jmj-r pr	/imi ɛr pɛr/
+jmj-r šnt	/imi ɛr ʃɛnɛt/
+jmj-rn.f	/imi rɛnʔɛf/
+jmjtw	/imituː/
+jmjtw-nj	/imituː ni/
+jmn	/imɛn/
+jmn	/jaˈmaːnuw/
+jmn	/jaˈmiːnij/
+jmn	/ʔaˈmaːnəʔ/
+jmn	/ʔaˈmiːn/
+jmn	/ʔaˈmoːn/
+jmn-ḥtp	/imɛn ħotɛp/
+jmn-ḥtp	/imɛn ħɛtɛp/
+jmn-ḥtp	/jaˈmaːnuw ˈħutpuw/
+jmn-ḥtp	/ʔaˈmoːn ˈħøtp(ə)/
+jmn-m-ḥꜣt	/imɛn ɛm ħɑt/
+jmn-m-ḥꜣt	/jaˈmaːnuw ma ħuːʀit/
+jmn-m-ḥꜣt	/ʔaˈmaːnəʔ-mə-ħuːʀiʔ/
+jmn-m-ḥꜣt	/ʔaˈmoːn-əm-ħeːʔə/
+jmn-ms	/imɛn mɛs/
+jmn-nḫt	/imɛn nɛxɛt/
+jmn-rn.f	/imɛn rɛnʔɛf/
+jmn-rꜥ	/imɛn rɑː/
+jmn-rꜥ	/jaˈmaːnuw ˈɾiːʕuw/
+jmn-rꜥ	/ʔaˈmaːnəʔ ˈɾiːʕəʔ/
+jmn-rꜥ	/ʔaˈmoːn ˈɾeːʕ/
+jmnḥ	/imnɛħ/
+jmnt	/imɛnɛt/
+jmnt	/jaˈmaːnut/
+jmnt	/ˈjamnat/
+jmnt	/ˈjamnaʔ/
+jmnt	/ˈjamnə/
+jmntj	/imɛnti/
+jmntj	/jaˈmintij/
+jmntj	/ʔəˈment/
+jmntt	/imɛnɛtɛt/
+jmntt	/jaˈmintit/
+jmntt	/jaˈmintiʔ/
+jmntt	/ʔaˈmentə/
+jmr	/imɛr/
+jmst	/imsɛt/
+jmstj	/imsɛti/
+jmt-pr	/imɛt pɛr/
+jmw	/imuː/
+jmwr	/imuːr/
+jmy	/imiː/
+jmꜣ	/imɑ/
+jmꜣḫ	/imɑx/
+jmꜣḫw	/imɑxuː/
+jmꜣḫw-ḫr-nṯr-ꜥꜣ	/imɑxuː xɛr nɛt͡ʃɛr ɑːʔɑ/
+jmꜣḫw-ḫr-nṯr-ꜥꜣ	/jaˈmaʀχaw χuɾ ˌnacaɾˈʕaʀ/
+jmꜣḫw-ḫr-nṯr-ꜥꜣ	/jaˈmaʀχaw χuʔ ˌnataʔˈʕaʀ/
+jmꜣḫw-ḫr-nṯr-ꜥꜣ	/ʔaˈmaːχəʔ χuʔ ˌnətəʔˈʕaʔ/
+jmꜣḫw-ḫr-nṯr-ꜥꜣ	/ʔaˈmoːχ χøʔ ˌnətəˈʕaʔ/
+jmꜣt	/imɑt/
+jn	/in/
+jn-ḥrt	/in ħɛrɛt/
+jn-jt.f	/in itʔɛf/
+jnb	/inɛb/
+jnb-ḥḏ	/inɛb ħɛd͡ʒ/
+jnbt	/inbɛt/
+jnd	/inɛd/
+jnḥ	/inɛħ/
+jnj	/ini/
+jnj	/ˈjiːnit/
+jnj	/ˈjiːniʔ/
+jnj	/ˈʔiːnə/
+jnjwbꜣ	/iniuːbɑ/
+jnk	/inɛk/
+jnk	/jaˈnak/
+jnk	/ʔaˈnak/
+jnm	/inɛm/
+jnn	/inɛn/
+jnn	/jaˈnan/
+jnn	/ʔaˈnan/
+jnpw	/inɛpuː/
+jnpw	/jaˈnaːpaw/
+jnpw	/ʔaˈnaːpəʔ/
+jnpw	/ʔaˈnoːp/
+jnpwt	/inpuːɛt/
+jnq	/inɛk/
+jnr	/inɛr/
+jnr	/ˈjaːnaɾ/
+jnr	/ˈjaːnaʔ/
+jnr	/ˈʔoːnə/
+jnr ḥḏ mnḫ n rwḏt	/inɛr ħɛd͡ʒ mɛnɛx ɛn ruːd͡ʒɛt/
+jnr ḥḏ mnḫ n rwḏt	/ˈjaːnaɾ ˈħuːcʼaw ˈmaːniχ nij ˈɾawcʼit/
+jnr ḥḏ nfr n rwḏt	/inɛr ħɛd͡ʒ nɛfɛr ɛn ruːd͡ʒɛt/
+jnr ḥḏ nfr n rwḏt	/ˈjaːnaɾ ˈħuːcʼaw ˈnaːfiɾ nij ˈɾawcʼit/
+jnst	/insɛt/
+jnswj	/insuːi/
+jnt	/inɛt/
+jntjrwywꜣšꜣ	/intiruːiːuːɑʃɑ/
+jnw	/inuː/
+jnꜥ	/inɑː/
+jp	/ip/
+jp	/jaːp/
+jp	/ʔoːp/
+jp ḏt	/ip d͡ʒɛt/
+jpf	/ipɛf/
+jpḥ	/ipɛħ/
+jpj-jpj	/ipi ipi/
+jpn	/ipɛn/
+jpt	/ipɛt/
+jpt	/ʔaˈpat/
+jpt ḥmt	/ipɛt ħɛmɛt/
+jpt-swt	/ipɛt suːt/
+jptf	/iptɛf/
+jptn	/iptɛn/
+jptw	/iptuː/
+jpw	/ipuː/
+jpwj	/ipuːi/
+jqdw	/ikɛduː/
+jqḥw	/ikɛħuː/
+jqr	/ikɛr/
+jqr	/ˈjaːqʼaɾ/
+jqr	/ˈjaːqʼaʔ/
+jqr	/ˈjaːqʼiɾ/
+jqr	/ˈjaːqʼiʔ/
+jqr	/ˈjoːqʼə/
+jr	/ir/
+jrj	/iri/
+jrj	/ˈjiːɾit/
+jrj	/ˈjiːɾiʔ/
+jrj	/ˈʔiːɾaʔ/
+jrj	/ˈʔiːɾə/
+jrj ḥrrt	/iri ħɛrɛrɛt/
+jrj ꜣ r gs	/iri ɑ ɛr ɡɛs/
+jrj ꜣbw	/iri ɑbuː/
+jrj ꜣt	/iri ɑt/
+jrj-nfr-ḥꜣt	/iri nɛfɛr ħɑt/
+jrj-pḏt	/iri pɛd͡ʒɛt/
+jrj-pꜥt	/iri pɑːt/
+jrj-ꜥt	/iri ɑːt/
+jrj-ꜥꜣ	/iri ɑːʔɑ/
+jrkt	/irkɛt/
+jrm	/irɛm/
+jrp	/irɛp/
+jrp	/ˈjuːɾap/
+jrp	/ˈʔeːɾəp/
+jrsjrnꜣt	/irsirɛnɑt/
+jrt	/irɛt/
+jrt	/ˈjiːɾat/
+jrt	/ˈjiːɾaʔ/
+jrt	/ˈʔiːɾə/
+jrt ḥr	/irɛt ħɛr/
+jrt rꜥ	/irɛt rɑː/
+jrtjw	/irtiuː/
+jrṯt	/irt͡ʃɛt/
+jrṯt	/jVˈɾaːcat/
+jrṯt	/jVˈɾaːtaʔ/
+jrṯt	/ʔəˈɾoːtə/
+jrw	/iruː/
+jrwrꜣ	/iruːrɑ/
+jrwt	/iruːt/
+jry	/iriː/
+js	/is/
+jsbnbn	/isbɛnbɛn/
+jspt	/ispɛt/
+jspt	/ˈjispat/
+jspt	/ˈjispaʔ/
+jspt	/ˈʔespaʔ/
+jspt	/ˈʔespə/
+jsqꜣrnj	/iskɑrɛni/
+jsqꜣrwnj	/iskɑruːni/
+jsr	/isɛr/
+jsry	/isriː/
+jst	/isɛt/
+jsṯ	/isɛt͡ʃ/
+jsw	/isuː/
+jsw	/ʔiːs/
+jsw	/ˈjiːsVw/
+jsw	/ˈʔiːsəʔ/
+jswr	/isuːr/
+jšdt	/iʃɛdɛt/
+jšst	/iʃɛsɛt/
+jšš	/iʃɛʃ/
+jt	/it/
+jt	/joːt/
+jt	/ˈjatjaw/
+jt	/ˈjaʔt(ə)/
+jt	/ˈjaʔtəʔ/
+jt	/ˈjaːtij/
+jt	/ˈjaːtəʔ/
+jt-mḥ	/it mɛħ/
+jt-nṯrw	/it nɛt͡ʃɛruː/
+jt-nṯrw	/ˌjatijnaˈcuːɾaw/
+jt-nṯrw	/ˌjatijnaˈtuːɾaw/
+jt-nṯrw	/ˌʔətənəˈteːɾ/
+jt-nṯrw	/ˌʔətəʔnəˈtuːɾəʔ/
+jt-šmꜥ	/it ʃɛmɑː/
+jtḥ	/itɛħ/
+jtḥ	/ˈjaːtaħ/
+jtḥ	/ˈʔoːtəħ/
+jtj	/iti/
+jtmw	/itɛmuː/
+jtn	/itɛn/
+jtn	/j/
+jtn	/n/
+jtn	/ˈjaːtin/
+jtn	/ˈjaːtəj/
+jtn	/ˈjoːtəj/
+jtnw	/itɛnuː/
+jtrt	/itrɛt/
+jtrw	/itɛruː/
+jtrw	/ˈjatɾaw/
+jtrw	/ˈjaʔɾ/
+jtrw	/ˈjaʔɾaw/
+jty	/itiː/
+jṯj	/it͡ʃi/
+jṯꜣ	/it͡ʃɑ/
+jw	/iuː/
+jw-m-jtrw	/iuː ɛm itruː/
+jw-n-ꜣmw-m-sḫt-sjsj	/iuː ɛn ɑmuː ɛm sɛxɛt sisi/
+jw-snb	/iuː sɛnɛb/
+jw.f pw	/iuːʔɛf puː/
+jw.f ꜥꜣ.f	/iuːʔɛf ɑːʔɑʔɛf/
+jw.s pw	/iuːʔɛs puː/
+jwd	/iuːd/
+jwdnb	/iuːdnɛb/
+jwf	/iuːf/
+jwf	/jawˈfaːwaw/
+jwf	/ʔaʔˈfaːjəʔ/
+jwf	/ʔaˈfoːj/
+jwf	/ʔøʔf/
+jwf	/ˈjuwfuw/
+jwf	/ˈʔuʔfəʔ/
+jwh	/iuːh/
+jwḥ	/iuːħ/
+jwj	/iuːi/
+jwjt	/iuːit/
+jwjw	/iuːiuː/
+jwms	/iuːmɛs/
+jwn	/iuːn/
+jwn	/jaˈwin/
+jwn	/ʔaˈwen/
+jwn	/ʔaˈwin/
+jwnj	/iuːni/
+jwnt	/iuːnɛt/
+jwntj	/iuːnɛti/
+jwnw	/iuːnuː/
+jwnw	/ʔaːnəʔ/
+jwnw	/ʔoːnə/
+jwnw	/ˈjaːnaw/
+jwnyt	/iuːniːt/
+jwr	/iuːr/
+jwrꜣḥy	/iuːrɑħiː/
+jwsw	/iuːsuː/
+jwt	/iuːt/
+jwtj	/iuːti/
+jwtj-n.f	/iuːti ɛnʔɛf/
+jwtj-sw	/iuːti suː/
+jwtt	/iuːtɛt/
+jwtt ntt	/iuːtɛt nɛtɛt/
+jwtt ntt	/iuːtɛt ɛntɛt/
+jwwj	/iuːʔuːi/
+jwyt	/iuːiːt/
+jwꜣ	/iuːɑ/
+jwꜥ	/iuːɑː/
+jwꜥt	/iuːɑːt/
+jwꜥw	/iuːɑːuː/
+jwꜥw	/ˈjawʕ/
+jwꜥw	/ˈjawʕaw/
+jwꜥw	/ˈjawʕəʔ/
+jyt	/iʔiːt/
+jz	/iz/
+jzft	/izfɛt/
+jzft	/jaˈzaːfat/
+jzft	/ʔaˈsaːfaʔ/
+jzft	/ʔaˈsoːfə/
+jzftj	/izfɛti/
+jzkn	/izkɛn/
+jzr	/izɛr/
+jzr	/ˈjasɾVw/
+jzr	/ˈjazɾVw/
+jzr	/ˈʔasɾ/
+jzwt	/izuːt/
+jꜣbj	/iɑbi/
+jꜣbt	/iɑbɛt/
+jꜣbt	/ˈjaʀbat/
+jꜣbt	/ˈjaʀbaʔ/
+jꜣbt	/ˈjoːβə/
+jꜣbtj	/iɑbti/
+jꜣbtj	/jaˈʀibtij/
+jꜣbtj	/ʔəˈjeβt/
+jꜣbtt	/iɑbɛtɛt/
+jꜣdw	/iɑduː/
+jꜣft	/iɑfɛt/
+jꜣḫmjnš	/iɑxminɛʃ/
+jꜣḫw	/iɑxuː/
+jꜣḫw	/joːχ/
+jꜣḫw	/ˈjaʀχaw/
+jꜣjw	/iɑiuː/
+jꜣkb	/iɑkɛb/
+jꜣkbyt	/iɑkɛbiːt/
+jꜣmw	/iɑmuː/
+jꜣq	/iɑk/
+jꜣqt	/iɑkɛt/
+jꜣqt	/ˈjuʀqʼat/
+jꜣqt	/ˈjuʀqʼaʔ/
+jꜣqt	/ˈʔeːqʼə/
+jꜣqt	/ˈʔuːqʼaʔ/
+jꜣr	/iɑr/
+jꜣrrt	/iɑrɛrɛt/
+jꜣrrt	/jaʀˈlaljat/
+jꜣrrt	/jaʀˈlaljaʔ/
+jꜣrrt	/ʔaˈlalʔə/
+jꜣrw	/iɑruː/
+jꜣs	/iɑs/
+jꜣš	/iɑʃ/
+jꜣt	/iɑt/
+jꜣt-wꜥbt	/iɑt wɑːbɛt/
+jꜣtjw	/iɑtiuː/
+jꜣtt	/iɑtɛt/
+jꜣw	/iɑuː/
+jꜣw	/jaˈʀaw/
+jꜣw	/ʔəˈʔaw/
+jꜣwj	/iɑuːi/
+jꜣwt	/iɑuːt/
+jꜣꜣ	/iɑʔɑ/
+jꜣꜣt	/iɑʔɑt/
+jꜣꜣyt	/iɑʔɑiːt/
+jꜣꜥ	/iɑʔɑː/
+jꜥb	/iɑːb/
+jꜥf	/iɑːf/
+jꜥḥ	/iɑːħ/
+jꜥḥ	/ˈjajħuw/
+jꜥḥ	/ˈjaʔħ/
+jꜥḥ	/ˈjaʔħəʔ/
+jꜥḥ	/ˈjaʕħuw/
+jꜥḥ-ḥtp	/iɑːħ ħɛtɛp/
+jꜥḥ-ḥtp	/jaˈʕaħ ˈħatpaw/
+jꜥḥ-ms	/iɑːħ mɛs/
+jꜥj	/iɑːi/
+jꜥn	/iɑːn/
+jꜥn	/jaˈʕin/
+jꜥn	/ʔaˈʕen/
+jꜥnt	/iɑːnɛt/
+jꜥnw	/iɑːnuː/
+jꜥr	/iɑːr/
+jꜥrt	/iɑːrɛt/
+jꜥw-r	/iɑːuː ɛr/
+jꜥꜣ	/iɑːʔɑ/
+kbn	/kaˈban/
+kbn	/kəˈβan/
+kbn	/kɛbɛn/
+kf	/kɛf/
+kfj	/kɛfi/
+kftjw	/kɛftiuː/
+kftyw	/kɛftiːuː/
+kfꜣ	/kɛfɑ/
+kfꜣ-jb	/kɛfɑ ib/
+kj	/ki/
+kkw	/kɛkuː/
+km	/kaːm/
+km	/keːm/
+km	/koːm/
+km	/kɛm/
+km	/ˈkuːmaw/
+kmbjṯt	/kɛmbit͡ʃɛt/
+kmm	/kaˈmam/
+kmm	/kəˈmam/
+kmm	/kɛmɛm/
+kmt	/kɛmɛt/
+kmt	/ˈkeːmə/
+kmt	/ˈkuːmat/
+kmt	/ˈkuːmaʔ/
+kmyt	/kɛmiːt/
+kns	/kɛnɛs/
+knꜥnw	/kɛnɑːnuː/
+krtj	/kɛrti/
+ksj	/kɛsi/
+ksw	/kɛsuː/
+kš	/kɛʃ/
+ktt	/kaˈtat/
+ktt	/kaˈtaʔ/
+ktt	/kəˈtaʔ/
+ktt	/kɛtɛt/
+kw	/kuː/
+ky	/kiː/
+ky-ḏd	/kiː d͡ʒɛd/
+kꜣ	/kaʀ/
+kꜣ	/kaʔ/
+kꜣ	/kuʀ/
+kꜣ	/kuʔ/
+kꜣ	/køʔ/
+kꜣ	/kɑ/
+kꜣ-ḥr-kꜣ	/kɑ ħɛr kɑ/
+kꜣ-nḫt-ḫꜥ-m-wꜣst	/kaʔ ˈnoːχə ˈχeʕjə mə ˈwoːsə/
+kꜣ-nḫt-ḫꜥ-m-wꜣst	/kɑ nɛxɛt xɑː ɛm wɑsɛt/
+kꜣhs	/kɑhɛs/
+kꜣj	/kɑi/
+kꜣkꜣ	/kɑkɑ/
+kꜣm	/kɑm/
+kꜣm	/ˈkaʀm/
+kꜣm	/ˈkaʀnVw/
+kꜣm	/ˈkoːm/
+kꜣmn	/kɑmɛn/
+kꜣmw	/kaʀˈmiw/
+kꜣmw	/kaʀˈmiwwaw/
+kꜣmw	/kɑmuː/
+kꜣmw	/kəˈmeʔ/
+kꜣmw	/kəˈmeʔw/
+kꜣnꜥnꜥ	/kɑnɑːnɑː/
+kꜣp	/kɑp/
+kꜣp	/ˈkaːʀap/
+kꜣp	/ˈkoːʔəp/
+kꜣpt	/kɑpɛt/
+kꜣpt	/ˈkaʀpat/
+kꜣpt	/ˈkaʀpaʔ/
+kꜣpt	/ˈkaːpaʔ/
+kꜣpt	/ˈkoːpə/
+kꜣpw	/kɑpuː/
+kꜣr	/kɑr/
+kꜣry	/kɑriː/
+kꜣs	/kɑs/
+kꜣš	/kɑʃ/
+kꜣštꜣ	/kɑʃtɑ/
+kꜣt	/kɑt/
+kꜣw	/kɑuː/
+kꜣwtj	/kɑuːti/
+m	/ma/
+m	/mə/
+m	/m̩/
+m	/ɛm/
+m bꜣḥ	/ɛm bɑħ/
+m ḏd	/ɛm d͡ʒɛd/
+m ḥr	/ɛm ħɛr/
+m ḥtp	/ɛm ħɛtɛp/
+m ḥꜣt	/ɛm ħɑt/
+m ḫd	/ɛm xɛd/
+m ḫnt	/ɛm xɛnɛt/
+m ḫt	/ɛm xɛt/
+m ẖnw	/ɛm çɛnuː/
+m ẖrt-hrw	/ma çuˈɾit ˈhaɾwuw/
+m ẖrt-hrw	/ɛm çɛrɛt hɛruː/
+m km n ꜣt	/ɛm kɛm ɛn ɑt/
+m mjtt	/ɛm mitɛt/
+m mnt	/ɛm mɛnɛt/
+m mꜣwt	/ɛm mɑuːt/
+m qꜣb	/ɛm kɑb/
+m sꜣ	/ɛm sɑ/
+m tꜣ ꜣt	/ɛm tɑ ɑt/
+m wḥm	/ɛm wɛħɛm/
+m wḥm ꜥ	/ɛm wɛħɛm ɑː/
+m zp	/ɛm zɛp/
+m ꜣmmt	/ɛm ɑmɛmɛt/
+m ꜣt	/ɛm ɑt/
+m ꜣt nt	/ɛm ɑt nɛt/
+m ꜣt r ꜣt	/ɛm ɑt ɛr ɑt/
+m ꜣt.f	/ɛm ɑtʔɛf/
+m ꜣw	/ɛm ɑuː/
+m ꜣwt ḏt	/ɛm ɑuːt d͡ʒɛt/
+m ꜥb	/ɛm ɑːb/
+m-	/ma-/
+m-	/mɛ/
+m-bjꜣt	/ɛm biɑt/
+m-dj	/ɛm di/
+m-dyt	/ɛm diːt/
+m-ḫm	/ɛm xɛm/
+m-jr	/ɛm ir/
+m-jr-djt	/ɛm ir dit/
+m-ꜥ	/ɛm ɑː/
+m-ꜥ ntt	/ɛm ɑː nɛtɛt/
+m-ꜥ ntt	/ɛm ɑː ɛntɛt/
+mds	/mɛdɛs/
+mdt	/mətʼə(t)/
+mdt	/mɛdɛt/
+mdt	/ˈmaːtʼat/
+mdt	/ˈmaːtʼaʔ/
+mdt	/ˈmoːtʼə/
+mdt m ḥr	/mɛdɛt ɛm ħɛr/
+mdt nfrt	/mɛdɛt nɛfɛrɛt/
+mdt nfrt	/ˌmatʼatˈnafɾat/
+mdt nfrt	/ˌmatʼaʔˈnafɾaʔ/
+mdt nfrt	/ˌmətʼəˈnafɾə/
+mdw	/maˈtʼuww/
+mdw	/məˈtʼøww/
+mdw	/mɛduː/
+mdw	/ˈmaːtʼaw/
+mdw	/ˈmoːtʼ/
+mdw jꜣw	/mɛduː iɑuː/
+mdw nṯr	/maˌtʼuww ˈnaːcaɾ/
+mdw nṯr	/maˌtʼuww ˈnaːtaʔ/
+mdw nṯr	/məˌtʼøww ˈnoːtə/
+mdw nṯr	/mɛduː nɛt͡ʃɛr/
+mdw nṯr	/ˌmaːtʼaw ˈnaːcaɾ/
+mdw nṯr	/ˌmaːtʼaw ˈnaːtaʔ/
+mdw nṯr	/ˌmoːtʼ ˈnoːtə/
+mdwj	/mɛduːi/
+mdwj	/ˈmetʼwə/
+mdwj	/ˈmitʼwit/
+mdwj	/ˈmitʼwiʔ/
+mdwj m	/mɛduːi ɛm/
+mḏḥ	/mɛd͡ʒɛħ/
+mḏrj	/mɛd͡ʒɛri/
+mḏrj	/ˈmetʼɾaʔ/
+mḏrj	/ˈmetʼɾə/
+mḏrj	/ˈmicʼɾit/
+mḏrj	/ˈmitʼɾiʔ/
+mḏt	/mɛd͡ʒɛt/
+mḏw	/meːtʼ/
+mḏw	/mɛd͡ʒuː/
+mḏw	/ˈmuːcʼaw/
+mḏw	/ˈmuːtʼaw/
+mḏw	/ˈmuːtʼəʔ/
+mḏwtj	/(mu)cʼaˈwaːtaj/
+mḏwtj	/(mu)t͡ʃʼaˈwaːtaj/
+mḏwtj	/(mə)t͡ʃʼəˈwaːtəʔ/
+mḏwtj	/(mə)t͡ʃʼəˈwoːt/
+mḏwtj	/mɛd͡ʒuːti/
+mḏꜣt	/mɛd͡ʒɑt/
+mḏꜣy	/mɛd͡ʒɑiː/
+mfkꜣt	/maˈfakʀat/
+mfkꜣt	/maˈfakʀaʔ/
+mfkꜣt	/məˈfaʔkə/
+mfkꜣt	/mɛfkɑt/
+mgꜣ	/mɛɡɑ/
+mhj	/mɛhi/
+mḥ	/mɛħ/
+mḥ tꜣ	/mɛħ tɑ/
+mḥj	/mɛħi/
+mḥn	/mɛħɛn/
+mḥsḥs	/maˈħasħas/
+mḥsḥs	/məˈħasħəs/
+mḥsḥs	/mɛħɛsħɛs/
+mḥt	/mɛħɛt/
+mḥtj	/mɛħti/
+mḥtjw	/mɛħtiuː/
+mḥtt	/mɛħtɛt/
+mḥw	/mɛħuː/
+mḥyt	/maˈħiːjVt/
+mḥyt	/maˈħiːjVʔ/
+mḥyt	/maˈħuːjVt/
+mḥyt	/maˈħuːjVʔ/
+mḥyt	/məˈħeːʔ/
+mḥyt	/məˈħeːʔəʔ/
+mḥyt	/məˈħuːʔəʔ/
+mḥyt	/mɛħiːt/
+mḫꜣt	/mɛxɑt/
+mẖ	/mɛç/
+mẖnt	/mɛçnɛt/
+mẖr	/mɛçɛr/
+mẖtw	/mɛçtuː/
+mẖꜥqt	/maçˈʕaːqʼit/
+mẖꜥqt	/maçˈʕaːqʼiʔ/
+mẖꜥqt	/məçˈʕoːqʼə/
+mẖꜥqt	/mɛçɑːkɛt/
+mj	/mi/
+mj jḫ	/mi ix/
+mj mj	/mi mi/
+mj qd	/mi kɛd/
+mj qj	/mi ki/
+mjgꜣdn	/miɡɑdɛn/
+mjḫꜣt	/mixɑt/
+mjḫꜣt	/miˈjuχʀit/
+mjḫꜣt	/miˈjuχʀiʔ/
+mjḫꜣt	/məˈʔuʔχaʔ/
+mjḫꜣt	/ˈmøʔχə/
+mjktj	/mikti/
+mjn	/min/
+mjnb	/minɛb/
+mjnj	/mini/
+mjnj	/ˈmeʔnaʔ/
+mjnj	/ˈmeʔnə/
+mjnj	/ˈmijnit/
+mjnj	/ˈmijniʔ/
+mjnj zp	/mini zɛp/
+mjnt	/minɛt/
+mjt	/mit/
+mjtj	/miti/
+mjtt	/mitɛt/
+mjtw	/mituː/
+mjw	/mi(ʀ)juw/
+mjw	/miuː/
+mjwj	/miuːi/
+mjzt	/mizɛt/
+mkj	/mɛki/
+mkj	/ˈmiːkit/
+mkj	/ˈmiːkiʔ/
+mkj	/ˈmiːkə/
+mkt	/mɛkɛt/
+mm	/mɛm/
+mm jrj	/mɛm iri/
+mmj	/mɛmi/
+mn	/maːn/
+mn	/moːn/
+mn	/mɛn/
+mn-ḫpr-rꜥ	/mɛn xɛpɛr rɑː/
+mn-nfr	/mɛn nɛfɛr/
+mn-nfr	/ˈmennəfə/
+mn-nfr	/ˈminnafVɾ/
+mn-nfr	/ˈminnafVʔ/
+mnḏ	/maˈnacʼ/
+mnḏ	/maˈnatʼ/
+mnḏ	/məˈnatʼ/
+mnḏ	/mɛnɛd͡ʒ/
+mnḏm	/mɛnd͡ʒɛm/
+mnḏr	/mɛnd͡ʒɛr/
+mnḏt	/mɛnd͡ʒɛt/
+mnhz	/mɛnhɛz/
+mnhz	/ˈmanhas/
+mnhz	/ˈmanhaz/
+mnhz	/ˈmanhəs/
+mnḥ	/mɛnɛħ/
+mnḥtj	/mɛnħɛti/
+mnḫ	/mɛnɛx/
+mnḫt	/mawˈnaːχit/
+mnḫt	/mawˈnaːχiʔ/
+mnḫt	/məˈnoːχə/
+mnḫt	/mɛnxɛt/
+mnj	/maˈnij/
+mnj	/məˈneʔ/
+mnj	/mɛni/
+mnjt	/mɛnit/
+mnjw	/mɛniuː/
+mnmn	/mɛnmɛn/
+mnmnt	/mɛnmɛnɛt/
+mnt	/mɛnɛt/
+mnt	/ˈmaːnat/
+mnt	/ˈmaːnaʔ/
+mnt	/ˈmoːnə/
+mnty	/mVˈnaːtij/
+mnty	/məˈnoːt(ə)/
+mnty	/mɛntiː/
+mnṯw	/montuː/
+mnṯw	/mɛnt͡ʃuː/
+mnṯw-ḥtp	/mɛnt͡ʃuː ħɛtɛp/
+mnṯw-wsr	/mɛnt͡ʃuː wɛsɛr/
+mnw	/mɛnuː/
+mnwt	/mɛnuːt/
+mnyt	/mɛniːt/
+mnꜥt	/mɛnɑːt/
+mr	/maɾ/
+mr	/maʔ/
+mr	/maːɾ/
+mr	/meʔ/
+mr	/miʔ/
+mr	/moːɾ/
+mr	/mɛr/
+mr-wr	/məˈweːɾ/
+mr-wr	/mɛr wɛr/
+mr.n-rꜥ	/mɛrʔɛn rɑː/
+mr.s-ꜥnḫ	/mɛrʔɛs ɑːnx/
+mrḥt	/mVˈɾiħjat/
+mrḥt	/mVˈɾiħjaʔ/
+mrḥt	/məˈɾeħʔə/
+mrḥt	/mɛrħɛt/
+mrj	/mɛri/
+mrj	/ˈmejʔə/
+mrj	/ˈmijjiʔ/
+mrj	/ˈmiɾjit/
+mrkbt	/mɛrkɛbɛt/
+mrrt	/mɛrɛrɛt/
+mrt	/mɛrɛt/
+mrt-nbtj	/mɛrɛt nɛbti/
+mrw	/meːɾ/
+mrw	/mɛruː/
+mrw	/ˈmuːɾaw/
+mrwryt	/mɛruːriːt/
+mrwt	/mɛruːt/
+mry	/mɛriː/
+mry-jmn	/mɛriː imɛn/
+mry-n-ptḥ	/mɛriː ɛn pɛtɛħ/
+mry-rꜥ	/mɛriː rɑː/
+mryt	/mVˈɾaːjat/
+mryt	/mVˈɾaːjaʔ/
+mryt	/məˈɾoːʔ/
+mryt	/mɛriːt/
+mryt-jmn	/mɛriːt imɛn/
+mryt-jt.s	/mɛriːt itʔɛs/
+mryt-jtn	/mɛriːt itɛn/
+mryt-ptḥ	/mɛriːt pɛtɛħ/
+mryt-rꜥ	/mɛriːt rɑː/
+ms	/mes/
+ms	/mis/
+ms	/mɛs/
+msdmt	/misˈtʼuːmit/
+msdmt	/misˈtʼuːmiʔ/
+msdmt	/məsˈtʼeːm(ə)/
+msdmt	/mɛsdɛmɛt/
+msdw	/mɛsɛduː/
+msdw	/ˈmascʼiw/
+msdw	/ˈmastʼ/
+msdw	/ˈmastʼiw/
+msḏj	/mɛsɛd͡ʒi/
+msḏj	/ˈmascʼaj/
+msḏj	/ˈmastʼaj/
+msḏj	/ˈmastʼə/
+msḏr	/mɛsd͡ʒɛr/
+msḏr	/ˈmest͡ʃʼə/
+msḏr	/ˈmest͡ʃˈaʔ/
+msḏr	/ˈmiscʼiɾ/
+msḏr	/ˈmist͡ʃʼiʔ/
+msḥ	/mɛsɛħ/
+msḫn	/mɛsxɛn/
+msḫn	/ˈmesχən/
+msḫn	/ˈmisχin/
+msḫtyw	/mɛsxɛtiːuː/
+msj	/mɛsi/
+msj	/ˈmiːsit/
+msj	/ˈmiːsiʔ/
+msj	/ˈmiːsə/
+msjꜣt	/masˈjaːʀit/
+msjꜣt	/masˈjaːʀiʔ/
+msjꜣt	/məsˈʔaːʔəʔ/
+msjꜣt	/məˈsoːʔ/
+msjꜣt	/mɛsiɑt/
+msktt	/mɛsɛktɛt/
+mskꜣ	/mɛskɑ/
+msn	/mɛsɛn/
+msqt	/masˈqʼaːɾit/
+msqt	/masˈqʼaːɾiʔ/
+msqt	/məsˈqʼaːɾaʔ/
+msqt	/məsˈqʼoːɾə/
+msqt	/mɛskɛt/
+msqt-sḥdw	/mɛskɛt sɛħɛduː/
+msw-nswt	/mɛsuː nɛsuːt/
+mswt	/misˈjaːwat/
+mswt	/misˈjaːwaʔ/
+mswt	/məˈsoːwə/
+mswt	/mɛsuːt/
+mswt-ḥr	/mɛsuːt ħɛr/
+mswt-nbt-ḥwt	/mɛsuːt nɛbɛt ħuːt/
+mswt-rꜥ	/məˌsəwəˈɾeːʕ/
+mswt-rꜥ	/mɛsuːt rɑː/
+mswt-stẖ	/mɛsuːt sɛtɛç/
+mswt-wsjr	/miˌsawatwasˈjiːɾuw/
+mswt-wsjr	/miˌsawaʔwasˈjiːɾuw/
+mswt-wsjr	/məˌsəwəwəsˈʔiːɾəʔ/
+mswt-wsjr	/məˌsəwəwəˈsiːɾ(ə)/
+mswt-wsjr	/mɛsuːt wɛsir/
+mswt-ꜣst	/mɛsuːt ɑsɛt/
+msyt	/mɛsiːt/
+mšrw	/mɛʃruː/
+mšw	/mɛʃuː/
+mšꜥ	/mɛʃɑː/
+mšꜥ	/ˈmaʃʕaj/
+mšꜥ	/ˈmaʕʃə/
+msꜣḏt	/masˈwiʀcʼit/
+msꜣḏt	/masˈwiʀtʼiʔ/
+msꜣḏt	/məsˈwiːtʼə/
+msꜣḏt	/mɛsɑd͡ʒɛt/
+mt	/mɛt/
+mtj	/mɛti/
+mtr	/mɛtɛr/
+mtrt	/mɛtrɛt/
+mtrt	/ˈmeʔɾə/
+mtrt	/ˈmitɾat/
+mtrt	/ˈmiʔɾaʔ/
+mtt	/mɛtɛt/
+mtt	/ˈmeːtə/
+mtt	/ˈmuːtat/
+mtw	/mɛtuː/
+mtwt	/mɛtuːt/
+mṯn	/mɛt͡ʃɛn/
+mṯwn	/mɛt͡ʃuːn/
+mṯwn	/ˈmacwan/
+mṯwn	/ˈmaʔwan/
+mṯwn	/ˈmaʔwən/
+mṯꜣ	/mɛt͡ʃɑ/
+mw	/maw/
+mw	/muː/
+mwjbw	/muːibuː/
+mwt	/muːt/
+mwt	/ˈmaːwat/
+mwt	/ˈmaːwaʔ/
+mwt	/ˈmeʔwə/
+mwt	/ˈmiʔwat/
+mwt	/ˈmiʔwaʔ/
+mwt	/ˈmoːw/
+mwt	/ˈmuʔwat/
+mwt	/ˈmuʔwaʔ/
+mwt-mwt	/muːt muːt/
+mwt-mwt	/ˈmeʔwə ˈmeʔwə/
+mwt-mwt	/ˈmiʔwat ˈmiʔwat/
+mwt-mwt	/ˈmiʔwaʔ ˈmiʔwaʔ/
+mwt-mwt	/ˈmuʔwat ˈmuʔwat/
+mwt-mwt	/ˈmuʔwaʔ ˈmuʔwaʔ/
+mwt-nfr.t	/muːt nɛfɛrʔɛt/
+mww	/muːʔuː/
+my	/miː/
+mz	/mɛz/
+mzḥ	/mVˈsaħ/
+mzḥ	/mVˈzaħ/
+mzḥ	/məˈsaħ/
+mzḥ	/mɛzɛħ/
+mzwr	/mɛzuːr/
+mzwt	/mɛzuːt/
+mꜣ	/mɑ/
+mꜣ-ḥḏ	/mɑ ħɛd͡ʒ/
+mꜣẖ	/mɑç/
+mꜣẖ	/ˈmaːʀaç/
+mꜣẖ	/ˈmoːʔəç/
+mꜣj	/mɑi/
+mꜣj	/ˈmaːjəʔ/
+mꜣj	/ˈmaːʀij/
+mꜣj	/ˈmoːj/
+mꜣj-ḥzꜣ	/mɑi ħɛzɑ/
+mꜣnw	/mɑnuː/
+mꜣqt	/majˈʀaːqʼit/
+mꜣqt	/majˈʀaːqʼiʔ/
+mꜣqt	/mɑkɛt/
+mꜣqt	/məˈʔaːqʼaʔ/
+mꜣqt	/ˈmoːqʼə/
+mꜣqꜣrꜣ	/mɛkɛr/
+mꜣr	/møʔ/
+mꜣr	/mɑr/
+mꜣt	/mɑt/
+mꜣt	/ˈmaːʀit/
+mꜣt	/ˈmaːʀiʔ/
+mꜣt	/ˈmaːʔəʔ/
+mꜣt	/ˈmoːʔ/
+mꜣtt	/mɑtɛt/
+mꜣṯ	/mɑt͡ʃ/
+mꜣwj	/mɑuːi/
+mꜣwj	/ˈmiʀwit/
+mꜣwj	/ˈmiʀwiʔ/
+mꜣwj	/ˈmiːwə/
+mꜣwt	/mɑuːt/
+mꜣwt	/ˈmaʀwat/
+mꜣwt	/ˈmaʀwaʔ/
+mꜣwt	/ˈmoːwə/
+mꜣy	/mɑiː/
+mꜣꜣ	/mɑʔɑ/
+mꜣꜣt-ḥr-nfrw-rꜥ	/mɑʔɑt ħɛr nɛfɛruː rɑː/
+mꜣꜥ	/maʕ/
+mꜣꜥ	/mɑʔɑː/
+mꜣꜥ	/ˈmaːʀaʕ/
+mꜣꜥ	/ˈmoːʔəʕ/
+mꜣꜥ-ḫrw	/mɑʔɑː xɛruː/
+mꜣꜥt	/mɑʔɑːt/
+mꜣꜥt	/ˈmeːʕə/
+mꜣꜥt	/ˈmuʀʕat/
+mꜣꜥt	/ˈmuʀʕaʔ/
+mꜣꜥt	/ˈmuːʕaʔ/
+mꜣꜥtj	/mɑʔɑːti/
+mꜣꜥw	/mɑʔɑːuː/
+mꜥbꜣ	/mɑːbɑ/
+mꜥbꜣ	/ˈmaʕbaʀ/
+mꜥḥꜥt	/majˈħiʕwaʔ/
+mꜥḥꜥt	/maʕˈħiʕwat/
+mꜥḥꜥt	/mɑːħɑːt/
+mꜥḥꜥt	/məˈħeʕwə/
+mꜥkꜣ	/mɑːkɑ/
+mꜥnḏt	/mVʕˈnicʼwVt/
+mꜥnḏt	/mVʕˈnitʼwVʔ/
+mꜥnḏt	/mɑːnd͡ʒɛt/
+mꜥnḏt	/məʕˈnetʼwaʔ/
+mꜥnḏt	/məʕˈnetʼwə/
+mꜥq	/mɑːk/
+mꜥr	/mɑːr/
+n	/ne/
+n	/ni/
+n	/ɛn/
+n jb n	/niˈjibnij/
+n jb n	/ɛn ib ɛn/
+n mrwt	/ɛn mɛruːt/
+n ntt	/ɛn nɛtɛt/
+n ntt	/ɛn ɛntɛt/
+n ꜣbb	/ɛn ɑbɛb/
+n ꜣbw	/ɛn ɑbuː/
+n-hb	/nɛhɛb/
+n-kꜣw	/nɛkɑuː/
+n-nṯr	/ni nɛt͡ʃɛr/
+n-nṯr	/ɛn nɛt͡ʃɛr/
+nb	/nep/
+nb	/neːβ/
+nb	/nib/
+nb	/nɛb/
+nb	/ˈnaβʔə/
+nb	/ˈniːbuw/
+nb ḫꜥw	/nɛb xɑːuː/
+nb-nswt-tꜣwj	/nɛb nɛsuːt tɑuːi/
+nb-pt	/nɛb pɛt/
+nb-r-ḏr	/nɛb ɛr d͡ʒɛr/
+nb-rꜥ	/nɛb rɑː/
+nb-tm	/nɛb tɛm/
+nb-tꜣ-ḏsr	/neːβ taʔ ˈtʼoːsə/
+nb-tꜣ-ḏsr	/nɛb tɑ d͡ʒɛsɛr/
+nb-tꜣ-ḏsr	/ˈniːbuw taʀ ˈcʼaːsiɾ/
+nb-tꜣ-ḏsr	/ˈniːbuw taʀ ˈtʼaːsiʔ/
+nb-tꜣwj	/nɛb tɑuːi/
+nb-tꜣwj	/ˌnibuwˈtaʀwaj/
+nb-wꜥ	/nɛb wɑː/
+nb-ꜣbḏw	/nɛb ɑbɛd͡ʒuː/
+nb-ꜣbḏw	/ˌnibuwʀaˈbaːcʼaw/
+nb-ꜣꜥꜥw	/nɛb ɑʔɑːɑːuː/
+nb-ꜥnḫ	/nɛb ɑːnx/
+nbj	/nɛbi/
+nbj	/ˈniːbit/
+nbj	/ˈniːbiʔ/
+nbj	/ˈniːβə/
+nbnb	/nɛbnɛb/
+nbs	/nɛbɛs/
+nbt	/nɛbɛt/
+nbt	/ˈniːbat/
+nbt	/ˈniːbaʔ/
+nbt	/ˈniːβə/
+nbt-ḥwt	/nɛbɛt ħuːt/
+nbt-pr	/nɛbɛt pɛr/
+nbt-tꜣ	/nɛbɛt tɑ/
+nbtj	/nɛbti/
+nbw	/nɛbuː/
+nbw	/ˈnaːbaw/
+nbw	/ˈnoːβ/
+nbw-kꜣw-rꜥ	/nɛbuː kɑuː rɑː/
+nbw-kꜣw-rꜥ	/ˈnaːbiw ˈkuʀwaw ˈɾiːʕuw/
+nḏ	/nɛd͡ʒ/
+nḏ r	/nɛd͡ʒ ɛr/
+nḏ r	/ˌnacʼˈɾaʀ/
+nḏdnḏd	/nɛd͡ʒɛdnɛd͡ʒɛd/
+nḏm	/nɛd͡ʒɛm/
+nḏm	/ˈnaːcʼam/
+nḏm	/ˈnaːcʼim/
+nḏm	/ˈnaːtʼam/
+nḏm	/ˈnaːtʼim/
+nḏm	/ˈnoːtʼəm/
+nḏnḏ	/nɛd͡ʒnɛd͡ʒ/
+nḏr	/nɛd͡ʒɛr/
+nḏrj	/nɛd͡ʒɛri/
+nḏs	/nɛd͡ʒɛs/
+nḏs	/ˈnaːcʼas/
+nḏs	/ˈnaːtʼas/
+nḏs	/ˈnoːtʼəs/
+nḏt	/nɛd͡ʒɛt/
+nḏt-ḥr	/nɛd͡ʒɛt ħɛr/
+nḏyt	/nɛd͡ʒiːt/
+nḏꜣ	/nɛd͡ʒɑ/
+nḏꜣḏꜣ	/nɛd͡ʒɑd͡ʒɑ/
+nḏꜣw	/nɛd͡ʒɑuː/
+nf	/nɛf/
+nfj	/nɛfi/
+nfj	/ˈniːfit/
+nfj	/ˈniːfiʔ/
+nfj	/ˈniːfə/
+nfr	/nɛfɛr/
+nfr	/ˈnaːfiɾ/
+nfr	/ˈnaːfiʔ/
+nfr	/ˈnaːfə/
+nfr	/ˈnoːfə/
+nfr jb	/nɛfɛr ib/
+nfr n	/nɛfɛr ɛn/
+nfr pw	/nɛfɛr puː/
+nfr ꜣ	/nɛfɛr ɑ/
+nfr-ḥḏt	/nɛfɛr ħɛd͡ʒɛt/
+nfr-ḥtp	/nɛfɛr ħotɛp/
+nfr-ḥtp	/nɛfɛr ħɛtɛp/
+nfr-ḥtp.s	/nɛfɛr ħɛtɛpʔɛs/
+nfr-kꜣ-rꜥ	/nɛfɛr kɑ rɑː/
+nfr-kꜣ-zkr	/nɛfɛr kɑ zɛkɛr/
+nfr-mꜣꜥt	/nɛfɛr mɑʔɑːt/
+nfr-nfrw-jtn	/nɛfɛr nɛfɛruː itɛn/
+nfr-nfrw-jtn	/ˈnaːfiɾ naˈfuːɾaw ˈjaːtin/
+nfr-nfrw-jtn	/ˈnaːfiʔ naˈfuːɾaw ˈjaːtin/
+nfr-nfrw-jtn	/ˈnoːfə nəˈfeːɾ ˈjoːtəj/
+nfr-nfrw-rꜥ	/nɛfɛr nɛfɛruː rɑː/
+nfr-tm	/nɛfɛr tɛm/
+nfrt	/nɛfɛrɛt/
+nfrt	/ˈnafɾat/
+nfrt	/ˈnafɾaʔ/
+nfrt	/ˈnafɾə/
+nfrt-ḥnwt	/nɛfrɛt ħɛnuːt/
+nfrt-jj.tj	/nɛfɛrtiti/
+nfrt-jj.tj	/nɛfɛrɛt iʔiʔti/
+nfrt-jrj	/nɛfrɛt iri/
+nfrt-jꜣbt	/nɛfrɛt iɑbɛt/
+nfrt-jꜣbt	/ˌnafɾə ˈjoːβə/
+nfrt-kꜣw	/nɛfrɛt kɑuː/
+nfrt-kꜣw	/ˈnafɾat ˈkuʀwaw/
+nfrt-kꜣw	/ˈnafɾaʔ ˈkuʀwaw/
+nfrt-kꜣw	/ˈnafɾə keːw/
+nfrtj	/nɛfɛrti/
+nfrw	/nɛfɛruː/
+nfrw	/ˈnafɾaw/
+nfrw-bjtj	/nɛfɛruː biti/
+nfrw-ptḥ	/nɛfɛruː pɛtɛħ/
+nfrw-rꜥ	/nɛfɛruː rɑː/
+nfrw-sbk	/nɛfruː sɛbɛk/
+nfrwt	/nɛfruːt/
+nfꜣ	/nɛfɑ/
+ngꜣw	/nɛɡɑuː/
+nhj	/nɛhi/
+nhm	/nɛhɛm/
+nhmhm	/nɛhɛmhɛm/
+nhp	/nɛhɛp/
+nhp	/ˈnaːhap/
+nhp	/ˈnoːhəp/
+nht	/nɛhɛt/
+nht	/ˈnaːhat/
+nht	/ˈnaːhaʔ/
+nht	/ˈnoːhə/
+nhw	/nɛhuː/
+nhzj	/nɛhzi/
+nhzj	/ˈnehsə/
+nhzj	/ˈnihsiʔ/
+nhzj	/ˈnihzit/
+nḥ	/nɛħ/
+nḥb-kꜣw	/nɛħɛb kɑuː/
+nḥbt	/nɛħbɛt/
+nḥd	/nɛħɛd/
+nḥḏt	/nɛħd͡ʒɛt/
+nḥḏt	/ˈnutʃʼħaʔ/
+nḥḏt	/ˈnuħcʼat/
+nḥḏt	/ˈnuħtʃʼaʔ/
+nḥḏt	/ˈnøtʃʼħə/
+nḥḏt	/ˈnøħtʃʼə/
+nḥḥ	/nɛħɛħ/
+nḥḥ	/ˈneʔħəħ/
+nḥḥ	/ˈnijħaħ/
+nḥm	/nɛħɛm/
+nḥm	/ˈnaːħam/
+nḥm	/ˈnoːħəm/
+nḥmn	/nɛħmɛn/
+nḥr	/nɛħɛr/
+nḥrj	/nɛħri/
+nḥrw	/nɛħɛruː/
+nḥsj	/nɛħsi/
+nḥtj	/nɛħɛti/
+nḥtj	/ˈneħtə/
+nḥtj	/ˈniħtit/
+nḥtj	/ˈniħtiʔ/
+nḫ	/nɛx/
+nḫbḫb	/nɛxɛbxɛb/
+nḫbt	/nɛxbɛt/
+nḫj	/nɛxi/
+nḫn	/nɛxɛn/
+nḫnt	/nɛxnɛt/
+nḫnw	/nɛxɛnuː/
+nḫt	/nɛxɛt/
+nḫt-nb.f	/nɛxɛt nɛbʔɛf/
+nḫt-ꜥ	/nɛxɛt ɑː/
+nḫwt	/nɛxuːt/
+nḫꜣḫꜣ	/nɛxɑxɑ/
+nḫꜣw	/nɛxɑuː/
+nẖnm	/nɛçnɛm/
+nẖs	/nɛçɛs/
+nhꜣy	/nɛhɑiː/
+nj	/ni/
+nj	/nij/
+nj	/nəʔ/
+nj js	/ni is/
+nj zp	/ni zɛp/
+njk	/nik/
+njs	/nis/
+njtjt	/nitit/
+njw	/niuː/
+njꜣj	/niɑi/
+nk	/nɛk/
+nkt	/nuˈkut/
+nkt	/nuˈkuʔ/
+nkt	/nəˈkøʔ/
+nkt	/nɛkɛt/
+nkw	/nɛkuː/
+nmḥ	/nɛmɛħ/
+nmj	/niːm/
+nmj	/nɛmi/
+nmj	/ˈniːmaʔ/
+nmj	/ˈniːmij/
+nmj	/ˈniːmit/
+nmj	/ˈniːmiʔ/
+nmj	/ˈniːmə/
+nmj	/ˈniːməʔ/
+nmnm	/nɛmnɛm/
+nms	/nɛmɛs/
+nmsw	/nɛmsuː/
+nmt	/nɛmɛt/
+nmtj	/nɛmti/
+nmtj-m-zꜣ.f	/nɛmti ɛm zɑʔɛf/
+nmtj-nḫt	/nɛmti nɛxɛt/
+nmtt	/nɛmtɛt/
+nmw	/nɛmuː/
+nmꜣrṯ	/nɛmɑrɛt͡ʃ/
+nmꜥ	/nɛmɑː/
+nn	/nɛn/
+nn zp	/nɛn zɛp/
+nnj	/nɛni/
+nnšm	/j/
+nnšm	/n/
+nnšm	/najʃ/
+nnšm	/nɛnʃɛm/
+nnšm	/ˈnanʃVm/
+nnšm	/ˈnanʃVw/
+nnw	/noːn/
+nnw	/nɛnuː/
+nnw	/ˈnaːnaw/
+npnpt	/nɛpnɛpɛt/
+npꜣw	/nɛpɑuː/
+nqdd	/nɛkdɛd/
+nqꜥ	/nɛkɑː/
+nqꜥwt	/nɛkɑːuːt/
+nrj	/nɛri/
+nrt	/nɛrɛt/
+nrt	/ˈnaːɾat/
+nrt	/ˈnaːɾaʔ/
+nrt	/ˈnoːɾə/
+nrw	/nɛruː/
+ns	/les/
+ns	/lis/
+ns	/nɛs/
+nsrt	/nɛsrɛt/
+nsrt	/ˈnasɾat/
+nsrt	/ˈnasɾaʔ/
+nsrt	/ˈnasɾə/
+nst	/nɛsɛt/
+nswt	/nijˈsiːwat/
+nswt	/niˈsiːwaʔ/
+nswt	/nɛsuːt/
+nswt	/ʔənˈsiːʔ/
+nswt	/ʔənˈsiːʔəʔ/
+nswt-bjtj	/nijˈsiːwat biˈjatVj/
+nswt-bjtj	/niˈsiːwaʔ biˈjatVj/
+nswt-bjtj	/nɛsuːt biti/
+nswt-bjtj	/ʔənˈsiːʔ βəˈjat(ə)/
+nswt-nṯrw	/nɛsuːt nɛt͡ʃɛruː/
+nswtyw	/nɛsuːtiːuː/
+nsyt	/nɛsiːt/
+nš	/nɛʃ/
+nšm	/nɛʃɛm/
+nšmt	/nɛʃmɛt/
+nšnj	/nɛʃni/
+nšp	/nɛʃɛp/
+nšp	/ˈnaːʃap/
+nšp	/ˈnoːʃəp/
+nšt	/nɛʃɛt/
+nt	/nɛt/
+nt-ḥsb	/nɛt ħɛsɛb/
+nt-ḥtp	/nɛt ħɛtɛp/
+nt-ḥtrj	/nɛt ħɛtri/
+nt-jqrt	/nɛt ikrɛt/
+nt-ꜥ	/nɛt ɑː/
+ntb	/nɛtɛb/
+ntf	/nVˈtaf/
+ntf	/nəˈtaf/
+ntf	/nɛtɛf/
+ntf	/ɛntɛf/
+ntj	/niˈtij/
+ntj	/nəˈteʔ/
+ntj	/nɛti/
+ntj	/ɛnti/
+ntj n.f	/nɛti ɛnʔɛf/
+ntj n.f	/ɛnti ɛnʔɛf/
+ntj nb	/nɛti nɛb/
+ntj nb	/ɛnti nɛb/
+ntjw jm	/nɛtiuː im/
+ntjw jm	/ɛntiuː im/
+ntk	/nVˈtak/
+ntk	/nəˈtak/
+ntk	/nɛtɛk/
+ntk	/ɛntɛk/
+nts	/nVˈtas/
+nts	/nəˈtas/
+nts	/nɛtɛs/
+nts	/ɛntɛs/
+ntsn	/nɛtɛsɛn/
+ntsn	/ɛntɛsɛn/
+ntsnj	/nɛtɛsɛni/
+ntsnj	/ɛntɛsɛni/
+ntt	/nɛtɛt/
+ntt	/ɛntɛt/
+ntt jwtt	/nɛtɛt iuːtɛt/
+ntt jwtt	/ɛntɛt iuːtɛt/
+nttn	/nɛtɛtɛn/
+nttn	/ɛntɛtɛn/
+ntṯ	/nVˈtaʔ/
+ntṯ	/nəˈtaʔ/
+ntṯ	/nɛtɛt͡ʃ/
+ntṯ	/ɛntɛt͡ʃ/
+ntṯn	/nVˈtaːcan/
+ntṯn	/nVˈtaːtan/
+ntṯn	/nəˈtoːtən/
+ntṯn	/nɛtɛt͡ʃɛn/
+ntṯn	/ɛntɛt͡ʃɛn/
+ntw	/nəˈtaw/
+ntw	/nɛtuː/
+ntw	/ɛntuː/
+nṯr	/nɛt͡ʃɛr/
+nṯr	/ˈnaːcaɾ/
+nṯr	/ˈnaːtaʔ/
+nṯr	/ˈnoːtə/
+nṯr ꜥꜣ	/nacaɾˈʕaʀ/
+nṯr ꜥꜣ	/nataʔˈʕaʀ/
+nṯr ꜥꜣ	/nətəˈʕaʔ/
+nṯr ꜥꜣ	/nɛt͡ʃɛr ɑːʔɑ/
+nṯr-nfr	/nɛt͡ʃɛr nɛfɛr/
+nṯrj	/nucˈɾij/
+nṯrj	/nucˈɾit/
+nṯrj	/nutˈɾij/
+nṯrj	/nutˈɾiʔ/
+nṯrj	/nətˈɾeʔ/
+nṯrj	/nɛt͡ʃri/
+nṯrj	/nɛt͡ʃɛri/
+nṯrj-kꜣ-rꜥ	/nucˈɾij kuʀ ˈɾiːʕuw/
+nṯrj-kꜣ-rꜥ	/nɛt͡ʃɛri kɑ rɑː/
+nṯrt	/naˈcaːɾat/
+nṯrt	/naˈtaːɾaʔ/
+nṯrt	/nəˈtoːɾə/
+nṯrt	/nɛt͡ʃɛrɛt/
+nṯrtj	/nɛt͡ʃɛrti/
+nṯrw	/naˈcuːɾaw/
+nṯrw	/naˈtuːɾaw/
+nṯrw	/nəˈteːɾə/
+nṯrw	/nɛt͡ʃɛruː/
+nṯryt	/nɛt͡ʃriːt/
+nw	/nuː/
+nw	/nøww/
+nw	/ˈnuwwuw/
+nwd	/nuːd/
+nwdt	/nuːdɛt/
+nwdw	/nuːduː/
+nwḥ	/nuːħ/
+nwḫ	/nuːx/
+nwj	/nuːi/
+nwt	/nuːt/
+nwt	/ˈneːʔə/
+nwt	/ˈnuːʔat/
+nwt	/ˈnuːʔaʔ/
+nwtj	/nuːti/
+nwtkꜣrṯ	/nuːtkɑrɛt͡ʃ/
+nwtwt	/nuːtuːt/
+nwy	/nuːiː/
+nwyt	/nuːiːt/
+nwꜣ wpwt	/nuːɑ wɛpuːt/
+nyny	/niːniː/
+nznzn	/nɛzɛnzɛn/
+nꜣ	/niʀ/
+nꜣ	/nɑ/
+nꜣ	/nəʔ/
+nꜣḏꜣ	/nɑd͡ʒɑ/
+nꜣḏꜣrw	/nɑd͡ʒɑruː/
+nꜣj	/nej/
+nꜣj	/nɑi/
+nꜣy	/nɑiː/
+nꜣy.f-ꜥꜣw-rwḏ	/nɑiːʔɛf ɑːʔɑuː ruːd͡ʒ/
+nꜣyw	/nɑiːuː/
+nꜥj	/nɑːi/
+nꜥr	/nɑːr/
+nꜥr-mr	/nɑːr mɛr/
+nꜥrt	/nɑːrɛt/
+nꜥꜥ	/nɑːʔɑː/
+p	/pɛ/
+p-n	/pɛ ɛn/
+p.f-ṯꜣw-ꜥwj-bꜣstt	/pɛʔɛf t͡ʃɑuː ɑːuːi bɑstɛt/
+pds	/pɛdɛs/
+pḏ	/pɛd͡ʒ/
+pḏ nmtt	/pɛd͡ʒ nɛmtɛt/
+pḏ šs	/pɛd͡ʒ ʃɛs/
+pḏt	/pɛd͡ʒɛt/
+pḏt	/ˈpiːcʼat/
+pḏt	/ˈpiːtʼaʔ/
+pḏt	/ˈpiːtʼə/
+pḏtj	/pɛd͡ʒɛti/
+pf	/pɛf/
+pfꜣ	/pɛfɑ/
+pgꜣ	/pɛɡɑ/
+pḥ	/paːħ/
+pḥ	/poːħ/
+pḥ	/pɛħ/
+pḥrr	/pɛħrɛr/
+pḥtj	/pɛħti/
+pḥtj	/ˈpeħt(ə)/
+pḥtj	/ˈpiħtaj/
+pḥwj	/pɛħuːi/
+pẖr	/pɛçɛr/
+pẖr-wr	/pɛçɛr wɛr/
+pẖrt	/pɛçrɛt/
+pj	/pi/
+pn	/pɛn/
+pn-ꜣbw	/pɛn ɑbuː/
+pnw	/piːn/
+pnw	/pɛnuː/
+pnw	/ˈpiːnaw/
+pnw	/ˈpiːnəʔ/
+pnꜥ	/pɛnɑː/
+pnꜥ	/ˈpaːnaʕ/
+pnꜥ	/ˈpoːnəʕ/
+ppy	/pɛpiː/
+pqt	/pɛkɛt/
+pr	/poːɾ/
+pr	/pɛr/
+pr	/ˈpaːɾuw/
+pr	/ˈpaːɾəʔ/
+pr ꜥꜣ	/pəɾəˈʕaʔ/
+pr ꜥꜣ	/pəɾəˈʕoʔ/
+pr ꜥꜣ	/pɛr ɑːʔɑ/
+pr ꜥꜣ	/ˌpaɾuwˈʕaʀ/
+pr-bꜣstt	/pɛr bɑstɛt/
+pr-bꜣstt	/ˌpaɾuwbuˈʀistit/
+pr-bꜣstt	/ˌpaɾuwbuˈʀistiʔ/
+pr-bꜣstt	/ˌpəɾəβəˈʔestə/
+pr-ḏt	/pɛr d͡ʒɛt/
+pr-ḥḏ	/pɛr ħɛd͡ʒ/
+pr-ḥḏ	/ˌpaɾuwˈħicʼ/
+pr-ḥḏ	/ˌpaɾuwˈħitʼ/
+pr-ḥḏ	/ˌpəɾəˈħetʼ/
+pr-m-ws	/pɛr ɛm wɛs/
+pr-nswt	/pɛr nɛsuːt/
+pr-nswt	/ˌpaɾuwnijˈsiːwat/
+pr-nswt	/ˌpaɾuwnijˈsiːwaʔ/
+pr-nswt	/ˌpəɾənəˈsiːʔ/
+pr-nswt	/ˌpəɾəʔnəʔˈsiːʔəʔ/
+pr-snt	/pɛr sɛnɛt/
+prj	/pɛri/
+prj	/ˈpiːɾaʔ/
+prj	/ˈpiːɾit/
+prj	/ˈpiːɾiʔ/
+prj	/ˈpiːɾə/
+prj ẖr	/pɛri çɛr/
+prt	/paˈɾaːjit/
+prt	/paˈɾaːjiʔ/
+prt	/puˈɾut/
+prt	/puˈɾuʔ/
+prt	/pəˈɾaːʔəʔ/
+prt	/pəˈɾoːʔ/
+prt	/pəˈɾøʔ/
+prt	/pɛrɛt/
+prt spdt	/pɛrɛt sɛpdɛt/
+prt-ḫrw	/pɛrɛt xɛruː/
+prt-ḫrw	/ˌpiɾitχaˈɾaw/
+prt-ḫrw	/ˌpiɾiʔχaˈɾaw/
+prt-ḫrw	/ˌpəɾəχəˈɾaw/
+prwypwsꜣ	/pɛruːiːpuːsɑ/
+psḏ	/pɛsɛd͡ʒ/
+psḏj	/pɛsɛd͡ʒi/
+psḏj	/ˈpestʼə/
+psḏj	/ˈpiscʼit/
+psḏj	/ˈpistʼiʔ/
+psḏjw	/pisˈcʼijjaw/
+psḏjw	/pɛsɛd͡ʒiuː/
+psḏntjw	/pɛsd͡ʒɛntiuː/
+psḏnw	/pɛsɛd͡ʒnuː/
+psḏt	/piˈsiːcʼat/
+psḏt	/piˈsiːtʼaʔ/
+psḏt	/pəˈsiːtʼə/
+psḏt	/pɛsɛd͡ʒɛt/
+psḏt pḏt	/pɛsɛd͡ʒɛt pɛd͡ʒɛt/
+psḏw	/piˈsiːcʼaw/
+psḏw	/piˈsiːtʼaw/
+psḏw	/pəˈsiːtʼ/
+psḏw	/pəˈsiːtʼəʔ/
+psḏw	/pɛsɛd͡ʒuː/
+psg	/pɛsɛɡ/
+psg	/ˈpaːsakʼ/
+psg	/ˈpoːkʼəs/
+psj	/pɛsi/
+psj	/ˈpiːsit/
+psj	/ˈpiːsiʔ/
+psj	/ˈpiːsə/
+psmṯk	/pɛsmɛt͡ʃɛk/
+psš	/pɛsɛʃ/
+psš	/ˈpaːsaʃ/
+psš	/ˈpoːsəʃ/
+psš kꜣf	/pɛsɛʃ kɑf/
+psšt	/pɛsʃɛt/
+psšt	/ˈpusʃat/
+psšt	/ˈpusʃaʔ/
+psšt	/ˈpøʃʃə/
+psštj	/pɛsʃɛti/
+pšn	/pɛʃɛn/
+pt	/peʔ/
+pt	/pit/
+pt	/piʔ/
+pt	/pɛt/
+pt	/ˈpeːwə/
+pt	/ˈpuːwat/
+pt	/ˈpuːwaʔ/
+ptḥ	/piˈtaħ/
+ptḥ	/pəˈtaħ/
+ptḥ	/pɛtɛħ/
+ptḥ-ms	/pɛtɛħ mɛs/
+ptḥ-špss	/pɛtɛħ ʃɛpsɛs/
+ptḥ-wr	/pɛtɛħ wɛr/
+ptpt	/pɛtpɛt/
+ptr	/pɛtɛr/
+ptwꜣrwmys	/pɛtuːɑruːmiːs/
+pw	/puː/
+pw-tr	/puː tɛr/
+pwj-m-rꜥ	/puːi ɛm rɑː/
+pwnt	/puːnɛt/
+pwntjw	/puːntiuː/
+pwrꜣsꜣtj	/puːrɑsɑti/
+pwy	/puːiː/
+py	/piː/
+pzḥ	/pɛzɛħ/
+pzḥ	/ˈpaːsaħ/
+pzḥ	/ˈpaːzaħ/
+pzḥ	/ˈpoːsəħ/
+pzḫ	/pɛzɛx/
+pzḫ	/ˈpaːsaχ/
+pzḫ	/ˈpaːzaχ/
+pzḫ	/ˈpoːsəχ/
+pzn	/pɛzɛn/
+pꜣ	/piʀ/
+pꜣ	/pɑ/
+pꜣ	/pə/
+pꜣ	/pəʔ/
+pꜣ-dj-bꜣstt	/pɑ di bɑstɛt/
+pꜣ-jḥjꜣ	/pɑ iħiɑ/
+pꜣ-n-ḫnsw	/pɑ ɛn xɛnsuː/
+pꜣ-n-ḫnsw	/pənəˈχans/
+pꜣ-n-jmn-ḥtp	/pɑ ɛn imɛn ħɛtɛp/
+pꜣ-n-jmn-ḥtp	/pəʔ niː ʔaˈmoːn ˈħoːtəp/
+pꜣ-n-jnt	/pɑ ɛn inɛt/
+pꜣ-n-jpt	/pɑ ɛn ipɛt/
+pꜣ-n-jpt	/pənəˈjoːpə/
+pꜣ-n-pꜣ-mḫrw	/pɑ ɛn pɑ mɛxruː/
+pꜣ-n-pꜣ-mḫrw	/pəʔ niː pəʔ məˈχiːɾ/
+pꜣ-n-rnn-wtt	/pɑ ɛn rɛnɛn wɛtɛt/
+pꜣ-nḥsj	/pɑ nɛħsi/
+pꜣ-sbꜣ-ḫꜥ-n-nwt	/pɑ sɛbɑ xɑː ɛn nuːt/
+pꜣ-sbꜣ-ḫꜥ-n-nwt	/pə ˈsiːβə ʃeʕ ʔən ˈneːwə/
+pꜣḏ	/pɑd͡ʒ/
+pꜣḫd	/pɑxɛd/
+pꜣj	/pɑi/
+pꜣq	/pɑk/
+pꜣqj	/pɑki/
+pꜣqj	/ˈpiʀqʼit/
+pꜣqj	/ˈpiʀqʼiʔ/
+pꜣqj	/ˈpiːqʼə/
+pꜣqt	/pɑkɛt/
+pꜣw	/pɑuː/
+pꜣwt	/pɑuːt/
+pꜣwtj	/pɑuːti/
+pꜣy	/pɑiː/
+pꜣz	/pɑz/
+pꜥt	/pɑːt/
+pꜥt	/ˈpeːʕə/
+pꜥt	/ˈpiːʕaʔ/
+qbb	/kɛbɛb/
+qbb	/qʼaˈbab/
+qbb	/qʼəˈβap/
+qbḥ	/kɛbɛħ/
+qbḥ-snw.f	/kɛbɛħ sɛnuːʔɛf/
+qbḥw	/kɛbɛħuː/
+qbw	/kɛbuː/
+qd	/kɛd/
+qd	/qʼaːtʼ/
+qd	/qʼoːtʼ/
+qdd	/kɛdɛd/
+qdj	/kɛdi/
+qdj	/ˈqʼetʼʔə/
+qdj	/ˈqʼitʼjit/
+qdj	/ˈqʼitʼjiʔ/
+qdj	/ˈqʼitʼʔaʔ/
+qdnw	/kɛdnuː/
+qdš	/kɛdɛʃ/
+qdšt-ẖzṯrt-ꜥnṯjt	/kɛdʃɛt çɛzt͡ʃɛrɛt ɑːnt͡ʃit/
+qdšw	/kɛdʃuː/
+qdt	/kɛdɛt/
+qdtt	/kɛdtɛt/
+qjs	/kis/
+qmd	/kɛmɛd/
+qmꜣ	/kɛmɑ/
+qnb	/kɛnɛb/
+qnbt	/kɛnbɛt/
+qnj	/kɛni/
+qnj	/ˈqʼenjə/
+qnj	/ˈqʼinjit/
+qnj	/ˈqʼinjiʔ/
+qnjt	/kɛnit/
+qnjw	/kɛniuː/
+qnt	/kɛnɛt/
+qnw	/kɛnuː/
+qnyt	/kɛniːt/
+qqtj	/kɛkti/
+qrf	/kɛrɛf/
+qrf	/qʼaˈɾaf/
+qrf	/qʼəˈɾaf/
+qrft	/kɛrfɛt/
+qrr	/kɛrɛr/
+qrrt	/kɛrɛrɛt/
+qrs	/kɛrɛs/
+qrs	/qʼaːʔs/
+qrs	/qʼoːʔs/
+qrs	/ˈqʼaːɾas/
+qrst	/kɛrɛsɛt/
+qrsw	/kɛrɛsuː/
+qrwjwꜣpꜣdrꜣ	/kɛruːiuːɑpɑdrɑ/
+qs	/kɛs/
+qs	/qʼes/
+qs	/qʼis/
+qs	/qʼus/
+qsn	/kɛsɛn/
+qsnt	/kɛsɛnɛt/
+qysrs	/kiːsrɛs/
+qꜣ-ꜥ	/kɑ ɑː/
+qꜣb	/kɑb/
+qꜣbt	/kɑbɛt/
+qꜣbt	/ˈqʼiʀbVt/
+qꜣbt	/ˈqʼiʀbVʔ/
+qꜣbt	/ˈqʼiːbaʔ/
+qꜣbt	/ˈqʼiːβə/
+qꜣdt	/kɑdɛt/
+qꜣj	/kɑi/
+qꜣj ḫrw	/kɑi xɛruː/
+qꜣj sꜣ	/kɑi sɑ/
+qꜣj sꜣ	/qʼaj saj/
+qꜣj sꜣ	/qʼaʀ saʀ/
+qꜣqꜣw	/kɑkɑuː/
+qꜣr	/kɑr/
+qꜣs	/kɑs/
+qꜣꜣ	/kɑʔɑ/
+qꜣꜥ	/kɑʔɑː/
+qꜥḥ	/kɑːħ/
+r	/jiɾ/
+r	/jiʔ/
+r	/ɛr/
+r	/ɝ/
+r	/ɾaʀ/
+r	/ɾaʔ/
+r	/ʔə/
+r	/ʔəʔ/
+r	/ˈɾaːʀaw/
+r	/ˈɾoːw/
+r ḏbꜣ	/jaɾˈcʼaːbaʀ/
+r ḏbꜣ	/jaʔˈtʼaːbaʀ/
+r ḏbꜣ	/ɛr d͡ʒɛbɑ/
+r ḏbꜣ	/ʔəʔˈtʼaːbəʔ/
+r ḏbꜣ	/ʔəˈtʼoːβ/
+r ḏd	/ɛr d͡ʒɛd/
+r ḏr	/ɛr d͡ʒɛr/
+r gs	/ɛr ɡɛs/
+r ḥꜣt	/jaɾˈħuːʀit/
+r ḥꜣt	/jaʔˈħuːʀiʔ/
+r ḥꜣt	/ɛr ħɑt/
+r ḥꜣt	/ʔəʔˈħuːʔəʔ/
+r ḥꜣt	/ʔəˈħeːʔ/
+r ẖnw	/jaɾˈçaːnaw/
+r ẖnw	/jaʔˈçaːnaw/
+r ẖnw	/ɛr çɛnuː/
+r ẖnw	/ʔəʔˈçaːnəʔ/
+r ẖnw	/ʔəˈçoːn/
+r mj	/ɛr mi/
+r mn m	/jaɾˈmaːn ma/
+r mn m	/jaʔˈmaːn ma/
+r mn m	/ɛr mɛn ɛm/
+r mn m	/ʔəʔˈmaːn mə/
+r n kmt	/ɛr ɛn kɛmɛt/
+r n kmt	/ɾaʀ nij ˈkuːmat/
+r n kmt	/ɾaʀ nij ˈkuːmaʔ/
+r n kmt	/ɾaʔ nəʔ ˈkeːmə/
+r nḥḥ	/ɛr nɛħɛħ/
+r ntt	/ɛr nɛtɛt/
+r ntt	/ɛr ɛntɛt/
+r ntt	/ˌjiɾniˈtit/
+r ntt	/ˌjiʔniˈtiʔ/
+r sꜣ	/ɛr sɑ/
+r ꜣbb	/ɛr ɑbɛb/
+r ꜣw	/ɛr ɑuː/
+r ꜥ	/ɛr ɑː/
+r ꜥꜣt	/ɛr ɑːʔɑt/
+r-jb	/ɛr ib/
+r-jb	/ˌɾaʀˈjib/
+r-jb	/ˌɾəˈʔeb/
+r-jb	/ˌɾəˈʔep/
+r-jmjtw	/ɛr imituː/
+r-jqr	/ɛr ikɛr/
+r-jqr	/ʔəˈjoːqʼə/
+r-ntj	/ɛr nɛti/
+r-ntj	/ɛr ɛnti/
+r-ntj	/ˌʔənəˈteʔ/
+r-ntj	/ˌʔəʔnəˈteʔ/
+r-pr	/ɛr pɛr/
+r-pr	/ˌɾaʀˈpaːɾuw/
+r-pr	/ˌɾəʔˈpaːɾəʔ/
+r-pr	/ˌɾəˈpoːɾ/
+r-pw	/ɛr puː/
+r-sṯꜣw	/ro sɛt͡ʃɑuː/
+r-šꜣꜥ	/ɛr ʃɑʔɑː/
+rbw	/rɛbuː/
+rd	/rɛd/
+rd	/ɾetʼ/
+rd	/ɾitʼ/
+rd	/ˈɾatʼwaw/
+rd	/ˈɾatʼʔ/
+rd	/ˈɾaːtʼuw/
+rd	/ˈɾoːtʼ/
+rḏj	/(ɾV)ˈcʼiːjit/
+rḏj	/(ɾV)ˈtʼiːjiʔ/
+rḏj	/(ɾə)ˈtʼiːʔəʔ/
+rḏj	/rɛd͡ʒi/
+rḏj	/ˈtʼiːʔ/
+rḏj ḥr wꜣt	/rɛd͡ʒi ħɛr wɑt/
+rḏj jn.tw	/rɛd͡ʒi inʔtuː/
+rḏj jwt	/rɛd͡ʒi iuːt/
+rḏj m ḥr	/rɛd͡ʒi ɛm ħɛr/
+rḏj mꜣꜥ r	/rɛd͡ʒi mɑʔɑː ɛr/
+rḏj wꜣt n	/rɛd͡ʒi wɑt ɛn/
+rḏw	/rɛd͡ʒuː/
+rhn	/rɛhɛn/
+rhn	/ˈɾaːhan/
+rhn	/ˈɾehnə/
+rhn	/ˈɾihnit/
+rhn	/ˈɾihniʔ/
+rhn	/ˈɾoːhən/
+rḥw	/rɛħuː/
+rḥwj	/rɛħuːi/
+rḫ	/rɛx/
+rḫ-nswt	/rɛx nɛsuːt/
+rḫs	/rɛxɛs/
+rḫyt	/lVˈχiːjat/
+rḫyt	/lVˈχiːjaʔ/
+rḫyt	/ləˈχeːʔ/
+rḫyt	/ləˈχiːʔəʔ/
+rḫyt	/rɛxiːt/
+rk	/rɛk/
+rkḥ	/rɛkɛħ/
+rkḥ	/ˈɾaːkaħ/
+rkḥ	/ˈɾoːkəħ/
+rkḥ-nḏs	/rɛkɛħ nɛd͡ʒɛs/
+rkḥ-ꜥꜣ	/rɛkɛħ ɑːʔɑ/
+rkḥ-ꜥꜣ	/ˌɾakaħˈʕaʀ/
+rm	/rɛm/
+rmj	/rɛmi/
+rmj	/ˈɾiːma/
+rmj	/ˈɾiːmit/
+rmj	/ˈɾiːmiʔ/
+rmj	/ˈɾiːmə/
+rmn	/rɛmɛn/
+rmrm	/rɛmrɛm/
+rmrmt	/rɛmrɛmɛt/
+rmṯ	/rɛmɛt͡ʃ/
+rmṯ	/ˈɾaːmac/
+rmṯ	/ˈɾaːmaʔ/
+rmṯ	/ˈɾoːmə/
+rmṯt	/rɛmɛt͡ʃɛt/
+rmṯt	/ˈɾamcat/
+rmṯt	/ˈɾamtaʔ/
+rmṯt	/ˈɾamtə/
+rmyt	/raˈmiːjVt/
+rmyt	/raˈmiːjVʔ/
+rmyt	/rəˈmeːʔ/
+rmyt	/rəˈmeːʔəʔ/
+rmyt	/rɛmiːt/
+rn	/rɛn/
+rn	/ɾen/
+rn	/ɾin/
+rn-nfr	/rɛn nɛfɛr/
+rn.s-rs	/rɛnʔɛs rɛs/
+rnn	/rɛnɛn/
+rnn-wtt	/rɛnɛn wɛtɛt/
+rnp	/rɛnɛp/
+rnpj	/rɛnɛpi/
+rnpj	/ˈɾenpaʔ/
+rnpj	/ˈɾenpə/
+rnpj	/ˈɾinpit/
+rnpj	/ˈɾinpiʔ/
+rnpt	/rɛnpɛt/
+rnpt	/ɾanˈpawwat/
+rnpt	/ɾanˈpawwaʔ/
+rnpt	/ɾənˈpawwə/
+rnpt	/ˈɾanpat/
+rnpt	/ˈɾanpaʔ/
+rnpt	/ˈɾanpə/
+rnpt ḥsb	/rɛnpɛt ħɛsɛb/
+rnpt ḥsb	/ˌɾanpatˈħaːsab/
+rnpt ḥsb	/ˌɾanpaʔˈħaːsab/
+rnpt ḥsb	/ˌɾənpəˈħoːsəβ/
+rnpwt	/rɛnpuːt/
+rnpwt	/ɾinˈpiːwat/
+rqj	/rɛki/
+rqj	/ˈɾiːqʼit/
+rqj	/ˈɾiːqʼiʔ/
+rqj	/ˈɾiːqʼə/
+rqj jb	/rɛki ib/
+rrj	/rɛri/
+rrj	/ɾiːɾ/
+rrj	/ˈɾiːɾij/
+rrj	/ˈɾiːɾəʔ/
+rs	/rɛs/
+rsj	/rɛsi/
+rsw	/rɛsuː/
+rswt	/rɛsuːt/
+rš	/rɛʃ/
+ršrš	/rɛʃrɛʃ/
+ršw	/rɛʃuː/
+ršwt	/rɛʃuːt/
+ršwt	/ˈɾaʃwat/
+ršwt	/ˈɾaʃwaʔ/
+ršwt	/ˈɾaʃʔə/
+rtḥ	/rɛtɛħ/
+rtḥtj	/rɛtħɛti/
+rṯnw	/rɛt͡ʃɛnuː/
+rw nw prt m hrw	/ruː nuː pɛrɛt ɛm hɛruː/
+rwd	/ruːd/
+rwḏ	/ruːd͡ʒ/
+rwḏ-jmn	/ruːd͡ʒ imɛn/
+rwḏt	/ruːd͡ʒɛt/
+rwḏt	/ˈɾawcʼit/
+rwḏt	/ˈɾawtʼaʔ/
+rwḏt	/ˈɾawtʼiʔ/
+rwḏt	/ˈɾawtʼə/
+rwj	/ruːi/
+rwt	/ruːt/
+rꜣ	/rɑ/
+rꜣ-ꜣw	/rɑ ɑuː/
+rꜥ	/rɑː/
+rꜥ	/ˈɾeːʕ/
+rꜥ	/ˈɾiːʕuw/
+rꜥ	/ˈɾiːʕəʔ/
+rꜥ nb	/rɑː nɛb/
+rꜥ-ḥr-ꜣḫtj	/rɑː ħɛr ɑxti/
+rꜥ-ḥtp	/rɑː ħɛtɛp/
+rꜥ-ms	/rɑː mɛs/
+rꜥ-ms-sw	/rɑː mɛs suː/
+rꜥ-ms-sw	/ˈɾiːʕaʔ məˈsiːˌsuw/
+s	/sɛ/
+s-	/sɛ/
+sbḥ	/sɛbɛħ/
+sbḫt	/sɛbxɛt/
+sbj	/sɛbi/
+sbjw	/sɛbiuː/
+sbk	/sɛbɛk/
+sbk-ḥtp	/sɛbɛk ħɛtɛp/
+sbk-m-ḥꜣb	/sɛbɛk ɛm ħɑb/
+sbn	/sɛbɛn/
+sbnw	/sɛbɛnuː/
+sbq	/sɛbɛk/
+sbtj	/sɛbti/
+sbꜣ	/saˈbaʀ/
+sbꜣ	/səˈβaʔ/
+sbꜣ	/sɛbɑ/
+sbꜣ	/ˈsiːbaʀ/
+sbꜣ	/ˈsiːbəʔ/
+sbꜣ	/ˈsiːβ/
+sbꜣgj	/sɛbɑɡi/
+sbꜣqj	/sɛbɑki/
+sbꜣtj	/sɛbɑti/
+sbꜣyt	/saˈbaʀjat/
+sbꜣyt	/saˈbaʀjaʔ/
+sbꜣyt	/səˈbaːʔəʔ/
+sbꜣyt	/səˈβoːʔ/
+sbꜣyt	/sɛbɑiːt/
+sd	/saːtʼ/
+sd	/setʼ/
+sd	/sitʼ/
+sd	/soːtʼ/
+sd	/sɛd/
+sdb	/sɛdɛb/
+sdm	/sɛdɛm/
+sdmj	/sɛdɛmi/
+sdwḫ	/sɛduːx/
+sdyt	/sɛdiːt/
+sḏ	/sɛd͡ʒ/
+sḏb	/sɛd͡ʒɛb/
+sḏd	/sɛd͡ʒɛd/
+sḏd	/tʼ/
+sḏd	/ʔ/
+sḏd	/ˈset͡ʃʼʔə/
+sḏd	/ˈsicʼtʼit/
+sḏd	/ˈsit͡ʃʼʔiʔ/
+sḏfꜣ	/sɛd͡ʒɛfɑ/
+sḏfꜣ	/ˈsetʼf(ə)/
+sḏfꜣ	/ˈsetʼfəʔ/
+sḏfꜣ	/ˈsicʼfiʀ/
+sḏfꜣ	/ˈsitʼfiʀ/
+sḏm	/sacʼˈma/
+sḏm	/saˈcʼimna/
+sḏm	/sɛd͡ʒɛm/
+sḏm	/ˈsacʼmiw/
+sḏm	/ˈsaːcʼam/
+sḏm	/ˈsaːcʼim/
+sḏm	/ˈsaːtʼam/
+sḏm	/ˈsoːtʼəm/
+sḏm ꜥš	/sɛd͡ʒɛm ɑːʃ/
+sḏmw	/sɛd͡ʒɛmuː/
+sḏr	/sɛd͡ʒɛr/
+sḏrt	/sɛd͡ʒrɛt/
+sḏt	/sɛd͡ʒɛt/
+sḏwj	/sɛd͡ʒuːi/
+sḏꜣ	/sɛd͡ʒɑ/
+sdꜣ	/sɛdɑ/
+sf	/sef/
+sf	/sif/
+sf	/suf/
+sf	/sɛf/
+sfḫ	/sɛfɛx/
+sfḫḫ	/sɛfɛxɛx/
+sfḫjw	/safˈχijjaw/
+sfḫjw	/sɛfxiuː/
+sfḫnw	/sɛfɛxnuː/
+sfḫw	/sɛfɛxuː/
+sfḫw	/ˈsafχaw/
+sfḫw	/ˈsafχəʔ/
+sfḫw	/ˈsaχf/
+sfkk	/sɛfɛkɛk/
+sfsf	/sɛfsɛf/
+sfṯ	/sɛfɛt͡ʃ/
+sgnn	/sɛɡɛnɛn/
+sgnn	/ˈsakʼnan/
+sgnn	/ˈsaʔkʼən/
+sgr	/sɛɡɛr/
+sḥd	/sɛħɛd/
+sḥḏ	/sɛħɛd͡ʒ/
+sḥḏw	/sɛħd͡ʒuː/
+sḥḏw	/ˈseħtʼ/
+sḥḏw	/ˈsiħcʼVw/
+sḥḏw	/ˈsiħtʼVw/
+sḥḏw	/ˈsuħcʼVw/
+sḥḏw	/ˈsuħtʼVw/
+sḥmyt	/sɛħmiːt/
+sḥqr	/sɛħɛkɛr/
+sḥqꜣ	/sɛħɛkɑ/
+sḥrj	/sɛħɛri/
+sḥtm	/sɛħɛtɛm/
+sḥtp	/sɛħɛtɛp/
+sḥꜣbj	/sɛħɑbi/
+sḥꜣj	/sɛħɑi/
+sḫd	/sɛxɛd/
+sḫdḫd	/sɛxɛdxɛd/
+sḫm	/sɛxɛm/
+sḫm-jb-pr.n-mꜣꜥt	/sɛxɛm ib pɛrʔɛn mɑʔɑːt/
+sḫm-pḥtj-ḏsr-ḫꜥw	/sɛxɛm pɛħti d͡ʒɛsɛr xɑːuː/
+sḫmt	/sɛxmɛt/
+sḫmt	/ˈseχmə/
+sḫmt	/ˈsiχmit/
+sḫmt	/ˈsiχmiʔ/
+sḫn	/sɛxɛn/
+sḫntj	/sɛxɛnɛti/
+sḫpj	/sɛxɛpi/
+sḫpr	/sɛxɛpɛr/
+sḫr	/sɛxɛr/
+sḫry	/sɛxriː/
+sḫt	/sɛxɛt/
+sḫt	/ˈsaːχat/
+sḫt	/ˈsaːχaʔ/
+sḫt	/ˈsoːχə/
+sḫt-ḥmꜣt	/sɛxɛt ħɛmɑt/
+sḫt-jꜣrw	/sɛxɛt iɑruː/
+sḫtj	/sɛxti/
+sḫtj	/ˈseχt/
+sḫtj	/ˈsiχtVj/
+sḫtj	/ˈsuχtVj/
+sḫw	/sɛxuː/
+sḫꜣj	/sɛxɑi/
+sḫꜣj	/ˈseχʔaʔ/
+sḫꜣj	/ˈseχʔə/
+sḫꜣj	/ˈsiχʀit/
+sḫꜣj	/ˈsiχʀiʔ/
+sḫꜣw	/sɛxɑuː/
+sḫꜥj	/sɛxɑːi/
+sẖkr	/sɛçkɛr/
+sẖr	/sɛçɛr/
+sẖt	/sɛçɛt/
+shꜣj	/sɛhɑi/
+sj	/si/
+sj	/sij/
+sjdj	/sɛidi/
+sjhm	/sɛihɛm/
+sjm	/sim/
+sjn	/sin/
+sjnj	/sini/
+sjnw	/sinuː/
+sjsjw	/saɾˈsijjaw/
+sjsjw	/sisiuː/
+sjsnw	/sisnuː/
+sjsw	/i/
+sjsw	/sajˈsaw/
+sjsw	/saɾˈsaw/
+sjsw	/sisuː/
+sjsw	/ʔəsˈsaw/
+sjzj	/sɛizi/
+sjꜣ	/siɑ/
+sjꜣ	/soːʔ/
+sjꜣ	/ˈsaːjaʀ/
+sjꜣ	/ˈsaːʔəʔ/
+sjꜣt	/sɛiɑt/
+sjꜥr	/siɑːr/
+sk	/sɛk/
+skj	/sɛki/
+skm	/sɛkɛm/
+skn	/sɛkɛn/
+sksj	/sɛksi/
+sksk	/sɛksɛk/
+skt	/sɛkɛt/
+skꜣ	/sɛkɑ/
+sm	/sɛm/
+smdt	/sɛmdɛt/
+smḥ	/sɛmɛħ/
+smḥj	/sɛmħi/
+smḫ	/sɛmɛx/
+smj	/sɛmi/
+smn	/siˈmiːnit/
+smn	/siˈmiːniʔ/
+smn	/səˈmiːnə/
+smn	/sɛmɛn/
+smnḫ	/sɛmɛnɛx/
+smnmn	/sɛmɛnmɛn/
+smr	/sɛmɛr/
+smr-ẖt	/sɛmɛr çɛt/
+smr-wꜥtj	/sɛmɛr wɑːti/
+smsj	/sɛmɛsi/
+smsm	/sɛmsɛm/
+smsw	/sɛmɛsuː/
+smt	/sɛmɛt/
+smw	/sɛmuː/
+smw	/ˈsiːm/
+smw	/ˈsiːmiw/
+smw	/ˈsiːməʔ/
+smwn	/sɛmuːn/
+smꜣ	/sɛmɑ/
+smꜣwj	/sɛmɑuːi/
+smꜣꜥ-ḫrw	/sɛmɑʔɑː xɛruː/
+sn	/san/
+sn	/saˈnuːwaw/
+sn	/səˈneːw/
+sn	/sɛn/
+sn-n-mwt	/sɛn ɛn muːt/
+sn-n-mwt	/ˌsannijˈmuwwat/
+sn-n-mwt	/ˌsannijˈmuwwaʔ/
+sn-n-mwt	/ˌsənnəˈmøwwə/
+sn-tꜣ	/sanˈtaʀ/
+sn-tꜣ	/sənˈtaʔ/
+sn-tꜣ	/sɛn tɑ/
+snb	/sɛnɛb/
+snb-n.j	/sɛnɛb ɛnʔi/
+snb.t ꜥnḫ.t	/sɛnɛbʔɛt ɑːnxʔɛt/
+snb.tj	/sɛnɛbʔti/
+snbb	/sɛnbɛb/
+snbj	/sɛnbi/
+snd	/sɛnɛd/
+snḏ	/siˈnicʼ/
+snḏ	/siˈnitʼ/
+snḏ	/səˈnetʼ/
+snḏ	/sɛnɛd͡ʒ/
+snḏm	/sɛnɛd͡ʒɛm/
+snḏw	/sɛnɛd͡ʒuː/
+snfj	/sɛnɛfi/
+snfr	/sɛnɛfɛr/
+snfr-wj	/sɛnɛfɛr wi/
+snḥ	/sɛnɛħ/
+snḥ	/ˈsaːnaħ/
+snḥ	/ˈsoːnəħ/
+snḫbḫb	/sɛnɛxɛbxɛb/
+snḫn	/sɛnɛxɛn/
+snj	/sɛni/
+snm	/sɛnɛm/
+snmyt	/sɛnmiːt/
+snnw	/sɛnɛnuː/
+snq	/sɛnɛk/
+snq	/ˈsaːnaqʼ/
+snq	/ˈsoːnəqʼ/
+snsn	/sɛnsɛn/
+snsn	/ˈsansan/
+snsn	/ˈsansən/
+snšmšm	/sɛnɛʃɛmʃɛm/
+snt	/sɛnɛt/
+snt	/ˈsaːnat/
+snt	/ˈsaːnaʔ/
+snt	/ˈsoːnə/
+snṯ	/sɛnɛt͡ʃ/
+snṯr	/sɛnɛt͡ʃɛr/
+snṯr	/ˈsancaɾ/
+snṯr	/ˈsantaʔ/
+snṯr	/ˈsantə/
+snwḫ	/sɛnuːx/
+snwj	/siˈnuwwaj/
+snwj	/səˈnuwwəʔ/
+snwj	/səˈnøww/
+snwj	/sɛnuːi/
+snwtt	/sɛnuːtɛt/
+spd	/sɛpɛd/
+spdḏ	/sɛpdɛd͡ʒ/
+spdḏ	/ˈsaptʼacʼ/
+spdḏ	/ˈsaptʼatʼ/
+spdḏ	/ˈsaptʼaʔ/
+spdḏ	/ˈsaptʼə/
+spdt	/sopdɛt/
+spdt	/sɛpdɛt/
+spdt	/sɛpɛdɛt/
+spdt	/ˈsaptʼat/
+spdt	/ˈsaptʼaʔ/
+spdt	/ˈsaptʼə/
+spdw	/sɛpduː/
+spḥ	/sɛpɛħ/
+spj	/sɛpi/
+spr	/sɛpɛr/
+spr r dmj	/sɛpɛr ɛr dɛmi/
+sprw	/sɛpɛruː/
+spt	/sɛpɛt/
+spt	/ˈsaːpat/
+spt	/ˈsaːpaʔ/
+spt	/ˈsoːpə/
+spꜣt	/sɛpɑt/
+sqbb	/sɛkɛbɛb/
+sqbbwj	/sɛkɛbɛbuːi/
+sqbḥ	/sɛkɛbɛħ/
+sqd	/sɛkɛd/
+sqdj	/sɛkɛdi/
+sqr	/sɛkɛr/
+sqꜣj	/sɛkɑi/
+sr	/sɛr/
+srd	/sɛrɛd/
+srf	/sɛrɛf/
+srḫ	/sɛrɛx/
+srmj	/sɛrɛmi/
+srt	/sɛrɛt/
+srw	/sɛruː/
+srwḏ	/sɛruːd͡ʒ/
+srwḫ	/sɛruːx/
+srwj	/sɛruːi/
+ssf	/sɛsɛf/
+ssḫ	/sɛsɛx/
+ssm	/sɛsɛm/
+ssmt	/sɛsɛmɛt/
+ssn	/sɛsɛn/
+sspd	/sɛsɛpɛd/
+sš	/sɛʃ/
+sšd	/sɛʃɛd/
+sšm	/sɛʃɛm/
+sšmj	/sɛʃɛmi/
+sšmm	/sɛʃɛmɛm/
+sšmw	/sɛʃmuː/
+sšp	/sɛʃɛp/
+sšpt	/saˈʃaːpat/
+sšpt	/sɛʃpɛt/
+sšpt	/ˈʃaːpaʔ/
+sšpt	/ˈʃoːpə/
+sšr	/sɛʃɛr/
+sšrw	/sɛʃruː/
+sštꜣ	/sɛʃtɑ/
+ssꜣj	/sɛsɑi/
+st	/sɛt/
+st-jb	/sɛt ib/
+st-ꜥ	/sɛt ɑː/
+stẖ	/sɛtɛç/
+stẖ	/ˈseːtəx/
+stẖ	/ˈsuːtVç/
+stẖ-nḫt	/sɛtɛç nɛxɛt/
+stẖ-pr-jb.sn	/sɛtɛç pɛr ibʔsɛn/
+stẖj	/sɛtçi/
+stj	/sɛti/
+stp	/sɛtɛp/
+stp	/ˈsatpaw/
+stp	/ˈsaːtap/
+stp	/ˈsoːtəp/
+stp-zꜣ	/sɛtɛp zɑ/
+stp.n-rꜥ	/sɛtɛpʔɛn rɑː/
+stpt	/sɛtɛpɛt/
+stš	/sɛtɛʃ/
+stt	/sɛtɛt/
+stwt	/sɛtuːt/
+sṯ	/sɛt͡ʃ/
+sṯ-ḥꜣb	/sɛt͡ʃ ħɑb/
+sṯjt	/sɛt͡ʃit/
+sṯnj	/sɛt͡ʃɛni/
+sṯt	/sɛt͡ʃɛt/
+sṯzj	/sɛt͡ʃɛzi/
+sṯzw	/sɛt͡ʃɛzuː/
+sṯꜣ	/sɛt͡ʃɑ/
+sṯꜣ	/ˈsaːcaʀ/
+sṯꜣ	/ˈsaːtaʀ/
+sṯꜣ	/ˈsoːtə/
+sṯꜣt	/sɛt͡ʃɑt/
+stꜣ	/sɛtɑ/
+sw	/su/
+sw	/suw/
+sw	/suː/
+swdfj	/sɛwɛdɛfi/
+swḏ	/sɛwɛd͡ʒ/
+swḏꜣ	/sɛwɛd͡ʒɑ/
+swḏꜣ jb	/sɛwɛd͡ʒɑ ib/
+swḥt	/suːħɛt/
+swḥt	/ˈsawħVt/
+swḥt	/ˈsawħVʔ/
+swḥt	/ˈsoːħə/
+swḫ	/suːx/
+swḫꜣ	/suːxɑ/
+swn	/suːn/
+swn	/sɛwɛn/
+swnt	/suːnɛt/
+swnw	/suːnuː/
+swrd	/sɛwɛrɛd/
+swsḫ	/sɛwɛsɛx/
+swt	/suːt/
+swꜣḏ	/sɛwɑd͡ʒ/
+swꜣj	/suːɑi/
+swꜣj	/ˈseʔjaʔ/
+swꜣj	/ˈseʔjə/
+swꜣj	/ˈsiwʀit/
+swꜣj	/ˈsiwʀiʔ/
+swꜥb	/sɛwɑːb/
+š	/ʃɛ/
+šbb	/ʃɛbɛb/
+šbn	/ʃɛbɛn/
+šbw	/ʃɛbuː/
+šdj	/ʃɛdi/
+šdšd	/ʃɛdʃɛd/
+šdw	/ʃɛduː/
+šf-bdt	/ʃɛf bɛdɛt/
+šfd	/ʃɛfɛd/
+šfdw	/ʃɛfɛduː/
+šfj	/ʃɛfi/
+šftw	/ʃɛftuː/
+šfw	/ʃɛfuː/
+šfyt	/ʃəˈfeːʔ/
+šfyt	/ʃɛfiːt/
+šmj	/ʃə/
+šmj	/ʃɛmi/
+šmj	/ˈʃijjVʔ/
+šmj	/ˈʃimjVt/
+šmm	/ʃɛmɛm/
+šmmt	/ʃɛmɛmɛt/
+šms	/ʃɛmɛs/
+šms	/ˈʃemsə/
+šms	/ˈʃimsij/
+šms wḏꜣ	/ʃɛmɛs wɛd͡ʒɑ/
+šmsw	/ʃɛmsuː/
+šmswt	/ʃɛmsuːt/
+šmt	/ʃɛmɛt/
+šmw	/ʃoːm/
+šmw	/ʃɛmuː/
+šmw	/ˈʃaːmaw/
+šmꜥ	/ʃɛmɑː/
+šmꜥw	/ʃɛmɑːuː/
+šmꜥyt	/ʃɛmɑːiːt/
+šn	/ʃɛn/
+šn	/ˈʃeːn(ə)/
+šn	/ˈʃuːnVj/
+šn	/ˈʃuːnəʔ/
+šnbt	/ʃɛnbɛt/
+šnḏwt	/ʃɛnd͡ʒuːt/
+šnft	/j/
+šnft	/n/
+šnft	/ʃɛnfɛt/
+šnft	/ˈʃejfə/
+šnft	/ˈʃenfə/
+šnft	/ˈʃinfVt/
+šnft	/ˈʃinfVʔ/
+šnj	/ʃɛni/
+šnj	/ˈʃiːnit/
+šnj	/ˈʃiːniʔ/
+šnj	/ˈʃiːnə/
+šns	/ʃɛnɛs/
+šntt	/ʃɛntɛt/
+šnṯ	/ʃɛnɛt͡ʃ/
+šnw	/ʃVˈnuw/
+šnw	/ʃəˈnøʔ/
+šnw	/ʃɛnuː/
+šnwt	/ʃɛnuːt/
+šnꜥtj	/ʃɛnɑːti/
+šnꜥw	/ʃɛnɑːuː/
+šps	/ʃɛpɛs/
+špsj	/ʃɛpɛsi/
+špsj	/ˈʃepsaʔ/
+špsj	/ˈʃepsə/
+špsj	/ˈʃipsit/
+špsj	/ˈʃipsiʔ/
+špss	/ʃɛpsɛs/
+špssw	/ʃɛpsɛsuː/
+špst	/ʃɛpsɛt/
+špst	/ˈʃepsaʔ/
+špst	/ˈʃepsə/
+špst	/ˈʃipsat/
+špst	/ˈʃipsaʔ/
+špꜣ	/ʃɛpɑ/
+šr	/ʃɛr/
+šr	/ˈʃeːɾ(ə)/
+šr	/ˈʃuːɾij/
+šr	/ˈʃuːɾəʔ/
+šrr	/ʃaˈɾaɾ/
+šrr	/ʃaˈɾaʔ/
+šrr	/ʃəˈɾaʔ/
+šrr	/ʃɛrɛr/
+šrt	/ʃɛrɛt/
+šs	/ʃɛs/
+šsm	/ʃɛsɛm/
+šsp	/ʃɛsɛp/
+šspw	/ʃɛspuː/
+šsr	/ʃɛsɛr/
+ššy	/ʃɛʃiː/
+šsꜣ	/ʃɛsɑ/
+šsꜣw	/ʃɛsɑuː/
+št	/ʃeʔ/
+št	/ʃit/
+št	/ʃiʔ/
+št	/ʃɛt/
+štj	/ʃɛti/
+štw	/ʃɛtuː/
+štyw	/ʃɛtiːuː/
+štꜣ	/ʃɛtɑ/
+štꜣw	/ʃɛtɑuː/
+šw	/ʃuː/
+šwj	/ʃuːi/
+šwt	/ʃuːt/
+šwꜣw	/ʃuːɑuː/
+šzp	/ʃɛzɛp/
+šzp	/ˈʃaːp/
+šzp	/ˈʃaːzap/
+šzp	/ˈʃoːp/
+šzpt	/ʃɛzpɛt/
+šꜣ	/ʃɑ/
+šꜣbw	/ʃɑbuː/
+šꜣbꜣkꜣ	/ʃɑbɑkɑ/
+šꜣbꜣtꜣkꜣ	/ʃɑbɑtɑkɑ/
+šꜣd	/ʃɑd/
+šꜣq	/ʃɑk/
+šꜣqb	/ʃɑkɛb/
+šꜣqw	/ʃɑkuː/
+šꜣrm	/ʃɑrɛm/
+šꜣs	/ʃɑs/
+šꜣsw	/ʃɑsuː/
+šꜣšꜣnq	/ʃɑʃɑnɛk/
+šꜣwꜣbtj	/ʃɑuːɑbti/
+šꜣꜥ	/ʃaʕ/
+šꜣꜥ	/ʃaˈʀaʕ/
+šꜣꜥ	/ʃɑʔɑː/
+šꜣꜥ	/ʃəˈʔaʕ/
+šꜣꜥ-r	/ʃɑʔɑː ɛr/
+šꜥ	/ʃɑː/
+šꜥd	/ʃɑːd/
+šꜥt	/ʃɑːt/
+šꜥwt	/ʃɑːuːt/
+šꜥy	/ʃaːʕVj/
+šꜥy	/ʃoːʕəʔ/
+šꜥy	/ʃɑːiː/
+sꜣ	/sɑ/
+sꜣbt	/sɑbɛt/
+sꜣdjꜥmj	/sɑdiɑːmi/
+sꜣg	/sɑɡ/
+sꜣgꜣ	/sakʼ/
+sꜣgꜣ	/sɛɡ/
+sꜣḥ	/sɑħ/
+sꜣḫ	/sɛɑx/
+sꜣḫꜣḫ	/sɛɑxɑx/
+sꜣj	/sɑi/
+sꜣj	/ˈsiːʀit/
+sꜣj	/ˈsiːʀiʔ/
+sꜣj	/ˈsiːʔa/
+sꜣj	/ˈsiːʔə/
+sꜣngꜣr	/sɑnɡɑr/
+sꜣq	/sɑk/
+sꜣq	/ˈsaːʀaqʼ/
+sꜣq	/ˈsaːʔəqʼ/
+sꜣq	/ˈsoːʔəqʼ/
+sꜣrꜣqw	/sɑrɑkuː/
+sꜣsꜣ	/sɑsɑ/
+sꜣꜣ	/sɑʔɑ/
+sꜥb	/sɑːb/
+sꜥḥ	/sɑːħ/
+sꜥḥꜥ	/sɛɑːħɑː/
+sꜥnḫ	/sɛɑːnx/
+sꜥnḫ	/ˈsaʕnaχ/
+sꜥnḫ	/ˈsaʕnəχ/
+sꜥnj	/sɛɑːni/
+sꜥq	/sɛɑːk/
+sꜥr	/sɛɑːr/
+sꜥšꜣ	/sɛɑːʃɑ/
+sꜥsꜥ	/sɑːsɑː/
+sꜥꜣj	/sɛɑːʔɑi/
+t	/tɛ/
+t ꜣšr	/tɛ ɑʃɛr/
+t-ḥḏ	/tɛ ħɛd͡ʒ/
+t-nt	/tɛ nɛt/
+t-rtḥ	/tɛ rɛtɛħ/
+tf	/tef/
+tf	/tif/
+tf	/tɛf/
+tfn	/tɛfɛn/
+tfnt	/tɛfnɛt/
+tfnwt	/tɛfnuːt/
+tfꜣ	/tɛfɑ/
+thj	/tɛhi/
+thm	/tɛhɛm/
+thw	/tɛhuː/
+tḫj	/tɛxi/
+tḫj	/ˈtiːχit/
+tḫj	/ˈtiːχiʔ/
+tḫj	/ˈtiːχə/
+tḫn	/tɛxɛn/
+tj	/ti/
+tjkrṯ	/tikrɛt͡ʃ/
+tjmsqw	/timɛskuː/
+tjsw	/tisuː/
+tjt	/tit/
+tjtj	/titi/
+tjw	/tiuː/
+tjꜥꜣ	/tiɑːʔɑ/
+tkk	/tɛkɛk/
+tkn	/tɛkɛn/
+tkꜣ	/taːkəʔ/
+tkꜣ	/toːk/
+tkꜣ	/tɛkɑ/
+tkꜣ	/ˈtaːkaʀ/
+tkꜣw	/tiːk/
+tkꜣw	/tɛkɑuː/
+tkꜣw	/ˈtiːkiw/
+tkꜣw	/ˈtiːkəʔ/
+tm	/jaˈtaːmuw/
+tm	/tɛm/
+tm	/ʔaˈtaːməʔ/
+tm	/ʔaˈtoːm/
+tmm	/tɛmɛm/
+tmt	/tɛmɛt/
+tmꜣ	/tɛmɑ/
+tn	/tɛn/
+tnj	/tɛni/
+tnm	/tɛnɛm/
+tnmw	/tɛnɛmuː/
+tnṯ	/tɛnɛt͡ʃ/
+tnw	/tɛnuː/
+tp	/cʼap/
+tp	/tɛp/
+tp	/tʼap/
+tp-rnpt	/tɛp rɛnpɛt/
+tp-ꜥ	/tɛp ɑː/
+tpj	/taˈpij/
+tpj	/təˈpej/
+tpj	/tɛpi/
+tpj-ḏw.f	/tɛpi d͡ʒuːʔɛf/
+tpr	/tɛpɛr/
+tpt	/tɛpɛt/
+tr	/tɛr/
+tšꜣ	/tɛʃɑ/
+tšꜣ	/ˈtaːšaʀ/
+tšꜣ	/ˈtoːšə/
+ttj	/tɛti/
+ttj	/ˈtatij/
+tw	/tuː/
+tw.j	/tuːʔi/
+tw.k	/tuːʔɛk/
+tw.n	/tuːʔɛn/
+tw.t	/tuːʔɛt/
+tw.tn	/tuːʔtɛn/
+tw.tw	/tuːʔtuː/
+twn	/tuːn/
+twr	/tuːr/
+twt	/taˈwaːtij/
+twt	/tuːt/
+twt	/təˈwaːtəʔ/
+twt	/təˈwoːt/
+twt-ꜥnḫ-jmn	/tuːt ɑːnx imɛn/
+twt-ꜥnḫ-jmn	/təˈwaːtəʔ ˈʕaːnəχ ʔaˈmaːnəʔ/
+twt-ꜥnḫ-jmn	/təˈwoːt ˈʕoːnəχ ʔaˈmoːn/
+twt-ꜥnḫ-jmn-ḥqꜣ-jwnw-šmꜥw	/tuːt ɑːnx imɛn ħɛkɑ iuːnuː ʃɛmɑːuː/
+twt-ꜥnḫ-jtn	/tuːt ɑːnx itɛn/
+twy	/tuːiː/
+twꜣ	/tuːɑ/
+twꜣwt	/tuːɑuːt/
+tybꜣrys	/tiːbɑriːs/
+tyts	/tiːtɛs/
+ṯb	/t͡ʃɛb/
+ṯb-nṯr	/t͡ʃɛb nɛt͡ʃɛr/
+ṯb-nṯr	/ˌcabˈnaːcaɾ/
+ṯb-nṯr	/ˌtʃabˈnaːtaʔ/
+ṯb-nṯr	/ˌtʃəβˈnoːtə/
+ṯbwt	/t͡ʃɛbuːt/
+ṯḥn	/t͡ʃɛħɛn/
+ṯḥnt	/t͡ʃɛħnɛt/
+ṯḥnw	/t͡ʃɛħɛnuː/
+ṯḥw	/t͡ʃɛħuː/
+ṯm	/t͡ʃɛm/
+ṯmḥ	/t͡ʃɛmɛħ/
+ṯms	/t͡ʃɛmɛs/
+ṯmt	/t͡ʃɛmɛt/
+ṯmꜣ	/t͡ʃɛmɑ/
+ṯn	/t͡ʃɛn/
+ṯnḥr	/t͡ʃɛnħɛr/
+ṯnj	/t͡ʃɛni/
+ṯnj	/ˈcaːnaj/
+ṯnj	/ˈtaːnaj/
+ṯnj	/ˈtoːn/
+ṯnm	/t͡ʃɛnɛm/
+ṯnṯꜣt	/t͡ʃɛnt͡ʃɑt/
+ṯnw	/t͡ʃɛnuː/
+ṯnwt	/t͡ʃɛnuːt/
+ṯpḥt	/t͡ʃɛpħɛt/
+ṯrm	/t͡ʃɛrɛm/
+ṯrm	/ˈcaːɾam/
+ṯrm	/ˈt͡ʃaːɾam/
+ṯrm	/ˈt͡ʃoːɾəm/
+ṯrp	/t͡ʃɛrɛp/
+ṯrt	/t͡ʃɛrɛt/
+ṯrt	/ˈcaːɾat/
+ṯrt	/ˈtaːɾaʔ/
+ṯrt	/ˈtoːɾə/
+ṯš	/t͡ʃɛʃ/
+ṯw	/t͡ʃuː/
+ṯwfj	/t͡ʃawf/
+ṯwfj	/t͡ʃuːfi/
+ṯwn	/t͡ʃuːn/
+ṯwt	/t͡ʃuːt/
+ṯz	/ciːzuw/
+ṯz	/t͡ʃiːsuw/
+ṯz	/t͡ʃɛz/
+ṯz	/ˈt͡ʃiːs(ə)/
+ṯz-pẖr	/t͡ʃɛz pɛçɛr/
+ṯzj	/t͡ʃɛzi/
+ṯzj	/ˈciːzit/
+ṯzj	/ˈt͡ʃiːsiʔ/
+ṯzj	/ˈt͡ʃiːsə/
+ṯzm	/t͡ʃɛzɛm/
+ṯzt	/t͡ʃɛzɛt/
+ṯztj	/t͡ʃɛzti/
+ṯꜣ	/t͡ʃɑ/
+ṯꜣj	/t͡ʃɑi/
+ṯꜣj	/ˈciʀjit/
+ṯꜣj	/ˈt͡ʃiʀjiʔ/
+ṯꜣj	/ˈt͡ʃiːʔaʔ/
+ṯꜣj	/ˈt͡ʃiːʔə/
+ṯꜣm	/t͡ʃɑm/
+ṯꜣr	/t͡ʃɑr/
+ṯꜣtj	/t͡ʃɑti/
+ṯꜣtt	/t͡ʃɑtɛt/
+ṯꜣw	/teːw/
+ṯꜣw	/t͡ʃɑuː/
+ṯꜣw	/ˈciʀwit/
+ṯꜣw	/ˈcuʀwuw/
+ṯꜣw	/ˈtuʀwuw/
+ṯꜣw	/ˈt͡ʃiʀwiʔ/
+ṯꜣw	/ˈt͡ʃiːwə/
+ṯꜣy	/t͡ʃɑiː/
+tꜣ	/taʀ/
+tꜣ	/taʔ/
+tꜣ	/tiʀ/
+tꜣ	/tɑ/
+tꜣ	/tə/
+tꜣ	/təʔ/
+tꜣ šꜣsw yhwꜣ	/tɑ ʃɑsuː iːhuːɑ/
+tꜣ-ḏsr	/tɑ d͡ʒɛsɛr/
+tꜣ-mḥw	/tɑ mɛħuː/
+tꜣ-mrj	/tɑ mɛri/
+tꜣ-nt-jmn	/tɑ nɛt imɛn/
+tꜣ-nṯr	/taʀˈnaːcaɾ/
+tꜣ-nṯr	/taʀˈnaːtaʔ/
+tꜣ-nṯr	/taʔˈnoːtə/
+tꜣ-nṯr	/tɑ nɛt͡ʃɛr/
+tꜣ-tmw	/tɑ tɛmuː/
+tꜣ-ṯnn	/tɑ t͡ʃɛnɛn/
+tꜣ-wr	/taʔ weːɾ/
+tꜣ-wr	/tɑ wɛr/
+tꜣ-ꜣḫtjw	/tɑ ɑxtiuː/
+tꜣ-ꜥꜣbt	/tɑ ɑːʔɑbɛt/
+tꜣ-ꜥꜣbt	/təˈʕoːβə/
+tꜣ.f-nḫt	/tɑʔɛf nɛxɛt/
+tꜣhꜣrqꜣ	/tɑhɑrkɑ/
+tꜣj	/tɑi/
+tꜣnwꜣtj-jmn	/tɑnuːɑti imɛn/
+tꜣš	/taˈʀaʃ/
+tꜣš	/tɑʃ/
+tꜣš	/təˈʔaʃ/
+tꜣšj	/taʀˈʃij/
+tꜣšj	/taʀˈʃijwaw/
+tꜣšj	/tɑʃi/
+tꜣšj	/təʔˈʃejwəʔ/
+tꜣšj	/təʔˈʃeʔ/
+tꜣšj	/təˈʃeʔ/
+tꜣšj	/təˈʃeʔw/
+tꜣw	/toːw/
+tꜣw	/tɑuː/
+tꜣw	/ˈtaʀwaw/
+tꜣwj	/toːw/
+tꜣwj	/tɑuːi/
+tꜣwj	/ˈtaʀwVj/
+tꜣwj	/ˈtaːwəʔ/
+tꜣy	/tɑiː/
+w	/uː/
+wbd	/wɛbɛd/
+wbḫ	/waˈbaχ/
+wbḫ	/wəˈβaχ/
+wbḫ	/wɛbɛx/
+wbn	/wɛbɛn/
+wbnt	/wɛbnɛt/
+wbnw	/wɛbɛnuː/
+wbꜣ	/wɛbɑ/
+wbꜣ jb	/wɛbɑ ib/
+wbꜣyt	/wɛbɑiːt/
+wdfj	/wɛdɛfi/
+wdfj	/ˈwetʼfə/
+wdfj	/ˈwitʼfit/
+wdfj	/ˈwitʼfiʔ/
+wdḥw	/wɛdɛħuː/
+wdj	/wɛdi/
+wdn	/wɛdɛn/
+wdpw	/wɛdpuː/
+wḏ	/wɛd͡ʒ/
+wḏ-mdw	/wɛd͡ʒ mɛduː/
+wḏb	/wɛd͡ʒɛb/
+wḏb	/ˈwaːcʼab/
+wḏb	/ˈwaːtʼab/
+wḏb	/ˈwoːtʼəb/
+wḏj	/wɛd͡ʒi/
+wḏt	/wɛd͡ʒɛt/
+wḏyt	/wɛd͡ʒiːt/
+wḏꜣ	/wɛd͡ʒɑ/
+wḏꜣ jb	/wɛd͡ʒɑ ib/
+wḏꜣt	/wɛd͡ʒɑt/
+wḏꜥ	/wɛd͡ʒɑː/
+wḏꜥ	/ˈwaːcʼaʕ/
+wḏꜥ	/ˈwaːt͡ʃʼaʕ/
+wḏꜥ	/ˈwaːt͡ʃʼəʕ/
+wḏꜥ	/ˈwoːt͡ʃʼəʕ/
+wfj	/wɛfi/
+wfꜣ	/wɛfɑ/
+wfꜣ	/ˈwaf/
+wfꜣ	/ˈwafʀuw/
+wfꜣ	/ˈwafʔəʔ/
+wfꜣ	/ˈwaːfaʀ/
+wfꜣ	/ˈwaːfəʔ/
+wfꜣ	/ˈwoːf/
+wgg	/wɛɡɛɡ/
+wḥm	/wɛħɛm/
+wḥmt	/wɛħmɛt/
+wḥmyt	/wɛħmiːt/
+wḥyt	/wɛħiːt/
+wḥꜣ	/wɛħɑ/
+wḥꜣt	/wɛħɑt/
+wḥꜣt	/ˈwaħʀat/
+wḥꜣt	/ˈwaħʀaʔ/
+wḥꜣt	/ˈwaħʔə/
+wḥꜥ	/wɛħɑː/
+wḫd	/wɛxɛd/
+wḫdt	/wɛxdɛt/
+wḫdw	/wɛxɛduː/
+wḫt	/waˈχiːʀat/
+wḫt	/waˈχiːʀaʔ/
+wḫt	/wəˈχeːʔə/
+wḫt	/wəˈχiːʔa/
+wḫt	/wɛxɛt/
+wḫꜣ	/wiːχ/
+wḫꜣ	/wɛxɑ/
+wḫꜣ	/ˈwiːχiʀ/
+wḫꜣ	/ˈwiːχəʔ/
+wj	/wi/
+wjn	/win/
+wjꜣ	/wiɑ/
+wjꜣ-n-ḥḥw	/wiɑ ɛn ħɛħuː/
+wmt	/wɛmɛt/
+wmwt	/wɛmuːt/
+wn	/wan/
+wn	/waːn/
+wn	/woːn/
+wn	/wɛn/
+wnb	/wɛnɛb/
+wnḏw	/wɛnd͡ʒuː/
+wnḏwt	/wɛnɛd͡ʒuːt/
+wnf jb	/wɛnɛf ib/
+wngbw	/wɛnɛɡbuː/
+wnḫwj	/wɛnɛxuːi/
+wnj	/wɛni/
+wnj	/ˈwiːnit/
+wnj	/ˈwiːniʔ/
+wnj	/ˈwiːnə/
+wnjs	/wɛnis/
+wnjs	/ˈwanjas/
+wnm	/wɛnɛm/
+wnm	/ˈwaːnam/
+wnm	/ˈwoːnəm/
+wnmj	/wɛnmi/
+wnmt	/wɛnmɛt/
+wnmw	/wɛnɛmuː/
+wnn	/waˈnan/
+wnn	/wəˈnan/
+wnn	/wɛnɛn/
+wnn-nfr	/wɛnɛn nɛfɛr/
+wnnt	/wɛnɛnɛt/
+wnt	/wɛnɛt/
+wnwn	/wɛnuːn/
+wnwt	/wVˈnaːwat/
+wnwt	/wVˈnaːwaʔ/
+wnwt	/wəˈnaːʔəʔ/
+wnwt	/wəˈnoːʔ/
+wnwt	/wɛnuːt/
+wnwt-ḥwt-nṯr	/wɛnuːt ħuːt nɛt͡ʃɛr/
+wp-hrw	/wɛp hɛruː/
+wp-rnpt	/wɛp rɛnpɛt/
+wp-wꜣwt	/wɛp wɑuːt/
+wpj	/wɛpi/
+wprt	/wɛprɛt/
+wps	/wɛpɛs/
+wpt	/wɛpɛt/
+wpt r	/wɛpɛt ɛr/
+wpt r	/ˌwipitˈɾaʀ/
+wpt r	/ˌwipiʔˈɾaʀ/
+wpt r	/ˌwəpəʔˈɾaʔ/
+wpt r	/ˌwəpəˈɾaʔ/
+wpw	/wɛpuː/
+wpwt	/wɛpuːt/
+wpwt	/ˈwapwut/
+wpwt	/ˈwapwuʔ/
+wpwt	/ˈwapwə/
+wpwtj	/wapˈwutjVw/
+wpwtj	/wapˈwuːtij/
+wpwtj	/wəpˈweːt/
+wpwtj	/wəpˈwøtj/
+wpwtj	/wɛpuːti/
+wr	/weːɾ/
+wr	/wɛr/
+wr	/ˈwuːɾaw/
+wr ḥkꜣw	/wɛr ħɛkɑuː/
+wr-ḫrp-ḥmwt	/wɛr xɛrɛp ħɛmuːt/
+wr-mꜣw	/wɛr mɑuː/
+wrdw-jb	/wɛrɛduː ib/
+wrḏ	/wɛrɛd͡ʒ/
+wrḥ	/wɛrɛħ/
+wrm	/wVˈɾam/
+wrm	/wVˈɾaːm/
+wrm	/wəˈɾam/
+wrm	/wəˈɾoːm/
+wrm	/wɛrɛm/
+wrmt	/wɛrmɛt/
+wrr	/waˈɾaɾ/
+wrr	/waˈɾaʔ/
+wrr	/wəˈɾaʔ/
+wrr	/wɛrɛr/
+wrrt	/wVˈɾiɾjVt/
+wrrt	/wVˈɾiʔjVʔ/
+wrrt	/wəˈɾeʔjə/
+wrrt	/wɛrɛrɛt/
+wrryt	/wɛrɛriːt/
+wrs	/wɛrɛs/
+wrš	/wɛrɛʃ/
+wršy	/wɛrʃiː/
+wrt	/wɛrɛt/
+wrt	/ˈweːɾə/
+wrt	/ˈwuːɾat/
+wrt	/ˈwuːɾaʔ/
+ws	/wɛs/
+wsḫ	/wɛsɛx/
+wsḫt	/wɛsxɛt/
+wsḫt	/ˈwesχə/
+wsḫt	/ˈwisχat/
+wsḫt	/ˈwisχaʔ/
+wsj	/wɛsi/
+wsj	/ˈwiːsit/
+wsj	/ˈwiːsiʔ/
+wsj	/ˈwiːsə/
+wsjr	/wasˈjiːɾit/
+wsjr	/wasˈjiːɾiʔ/
+wsjr	/wəsˈʔiːɾaʔ/
+wsjr	/wəˈsiːɾə/
+wsjr	/wɛsir/
+wsn	/wɛsɛn/
+wspjsyns	/wɛspisiːnɛs/
+wsr	/wɛsɛr/
+wsr-mnṯw	/wɛsɛr mɛnt͡ʃuː/
+wsr-mꜣꜥt-rꜥ	/usmaʕˈɾeːʕ/
+wsr-mꜣꜥt-rꜥ	/wasmuʕəˈɾeːʕə/
+wsr-mꜣꜥt-rꜥ	/əsmaɾˈɾeː~əsmanˈɾeː/
+wsrt	/wɛsrɛt/
+wsrw	/wɛsɛruː/
+wst	/wɛsɛt/
+wsṯn	/wɛst͡ʃɛn/
+wsṯn	/ˈwascan/
+wsṯn	/ˈwastan/
+wsṯn	/ˈwastən/
+wš	/wɛʃ/
+wšb	/wɛʃɛb/
+wšb	/ˈwaːʃab/
+wšb	/ˈwoːʃəβ/
+wšd	/wɛʃɛd/
+wšd	/ˈwaːʃatʼ/
+wšd	/ˈwoːʃətʼ/
+wšn	/wɛʃɛn/
+wšr	/wɛʃɛr/
+wšš	/wɛʃɛʃ/
+wt	/wɛt/
+wtḫ	/wɛtɛx/
+wtṯ	/wɛtɛt͡ʃ/
+wṯz	/wɛt͡ʃɛz/
+wzf	/wɛzɛf/
+wzf	/ˈwaːsaf/
+wzf	/ˈwaːzaf/
+wzf	/ˈwoːsəf/
+wzfw	/wɛzɛfuː/
+wzš	/wɛzɛʃ/
+wꜣ	/wɑ/
+wꜣb	/wɑb/
+wꜣḏ	/wɑd͡ʒ/
+wꜣḏ	/ˈwaːʀicʼ/
+wꜣḏ	/ˈwaːʀitʼ/
+wꜣḏ	/ˈwoːʔətʼ/
+wꜣḏ-ns	/wɑd͡ʒ nɛs/
+wꜣḏ-wr	/wɑd͡ʒ wɛr/
+wꜣḏ-wr	/ˈwaːʀacʼ ˈwuːɾaw/
+wꜣḏ-wr	/ˈwaːʀatʼ ˈwuːɾaw/
+wꜣḏ-wr	/ˈwoːʔətʼ weːɾ/
+wꜣḏt	/wɑd͡ʒɛt/
+wꜣḏw	/wɑd͡ʒuː/
+wꜣg	/wɑɡ/
+wꜣḥ	/wɑħ/
+wꜣḥ	/ˈwaːʀaħ/
+wꜣḥ	/ˈwoːʔəħ/
+wꜣḥ jb	/wɑħ ib/
+wꜣḥ-nsyt-mj-rꜥ-m-pt	/wɑħ nɛsiːt mi rɑː ɛm pɛt/
+wꜣḥyt	/wɑħiːt/
+wꜣḫj	/wɑxi/
+wꜣj	/wɑi/
+wꜣjwrjy	/wɑiuːriʔiː/
+wꜣr	/wɑr/
+wꜣs	/wɑs/
+wꜣsj	/wɑsi/
+wꜣst	/wɑsɛt/
+wꜣsꜣrkn	/wɑsɑrkɛn/
+wꜣt	/wɑt/
+wꜣw	/wɑuː/
+wꜣwꜣt	/wɑuːɑt/
+wꜣyšꜣtjsꜣpy	/wɑiːʃɑtisɑpiː/
+wꜥ	/wɑː/
+wꜥ	/wəʕ/
+wꜥ	/ˈwuʕʕuw/
+wꜥ	/ˈwuʕʕəʔ/
+wꜥ	/ˈwøʕʕ/
+wꜥ m	/wɑː ɛm/
+wꜥ n	/wɑː ɛn/
+wꜥ wꜥ	/wɑː wɑː/
+wꜥb	/waˈʕab/
+wꜥb	/wɑːb/
+wꜥb	/wəˈʕap/
+wꜥb	/ˈweːʕəp/
+wꜥb	/ˈwiːʕab/
+wꜥbt	/wɑːbɛt/
+wꜥf	/wɑːf/
+wꜥḥ	/wɑːħ/
+wꜥj	/wɑːi/
+wꜥj	/ˈwiʕjit/
+wꜥr	/wɑːr/
+wꜥrt	/wɑːrɛt/
+wꜥtj	/wuʕˈtij/
+wꜥtj	/wɑːti/
+wꜥtj	/wəʕˈteʔ/
+wꜥw	/wɑːuː/
+wꜥw	/ˈweːʕ(ə)/
+wꜥw	/ˈwiːʕiw/
+wꜥw	/ˈwiːʕəʔ/
+wꜥꜣ	/wiˈʕiʀ/
+wꜥꜣ	/wɑːʔɑ/
+wꜥꜣ	/wəˈʕej/
+wꜥꜥw	/wɑːʔɑːuː/
+yḥ	/iːħ/
+ym	/iːm/
+ypw	/iːpuː/
+yrdwnꜣ	/iːrduːnɑ/
+ysrjꜣr	/iːsriɑr/
+ywd-hmꜥrwk	/iːuːd hɛmɑːruːk/
+ywnj	/iːuːni/
+ywnj-ꜥꜣ	/iːuːni ɑːʔɑ/
+yꜣ	/iːɑ/
+yꜥqb-hr	/iːɑːkɛb hɛr/
+z	/seːw/
+z	/suʀ/
+z	/suʔ/
+z	/søʔ/
+z	/zuʀ/
+z	/zɑ/
+z	/zɛ/
+z	/ˈsuʀwaw/
+z	/ˈsuːwəʔ/
+z	/ˈzuʀwaw/
+z-n-wsrt	/suʀ nij ˈwasɾiʔ/
+z-n-wsrt	/søʔ nə ˈwasɾə/
+z-n-wsrt	/zuʀ nij ˈwasɾit/
+z-n-wsrt	/zɛ ɛn wɛsrɛt/
+zbj	/zɛbi/
+zbn	/zɛbɛn/
+zbṯ	/zɛbɛt͡ʃ/
+zfn	/zɛfɛn/
+zft	/zɛfɛt/
+zft	/ˈseːfə/
+zft	/ˈsiːfaʔ/
+zft	/ˈziːfat/
+zfṯ	/zɛfɛt͡ʃ/
+zfṯ	/ˈsaːfaʔ/
+zfṯ	/ˈsoːfə/
+zfṯ	/ˈzaːfac/
+zfṯyw	/zɛft͡ʃiːuː/
+zḥ	/zɛħ/
+zḥ-nṯr	/zɛħ nɛt͡ʃɛr/
+zḫj	/zɛxi/
+zḫn	/zɛxɛn/
+zḫz	/zɛxɛz/
+zẖj	/zɛçi/
+zẖꜣ	/siˈçiʀ/
+zẖꜣ	/səˈçej/
+zẖꜣ	/ziˈçiʀ/
+zẖꜣ	/zɛçɑ/
+zẖꜣw	/saç/
+zẖꜣw	/saçˈʀaːwaw/
+zẖꜣw	/səçˈʔaːjəʔ/
+zẖꜣw	/səˈçoːj/
+zẖꜣw	/zaçˈʀaːwaw/
+zẖꜣw	/zɛçɑuː/
+zẖꜣw	/ˈsaçʀaw/
+zẖꜣw	/ˈsaçʔəʔ/
+zẖꜣw	/ˈzaçʀaw/
+zẖꜣw n ṯmꜣ	/zɛçɑuː ɛn t͡ʃɛmɑ/
+zj	/zi/
+zj n sḏt	/zi ɛn sɛd͡ʒɛt/
+zjn	/zin/
+zjnw	/zinuː/
+zjnw	/ˈsejn/
+zjnw	/ˈsijnVw/
+zjnw	/ˈzijnVw/
+zkr	/zɛkɛr/
+zkr	/ˈsaːkaʔ/
+zkr	/ˈsoːkə/
+zkr	/ˈzaːkaɾ/
+zmyt	/zɛmiːt/
+zmꜣ	/saˈmaʀ/
+zmꜣ	/səˈmaʔ/
+zmꜣ	/zaˈmaʀ/
+zmꜣ	/zɛmɑ/
+zmꜣ tꜣ	/zɛmɑ tɑ/
+zmꜣyt	/zɛmɑiːt/
+zn	/zɛn/
+znb	/zɛnɛb/
+znbt	/zɛnbɛt/
+znf	/siˈnaf/
+znf	/səˈnaf/
+znf	/ziˈnaf/
+znf	/zɛnɛf/
+znḥm	/sunˈħuːmVw/
+znḥm	/sənˈħeːm/
+znḥm	/zunˈħuːmVw/
+znḥm	/zɛnħɛm/
+znj	/zɛni/
+znj	/ˈsiːniʔ/
+znj	/ˈsiːnə/
+znj	/ˈziːnit/
+znj mnt	/zɛni mɛnɛt/
+znj mnt	/ˌsiniʔˈmaːnaʔ/
+znj mnt	/ˌsənəˈmaːnaʔ/
+znj mnt	/ˌsənəˈmoːnə/
+znt	/zɛnɛt/
+zp	/sap/
+zp	/zap/
+zp	/zɛp/
+zp-tpj	/zɛp tɛpi/
+zpj	/zɛpi/
+zpt	/zɛpɛt/
+zpwj snwj	/zɛpuːi sɛnuːi/
+zpꜣ	/zɛpɑ/
+zr	/zɛr/
+zšj	/zɛʃi/
+zšn	/zaˈʃaːʃan/
+zšn	/zɛʃɛn/
+zšn	/ˈsaːʃan/
+zšn	/ˈsoːʃən/
+zššt	/zɛʃɛʃɛt/
+zšy	/zɛʃiː/
+zšꜣ	/zɛʃɑ/
+zt	/suʔ/
+zt	/søʔ/
+zt	/zut/
+zt	/zɛt/
+zt-ḥmt	/zɛt ħɛmɛt/
+zt-ḥmt	/ˌsuʔˈħiːmaʔ/
+zt-ḥmt	/ˌsəˈħiːmə/
+zt-ḥmt	/ˌzutˈħiːmat/
+zwn	/zuːn/
+zwr	/zuːr/
+zwr	/ˈsaːwaj/
+zwr	/ˈsaːwəʔ/
+zwr	/ˈsoːw/
+zwr	/ˈzaːwaɾ/
+zwt	/zuːt/
+zy	/ziː/
+zy nw	/ziː nuː/
+zꜣ	/siːʔ/
+zꜣ	/zɑ/
+zꜣ	/ˈsiːʀ/
+zꜣ	/ˈsiːʔ/
+zꜣ	/ˈziːʀ/
+zꜣ-jmn	/zɑ imɛn/
+zꜣ-nht	/zɑ nɛhɛt/
+zꜣ-nswt	/zɑ nɛsuːt/
+zꜣ-ptḥ	/zɑ pɛtɛħ/
+zꜣ-rꜥ	/siːʔ ˈɾeːʕ/
+zꜣ-rꜥ	/zɑ rɑː/
+zꜣ-rꜥ	/ˈsiːʀuw ˈɾiːʕuw/
+zꜣ-rꜥ	/ˈsiːʔəʔ ˈɾiːʕəʔ/
+zꜣ-rꜥ	/ˈziːʀuw ˈɾiːʕuw/
+zꜣ-sbk	/zɑ sɛbɛk/
+zꜣ-tꜣ	/zɑ tɑ/
+zꜣ-tꜣ	/ˈsiʀtaʀ/
+zꜣ-tꜣ	/ˈsiːt(ə)/
+zꜣ-tꜣ	/ˈsiːtəʔ/
+zꜣ-tꜣ	/ˈziʀtaʀ/
+zꜣ-ꜣst	/zɑ ɑsɛt/
+zꜣb	/zɑb/
+zꜣb	/ˈsiːʀib/
+zꜣb	/ˈsiːʔəβ/
+zꜣb	/ˈziːʀib/
+zꜣt	/zɑt/
+zꜣt	/ˈsiːʀuʔ/
+zꜣt	/ˈsiːʔaʔ/
+zꜣt	/ˈsiːʔə/
+zꜣt	/ˈziːʀut/
+zꜣt-nswt	/zɑt nɛsuːt/
+zꜣṯ	/zɑt͡ʃ/
+zꜣṯw	/zɑt͡ʃuː/
+zꜣw	/zɑuː/
+zꜣwtj	/sVʀˈjawtVj/
+zꜣwtj	/səʔˈjawtəʔ/
+zꜣwtj	/səˈjawt/
+zꜣwtj	/zVʀˈjawtVj/
+zꜣwtj	/zɑuːti/
+zꜣy	/zɑiː/
+ꜣ	/ɑ/
+ꜣb	/ɑb/
+ꜣbb	/ɑbɛb/
+ꜣbb	/ʔəˈβaβ/
+ꜣbd	/ɑbɛd/
+ꜣbd	/ʀaˈbatʼ/
+ꜣbd	/ʀaˈbutʼw/
+ꜣbd	/ʀaˈbuːtʼaw/
+ꜣbd	/ʔəˈβatʼ/
+ꜣbd	/ʔəˈβeːtʼ/
+ꜣbd	/ʔəˈβøtʼʔ/
+ꜣbḏw	/ɑbɛd͡ʒuː/
+ꜣbḏw	/ʀaˈbaːcʼaw/
+ꜣbḏw	/ʀaˈbaːtʼaw/
+ꜣbḏw	/ʔəˈβoːtʼ/
+ꜣbḫ	/ɑbɛx/
+ꜣbḫ	/ˈʀaːbaχ/
+ꜣbḫ	/ˈʔoːβəχ/
+ꜣbḫt	/ɑbxɛt/
+ꜣbj	/ɑbi/
+ꜣbnjnj	/ɑbnini/
+ꜣbnn	/ɑbnɛn/
+ꜣbt	/ɑbɛt/
+ꜣbw	/ɑbuː/
+ꜣbw	/ʔoːβ/
+ꜣbw	/ˈjeːβ/
+ꜣbw	/ˈjuːbəʔ/
+ꜣbw	/ˈʀaːbaw/
+ꜣbw	/ˈʀuːbaw/
+ꜣbw	/ˈʔaːbəʔ/
+ꜣbw-nṯr	/ɑbuː nɛt͡ʃɛr/
+ꜣbwt	/ɑbuːt/
+ꜣby	/ɑbiː/
+ꜣby mḥw	/ɑbiː mɛħuː/
+ꜣby šmꜥ	/ɑbiː ʃɛmɑː/
+ꜣbyt	/ɑbiːt/
+ꜣbꜣb	/ɑbɑb/
+ꜣd	/ɑd/
+ꜣd	/ʀaːtʼ/
+ꜣd	/ʔaːtʼ/
+ꜣd	/ʔoːtʼ/
+ꜣd jb r	/ɑd ib ɛr/
+ꜣdt	/ɑdɛt/
+ꜣdw	/ɑduː/
+ꜣdw	/ʔoːtʼ/
+ꜣdw	/ˈʀaːtʼaw/
+ꜣdw	/ˈʔaːtʼəʔ/
+ꜣf	/ɑf/
+ꜣfj	/ɑfi/
+ꜣfjw	/ɑfiuː/
+ꜣfr	/ɑfɛr/
+ꜣfꜣf	/ɑfɑf/
+ꜣfꜥ	/ɑfɑː/
+ꜣgbj	/ɑɡbi/
+ꜣhd	/ɑhɛd/
+ꜣhmt	/ɑhmɛt/
+ꜣhw	/ɑhuː/
+ꜣḥ	/ɑħ/
+ꜣḥt	/ɑħɛt/
+ꜣḥt	/ˈjoːħə/
+ꜣḥt	/ˈʀaːħat/
+ꜣḥt	/ˈʀaːħaʔ/
+ꜣḫ	/ɑx/
+ꜣḫ	/ʀaːχ/
+ꜣḫ	/ʔaːχ/
+ꜣḫ	/ʔoːχ/
+ꜣḫ	/ˈʀiːχuw/
+ꜣḫ	/ˈʔiːχ/
+ꜣḫ	/ˈʔiːχəʔ/
+ꜣḫ jb	/ɑx ib/
+ꜣḫ m jb	/ɑx ɛm ib/
+ꜣḫ n	/ɑx ɛn/
+ꜣḫ-bjt	/ɑx bit/
+ꜣḫ-n-jtn	/ɑx ɛn itɛn/
+ꜣḫ-n-jtn	/ˈʔuːχəʔ nə ˈjaːtəj/
+ꜣḫf	/ɑxɛf/
+ꜣḫfḫf	/ɑxɛfxɛf/
+ꜣḫt	/ɑxɛt/
+ꜣḫt-ḫw.f-wj	/ɑxɛt xuːfuː/
+ꜣḫt-ḫw.f-wj	/ɑxɛt xuːʔɛf wi/
+ꜣḫt-jtn	/ɑxɛt itɛn/
+ꜣḫtj	/ɑxti/
+ꜣḫw	/ɑxuː/
+ꜣḫw	/ˈʀaːχaw/
+ꜣḫw	/ˈʔaːχəʔ/
+ꜣḫw	/ˈʔoːχ/
+ꜣḫyt	/ɑxiːt/
+ꜣḫꜣḫ	/ɑxɑx/
+ꜣẖꜥ	/ɑçɑː/
+ꜣẖꜥt	/ɑçɑːt/
+ꜣj	/ɑi/
+ꜣjs	/ɑis/
+ꜣjs n ḏnnt	/ɑis ɛn d͡ʒɛnɛnɛt/
+ꜣjwj	/ɑiuːi/
+ꜣk	/ɑk/
+ꜣkr	/ɑkɛr/
+ꜣkwt	/ɑkuːt/
+ꜣm	/ɑm/
+ꜣmj	/ɑmi/
+ꜣmm	/ɑmɛm/
+ꜣmm	/ʀaˈmam/
+ꜣmm	/ʔəˈmam/
+ꜣmmt	/ɑmɛmɛt/
+ꜣmmw	/ɑmɛmuː/
+ꜣms	/ɑmɛs/
+ꜣms-jb	/ɑmɛs ib/
+ꜣmw	/ɑmuː/
+ꜣmwt	/ɑmuːt/
+ꜣmꜥ	/ɑmɑː/
+ꜣmꜥt	/ɑmɑːt/
+ꜣpd	/ɑpɛd/
+ꜣpd	/ˈʀaːpVtʼ/
+ꜣpd	/ˈʔoːpətʼ/
+ꜣpdwt	/ɑpduːt/
+ꜣpḥ	/ɑpɛħ/
+ꜣpꜣrwywsꜣ	/ɑpɑruːiːuːsɑ/
+ꜣq	/ɑk/
+ꜣqḥw	/ɑkɛħuː/
+ꜣqw	/ɑkuː/
+ꜣr	/ɑr/
+ꜣrwksjndrs	/ɑruːksinɛdrɛs/
+ꜣrwtꜣḫšꜣšꜣs	/ɑruːtɑxʃɑʃɑs/
+ꜣryt	/ɑriːt/
+ꜣs	/ɑs/
+ꜣs jb	/ɑs ib/
+ꜣsbyw	/ɑsbiːuː/
+ꜣsḫ	/ɑsɛx/
+ꜣst	/ɑsɛt/
+ꜣst	/ˈʀuːsat/
+ꜣst	/ˈʀuːsaʔ/
+ꜣst	/ˈʔeːsə/
+ꜣst	/ˈʔuːsaʔ/
+ꜣst-m-ꜣḫ-bjt	/ɑsɛt ɛm ɑx bit/
+ꜣst-nfrt	/ɑsɛt nɛfrɛt/
+ꜣš	/ɑʃ/
+ꜣšr	/ɑʃɛr/
+ꜣšrt	/ɑʃrɛt/
+ꜣt	/ɑt/
+ꜣtf	/ɑtɛf/
+ꜣtjwt	/ɑtiuːt/
+ꜣtp	/ɑtɛp/
+ꜣtpwt	/ɑtpuːt/
+ꜣtyt	/ɑtiːt/
+ꜣṯj	/ɑt͡ʃi/
+ꜣṯp	/ɑt͡ʃɛp/
+ꜣṯp	/ˈʀaːcap/
+ꜣṯp	/ˈʀaːtap/
+ꜣṯp	/ˈʔoːtəp/
+ꜣṯpw	/ɑt͡ʃɛpuː/
+ꜣṯt	/ɑt͡ʃɛt/
+ꜣṯwt	/ɑt͡ʃuːt/
+ꜣṯyt	/ɑt͡ʃiːt/
+ꜣw	/ɑuː/
+ꜣw	/ʀaw/
+ꜣw	/ʔaw/
+ꜣw-ḥr	/ɑuː ħɛr/
+ꜣwḥ	/ɑuːħ/
+ꜣwḫ	/ɑuːx/
+ꜣwj	/ɑuːi/
+ꜣwj	/ʔoːw/
+ꜣwj	/ˈʀaːwaj/
+ꜣwj ḏrt	/ɑuːi d͡ʒɛrɛt/
+ꜣwj ḏrt r	/ɑuːi d͡ʒɛrɛt ɛr/
+ꜣwj-jb	/ɑuːi ib/
+ꜣwj-ꜥ	/ɑuːi ɑː/
+ꜣwr	/ɑuːr/
+ꜣwsw	/ɑuːsuː/
+ꜣwšꜣ	/ɑuːʃɑ/
+ꜣwšꜣmm	/ɑuːʃɑmɛm/
+ꜣwšꜣmm	/ʔuʀuʃalimum/
+ꜣwt	/ɑuːt/
+ꜣwt-jb	/ɑuːt ib/
+ꜣwt-ꜥ	/ɑuːt ɑː/
+ꜣwtqrtr	/ɑuːtɛkrɛtɛr/
+ꜣyt	/ɑiːt/
+ꜣz	/ɑz/
+ꜣzb	/ɑzɛb/
+ꜣzḫ	/ɑzɛx/
+ꜣzḫ	/ˈʀaːsaχ/
+ꜣzḫ	/ˈʀaːzaχ/
+ꜣzḫ	/ˈʔoːsəχ/
+ꜣꜣ	/ɑʔɑ/
+ꜣꜣt	/ɑʔɑt/
+ꜣꜣtꜣ	/ɑʔɑtɑ/
+ꜣꜥbt	/ɑʔɑːbɛt/
+ꜣꜥfj	/ɑʔɑːfi/
+ꜣꜥw	/ɑʔɑːuː/
+ꜣꜥz	/ɑʔɑːz/
+ꜣꜥꜥ	/ɑʔɑːʔɑː/
+ꜣꜥꜥbw	/ɑʔɑːɑːbuː/
+ꜣꜥꜥnj	/ɑʔɑːɑːni/
+ꜣꜥꜥt	/ɑʔɑːɑːt/
+ꜣꜥꜥw	/ɑʔɑːɑːuː/
+ꜣꜥꜥwj	/ɑʔɑːɑːuːi/
+ꜥ	/duːj/
+ꜥ	/ɑː/
+ꜥ	/ʕeːj/
+ꜥ	/ʕuːj/
+ꜥ-ẖnwtj	/ɑː çɛnuːti/
+ꜥb	/ɑːb/
+ꜥbḫn	/ɑːbxɛn/
+ꜥbj	/ɑːbi/
+ꜥbnḫ	/ɑːbnɛx/
+ꜥbw	/ɑːbuː/
+ꜥbw	/ˈʕaːbaw/
+ꜥbw	/ˈʕoːβ/
+ꜥbꜣ	/ɑːbɑ/
+ꜥbꜥb	/ɑːbɑːb/
+ꜥḏ	/ɑːd͡ʒ/
+ꜥḏ-jb	/ɑːd͡ʒ ib/
+ꜥḏt	/ɑːd͡ʒɛt/
+ꜥf	/ɑːf/
+ꜥfḏt	/ɑːfd͡ʒɛt/
+ꜥff	/ɑːfɛf/
+ꜥff	/ˈʕuffVj/
+ꜥff	/ˈʕøff/
+ꜥftj	/ɑːfti/
+ꜥfꜣy	/ɑːfɑiː/
+ꜥgt	/ɑːɡɛt/
+ꜥḥ	/ɑːħ/
+ꜥḥꜣ	/ɑːħɑ/
+ꜥḥꜣw	/ɑːħɑuː/
+ꜥḥꜣwtj	/ɑːħɑuːti/
+ꜥḥꜣwtj	/ʕaħˈʀawtij/
+ꜥḥꜣwtj	/ʕəˈħawt/
+ꜥḥꜥ	/ɑːħɑː/
+ꜥḥꜥ	/ˈʕaːħaʕ/
+ꜥḥꜥ	/ˈʕaːħəʕ/
+ꜥḥꜥ	/ˈʕoːħəʕ/
+ꜥḥꜥw	/ɑːħɑːuː/
+ꜥḥꜥw	/ˈjaħjaw/
+ꜥḥꜥw	/ˈʕaħʕaw/
+ꜥḫḫw	/ɑːxɛxuː/
+ꜥḫm	/ɑːxɛm/
+ꜥḫm	/ˈʕaːχam/
+ꜥḫm	/ˈʕoːχəm/
+ꜥẖj	/ɑːçi/
+ꜥẖm	/ɑːçɛm/
+ꜥẖm	/ʕaˈçaːmaw/
+ꜥẖm	/ʕaˈçoːm/
+ꜥẖmw nw ꜣḫt	/ɑːçmuː nuː ɑxɛt/
+ꜥkꜣ	/ɑːkɑ/
+ꜥm	/ɑːm/
+ꜥm jb	/ɑːm ib/
+ꜥm-ḥḥ	/ɑːm ħɛħ/
+ꜥm-mwt	/ɑːm muːt/
+ꜥm-myt	/ɑːm miːt/
+ꜥmḏ	/ɑːmɛd͡ʒ/
+ꜥmḏ	/ˈʕoːmət͡ʃʼ/
+ꜥmm	/ɑːmɛm/
+ꜥmr	/ɑːmɛr/
+ꜥmt-mwt	/ɑːmɛt muːt/
+ꜥmꜣ-myt	/ɑːmɑ miːt/
+ꜥmꜥm	/ɑːmɑːm/
+ꜥmꜥt	/ɑːmɑːt/
+ꜥmꜥt	/ˈʕamʕat/
+ꜥmꜥt	/ˈʕamʕaʔ/
+ꜥmꜥt	/ˈʕamʕə/
+ꜥmꜥꜣ	/ɑːmɑːʔɑ/
+ꜥmꜥꜣt	/ɑːmɑːʔɑɛt/
+ꜥn	/ɑːn/
+ꜥnb	/ɑːnɛb/
+ꜥnb	/ʕVˈnaːbVw/
+ꜥnb	/ʕaˈnoːβə/
+ꜥnḏ	/ɑːnɛd͡ʒ/
+ꜥnḏw	/ɑːnd͡ʒuː/
+ꜥnḏw	/ʕanˈcʼawwuw/
+ꜥnḏw	/ʕanˈtʼawwuw/
+ꜥnḏw	/ʕənˈtʼaww(ə)/
+ꜥnḫ	/ɑːnx/
+ꜥnḫ	/ʕaˈnaχ/
+ꜥnḫ	/ˈʕaːnaχ/
+ꜥnḫ	/ˈʕaːnəχ/
+ꜥnḫ	/ˈʕoːnəχ/
+ꜥnḫ ḏt	/ɑːnx d͡ʒɛt/
+ꜥnḫ wḏꜣ snb	/ɑːnx wɛd͡ʒɑ sɛnɛb/
+ꜥnḫ.s-n-jmn	/ɑːnxʔɛs ɛn imɛn/
+ꜥnḫ.tj	/ɑːnxʔti/
+ꜥnḫ.tj ḏt	/ɑːnxʔti d͡ʒɛt/
+ꜥnḫwj	/ɑːnxuːi/
+ꜥnj	/ɑːni/
+ꜥnn	/ɑːnɛn/
+ꜥnn	/ʕaˈnan/
+ꜥnq	/ɑːnɛk/
+ꜥnqt	/ɑːnkɛt/
+ꜥnt	/ɑːnɛt/
+ꜥntj	/ɑːnti/
+ꜥntjt	/ɑːntit/
+ꜥntjw	/ɑːntiuː/
+ꜥnꜥn	/ɑːnɑːn/
+ꜥpj	/ɑːpi/
+ꜥpr	/ɑːpɛr/
+ꜥpšꜣy	/ɑːpʃɑiː/
+ꜥq	/ɑːk/
+ꜥq	/ʕaːqʼ/
+ꜥq	/ʕoːqʼ/
+ꜥqw	/ɑːkuː/
+ꜥqw	/ˈʕaqʼw/
+ꜥqw	/ˈʕaqʼwuw/
+ꜥqyt	/ɑːkiːt/
+ꜥqꜣ	/ɑːkɑ/
+ꜥrf	/ɑːrɛf/
+ꜥrq	/ɑːrɛk/
+ꜥrq	/ʕaˈlaqʼ/
+ꜥrq	/ʕaˈlaːqʼaw/
+ꜥrq	/ʕaˈloːqʼ/
+ꜥrq	/ˈʕaːlaqʼ/
+ꜥrq	/ˈʕoːləqʼ/
+ꜥrqy	/ɑːrkiː/
+ꜥrrwt	/ɑːrɛruːt/
+ꜥrt	/ɑːrɛt/
+ꜥsṯjrṯt	/ɑːst͡ʃirt͡ʃɛt/
+ꜥš	/ɑːʃ/
+ꜥš	/ʕaːʃ/
+ꜥš	/ʕoːʃ/
+ꜥšm	/ɑːʃɛm/
+ꜥšꜣ	/ɑːʃɑ/
+ꜥšꜣ	/ʕaˈʃej/
+ꜥšꜣ	/ʕiˈʃiʀ/
+ꜥšꜣ-r	/ɑːʃɑ ɛr/
+ꜥšꜣ-r	/ʕiˌʃiʀˈɾaʀ/
+ꜥšꜣt	/ɑːʃɑt/
+ꜥt	/ɑːt/
+ꜥt nt ḫt	/ɑːt nɛt xɛt/
+ꜥt sbꜣw	/ɑːt sɛbɑuː/
+ꜥtḫ	/ɑːtɛx/
+ꜥwn-jb	/ɑːuːn ib/
+ꜥwt	/ɑːuːt/
+ꜥwꜣ	/ɑːuːɑ/
+ꜥwꜣj	/ɑːuːɑi/
+ꜥwꜣy	/ɑːuːɑiː/
+ꜥꜣ	/iʕaʀ/
+ꜥꜣ	/ɑːʔɑ/
+ꜥꜣ	/ʕaʀ/
+ꜥꜣ	/ʕaʔ/
+ꜥꜣ	/ʕoʔ/
+ꜥꜣb	/ɑːʔɑb/
+ꜥꜣdt	/ɑːʔɑdɛt/
+ꜥꜣg	/ɑːʔɑɡ/
+ꜥꜣj	/ɑːʔɑi/
+ꜥꜣj	/ˈʕiʀjit/
+ꜥꜣj	/ˈʕiʀjiʔ/
+ꜥꜣj	/ˈʕiːʔə/
+ꜥꜣm	/ɑːʔɑm/
+ꜥꜣm-myt	/ɑːʔɑm miːt/
+ꜥꜣmt	/ɑːʔɑmɛt/
+ꜥꜣnbpꜣjr	/ɑːʔɑnɛbpɑir/
+ꜥꜣpp	/ɑːʔɑpɛp/
+ꜥꜣpp	/ʕVʀˈpaːpVw/
+ꜥꜣpp	/ʕaʔˈpaːpəʔ/
+ꜥꜣpp	/ʕaˈpoːp/
+ꜥꜣt	/ɑːʔɑt/
+ꜥꜣw	/ɑːʔɑuː/
+ꜥꜣꜥ	/ɑːʔɑʔɑː/
+ꜥꜥb	/ɑːʔɑːb/
+ꜥꜥft	/ɑːʔɑːfɛt/
+ꜥꜥj	/ɑːʔɑːi/
+ꜥꜥw	/ɑːʔɑːuː/
