@@ -5,6 +5,7 @@
 -ওয়ালা	wala
 -কনা	kona
 -কামী	kami
+-কারী	kari
 -কোনা	kona
 -খনা	khona
 -খলা	khola
@@ -116,6 +117,7 @@ diminutive: ওলদ.	waled
 অঙ্গারক	ongarok
 অঙ্গারে	onggare
 অঙ্গারের	onggarer
+অঙ্গীকার	ongikar
 অঙ্গুরি	onguri
 অঙ্গুরিসদৃশ	ongurisdris
 অঙ্গুষ্ঠ	angusth
@@ -128,6 +130,7 @@ diminutive: ওলদ.	waled
 অচেবা	ocena
 অছিয়তনামা	osiyotnama
 অজগর	ojgor
+অজগর	ojogor
 অজু	ozu
 অজ্ঞেয়বাদ	oggeybad
 অঞ্চল	oncol
@@ -262,7 +265,9 @@ diminutive: ওলদ.	waled
 অপরাধমূলক	opradhmulok
 অপরাধী	opradhi
 অপরাধীর ঠাঁই নাই	opradhir thai nai
+অপহুজুর	opohuzur
 অপাদান	opadan
+অপারেশন	opareson
 অপূর্ব	opurb
 অপূর্ব	opurbo
 অপেক্ষা	opekkha
@@ -376,6 +381,7 @@ diminutive: ওলদ.	waled
 অলাত	olat
 অলি	oli
 অলিন্দ	olind
+অলিমা	olima
 অলিম্পিক	olimpik
 অলিম্পিক গেমস	olimpik gemos
 অলিম্পিক্স	olimpiks
@@ -421,6 +427,8 @@ diminutive: ওলদ.	waled
 অস্তিত্ব	ostitto
 অস্তিত্ববাদ	ostitbad
 অস্ত্র	ostr
+অস্ত্র	ostro
+অস্ত্রচিকিৎসা	ostrocikitsa
 অস্ত্রবিরতি	ostrobiroti
 অস্ত্রসস্ত্র	ostrosostr
 অস্ত্রোপচার	ostropocar
@@ -471,6 +479,8 @@ diminutive: ওলদ.	waled
 আঁই	ai
 আঁই	noakhali
 আঁই	vanga
+আঁইড়া	aira
+আঁইড়্যা	airja
 আঁকা	aka
 আঁখি	akhi
 আঁখিজল	akhijol
@@ -554,7 +564,7 @@ diminutive: ওলদ.	waled
 আওরত	aorot
 আওহাল	aohal
 আক	ak
-আকচার(archaic)	akcar
+আকচার	akcar
 আকছার	akchar
 আকড়িয়া	akoriya
 আকতা	akta
@@ -662,6 +672,8 @@ diminutive: ওলদ.	waled
 আজকের	ajker
 আজকো	azko
 আজকোয়া	azkowa
+আজদাহা	azdaha
+আজনবি	ajnobi
 আজনবী	ajnobi
 আজব	ajob
 আজম	ajom
@@ -735,6 +747,7 @@ diminutive: ওলদ.	waled
 আত্মভক্ষণ	atmbhokkhon
 আত্মমৈথুন	atmomoithun
 আত্মহত্যা	atmhotja
+আত্মহত্যা	attohotta
 আত্মা	atma
 আত্মাভিমানী	atmabhimani
 আদব	adob
@@ -771,10 +784,12 @@ diminutive: ওলদ.	waled
 আনন্দ	anond
 আনল হক	anol hok
 আনা	ana
+আনার	anar
 আনারস	anaros
 আন্ডারগ্রাউন্ড	andargraund
 আন্তঃলিঙ্গ	antohling
 আন্তর্জাতিক	antorjatik
+আন্তর্জাতিক আইন	antorjatik ain
 আন্তর্জাতিকতাবাদ	antorjatiktabad
 আন্তর্জাল	antorjal
 আন্তাকিয়া	antakiya
@@ -783,6 +798,7 @@ diminutive: ওলদ.	waled
 আন্দামান	andaman
 আন্দামান দ্বীপপুঞ্জ	andaman dbippunj
 আন্দালুস	andalus
+আন্ধাইর	andhair
 আন্ধার	andhar
 আন্ধারি	andhari
 আন্ন	anno
@@ -919,6 +935,7 @@ diminutive: ওলদ.	waled
 আমাদা	amada
 আমাদের	amader
 আমাদের ঘর	amadero ghor
+আমানত	amanot
 আমানত খেয়ানত করা	amanot kheyanot kora
 আমানু	amanu
 আমামা	amama
@@ -1314,6 +1331,8 @@ diminutive: ওলদ.	waled
 ইবতিদা	ibtida
 ইবরানী	ibrani
 ইবলিশ	iblis
+ইবাদত	ibadot
+ইবাদতখানা	ibadot
 ইবাদতখানা	ibadotkhana
 ইবেরীয় উপদ্বীপ	iberiy upodbip
 ইব্রাহিম	ibrahim
@@ -1385,6 +1404,7 @@ diminutive: ওলদ.	waled
 ইস্কাবনে	iskabone
 ইস্কাবনের	iskaboner
 ইস্কাবনের বাদশাহ	iskaboner badsah
+ইস্কুল	iskul
 ইস্টার	istar
 ইস্তিকবাল	istikbal
 ইস্তেকবাল	istekbal
@@ -1398,6 +1418,7 @@ diminutive: ওলদ.	waled
 ইহরাম	ihram
 ইহা হয়	iha hoy
 ইহান	ihan
+ইহানত	ihanot
 ইহুদি	ihudi
 ইহুদি ধর্ম	ihudi dhorm
 ইহুদি ধর্ম	ihudi dhormo
@@ -1431,6 +1452,12 @@ diminutive: ওলদ.	waled
 উগান্ডা	uganda
 উগ্র	ugro
 উগ্রতা	ugrota
+উঙ্গান	ungan
+উঙ্গানি	ungani
+উঙ্গানো	ungano
+উঙ্ঘান	unghan
+উঙ্ঘানি	unghani
+উঙ্ঘানো	unghano
 উচ্চ	ucc
 উচ্চ আলমানী	ucco almani
 উচ্চ-গতির রেল	uccogotir rel
@@ -1511,6 +1538,9 @@ diminutive: ওলদ.	waled
 উদাসীন	udasin
 উদাহরণ	udahoron
 উদাহরণমূলক	udahoronmulok
+উদিন	udin
+উদিনকো	udinko
+উদিন্যা	udinja
 উদূখল	udukhol
 উদ্দীপনা	uddipna
 উদ্দীপনা	uddipona
@@ -1557,6 +1587,7 @@ diminutive: ওলদ.	waled
 উপদ্বীপ	upodbip
 উপনগর	upongor
 উপনিবেশ	upnibes
+উপনিবেশন	uponibeson
 উপনির্বাচন	upnirbacon
 উপন্যাস	uponjas
 উপন্যাস	uponnas
@@ -1578,6 +1609,7 @@ diminutive: ওলদ.	waled
 উপাদান বিজ্ঞান	upadan biggan
 উপাধি	upadhi
 উপাস	upas
+উপাসনা	upasona
 উপাসনা স্থান	upasona sthan
 উপাস্থি	upasthi
 উভ	ubh
@@ -1772,6 +1804,7 @@ diminutive: ওলদ.	waled
 এদের	eder
 এনকা	enka
 এনট্রপি	enotropi
+এনসাফ	ensaf
 এনাকে	enake
 এনার	enar
 এন্তেখাব	entekhab
@@ -1786,7 +1819,9 @@ diminutive: ওলদ.	waled
 এবঅ	eboo
 এবও	ebo
 এবাদত	ebadot
+এবাদত	ibadot
 এবাদতখানা	ebadotkhana
+এবাদতখানা	ibadot
 এবে	ebe
 এবো	ebo
 এভাবে	ebhabe
@@ -1960,6 +1995,7 @@ diminutive: ওলদ.	waled
 ওলদ	olod
 ওলন্দাজ	olondaj
 ওলন্দাজ ভাষা	olondaj bhasha
+ওলিমা	olima
 ওশেনিয়া	oseniya
 ওসমানী	osmani
 ওসিয়তনামা	osiyotnama
@@ -1985,7 +2021,7 @@ diminutive: ওলদ.	waled
 কওম	koom
 কওমি	koomi
 কওয়া	koowa
-কওয়া(Chalita)	koowa
+কওয়া – Chalita	koowa
 কওল	koul
 কক্ষ	kokkh
 কক্ষপথ	kokkhopoth
@@ -2014,6 +2050,7 @@ diminutive: ওলদ.	waled
 কড়াল	koral
 কড়ি	kori
 কড়ে আঙ্গুল	kore angul
+কণা পদার্থবিজ্ঞান	kona podarthbiggan
 কণীনিকা	koninika
 কণ্টকারিকা	kontkarika
 কণ্টকারী	kontkari
@@ -2161,6 +2198,7 @@ diminutive: ওলদ.	waled
 কল্পসাহিত্য	kolpsahitjo
 কল্পিত জলচর জীব	kolpit jolcor jib
 কল্যাণ রাষ্ট্র	koljan rastr
+কল্লা	kolla
 কসম	kosom
 কসাই	kosai
 কসাইখানা	kosaikhana
@@ -2169,7 +2207,7 @@ diminutive: ওলদ.	waled
 কহন	kohon
 কহনও	kohnoo
 কহা	koha
-কহা(Sadhu)	koha
+কহা – Sadhu	koha
 কা	ka
 কাঁইচি	kaici
 কাঁকই	kakoi
@@ -2263,6 +2301,7 @@ diminutive: ওলদ.	waled
 কাজেই	kajei
 কাঞ্জি	kanji
 কাটা	kata
+কাটারি	katari
 কাটারী	katari
 কাটুয়া	katua
 কাঠ	kath
@@ -2278,6 +2317,9 @@ diminutive: ওলদ.	waled
 কাডা	kada
 কাডোল	kadol
 কাণা	kana
+কাণ্টা	kanta
+কাণ্টা পাতিল	kanta patil
+কাণ্টামি	kantami
 কাতার	katar
 কাতালোনিয়া	kataloniya
 কাতি	kati
@@ -2294,6 +2336,7 @@ diminutive: ওলদ.	waled
 কানু	kanu
 কানুন	kanun
 কানুনগো	kanungo
+কানুনগোপাড়া	kanungopara
 কানে আঙ্গুল দেওয়া	kane angul dewa
 কানের খৈল	kaner khoil
 কান্দইন্না	kandoinna
@@ -2337,6 +2380,7 @@ diminutive: ওলদ.	waled
 কামুক	kamuk
 কায়কারবার	kaykarbar
 কায়রো	kayro
+কার	kar
 কারখানা	karkhana
 কারখানা	karokhana
 কারণ	karon
@@ -2352,6 +2396,7 @@ diminutive: ওলদ.	waled
 কারামত	karamot
 কারামতি	karamoti
 কারামতী	karamoti
+কারার	karar
 কারি	kari
 কারিগর	karigor
 কারিগরি	karigri
@@ -2371,6 +2416,7 @@ diminutive: ওলদ.	waled
 কার্যকর	karjokor
 কার্যক্রম	karjokrom
 কার্ল	karl
+কার্সিনোমা	karsinoma
 কাল	kal
 কাল	kalo
 কালজামজাতীয় ফল	kaljamjatiy phol
@@ -2534,9 +2580,11 @@ diminutive: ওলদ.	waled
 কুমিল্লা জেলা	kumilla zela
 কুমীর	kumir
 কুমুদ	kumud
+কুয়া	kuya
 কুয়ালালামপুর	kuyalalamapura
 কুয়ালালামপুর	kuyalalampur
 কুয়াশা	kuyasa
+কুয়াসা	kuyasa
 কুয়েত	kuyet
 কুয়েত শহর	kuyet sohor
 কুরআন	kuran
@@ -2580,6 +2628,7 @@ diminutive: ওলদ.	waled
 কুস্তি	kusti
 কুস্তিগির	kustigir
 কুস্বপ্ন	kusopn
+কুহ	kuh
 কুহড়া	kuhra
 কূটনীতি	kutniti
 কূটনীতিজ্ঞ	kutnitigg
@@ -2828,6 +2877,7 @@ diminutive: ওলদ.	waled
 খণ্ড ত	khondo to
 খণ্ডিত	khondito
 খণ্ডে খণ্ডে	khonde khonde
+খন	khon
 খনিজ	khonij
 খন্ড	khond
 খপোত	khopot
@@ -2874,16 +2924,19 @@ diminutive: ওলদ.	waled
 খাতা	khata
 খাতির	khatir
 খাদিম	khadim
+খাদেম	khadem
 খাদেমদার	khademdar
 খাদেমদারি	khademdari
 খাদেমা	khadema
 খাদ্য	khadjo
 খাদ্য	khadyo
 খান	khan
+খান-দান	khandan
 খানকি	khanaki
 খানদান	khandan
 খানদানী	khandani
 খানা	khana
+খান্দান	khandan
 খাম	kham
 খামখেয়ালী	khamkheyali
 খামার	khamar
@@ -2892,6 +2945,7 @@ diminutive: ওলদ.	waled
 খামোশি	khamosi
 খায়রাত	khayrat
 খায়রাৎ	khayrat
+খায়েশ	khaes
 খায়েশ	khayes
 খারাপ	kharap
 খারাব	kharab
@@ -2909,10 +2963,15 @@ diminutive: ওলদ.	waled
 খালি	khali
 খালী	khali
 খালু	khalu
+খালুজান	khalujan
+খালুজি	khaluji
+খালুজী	khaluji
 খাসমহল	khasmohol
 খাসিয়া	khasiya
 খাহিশ	khahis
 খাহেশ	khahes
+খিড়কি	khirki
+খিড়কী	khirki
 খিদা	khida
 খিয়ানত	khiyanot
 খিল	khil
@@ -2964,6 +3023,7 @@ diminutive: ওলদ.	waled
 খূন	khun
 খূনকতল	khun
 খূব	khub
+খেংরা	khenra
 খেজুর	khejur
 খেড়	kher
 খেতি	kheti
@@ -3034,6 +3094,7 @@ diminutive: ওলদ.	waled
 গণতন্ত্র	gonotontro
 গণতন্ত্র	gontontr
 গণতান্ত্রিক	gonotantrik
+গণধর্ষণ	gonodhorson
 গণনা	gonna
 গণনার ফ্রেম	gonnar phrem
 গণপ্রজাতন্ত্রী	gonoprojatontri
@@ -3098,6 +3159,7 @@ diminutive: ওলদ.	waled
 গলবিল	golbil
 গলম	golom
 গলা	gola
+গলাত দাও দেওয়া	golat dao dewa
 গলাতে	golate
 গলাবন্ধ	golabondho
 গলায়	golay
@@ -3117,14 +3179,20 @@ diminutive: ওলদ.	waled
 গহীন গাঙের নাইয়া	gohin ganer naiya
 গহীর	gohir
 গাঁ	ga
+গাঁইড়া	gaira
+গাঁইড়্যা	gairja
 গাঁও	gao
 গাঁজা	gaja
 গাঁজাখোর	gajakhor
 গাঁজাখোরদের	gajakhorder
 গাঁজাখোরের	gajakhorer
 গাঁজাখোরেরা	gajakhorera
+গাঁড়	gar
+গাঁড়িয়া	gariya
 গাং	gan
 গাই	gai
+গাইড়া	gaira
+গাইড়্যা	gairja
 গাইবান্ধা জেলা	gaibandha jela
 গাইয়া	gaiya
 গাইলস	gailos
@@ -3144,8 +3212,10 @@ diminutive: ওলদ.	waled
 গাজীপুর জেলা	gazipur zela
 গাঞ্জা	ganja
 গাঞ্জাখোর	ganjakhor
+গাড়া	gara
 গাড়ি	gari
 গাড়িতে	garite
+গাড়িয়া	gariya
 গাড়ির	garir
 গাড়ী	gari
 গাড়ীতে	garite
@@ -3259,6 +3329,7 @@ diminutive: ওলদ.	waled
 গেজা	geza
 গেঞ্জি	genji
 গেট	get
+গেদা	geda
 গেয়	gey
 গেরাম	geram
 গেলা	gela
@@ -3512,9 +3583,14 @@ diminutive: ওলদ.	waled
 চাকরি	chakri
 চাকরী	cakri
 চাকরী	chakor
+চাকরী	chakori
+চাকরী	chakri
 চাকা	caka
 চাকু	caku
+চাকুরি	cakuri
+চাকুরি	chakuri
 চাকুরী	cakuri
+চাকুরী	chakuri
 চাখা	cakha
 চাগাতাই ভাষা	cagatai bhasa
 চাঘর	caghor
@@ -3567,6 +3643,7 @@ diminutive: ওলদ.	waled
 চাহিদা	cahida
 চিংড়ি	cinri
 চিকিত্সা	cikitsa
+চিকিৎসা	cikitsa
 চিজ	cij
 চিটাইঙ্গা	citagainga
 চিটাগাইঙ্গা	citagainga
@@ -3698,8 +3775,7 @@ diminutive: ওলদ.	waled
 চৈৎ	coit
 চ্যাত	cjat
 চ্যাতা	cjata
-চ্যানেল	caenel
-চ্যানেল	cenel
+চ্যানেল	cjanel
 চ্যান্সেলর	cjanselor
 চ্যাপেল	cjapel
 চ্যার	cer
@@ -3807,11 +3883,16 @@ diminutive: ওলদ.	waled
 ছায়াপথ	chayapoth
 ছার	char
 ছাল	chal
+ছালন	chalon
 ছালা	chala
+ছালুন	chalun
 ছিট মহল	chit mohol
 ছিটকানো	chitkano
 ছিটমহল	chitmohol
 ছিনিমিনি খেলা	chinimini khela
+ছিপ	chip
+ছিপি	chipi
+ছিপী	chipi
 ছিয়াত্তর	chiyattor
 ছিয়ানব্বই	chiyanobboi
 ছিয়াশি	chiyashi
@@ -3910,6 +3991,8 @@ diminutive: ওলদ.	waled
 জবাবদিহি	jobabdihi
 জবূর	zobur
 জমহুরিয়াত	jomhuriyat
+জমাদিউছ ছানী	jomadius sani
+জমাদিউল আউয়াল	jomadiul auwal
 জমানা	zomana
 জমি	jomi
 জমিদারজাদা	zomidarzada
@@ -3917,6 +4000,7 @@ diminutive: ওলদ.	waled
 জমিন	jomin
 জম্মু ও কাশ্মীর	jommu o kashmir
 জম্মু ও কাশ্মীর	jommu o kasmir
+জয়	joy
 জয়চিহ্ন	joycihn
 জয়তূন	zoytun
 জয়তূনী	zoytuni
@@ -4021,10 +4105,11 @@ diminutive: ওলদ.	waled
 জামবাটি	jambati
 জামাই	jamai
 জামাইকা	jamaika
-জামানত	zamanot
+জামানত	jamanot
 জামানা	zamana
 জামালপুর জেলা	jamalapura jela
 জামালপুর জেলা	jamalpur zela
+জামিন	jamin
 জামিন	zamin
 জামিন দেওয়া	zamin dewa
 জামিন নেওয়া	zamin newa
@@ -4039,6 +4124,7 @@ diminutive: ওলদ.	waled
 জাম্ববান	jambban
 জাম্বিয়া	jambiya
 জাম্বুরা	jambura
+জাযসবাল	jayasval
 জায়গা	jayga
 জায়গাতে	jaygate
 জায়গায়	jaygay
@@ -4060,9 +4146,8 @@ diminutive: ওলদ.	waled
 জার্মানি	jormoni
 জাল	jal
 জালিম	zalim
-জালিম(less common)	zalim
 জালূত	jalut
-জালেম(more common)	zalem
+জালেম	zalem
 জাল্লিকাট্টু	jallikattu
 জাহাঙ্গীরনামা	jahangirnama
 জাহাজ	jahaj
@@ -4074,6 +4159,8 @@ diminutive: ওলদ.	waled
 জিগানো	zigano
 জিঙ্গানি	zingani
 জিঙ্গানো	zingano
+জিছম	jisom
+জিছিম	jisim
 জিজ্ঞানি	ziggani
 জিজ্ঞানো	ziggano
 জিজ্ঞাসাচিহ্ন	jiggasacihn
@@ -4086,7 +4173,7 @@ diminutive: ওলদ.	waled
 জিন্দা	zinda
 জিন্দানবাসী	zindanbasi
 জিন্দাবাদ	zindabad
-জিন্দিগি(Colloquial)	zindigi
+জিন্দিগি	zindigi
 জিন্দিগী	zindigi
 জিন্দেগানী	zindegani
 জিন্দেগি	zindegi
@@ -4105,6 +4192,8 @@ diminutive: ওলদ.	waled
 জিভ	jibh
 জিভরা	zibhra
 জিম্বাবুয়ে	jimbabuye
+জিম্মাদারি	zimmadari
+জিম্মাদারী	jimmadari
 জিয়াদা	jiyada
 জিয়ারত	ziyarot
 জিরকোনিয়াম	jirokoniyam
@@ -4114,9 +4203,13 @@ diminutive: ওলদ.	waled
 জির্পা	zirpa
 জির্বা	zirba
 জির্ভা	zirbha
+জিলকদ	zilqod
+জিলহজ্জ	zilhojj
 জিলাপি	jilapi
 জিলিপি	jilipi
 জিল্লত	zillot
+জিসম	jisom
+জিসিম	jisim
 জিহাদ	jihad
 জিহ্বা	jihba
 জীব	jib
@@ -4188,6 +4281,7 @@ diminutive: ওলদ.	waled
 জোড়া	jora
 জোন অব আর্ক	jon ob ark
 জোনাকি	jonaki
+জোয়াল	joyal
 জোর	zor
 জোর করা	zor kora
 জোর করে	zor kore
@@ -4249,6 +4343,7 @@ diminutive: ওলদ.	waled
 ঝরনা	jhorona
 ঝরা	jhora
 ঝরানো	jhorano
+ঝাঁটা	jhata
 ঝাঁপ দেত্তয়া	jhapo dettya
 ঝাড়খণ্ড	jharkhond
 ঝাড়খণ্ডে	jharkhonde
@@ -4292,6 +4387,7 @@ diminutive: ওলদ.	waled
 টয়লেটটি কোথায়?	toyletti kothayo
 টর্চ	torc
 টর্চলাইট	torclait
+টলা	tola
 টাং	tan
 টাইটানিক	taitanik
 টাইপ করা	taip kora
@@ -4402,6 +4498,9 @@ diminutive: ওলদ.	waled
 ঠাকুরমা	thakurma
 ঠাকুরাণী	thakurani
 ঠাকুরাল	thakural
+ঠাটা	thata
+ঠাঠা	thatha
+ঠাডা	thada
 ঠিক আছে	thik ache
 ঠিকানা	thikana
 ঠেং	then
@@ -4416,6 +4515,7 @@ diminutive: ওলদ.	waled
 ঠোঁটের	thoter
 ঠ্যাং	then
 ড	do
+ডগ	dog
 ডন কিহোতে	don kihote
 ডমিনিক	dominik
 ডর	dor
@@ -4591,6 +4691,7 @@ diminutive: ওলদ.	waled
 তরমুজ	toromuj
 তরল	torol
 তরল বা পাতলা করা	torol ba patla kora
+তরশু	torosu
 তরা	tora
 তরাজু	torazu
 তরাজূ	torazu
@@ -4765,7 +4866,7 @@ diminutive: ওলদ.	waled
 তিরুবনন্তপুরম	tirubonontopurom
 তিরুবনন্তপুরমে	tirubonontopurome
 তিরুবনন্তপুরমের	tirubonontopuromer
-তিষ্টা(Varendra)	tista
+তিষ্টা	tista
 তিষ্ণা	tisna
 তিসি	tisi
 তীর	tir
@@ -4837,6 +4938,7 @@ diminutive: ওলদ.	waled
 তেজারৎ	tejarot
 তেতাল্লিশ	tetallis
 তেতাল্লিশ	tetallish
+তেতো	teto
 তেত্রিশ	tetris
 তেত্রিশ	tetrish
 তেপায়া	tepaya
@@ -4911,9 +5013,14 @@ diminutive: ওলদ.	waled
 ত্রুপ	trup
 তৎসম	totsomo
 থ	tho
+থইলা	thoila
 থন	thon
 থনে	thone
 থর	thor
+থলি	tholi
+থলিয়া	tholiya
+থলী	tholi
+থলে	thole
 থাই	thai
 থাই পাঙ্গাশ	thai pangas
 থাই ভাষা	thai bhasa
@@ -4950,6 +5057,7 @@ diminutive: ওলদ.	waled
 থুলকুড়ি	thulkuri
 থুলকুড়ী	thulkuri
 থেকে	theke
+থৈলা	thoila
 থ্যাচার	tthacar
 থ্যালামাস	thelamas
 থ্যালামাস	tthalamas
@@ -5018,12 +5126,15 @@ diminutive: ওলদ.	waled
 দরবার	dorbar
 দরবেশ	dorobes
 দরিয়া	doriya
+দরুন	dorun
 দরোজা	doroja
 দর্পণ	dorpon
 দর্শক	dorsok
 দল	dol
+দলান	dolan
 দলিত	dolit
 দলিল	dolil
+দলীল	dolil
 দলীল পেশ করা	dolil pes kora
 দশ	dos
 দশন	doson
@@ -5056,6 +5167,7 @@ diminutive: ওলদ.	waled
 দাঁড়ানো	darano
 দাঁড়িপাল্লা	daripalla
 দাঁত	dat
+দাই	dai
 দাউদাউ	daudau
 দাঊদ	daud
 দাও	dao
@@ -5125,6 +5237,7 @@ diminutive: ওলদ.	waled
 দারিদ্র্য	daridrjo
 দারু	daru
 দারুচিনি	darucini
+দালান	dalan
 দাস	das
 দাসত্ব	dasot
 দাসত্ব	dasotto
@@ -5154,6 +5267,7 @@ diminutive: ওলদ.	waled
 দিসপুরে	dispure
 দিসপুরের	dispurer
 দীউয়ানা	diuyana
+দীদার	didar
 দীপাবলি	dipaboli
 দীপোৎসব	dipotsob
 দীর্ঘ	dirgh
@@ -5173,6 +5287,7 @@ diminutive: ওলদ.	waled
 দুইফর	duiphor
 দুখ	dukh
 দুখী	dukhi
+দুগি	dugi
 দুগ্ধ	dudh
 দুধ	dudh
 দুধওয়ালা	dudhwala
@@ -5187,6 +5302,7 @@ diminutive: ওলদ.	waled
 দুরিয়ান	durian
 দুরিয়ান	duriyan
 দুর্গ	durg
+দুর্গজয়	durgojoe
 দুর্গজয়	durgojoy
 দুর্গত	durgoto
 দুর্গতি	durgoti
@@ -5198,7 +5314,7 @@ diminutive: ওলদ.	waled
 দুশমন	dusmon
 দুশমনি	dusmoni
 দুশমনি করা	dusmoni kora
-দুশমনী	dushmoni
+দুশমনী	dusmoni
 দূত	dut
 দূতাবাস	dutabas
 দূর	dur
@@ -5231,6 +5347,7 @@ diminutive: ওলদ.	waled
 দেগচী	degci
 দেড়	der
 দেড়টা বাজে	derta baje
+দেনা	dena
 দেবতা	debta
 দেবদূত	debdut
 দেবনাগরী	debnagri
@@ -5268,6 +5385,7 @@ diminutive: ওলদ.	waled
 দোআ	doa
 দোকান	dokan
 দোতারা	dotara
+দোয়া	doa
 দোয়া	doya
 দোরু	doru
 দোল	dol
@@ -5338,19 +5456,25 @@ diminutive: ওলদ.	waled
 ধর্মযাজক	dhormjajok
 ধর্মহীনতা	dhormhinta
 ধর্মীয়	dhormie
+ধর্ষক	dhorsok
 ধর্ষণ	dhorson
+ধর্ষিত	dhorsito
+ধর্ষিতা	dhorsita
 ধল	dhol
 ধলা	dhola
+ধস	dhos
 ধসা	dhos
 ধসা	dhosa
 ধসানো	dhosano
 ধাঁধা	dhadha
+ধাইর	dhair
 ধাওয়া	dhaowa
 ধাক্কা	dhakka
 ধাক্কা দেওয়া	dhakka deoa
 ধাক্কা দেওয়া	dhakka dewa
 ধাক্কানো	dhakkano
 ধাতু	dhatu
+ধাত্রী	dhatri
 ধান	dhan
 ধানজমি	dhanojmi
 ধান্য	dhanjo
@@ -5361,12 +5485,15 @@ diminutive: ওলদ.	waled
 ধারাবাহিক প্রক্রিয়া	dharabahik prokriya
 ধারাস্নান	dharasnan
 ধারাস্নানের যন্ত্র	dharasnaner jontr
+ধারি	dhari
+ধারী	dhari
 ধার্মিক	dharmik
 ধিঙ্গি মেয়ে	dhingi mee
 ধীবর	dhibor
 ধীর	dhir
 ধুতুরা	dhutura
 ধুনুরি	dhunuri
+ধুমা	dhuma
 ধুর বাল	dhur bal
 ধূপ	dhup
 ধূম	dhum
@@ -5404,6 +5531,7 @@ diminutive: ওলদ.	waled
 নওয়াবজাদী	nowabzadi
 নওশা	noosa
 নকর	nokor
+নকরি	nokri
 নকল	nokol
 নকল করা	nokol kora
 নকশবন্দী	noksbondi
@@ -5435,7 +5563,6 @@ diminutive: ওলদ.	waled
 নতীজায়	notijay
 নতীজার	notijar
 নতুন	notun
-নতুন কেল্লা	notun kella
 নতুন দিল্লি	notun dilli
 নতুন নিয়ম	notun niyom
 নতুন বছর	notun bochor
@@ -5492,6 +5619,7 @@ diminutive: ওলদ.	waled
 নসীব	nosib
 না	na
 না হলে	na hale
+না'ত	nat
 না-উম্মেদ	naummed
 নাই	nai
 নাইকল	naikol
@@ -5537,6 +5665,7 @@ diminutive: ওলদ.	waled
 নাটোর জেলা	nator jela
 নাটোর জেলা	natora jela
 নাড়ি	nari
+নাত	nat
 নাতনি	natni
 নাতি	nati
 নাদান	nadan
@@ -5606,9 +5735,11 @@ diminutive: ওলদ.	waled
 নিথর	nithor
 নিধান	nidhan
 নিনটেনডো	nintendo
+নিন্টেন্ডো	nintendo
 নিন্দা করা	ninda kora
 নিপীড়ন	nipiron
 নিবার্য	nibarjo
+নিবেদন	nibedon
 নিভৃত	nibhrito
 নিভৃতে	nibhrite
 নিম	nim
@@ -5689,6 +5820,7 @@ diminutive: ওলদ.	waled
 নূর	nur
 নূরমহল	nurmohol
 নূরানী	nurani
+নূরান্বিত	nurannito
 নূহ	nuh
 নৃত্য	nritjo
 নৃত্য	nritto
@@ -5727,6 +5859,7 @@ diminutive: ওলদ.	waled
 নোংরা	nonra
 নোঈর	noir
 নোকর	nokor
+নোকরি	nokri
 নোঙ্গর	nongor
 নোটবাতিল	notbatil
 নোবেল পুরস্কার	nobel puroskar
@@ -5850,6 +5983,9 @@ diminutive: ওলদ.	waled
 পরদাদী	pordadi
 পরমবীর চক্র	porombir cokr
 পরমাণু	poromanu
+পরশু	porosu
+পরশু	porsu
+পরশুদিন	porosudin
 পরশ্রীকাতর	porosrikator
 পরহেজ	porhez
 পরহেজগার	porhezgar
@@ -5889,6 +6025,9 @@ diminutive: ওলদ.	waled
 পরীক্ষা	porikkha
 পরীক্ষা করা	porikkha kora
 পরীক্ষাগার	porikkhagar
+পরু	poru
+পরুদিন	porudin
+পরুয়া	poruya
 পরে	pore
 পরোটা	porota
 পরোয়া	poroa
@@ -5960,19 +6099,24 @@ diminutive: ওলদ.	waled
 পাঁক	pak
 পাঁচ	paco
 পাঁচ	pamc
+পাঅরা	paora
 পাআড়	paar
 পাই	pai
 পাই দিবস	pai dibos
 পাইখানা	paikhana
+পাইথন	paithon
 পাইপ	paip
 পাইরিডক্সিন	pairidoksin
 পাইলট তিমি	pailot timi
 পাউন্ড	paund
+পাউরা	paura
 পাউরুটি	pauruti
 পাওনা	paona
 পাওয়া	paowa
 পাওয়া	pawa
 পাওয়ানো	paowano
+পাওরা	paora
+পাকঘর	pakghor
 পাকমণ্ড	pakmond
 পাকস্থলী	pakosthli
 পাকস্থলী	pakostholi
@@ -6061,6 +6205,7 @@ diminutive: ওলদ.	waled
 পাপোষ	papos
 পাবনা জেলা	pabna jela
 পাবনা জেলা	pabna zela
+পাবলিক ডোমেইন	pablik domein
 পাম্প	pamp
 পায়খানা	paykhana
 পায়খানা করা	paykhana kora
@@ -6103,15 +6248,20 @@ diminutive: ওলদ.	waled
 পালোয়ান	palowan
 পালোয়ানি	palowani
 পাশবালিশ	pasbalis
+পাশরা	pasra
 পাশা	pasa
 পাশে	pashe
 পাসওয়ার্ড	pasoward
 পাসপোর্ট	pasport
+পাসরা	pasora
+পাসরা	pasra
 পাহাড়	pahar
 পাহাল	pahal
+পাহুরা	pahura
 পিঁজর	pijor
 পিঁজরা	pijora
 পিঁপড়া	pipora
+পিঁপড়া	pipra
 পিঁপড়াভুক	piporabhuk
 পিঁপুল	pipul
 পিউপা	piupa
@@ -6198,6 +6348,7 @@ diminutive: ওলদ.	waled
 পুরাদস্তুর	puradostur
 পুরান	puran
 পুরানা	purana
+পুরানো	purano
 পুরি	puri
 পুরী	puri
 পুরুষ	purush
@@ -6272,6 +6423,7 @@ diminutive: ওলদ.	waled
 পেনশন	penson
 পেনসিল	pensil
 পেনিস	penis
+পেপটাইড বন্ধন	peptaid bondhon
 পেয়ারা	peyara
 পেয়ালা	peyala
 পেরিনিয়াম	periniyam
@@ -6339,6 +6491,7 @@ diminutive: ওলদ.	waled
 পৌত্তলিক	pouttlik
 পৌরসভা	pourosha
 পৌষ	pous
+পৈথান	poithan
 প্যাঁক	pek
 প্যাঁচা	peca
 প্যাঁচাতে	pecate
@@ -6400,6 +6553,7 @@ diminutive: ওলদ.	waled
 প্রতিশব্দ	protishobdo
 প্রতিশব্দ	protisobd
 প্রতিশোধ	protisodh
+প্রতিশ্রুতি	protisruti
 প্রতিষ্ঠা	protishtha
 প্রতিষ্ঠাতা	protishthata
 প্রতিষ্ঠাতা	protisthata
@@ -6471,6 +6625,8 @@ diminutive: ওলদ.	waled
 প্রসবিত্রী	prosobitri
 প্রসবিনী	prosobini
 প্রসবী	prosobi
+প্রসাধন	prosadhon
+প্রসাধনী	prosadhoni
 প্রস্তুত	prostut
 প্রস্তুতি	prostuti
 প্রস্রাব	prosrab
@@ -6502,6 +6658,7 @@ diminutive: ওলদ.	waled
 প্রায়	pray
 প্রায়ই	prayoi
 প্রার্থনা	prarthna
+প্রার্থনা	upasona
 প্রার্থনা করা	prarthna kora
 প্রার্থী	prarthi
 প্রাসঙ্গিক	prasongik
@@ -6559,6 +6716,7 @@ diminutive: ওলদ.	waled
 ফড়িং	phorin
 ফড়িং	phoring
 ফণী	phoni
+ফতে	fote
 ফতোয়া	photoya
 ফনি	phoni
 ফনী	phoni
@@ -6736,7 +6894,7 @@ diminutive: ওলদ.	waled
 বউ	bou
 বউত	bout
 বওয়া	boowa
-বওয়া(Chalita)	boowa
+বওয়া – Chalita	boowa
 বকনা	bokna
 বকরা	bokra
 বকরি	bokri
@@ -6775,6 +6933,7 @@ diminutive: ওলদ.	waled
 বড়দিন জিঞ্জিরী	borodin jinziri
 বড়দিনের বারো দিন	bordiner baro din
 বড়ো	boro
+বড়োদিন	borodin
 বণিক	bonik
 বতসোয়ানা	botsoyana
 বত্রিশ	botris
@@ -6846,6 +7005,7 @@ diminutive: ওলদ.	waled
 বরগুনি	boroguni
 বরফ	borof
 বরফ	boroph
+বরবাদ	borbad
 বরহক	borhok
 বরাত	borat
 বরাত গুণে	borat gune
@@ -6908,7 +7068,7 @@ diminutive: ওলদ.	waled
 বহস	bohos
 বহস করা	bohos kora
 বহা	boha
-বহা(Sadhu)	boha
+বহা – Sadhu	boha
 বহাল তবিয়তে	bohal tobiyote
 বহাস	bohas
 বহিন	bohin
@@ -7027,6 +7187,7 @@ diminutive: ওলদ.	waled
 বাজেট	bajet
 বাট	bat
 বাটা	bata
+বাড়ন	baron
 বাড়া	bara
 বাড়ি	bari
 বাণিজ্য	banijjo
@@ -7106,6 +7267,7 @@ diminutive: ওলদ.	waled
 বারি	bari
 বারুদ	barud
 বারো	baro
+বার্তা	barta
 বার্তাকু	bartaku
 বার্নার্ড	barnard
 বার্নিশ	barnis
@@ -7126,6 +7288,7 @@ diminutive: ওলদ.	waled
 বাষট্টি	basotti
 বাষ্প	basp
 বাস	bas
+বাসন্তী	basonti
 বাসা	basha
 বাসাতে	bashate
 বাসায়	bashay
@@ -7154,7 +7317,6 @@ diminutive: ওলদ.	waled
 বিকাল	bikal
 বিকাশ	bikas
 বিকিনি	bikini
-বিকেল	vowelharmonised
 বিক্রয়	bikroy
 বিক্ষিপ্ত	bikkhipt
 বিখাউজ	bikhauj
@@ -7174,6 +7336,7 @@ diminutive: ওলদ.	waled
 বিছমিল্লাহ	bismillah
 বিছা	bicha
 বিছানা	bichana
+বিছে	biche
 বিজয়	bijoy
 বিজলী	bijli
 বিজ্ঞান	biggan
@@ -7247,6 +7410,7 @@ diminutive: ওলদ.	waled
 বিভিন্নতা	bibhinnota
 বিভীতকী	bibhitki
 বিমান	biman
+বিমান চালক	biman calok
 বিমানবন্দর	bimanbondor
 বিমানসংস্থা	bimansonstha
 বিমার	bimar
@@ -7286,6 +7450,7 @@ diminutive: ওলদ.	waled
 বিশেষ	bises
 বিশেষ	bishesh
 বিশেষ করা	bishesh kora
+বিশেষজ্ঞ	bisesogg
 বিশেষণ	biseson
 বিশেষ্য	bisesjo
 বিশেষ্য	bishessho
@@ -7422,6 +7587,7 @@ diminutive: ওলদ.	waled
 বৃহস্পতিবার	brihoshpotibar
 বৃহস্পতিবার	brihospotibar
 বৃহস্পতিবার	brihosptibar
+বে-	be
 বেঁউচ	beuc
 বেঁকা	beka
 বেঁহা	beha
@@ -7595,6 +7761,7 @@ diminutive: ওলদ.	waled
 বৈদেশিক	boideshik
 বৈদেশিক	boidesik
 বৈদ্যুতিন সিগারেট	boidjutin sigaret
+বৈমানিক	boimanik
 বৈরুত	boirut
 বৈল্ব	boillo
 বৈশাখ	boisakh
@@ -7847,6 +8014,7 @@ diminutive: ওলদ.	waled
 ভিসি	bhisi
 ভীতিকর	bhitikor
 ভীমরুল	bhimrul
+ভুঁইচাল	bhuical
 ভুক	bhuk
 ভুকপিয়াস	bhukpiyas
 ভুখ	bhukh
@@ -7924,6 +8092,7 @@ diminutive: ওলদ.	waled
 মকদীশু	mokdisu
 মকবরা	mokbora
 মকসদ	moksod
+মকসেদ	moksed
 মক্কা	mokka
 মখমল	mokhmol
 মগ	mog
@@ -8025,6 +8194,7 @@ diminutive: ওলদ.	waled
 মরমন	moromon
 মরহাবা	morhaba
 মরহাবা	morohaba
+মরহুম	morhum
 মরা	mora
 মরাঠী	morathi
 মরামাস	moramas
@@ -8304,6 +8474,7 @@ diminutive: ওলদ.	waled
 মিছা	micha
 মিছাবাদী	michabadi
 মিছামিছি	michamichi
+মিছে	miche
 মিজান	mizan
 মিজোরাম	mijoram
 মিজোরামে	mijorame
@@ -8316,7 +8487,8 @@ diminutive: ওলদ.	waled
 মিঠা	mitha
 মিঠা জল	mitha jol
 মিঠা পানি	mitha pani
-মিঠে	vowelharmonised
+মিঠে	mithe
+মিডওয়াইফ	midowaiph
 মিডা	mida
 মিডা আম	mida am
 মিডাই	midai
@@ -8366,6 +8538,7 @@ diminutive: ওলদ.	waled
 মিশ্রিত অর্থনৈতিক	misrito orthonoitik
 মিষ্ট রূটি	mist ruti
 মিষ্টান্ন	mistann
+মিষ্টি	mishti
 মিষ্টি	misti
 মিষ্টি আলু	misti alu
 মিসকিন	miskin
@@ -8401,6 +8574,9 @@ diminutive: ওলদ.	waled
 মুখোমুখি	mukhomukhi
 মুখোশ	mukhosh
 মুগ	mug
+মুগইর	mugoir
+মুগুইর	muguir
+মুগুর	mugur
 মুচী	muci
 মুজাহিদীন	mujahidin
 মুঞি	muni
@@ -8456,7 +8632,9 @@ diminutive: ওলদ.	waled
 মুরগী	murogi
 মুরতাদ	murtad
 মুরব্বির জোরে	murobbir zore
+মুরশিদ	mursid
 মুরহা	murha
+মুরাদ টাকলা	murad takla
 মুর্গা	murga
 মুর্গি	murgi
 মুর্গী	murgi
@@ -8485,6 +8663,7 @@ diminutive: ওলদ.	waled
 মুসুল্লী	musulli
 মুস্তাফা	mustapha
 মুহতাজ	muhtaj
+মুহতামিম	muhtamim
 মুহম্মদ	muhommod
 মুহাজির	muhajir
 মুহাজিরগণ	muhajirogon
@@ -8605,6 +8784,7 @@ diminutive: ওলদ.	waled
 মোগল	mogol
 মোজা	moja
 মোজাম্বিক	mojambik
+মোজেজা	mojeza
 মোটর	motor
 মোটর সাইকেল	motor saikel
 মোটরগাড়ি	motorgari
@@ -8643,6 +8823,7 @@ diminutive: ওলদ.	waled
 মোল্লাগিরি	mollagiri
 মোল্লাতন্ত্র	mollatontro
 মোষ	mos
+মোহতামিম	mohtamim
 মোহনচূড়া	mohoncura
 মোহানা	mohana
 মোহাম্মদ	mohammod
@@ -8746,6 +8927,7 @@ diminutive: ওলদ.	waled
 যুদ্ধবিমান পরিবাহক	juddhbiman poribahok
 যুবক	jubok
 যুবতী	juboti
+যুবতী	jubti
 যুযু	juju
 যুল কিফল	zul kifol
 যেখানে	jekhane
@@ -8770,6 +8952,7 @@ diminutive: ওলদ.	waled
 যৌনবিদ্যা	jounbidja
 যৌনসঙ্গম	jounsonggom
 যৌনসঙ্গম	jounsongom
+যৌবন	joubon
 র	ro
 রং	ron
 রংধনু	rondhnu
@@ -8787,7 +8970,7 @@ diminutive: ওলদ.	waled
 রউন	roun
 রওনা	roona
 রওয়া	roowa
-রওয়া(Chalita)	roowa
+রওয়া – Chalita	roowa
 রওয়ানা	rowana
 রওশন	rooson
 রক	rok
@@ -8838,6 +9021,7 @@ diminutive: ওলদ.	waled
 রবর	robor
 রবার	robar
 রবার্ট	robart
+রবিউছ ছানী	robius sani
 রবিউল আউয়াল	robiul auwal
 রবিবার	robibar
 রমজান	romjan
@@ -8853,13 +9037,19 @@ diminutive: ওলদ.	waled
 রসায়ন	rosayon
 রসিকতা	rosikta
 রসিদ	rosid
+রসুই	rosui
+রসুইঘর	rosuighor
+রসুইয়া	rosuiya
+রসুইয়ে	rosuiye
+রসুইশালা	rosuisala
 রসুন	rosun
+রসুয়ে	rosuye
 রসুল	rosul
 রহন	rohon
 রহমত	rohmot
 রহস্য	rohosjo
 রহা	roha
-রহা(Sadhu)	roha
+রহা – Sadhu	roha
 রহিম ইয়ার খাঁ	rohim iyar kha
 রহুন	rohun
 রা	ra
@@ -8974,6 +9164,7 @@ diminutive: ওলদ.	waled
 রিকশাওয়ালা	riksawala
 রিগা	riga
 রিচার্ড	ricard
+রিপোর্টার	riportar
 রিয়াদ	riyad
 রিশকা	riska
 রিশতাদার	ristadar
@@ -9137,6 +9328,7 @@ diminutive: ওলদ.	waled
 লাগোয়া	lagoya
 লাচার	lacar
 লাচ্ছি	lacchi
+লাজ	laj
 লাজুক	lajuk
 লাঞ্চ	lanc
 লাঠি	lathi
@@ -9235,6 +9427,7 @@ diminutive: ওলদ.	waled
 লেহিস্তানী	lehistani
 লোক	lok
 লোকদের	lokder
+লোকমা	lokma
 লোকলস্কর	lokloskor
 লোকসান	loksan
 লোকাচারবিদ্যা	lokacarobidja
@@ -9328,6 +9521,7 @@ diminutive: ওলদ.	waled
 শরৎ	shorot
 শরৎ	sorot
 শলুফা	solupha
+শল্যচিকিৎসা	sollocikitsa
 শশ	sos
 শসা	sosa
 শস্য	sosjo
@@ -9370,6 +9564,7 @@ diminutive: ওলদ.	waled
 শাদিয়ান	sadiyan
 শাদিয়ানা	sadiyana
 শাদিয়ানা	shadiyana
+শাদী	sadi
 শাদী মুবারক	sadi mubarok
 শাদীয়ানা	sadiyana
 শান্ত	sant
@@ -9462,6 +9657,8 @@ diminutive: ওলদ.	waled
 শিখানো	shikhano
 শিঙা	sina
 শিড়া	sira
+শিতান	sitan
+শিথান	sithan
 শিফা	sifa
 শিব	sib
 শিবদ্রুম	sibdrum
@@ -9621,7 +9818,9 @@ diminutive: ওলদ.	waled
 শ্যাজার	saejar
 শ্যাডো	sjado
 শ্যামদেশ	sjamdes
+শ্যাম্পু	sempu
 শ্যাম্পু	sjampu
+শ্যাম্পু করা	sempu kora
 শ্যাম্পেন	sjampen
 শ্রবণ	srobon
 শ্রবণ করা	srobon kora
@@ -9691,7 +9890,7 @@ diminutive: ওলদ.	waled
 সওদাগর	sowdagor
 সওদাগরী	soodagori
 সওয়া	soowa
-সওয়া(Chalita)	soowa
+সওয়া – Chalita	soowa
 সওয়াল	sowal
 সওয়াল-জবাব	sowaljobab
 সক	sok
@@ -9854,18 +10053,19 @@ diminutive: ওলদ.	waled
 সম্ভাবনা	sombhabona
 সম্মান	somman
 সম্রাজ্ঞী	somraggi
-সম্রাট	samrat
 সম্রাট	somrat
 সয়লাব	soylab
 সর	sor
 সরকার	sorkar
 সরকার	sorokar
 সরকারি	sorkari
+সরকারী	sorkari
 সরণ	soron
 সরদ	sorod
 সরদারজাদা	sordarzada
 সরদারজাদী	sordarzadi
 সরল	sorol
+সরল যন্ত্র	sorol jontr
 সরস	soros
 সরসিজ	shoroshijo
 সরা	sora
@@ -9911,7 +10111,7 @@ diminutive: ওলদ.	waled
 সহলে সহলে	sohole sohole
 সহস্র	shohosro
 সহা	soha
-সহা(Sadhu)	soha
+সহা – Sadhu	soha
 সহায়ক	sohayok
 সহাস্যে	sohasje
 সহোদর	sohodor
@@ -9923,6 +10123,7 @@ diminutive: ওলদ.	waled
 সাঁওতাল	saotal
 সাঁওতালনি	saotalni
 সাঁওতালি	saotali
+সাঁকো	sako
 সাঁচা	saca
 সাঁচ্চা	sacca
 সাঁজারু	sajaru
@@ -9944,7 +10145,9 @@ diminutive: ওলদ.	waled
 সাইয়ন	saiyon
 সাউথ ক্যারোলাইনা	sauth kjarolaina
 সাওঁতাল	saotal
+সাকম	sakom
 সাকে	sake
+সাকো	sako
 সাক্ষাত্কার	sakkhatkar
 সাক্ষী	sakkhi
 সাখরার গম্বুজ	sakhrar gombuz
@@ -10059,6 +10262,7 @@ diminutive: ওলদ.	waled
 সার্কাস	sarkas
 সার্কীয়	sarkiyo
 সার্কোজি	sarkoji
+সার্জারি	sarjari
 সার্জেণ্ট	sarjent
 সার্ডীন	sardin
 সার্ব	sarb
@@ -10079,6 +10283,7 @@ diminutive: ওলদ.	waled
 সালাম	salam
 সালামতের শাহজাদা	salamoter sahozada
 সালাৎ	salat
+সালুন	salun
 সালো জমহুরিয়াত	salo jomhuriyat
 সালোকসংশ্লেষ	saloksonsles
 সালোকসংশ্লেষণ	saloksonsleson
@@ -10096,6 +10301,7 @@ diminutive: ওলদ.	waled
 সাহেব	saheb
 সাহেবজাদা	sahebzada
 সাহেবজাদী	sahebzadi
+সাহো	saho
 সিংহ	sinh
 সিংহ	sinha
 সিংহী	sinhi
@@ -10125,6 +10331,7 @@ diminutive: ওলদ.	waled
 সিন্ধু	sindhu
 সিন্ধুঘোটক	shindhughotok
 সিন্ধুঘোটক	sindhughotok
+সিপ	sip
 সিপারা	sipara
 সিপাহী	sipahi
 সিমেন্ট	siment
@@ -10186,6 +10393,7 @@ diminutive: ওলদ.	waled
 সুদী কারবার	sudi karbar
 সুনামগঞ্জ জেলা	sunamaganja jela
 সুনামগঞ্জ জেলা	sunamgonj zela
+সুনামি	sunami
 সুন্দর	sundor
 সুন্দরবন - Sundarbans	sundorobon
 সুন্দরী	sundri
@@ -10203,7 +10411,6 @@ diminutive: ওলদ.	waled
 সুফেদ	suphed
 সুবহানাল্লাহ্	subhanallah
 সুবিধা	subidha
-সুবে আজাদ	sube azad
 সুভদ্রক	subhodrok
 সুভা	subha
 সুমার	sumar
@@ -10248,6 +10455,9 @@ diminutive: ওলদ.	waled
 সৃষ্টি	srishti
 সৃষ্টিকর্তা	srishtikorta
 সে	se
+সেঁউতি	seuti
+সেঁউতী	seuti
+সেঁওতি	seoti
 সেঁজা	seja
 সেঁজার	sejar
 সেঁজারু	sejaru
@@ -10365,6 +10575,7 @@ diminutive: ওলদ.	waled
 সৌন্দর্য	soundorjo
 সৌন্দর্যতত্ত্ব	soundorjotott
 সৌর	souro
+সৌর প্যানেল	sour pjanel
 সৌর বায়ু	sour bayu
 সৌরকলঙ্ক	souroklonk
 সৌরজগৎ	sourojgot
@@ -10449,6 +10660,7 @@ diminutive: ওলদ.	waled
 স্বকাম	ssokam
 স্বতশ্চলশকট্‌	stoscloskot
 স্বত্বপত্র	sotpotr
+স্বদেশ	sodes
 স্বদেশপ্রেম	sbodesoprem
 স্বদেশী	sdesi
 স্বপন	sopon
@@ -10587,6 +10799,8 @@ diminutive: ওলদ.	waled
 হঙ্কে	honke
 হঙ্খে	honkhe
 হঙ্গে	honge
+হজরত	hozrot
+হজরৎ	hozrot
 হজ্জ	hojj
 হঠাত্	hothat
 হঠাৎ	hothat
@@ -10625,6 +10839,8 @@ diminutive: ওলদ.	waled
 হমানে	homane
 হমুক	homuk
 হমুখ	homukh
+হযরত	hozrot
+হযরৎ	hozrot
 হয়রান	hoyran
 হয়ে	hoye
 হর	hor
@@ -10671,6 +10887,7 @@ diminutive: ওলদ.	waled
 হরীতকী	horitoki
 হরু	horu
 হরুতা	horuta
+হরুত্তা	horutta
 হরুলা	horula
 হর্তন	horton
 হলকুম	holkum
@@ -10695,6 +10912,7 @@ diminutive: ওলদ.	waled
 হহুন	hohun
 হাঁ	hja
 হাঁই	hai
+হাঁও	hao
 হাঁকানো	hakano
 হাঁকে	hake
 হাঁচি দেত্তয়া	haci dettya
@@ -10725,6 +10943,8 @@ diminutive: ওলদ.	waled
 হাইফেন	haiphen
 হাইর	hair
 হাউসা ভাষা	hausa bhasha
+হাও	hao
+হাওক্যা	haokja
 হাওড়	haor
 হাওড়া	haora
 হাওন	haon
@@ -10734,6 +10954,7 @@ diminutive: ওলদ.	waled
 হাওয়াই মিঠাই	hawai mithai
 হাওয়াই মিষ্টি	hawai misti
 হাওর	haor
+হাকম	hakom
 হাকিম	hakim
 হাকিমজাদা	hakimzada
 হাকিমজাদী	hakimzadi
@@ -10898,7 +11119,9 @@ diminutive: ওলদ.	waled
 হিটলার	hitlar
 হিটলারবাদ	hitlarbad
 হিডা	hida
+হিতান	hitan
 হিতে	hite
+হিথান	hithan
 হিন	hin
 হিনান	hinan
 হিনান করা	hinan kora
@@ -10966,11 +11189,14 @@ diminutive: ওলদ.	waled
 হুইস্কি	huiski
 হুউনি	huuni
 হুক	huk
+হুকুম	hukum
 হুকুমত	hukumot
 হুকুমৎ	hukumot
 হুকূমৎ	hukumot
 হুক্কা	hukka
 হুছ	hus
+হুজুর	huzur
+হুজূর	huzur
 হুটকি	hutki
 হুটকী	hutki
 হুতুমপেঁচা	hutumpeca
@@ -10978,14 +11204,22 @@ diminutive: ওলদ.	waled
 হুনা	huna
 হুনি	hutki
 হুমায়ুননামা	humayunnama
+হুয়া	huya
 হুয়াওয়েই	huyawei
 হুয়াদ	huwad
+হুযুর	huzur
+হুযূর	huzur
 হুরইন	huroin
 হুরমত	huromot
 হুরু	huru
 হুরুইন	huruin
+হুরুকাল	hurukal
+হুরুতা	huruta
+হুরুত্তা	hurutta
 হুরুন	hurun
 হুরুনি	huruni
+হুরুলা	hurula
+হুরুল্লা	hurulla
 হুশ	hus
 হুসেইন	husein
 হূদ	hud
@@ -10994,6 +11228,10 @@ diminutive: ওলদ.	waled
 হৃদয়ের	hridoyer
 হৃৎপিন্ড	hritpind
 হে	he
+হেঁউইত	heuit
+হেঁউত	heut
+হেঁউতি	heuti
+হেঁওত	heot
 হেঁক	hek
 হেঁজ	hez
 হেঁজ	noakhali
@@ -11010,6 +11248,10 @@ diminutive: ওলদ.	waled
 হেইতে	vanga
 হেইয়া	heiya
 হেইয়ান	heiyan
+হেউইত	heuit
+হেউত	heut
+হেউতি	heuti
+হেওত	heot
 হেক	hek
 হেক্টর	hektor
 হেক্টোমিটার	hektomitar

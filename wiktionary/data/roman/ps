@@ -91,6 +91,7 @@ speaker of پښتو	paẍto
 استاذ	ostãz
 استازډله	astāzḍala
 استثنا	estesnã
+استخدام	estexdãm
 استراليا	astrālyā
 استراليائي	astraliāyí
 استريا	astǝryã
@@ -139,18 +140,22 @@ speaker of پښتو	paẍto
 اطريش	otríš
 اطلاع	etlã'
 اظهارول	ezhārawᶕl
+اعتبار	e'tebār
 اعتراف	e'terãf
 اعتصاب	e'tesãb
 اعتقاد	e'teqãd
+اعتماد	e'temād
 اعلان	i'lān
 اغزی	âǧzay
 اغزی	aγzai
 اغوستل	aγustəl
+اغوستل	aγustəlb
 اغوندم	aǧundëm
 اغږل	ağģël
 اغږم	aǧaģəm
 افريقا	afrīqā
 افريقايي	afriqāyí
+افسانه	afsāna
 افسانه	afsāná
 افغان	afǧân
 افغانستان	afǧânistân
@@ -353,6 +358,7 @@ speaker of پښتو	paẍto
 ايالت	eyālát
 ايتاليا	itāliyā
 ايداد	idád
+ايديولوژي	idioloži
 ايران	irãn
 ايراني	irāní
 ايرنۍ	iranᶕy
@@ -369,14 +375,17 @@ speaker of پښتو	paẍto
 ايټالوي	iṭalawí
 ايټالي	íṭāli
 ايټاليا	iṭālyá
+ايډيالوجي	iḍyāloǰi
 ايکټر	ekṭár
 ايڼ	iṇ
 آ	alifmadā
 آب وهوا	ābohawā
+آب پاشِي	ābpāshí
 آبادانی	ābādāní
 آبخانە	ābkhāná
 آبده	ābedá
 آبرو	ābráv
+آبشار	ābšār
 آبکند	ābkánd
 آتشفشان	ātešfešãn
 آتن	ātán
@@ -468,6 +477,7 @@ speaker of پښتو	paẍto
 اېکوادور	ekwādór
 ب	be
 بابا	bâbâ
+باج	bāj
 باختر	bāxtár
 باختري اوښ	bâxtëri uẍ
 باد	bâd
@@ -502,6 +512,7 @@ speaker of پښتو	paẍto
 بانجڼ	bāndzháṇ
 باندې	bânde
 بانک	bānk
+باور	bāwar
 باور کارډ	bāwár kārḍ
 بايسکل	bāyskél
 بايع	bāyé'
@@ -563,6 +574,7 @@ speaker of پښتو	paẍto
 بربر	baṛbaṛ
 بربنډ	barbanḍ
 بربنډ	bërbënḍ
+بربړوک	barbaṛuk
 برتانيه	bartānyá
 برج	borǰ
 برج	braj
@@ -826,6 +838,7 @@ speaker of پښتو	paẍto
 تشکل	tašakól
 تصور	tasawór
 تصوير	taswír
+تعذيب	ta'zīb
 تعريف	ta'ríf
 تعطيل	ta'tíl
 تعليمات	ta'limãt
@@ -935,7 +948,7 @@ speaker of پښتو	paẍto
 ثقافتي	saqāfatí
 ج	jim
 جادو	ǰādú
-جادوګر	ǰādugár
+جادوګر	jādugar
 جاروکښ	jârukëẍ
 جاسوس	ǰāsús
 جال	ǰāl
@@ -949,6 +962,7 @@ speaker of پښتو	paẍto
 جبه	jë́ba
 جدول	ǰādwál
 جذر	ǰazr
+جراح	jarrāh
 جرمانه	ǰormāná
 جريده	ǰaridá
 جرړه	ǰárṛa
@@ -1082,6 +1096,7 @@ speaker of پښتو	paẍto
 خالي	xālí
 خالي ورځ	xāli wráj
 خام	xâm
+خاندان	xānadān
 خانقا	xānaqã
 خاوره	khā́vra
 خاوند	xāwánd
@@ -1106,11 +1121,13 @@ speaker of پښتو	paẍto
 خرافات	xerāfāt
 خرس	xers
 خرطوم	xartum
+خريد	xarid
 خريز	xriz
 خريطه	xaritá
 خری	xəray
 خزان	xazãn
 خزانه	xazāná
+خزنده	xazǝnda
 خشالي	xašālí
 خشونت	xošunát
 خشونت	xušonat
@@ -1155,6 +1172,7 @@ speaker of پښتو	paẍto
 خوځنده انځور	xwëźënda anźor
 خوړل	xwaṛә́l
 خوړل	xwaṛᶕl
+خوړنځی	xwaṛǝnjay
 خوړنځی	xwaṛǝnjáy
 خوړنځی	xwëṛënźay
 خوړنځی	xwëṛënźáy
@@ -1371,6 +1389,7 @@ speaker of پښتو	paẍto
 رخس	raxs
 رساله	resālá
 رست	rost
+رستوران	rastorãn
 رسنۍ	rësënai
 رسول	rasúl
 رعيت	ra'yát
@@ -1393,6 +1412,7 @@ speaker of پښتو	paẍto
 رنګون	rangūn
 رنګونه	ranguna
 رو	rav
+روايت	rawāyat
 روح	roh
 روزنامه	roznāmá
 روزنامه نګاري	roznāmanegārí
@@ -1411,6 +1431,7 @@ speaker of پښتو	paẍto
 روم	rom
 روما	romã
 رومال	romãl
+رومان	romãn
 رومان ليکوال	românlikwâl
 رومانیا	rōmāniyā
 رومي	rūmí
@@ -1439,6 +1460,7 @@ speaker of پښتو	paẍto
 زاغچکه	zāǧčáka
 زامبه	žā́mba
 زامه	zãma
+زاوه	zāwa
 زاويه	zāweyá
 زاير	zāér
 زاګرېب	zâgreb
@@ -1466,6 +1488,7 @@ speaker of پښتو	paẍto
 زعفران	za'farā́n
 زغره	zğara
 زغم	zǧam
+زغونډى	zǧunḍay
 زلیخا	Zulëixa
 زما	zmâ
 زمان	zamãn
@@ -1487,6 +1510,7 @@ speaker of پښتو	paẍto
 زنګون	zangun
 زنګي	zangí
 زه	zə
+زهر	zahr
 زهره	zahrá
 زهٔ	zë
 زوار	zawãr
@@ -1520,6 +1544,7 @@ speaker of پښتو	paẍto
 سا	sā
 سابون	sābūn
 سابونونه	sābūnūnah
+ساحر	sāher
 ساده	sādá
 سادو	sādú
 سازمان	sāzmãn
@@ -1555,13 +1580,14 @@ speaker of پښتو	paẍto
 ستوری	stóray
 ستوکهولم	stokholm
 سحر	sehr
-سحرګر	sehrgár
+سحرګر	sehrgar
 سخا	sxâ
 سخت	saxt
 سختیان	saxtyãn
 سخوبی	sxóbay
 سخی	sxay
 سر	sar
+سر	ser
 سراغي	sorāǧí
 سراييوو	sarayewo
 سرباز	sarbā́z
@@ -1766,6 +1792,7 @@ speaker of پښتو	paẍto
 شراب	šarãb
 شرابخانه	šarābxāná
 شربت	šarbát
+شرشره	šaršara
 شرط	šart
 شرطنامه	šartnāmá
 شرق	šarq
@@ -1846,6 +1873,7 @@ speaker of پښتو	paẍto
 شکايت	šekāyát
 شکره	šakᶕra
 شکرۍ	škrǝy
+شکنجه	škanja
 شګه	šᶕga
 شېبه	šebá
 ص	swâd
@@ -1884,6 +1912,7 @@ speaker of پښتو	paẍto
 ضرب	zarb
 ضرورت	zarurát
 ضروري	zarurí
+ضمانت	zamānat
 ضمه	zamá
 ضمير	zamír
 ضيا	zeyã
@@ -1915,6 +1944,7 @@ speaker of پښتو	paẍto
 عالم	'ālim
 عالم	ālám
 عالي	aeli
+عايله	'āyela
 عائشه	Aisha
 عبارت	ebārát
 عبدالله	'abdullah
@@ -1923,6 +1953,7 @@ speaker of پښتو	paẍto
 عداوت	adāvát
 عداوت	adāwát
 عدد	adád
+عذاب	'azāb
 عذاب	azãb
 عرابه	arābá
 عراق	'irāq
@@ -2067,6 +2098,7 @@ speaker of پښتو	paẍto
 فاحشه	fāhešá
 فادوڅ	fādūč
 فاشيست	fāšíst
+فاميل	fāmil
 فبروري	februwarí
 فتبال	fotbál
 فتح	fathá
@@ -2112,6 +2144,7 @@ speaker of پښتو	paẍto
 فن	fan
 فنلېنډي	fenlenḍí
 فنلېنډی	fenlenḍáy
+فواره	fawāra
 فوټبال	foṭbãl
 فيصد	fisád
 فيلمرغ	filmórǧ
@@ -2122,6 +2155,7 @@ speaker of پښتو	paẍto
 فېډرېشن	feḍeréšan
 ق	qâf
 قاب	qāb
+قابله	qābela
 قاتل	qātél
 قاره	qārá
 قازاقستان	qāzāqstān
@@ -2240,6 +2274,7 @@ speaker of پښتو	paẍto
 لمونځ	lmunź
 لندن	landan
 لنډ	lanḍ
+لنګر	langar
 له ياده ايستل	layãdaistǝ́l
 له ياده وتل	layãdawatǝ́l
 لهجه	lahǰá
@@ -2342,6 +2377,7 @@ speaker of پښتو	paẍto
 ماشينګن	māšíngán
 ماغزه	māğza
 مال	māl
+ماليات	mālyāt
 ماليه	mālyá
 مالټه	mālṭá
 مالک	mâlik
@@ -2350,6 +2386,7 @@ speaker of پښتو	paẍto
 مالکه	mâlika
 مالګه	mālga
 مالیزیا	māleziyā
+مالیه	mālya
 مالې	mãle
 مالېزيا	māleziyā
 مالېکول	mālekúl
@@ -2357,6 +2394,7 @@ speaker of پښتو	paẍto
 ماناما	manāma
 مانش	mānš
 مانيلا	mānilã
+ماهر	māher
 ماهي	mâhi
 ماهي ګير	māhigír
 ماهی	māháy
@@ -2370,6 +2408,7 @@ speaker of پښتو	paẍto
 ماڼۍ	mâṇëy
 ماڼۍ	mānnəi
 متاع	matã'
+متخصص	motaxases
 مترجم	motaraǰém
 متل	matál
 مثل	masál
@@ -2427,6 +2466,7 @@ speaker of پښتو	paẍto
 مدرسه	madrasá
 مدينه	madiná
 مدیر	mudír
+مذاکره	mozākera
 مذهب	mazhab
 مذهب	mazháb
 مرامنامه	marāmnāmá
@@ -2487,6 +2527,7 @@ speaker of پښتو	paẍto
 مشارکت	mošārakát
 مشاور	mošāwér
 مشرانوجرګه	mëšërânojarga
+مشروب	mašrub
 مشق	mašq
 مشکل	muškil
 مصدر	masdár
@@ -2580,6 +2621,7 @@ speaker of پښتو	paẍto
 مهبل	mahbal
 مهر	mahr
 مهرباني	mehrabāní
+مهمانخانه	mehmānxāna
 مهميز	mahmíz
 مهندسي	muhandasī
 مهينه	mahɪná
@@ -2728,6 +2770,7 @@ speaker of پښتو	paẍto
 نان	nān
 نانځکه	nānjᶕka
 ناهيد	nāhíd
+ناول	nāwᶕl
 ناولى	nâwëlay
 نايتروجن	nāytroǰán
 نايجېريا	nāyǰeryã
@@ -2919,10 +2962,12 @@ speaker of پښتو	paẍto
 هو	ho
 هوا	hawã
 هوا	hawā
+هوانورد	hawānaward
 هواويجه	hawāweǰa
 هوايي ډګر	hawâyi ḍëgër
 هوایی ډګر	hawāyí-ḍagár
 هورې	hure
+هوټل	hoṭal
 هوټل	hoṭál
 هوږه	húɀa
 هوښيار	húẍjâr
@@ -2957,6 +3002,7 @@ speaker of پښتو	paẍto
 هېوادوال	hewādwā́l
 هېوادپالنه	hewādpālǝ́na
 و	wâw
+واده	wāda
 واده	wādá
 واده	wādǝ́
 وادي	wādí
@@ -3030,7 +3076,9 @@ speaker of پښتو	paẍto
 وزیرستان	Waziristan
 وستون	wastun
 وسله	waslá
+وطن	watan
 وطنوال	watanwãl
+وعده	wa'da
 وعظ	wa'z
 وفا	wafã
 وفادار	wafādãr
@@ -3133,6 +3181,7 @@ speaker of پښتو	paẍto
 يو	yaw
 يورپ	uróp
 يوز	yúz
+يوغ	yoǧ
 يوم	yûm
 يونان	yunân
 يوناني	yunāní
@@ -3184,11 +3233,12 @@ speaker of پښتو	paẍto
 ټپټپی	ṭapṭapáy
 ټکسي	ṭaksí
 ټکنيشن	ṭaknešán
+ټکټ	ṭekᶕṭ
 ټېل وهل	ṭel wahᶕl
 ټېنس	ṭenés
 ټېپ ريکارډر	ṭep-rikārḍár
 پ	pe
-پادري	pādrí
+پادري	pādri
 پادشا	pādšã
 پاراشوت	pārāšút
 پارسه	Pârsa
@@ -3204,6 +3254,7 @@ speaker of پښتو	paẍto
 پانوس	pānús
 پانګوالي	pāngwālí
 پايله	pâyla
+پايلوټ	pāyloṭ
 پايول	pâyawál
 پاپۍ	pâpai
 پاچاهي	pāčāhí
@@ -3316,7 +3367,7 @@ speaker of پښتو	paẍto
 پورې	pore
 پورې کول	pore kawël
 پوزه	pozá
-پوسته	postá
+پوسته	posta
 پوسته خانه	posta xāná
 پولنډ	polánḍ
 پوله	pula
@@ -3341,13 +3392,16 @@ speaker of پښتو	paẍto
 پوښتنه	poṣtëna
 پياده رو	pyādaráw
 پياله	pyālá
+پيام	payãm
 پيسې	paise
 پيسې	paysé
 پيشو	pišo
 پيشو	píšo
+پيغام	payǧãm
 پيل	pail
 پيل	pil
 پيل	píl
+پيلوټ	piloṭ
 پيمان	paymãn
 پيډل	payḍál
 پيکنګ	peking
@@ -3468,6 +3522,7 @@ speaker of پښتو	paẍto
 څپره	tsapə́ra
 څپه	capá
 څپېړه	śapeṛa
+څښاک	cx̌āk
 څښاک	śẍâk
 څکل	śkël
 څکه	śëka
@@ -3623,7 +3678,9 @@ speaker of پښتو	paẍto
 ژبې	žëbe
 ژر	žәr
 ژرنده	žranda
+ژغ	žәǧ
 ژغورځی	žğorźay
+ژمنه	žmᶕna
 ژمۍ	žaməy
 ژور	žawar
 ژور	žëwër
@@ -3711,7 +3768,7 @@ speaker of پښتو	paẍto
 کانسوننټ	kānsuonánt
 کانکور	kānkór
 کانګرس	kāngrés
-کاهن	kāhǝ́n
+کاهن	kāhǝn
 کاوه	kāwá
 کاپر ګل	kapər gul
 کاپيتاليزم	kāрitlízm
@@ -3754,7 +3811,7 @@ speaker of پښتو	paẍto
 کشول	kašawᶕl
 کشک	kashík
 کشکېدونکی	kaškedunkay
-کشیش	kašíš
+کشیش	kašiš
 کف	kaf
 کلا	kalã
 کلاس	klās
@@ -3842,6 +3899,7 @@ speaker of پښتو	paẍto
 کوپېک	kopék
 کوڅه	kucá
 کوڅکه	kocáka
+کوچ	kauč
 کوچ	kuč
 کوچنی	kučnay
 کوچنۍ	kučnəy
@@ -3953,6 +4011,7 @@ speaker of پښتو	paẍto
 ګيلاس	gilās
 ګيټۍ	giṭëi
 ګټل	gaṭә́l
+ګټل	gaṭᶕl
 ګټه	gëṭa
 ګډه	gǝ́ḍa
 ګډون	gaḍun
@@ -3962,6 +4021,7 @@ speaker of پښتو	paẍto
 ګړدود	gëṛdod
 ګړندی	gëṛënday
 ګړندۍ	gaṛandǝ́y
+ګړونګه	gaṛunga
 ګړيال	gaṛyãl
 ګړيستنه	gǝṛyastǝ́na
 ګړپوهنه	gǝṛрohǝ́na

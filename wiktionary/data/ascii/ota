@@ -75,7 +75,6 @@ same as تیمار	timar
 ارز	erz
 ارز	uruz
 ارسلان	arslan
-ارسلان	aslan
 ارشمك	erismek
 ارض	arz
 ارضات	arazat
@@ -91,6 +90,7 @@ same as تیمار	timar
 اركك	erkek
 اركلمك	irkilmek
 اركمك	irkmek
+اركن	ergen
 اركن	erkin
 ارمنی	ermeni
 اریال	iriyale
@@ -146,6 +146,8 @@ same as تیمار	timar
 اشتر	istir
 اشتها	istiha
 اشتیر	istir
+اشعار	isar
+اشعارات	isarat
 اشغال	isgal
 اشك	esek
 اشكمبه	iskembe
@@ -156,7 +158,6 @@ same as تیمار	timar
 اضطراب ويرمك	izdirab vermek
 اطناب	etnab
 اطه چایی	ada cayi
-اطه‌لو	adali
 اعاده	iade
 اعانه	iane
 اعتبارا	itibaren
@@ -214,6 +215,7 @@ same as تیمار	timar
 الدیون	eldiven
 الف	elif
 الك	ilk
+الكا	ulke
 الله	allah
 اللی	elli
 الم طحال	elemi tahal
@@ -422,9 +424,12 @@ same as تیمار	timar
 اولرڭ	evlerin
 اولری	evleri
 اولش	olus
+اولشمك	ulesmek
 اولغون	olgun
 اولق	oluk
 اولك	evlek
+اولكا	ulke
+اولكه	ulke
 اولكی	evvelki
 اولمز	olmaz
 اولمق	olmak
@@ -471,6 +476,8 @@ same as تیمار	timar
 اویارمق	uyarmak
 اویاندیرمق	uyandirmak
 اویانمق	uyanmak
+اویغون	uygun
+اویقو	uyku
 اویلق	uyluk
 اویله	ogle
 اویله	oyle
@@ -545,8 +552,10 @@ same as تیمار	timar
 آدداش	ad das
 آدریاتیق دڭزی	adriyatik denizi
 آدسز	adsiz
+آدلر	adlar
 آدم	adam
 آدم	adem
+آدی	adi
 آذر	azer
 آرا	ara
 آرامق	aramak
@@ -559,6 +568,8 @@ same as تیمار	timar
 آردیچ	ardic
 آرزو	arzu
 آرسز	arsiz
+آرسلان	arslan
+آرسلان	aslan
 آرش	aris
 آرش	ars
 آرشون	arsin
@@ -602,6 +613,7 @@ same as تیمار	timar
 آصمق	asmak
 آصمه	asma
 آطه	ada
+آطه‌لی	adali
 آغا	aga
 آغاج	agac
 آغاج چیلكی	agac cilegi
@@ -620,9 +632,9 @@ same as تیمار	timar
 آغزنه قدر طولو	agzina kadar dolu
 آغزه آلمق	agza almak
 آغزه دوشمك	agza dusmek
-آغزی آچیق	agizi acik
-آغزی بوزوق	agizi bozuk
-آغزی بیوك	agizi buyuk
+آغزی آچیق	agzi acik
+آغزی بوزوق	agzi bozuk
+آغزی بیوك	agzi buyuk
 آغزی وار دیلی یوق	agzi var dili yok
 آغستوس	agustos
 آغستوس بوجكی	agustos bocegi
@@ -700,6 +712,9 @@ same as تیمار	timar
 آنبار	anbar ambar
 آنتیمون	antimon
 آنجق	ancak
+آنختار	anahtar
+آنختارلر	anahtarlar
+آنختاری	anahtari
 آند	and
 آند ایچمك	and icmek
 آندلر	andlar
@@ -733,7 +748,14 @@ same as تیمار	timar
 آووقات	avokat
 آووقاتلر	avokatlar
 آووقاتلق	avokatlik
+آووقاتی	avokati
+آپالاش	apalas
 آچمق	acmak
+آچیغه چیقارمق	aciga cikarmak
+آچیق	acik
+آچیقدن	acikdan
+آچیقدن آچیغه	acikdan aciga
+آچیقلی	acikli
 آکاری بکری	anaribanari
 آی	ay
 آیا	aya
@@ -849,7 +871,10 @@ same as تیمار	timar
 ایلیك	ilik
 ایمبات	imbat
 ایمپراطور	imperator
+ایمپراطورلر	imperatorlar
+ایمپراطورلغی	imperatorlugu
 ایمپراطورلق	imperatorluk
+ایمپراطورلقلر	imperatorluklar
 ایمپراطوریچه	imperatorice
 اینجو	inci
 اینمك	enmek
@@ -952,6 +977,7 @@ same as تیمار	timar
 باغچهجك	bagcacik
 باغچهلق	bagcalik
 باغچهلك	bagcelik
+باقاناق	baqanaq
 باقر	bakir
 باقراج	bakrac
 باقرجی	bakirci
@@ -995,6 +1021,18 @@ same as تیمار	timar
 بالیوٓس	balyos
 بامیه	bamya
 بان	ban
+بانقه	banka
+بانقه‌دن	bankadan
+بانقه‌ده	bankada
+بانقه‌لر	bankalar
+بانقه‌لردن	bankalardan
+بانقه‌لرده	bankalarda
+بانقه‌لره	bankalara
+بانقه‌لرڭ	bankalarin
+بانقه‌لری	bankalari
+بانقه‌نڭ	bankanin
+بانقه‌یه	bankaya
+بانقه‌یی	bankayi
 باهجه	bahce
 بايقوش	baykus
 بائت	bait
@@ -1235,6 +1273,7 @@ same as تیمار	timar
 بوغچه‌لتمق	bogcalatmak
 بوغچه‌لمق	bogcalamak
 بوغچه‌لنمق	bogcalanmak
+بوفالو	bufalo
 بوق بوجكی	bok bocegi
 بوقاغی	bukagi
 بوكه	buge
@@ -1300,12 +1339,17 @@ same as تیمار	timar
 بچ	bec
 بچاق	bucak
 بکری	banari
+بکندرمك	beyendirmek
+بکنش	beyenis
+بکنلمك	beyenilmek
 بکچی	bekci
 بکیتمك	bekitmek
 بڭ	ben
 بڭا	bana
 بڭز	beniz
 بگ	beg
+بگنمك	begenmek
+بگنمك	beyenmek
 بی لوزم	biluzum
 بیاس	bayas
 بیاض	beyaz
@@ -1398,6 +1442,9 @@ same as تیمار	timar
 تخمر ایتمش	tahammur etmis
 تدارك	tedarik
 تدارك	tedaruk
+تداوی	tedavi
+تداویلر	tedaviler
+تداوی‌یی	tedaviyi
 تر	ter
 تر	tir
 ترازو	tarazu
@@ -1493,6 +1540,7 @@ same as تیمار	timar
 تلاق	tellak
 تلاقلق	tellaklik
 تلاك	tellak
+تلسقوپ	teleskop
 تلغراف	telegraf
 تلغراف	telgraf
 تلغرافلر	telegraflar
@@ -1518,6 +1566,7 @@ same as تیمار	timar
 تنبل	tembel
 تنجره	tencere
 تنف	tunuf tunef tenef
+تنقیدات	tenkidat
 تنین	tenin
 تنین	tinin
 تهجیر	tehcir
@@ -1709,8 +1758,6 @@ same as تیمار	timar
 حجر	hacer
 حرامی	harami
 حرب	harb
-حرب ایتمك	harb etmek
-حربی چته	cete harbi
 حرص	hirs
 حرصلانمق	hirslanmak
 حرف	harf
@@ -1723,7 +1770,12 @@ same as تیمار	timar
 حصنمنصور	hisnimansur
 حضور	huzur
 حفظ	hifz
+حكایات	hikayat
 حكایه	hikaye
+حكایه‌جی	hikayeci
+حكایه‌جیلر	hikayeciler
+حكایه‌جی‌یی	hikayeciyi
+حكایه‌یی	hikayeyi
 حكمران	hukumran
 حكومت	hukumet
 حكیم	hekim
@@ -2057,11 +2109,13 @@ same as تیمار	timar
 دڭز	deniz
 دڭلمك	dinlemek
 دڭله‌مك	dinlemek
+دڭه‌مك	denemek
 دگر	deger
 دگرلو	degerli degerlu
 دگین	degin
 دیب	dib
 دیبك	dibek
+دیدی	dedi
 دیرك	direk
 دیز	diz
 دیز	dyz
@@ -2089,6 +2143,7 @@ same as تیمار	timar
 دیوشیرمك	devsirmek
 دیوشیرمه	devsirme
 دیپلومات	diplomat
+دیپلوماتیق	diplomatik
 دیپلوماسی	diplomasi
 دیڭلمك	dinlemek
 دیڭله‌مك	dinlemek
@@ -2457,6 +2512,7 @@ same as تیمار	timar
 سڭیر	sinir
 سڭیرلر	sinirler
 سیاره	seyyare
+سیاسةً	siyaseten
 سیاست	siyaset
 سیاسی	siyasi
 سیاسیات	siyasiyat
@@ -2508,6 +2564,7 @@ same as تیمار	timar
 شایان	sayan
 شایقه	sayka
 شبان	soban suban suben
+شبك	sebek
 شبنم	sebnem
 شتر	sutur
 شترك	suturek
@@ -2698,6 +2755,8 @@ same as تیمار	timar
 صچرامق	sicramak
 صڭره	sonra
 صڭسار	sansar
+صیر	seyr
+صیر	sir
 صیرمه	sirma
 صیغیرجق	sigircik
 صیغین	sigin
@@ -2993,6 +3052,11 @@ same as تیمار	timar
 عطر	itir
 عطر	itr
 عطرجی	itirci
+عطف	atf atif
+عطفا	atfan
+عطفا	atfen
+عطفاً	atfan
+عطفاً	atfen
 عفریت	ifrit
 عقب	akab
 عقل	akil
@@ -3009,6 +3073,7 @@ same as تیمار	timar
 عمجه	amca
 عموجه	amuca
 عمومی	umumi
+عمومیه	umumiye
 عنادجی	inadci
 عنادجی	inatci
 عنب	ineb
@@ -3126,6 +3191,7 @@ same as تیمار	timar
 فتق طحال	fetki tahal
 فتنه	fitne
 فتوی	fetva
+فجیع	feci
 فدان	fidan
 فراجه	ferace
 فراجه	ferece
@@ -3225,6 +3291,7 @@ same as تیمار	timar
 قاباق	kabak
 قابوق	kabuk
 قابوقلو	kabuklu
+قابینه	kabine
 قاتل	katil
 قاتی	kati
 قاتی چوق	kati cok
@@ -3293,6 +3360,8 @@ same as تیمار	timar
 قالمق	qalmaq
 قالن	kalin
 قالوریفر	kalorifer
+قالوریفرلر	kaloriferler
+قالوریفری	kaloriferi
 قالوش	kalos
 قالوغان	kalugan
 قالچه	kalca
@@ -3401,6 +3470,9 @@ same as تیمار	timar
 قرال	kral
 قرال	qral
 قرال صویی	kral suyu
+قرالانه	kralane
+قراللق	krallik
+قرالی	krali
 قرالیت	kraliyet
 قرالیچه	kralica
 قرالیچه	kralice
@@ -3436,7 +3508,6 @@ same as تیمار	timar
 قره بویا	kara boya
 قره دكز	kara deniz
 قره سینك	kara sinek
-قره صیغر	kara sigir
 قره قلپاق	kara kalpak
 قره پازی	kara pazi
 قره‌جه	karaca
@@ -3581,6 +3652,8 @@ same as تیمار	timar
 قوجه	koca
 قودوش	kodos
 قودوشلق	kodosluk
+قوراق	kurak
+قوراقلق	kuraklik
 قورباغه	kurbaga
 قوربغا	kurbaga
 قورت	kurt
@@ -3676,9 +3749,15 @@ same as تیمار	timar
 قومشو	komsu
 قومشولق	komsuluk
 قومیسر	komiser
+قومیسیون	komisyon
+قومیسیونلر	komisyonlar
+قومیسیونی	komisyonu
 قوناق	konak
 قوناقجی‎ and قوناقچی	konakci
 قوناقلق	konaklik
+قونترول	kontrol
+قونتروللر	kontroller
+قونترولی	kontrolu
 قونداق	kondak
 قونداق	kundak
 قونداق	kundak kondak
@@ -3693,6 +3772,9 @@ same as تیمار	timar
 قوندورا	kundura
 قوندوره	kundura
 قوندوز	kunduz
+قوندوكتور	konduktor
+قوندوكتورلر	konduktorler
+قوندوكتوری	konduktoru
 قونسلوس	konsolos
 قونسلوسخانه	konsoloshane
 قونسلوسلق	qonsolosluk
@@ -3702,6 +3784,7 @@ same as تیمار	timar
 قونشولق	komsuluk
 قونشولق	konsuluk
 قونشولق	konsuluk komsuluk
+قونغره	kongre
 قونفرانس	konferans
 قونق	konak
 قونق	konuk
@@ -3793,6 +3876,7 @@ same as تیمار	timar
 كاروانسرای	kervanseray
 كاغد	kagid
 كاغدلر	kagidlar
+كاغدی	kagidi
 كاغذ	kagaz
 كالا	kala
 كاور	gavur
@@ -3802,6 +3886,7 @@ same as تیمار	timar
 كبه	kebe
 كتاب	kitab
 كتخدا	kethuda
+كدوس	gediz
 كدی	kadi
 كدی	kedi
 كدی اوتی	kedi otu
@@ -4142,6 +4227,7 @@ same as تیمار	timar
 مبایعه‌جی	mubayaaci
 مبحث	mebhas
 مبعوثان	mebusan
+متخصص	mutehassis
 مثلثات	muselesat
 مجار	macar
 مجلس	meclis
@@ -4160,6 +4246,7 @@ same as تیمار	timar
 محكوم	mahkum
 محمد	mehemmed
 محمد	mehmed
+مخابرات	muhaberat
 مختاریت	muhtariyet
 مخمور	mahmur
 مخمور چیچگى	mahmur cicegi
@@ -4189,6 +4276,8 @@ same as تیمار	timar
 مرمر	mermer
 مروارید	mervarid
 مرگ	merg
+مزایدات	muzayedat
+مزایده	muzayede
 مزغل	mazgal
 مساعده	musaade
 مستجاب	mustecab
@@ -4198,6 +4287,8 @@ same as تیمار	timar
 مسلمان	musliman
 مسینه	mesine
 مشام	mesamm
+مشاهدات	musahedat
+مشاهده	musahede
 مشروبات	mesrubat
 مشمله	musmula
 مشه	mese
@@ -4237,6 +4328,7 @@ same as تیمار	timar
 معلومات	malumat
 معمار	mimar
 معمولات	mamulat
+مع‌الاسف	maalesef
 مغدانوس	magdanos
 مغدانوس	magdanos maydanos
 مغدانوس	maydanos
@@ -4271,6 +4363,8 @@ same as تیمار	timar
 ملكیت	mulkiyet
 ملیت	milliyet
 ملیتلر	milliyetler
+ملیح	melih
+ملیحه	meliha
 ممالك	memalik
 مملكت	memleket
 مملكتلر	memleketler
@@ -4381,6 +4475,7 @@ same as تیمار	timar
 نصيحت	nasihat
 نطرون	natron
 نظام ثدید	nizam cedid
+نظامیه	nizamiye
 نعل	nal
 نعلبر	nalbur
 نعلبند	nalbant
@@ -4389,6 +4484,8 @@ same as تیمار	timar
 نفت یاغی	neft yagi
 نفرت	nefret
 نفوذ	nufuz
+نقط	nukat
+نقطه	nokta
 نم	nem
 نماز	namaz
 نمك	nemek
@@ -4562,6 +4659,8 @@ same as تیمار	timar
 پالاز	palaz
 پالاسقه	palaska
 پالانقه	palanka
+پالطو	palto
+پالطولر	paltolar
 پامبوق	pambuk
 پاموق	pamuk
 پانبوق	pambuk
@@ -4608,11 +4707,19 @@ same as تیمار	timar
 پرمغی یوزكلو	parmagi yuzuklu
 پرمق	parmak
 پرنج	pirinc
+پرنسیپ	prensip
+پرنسیپلر	prensipler
 پره‌وزه	preveze
+پروتستو	protesto
+پروتستولر	protestolar
+پروتستویی	protestoyu
 پروسیا	prusya
 پروقه	peruka
 پروقه‌جی	perukaci
 پروكار	perukar
+پروپاغاندا	propaganda
+پروپاغاندالر	propagandalar
+پروپاغاندایی	propagandayi
 پریشان	perisan
 پزونك	pezevenk
 پزونكلك	pezevenklik
@@ -4712,6 +4819,7 @@ same as تیمار	timar
 پوصوله	pusula
 پوصوله‌جی	pusulaci
 پوصوله‌سز	pusulasiz
+پوصوله‌یی	pusulayi
 پوصوله‌یی شاشرمق	pusulayi sasirmak
 پوصی	pusi
 پوطر	potur
@@ -5123,6 +5231,10 @@ same as تیمار	timar
 یاتمق	yatmak
 یاد	yad
 یارا	yara
+یارغو	yargi
+یارغی	yargi
+یارغیجی	yargici
+یارغیلامق	yargilamak
 یاره	yara
 یارپوز	yarpuz
 یاز	yaz
@@ -5175,6 +5287,11 @@ same as تیمار	timar
 یتمش	yetmis
 یتیم	yatim
 ید	yed
+یدك	yedek
+یدكجی	yedekci
+یدكدش	yedekdas
+یدكلو	yedekli
+یدمك	yedmek
 یدی	yedi
 یدیلی	yedili
 یر	yer
@@ -5261,6 +5378,10 @@ same as تیمار	timar
 یوقسول	yoksul
 یوقلق	yokluk
 یوك	yuk
+یوكسك	yuksek
+یوكسكلك	yukseklik
+یوكسلتمك	yukseltmek
+یوكسلمك	yukselmek
 یوكله‌مك	yuklemek
 یول	yol
 یول تذكره‌سی	yol tezkeresi
@@ -5274,6 +5395,7 @@ same as تیمار	timar
 یومروجق	yumrucak
 یومق	yumak
 یومورطه	yumurta
+یومورطه‌لر	yumurtalar
 یومی	yevmi
 یومیه	yevmiye
 یونان	yunan

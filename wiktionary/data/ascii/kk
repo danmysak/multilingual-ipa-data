@@ -428,6 +428,7 @@ xораз	xoraz
 Дінмұхаммед	dinmuxammed
 Дүйсен	duysen
 Дүйсенғазы	duysengazi
+Дұнхуаң	dunxwan
 Дәлелхан	dalelxan
 Дәлу	dalw
 Дәулет	dawlet
@@ -700,6 +701,7 @@ xораз	xoraz
 Кіші Аю	kisi ayw
 Кіші Шолпан	kisi solpan
 Кіші жүз	kisi juz
+Кішіқарақшы	kisiqaraqsi
 Күн	kun
 Күн жүйесі	kun juyesi
 Күнесхан	kunesxan
@@ -1381,6 +1383,7 @@ xораз	xoraz
 Швеция	sveciya
 Шежірелер	sejireler
 Шеше	sese
+Шешенстан	sesenstan
 Шива	siva
 Шимеон	simeon
 Шимон	simon
@@ -1416,6 +1419,7 @@ xораз	xoraz
 Шығыс Қытай теңізі	sigis qitay tenizi
 Шыңғыс хан	singis xan
 Шіңгіл	singil
+Шұғайб	sugayb
 Шұғайбек	sugaybek
 Шәуешек	sawesek
 Щ	ss
@@ -3042,6 +3046,7 @@ xораз	xoraz
 акуланың	akwlanin
 акулаға	akwlaga
 акупунктура	akwpwnktwra
+акушер әйел	akwser ayel
 акушерлік	akwserlik
 акционерлік	akcionerlik
 акция	akciya
@@ -3133,6 +3138,9 @@ xораз	xoraz
 алаптың	alaptin
 алапқа	alapqa
 аласа	alasa
+аласалау	alasalaw
+аласалық	alasaliq
+аласапыран	alasapiran
 аластау	alastaw
 аластаушы	alastawsi
 алау	alaw
@@ -3666,6 +3674,7 @@ xораз	xoraz
 аманаттау	amanattaw
 амандасу	amandasw
 амансыз ба	amansiz ba
+амансың ба	amansin ba
 амбас	ambas
 амда	amda
 амдар	amdar
@@ -4765,6 +4774,7 @@ xораз	xoraz
 аспалы көпір	aspali kopir
 аспан	aspan
 аспан меридианы	aspan meridiani
+аспан механикасы	aspan mexanikasi
 аспанда	aspanda
 аспандар	aspandar
 аспандарда	aspandarda
@@ -6310,6 +6320,20 @@ xораз	xoraz
 бажаны	bajani
 бажаның	bajanin
 бажаға	bajaga
+бажшы	bajsi
+бажшыда	bajsida
+бажшыдан	bajsidan
+бажшылар	bajsilar
+бажшыларда	bajsilarda
+бажшылардан	bajsilardan
+бажшыларды	bajsilardi
+бажшылардың	bajsilardin
+бажшылармен	bajsilarmen
+бажшыларға	bajsilarga
+бажшымен	bajsimen
+бажшыны	bajsini
+бажшының	bajsinin
+бажшыға	bajsiga
 база	baza
 базада	bazada
 базадан	bazadan
@@ -6387,6 +6411,7 @@ xораз	xoraz
 байланысты	baylanisti
 байланыстың	baylanistin
 байланысқа	baylanisqa
+байлау	baylaw
 байлық	bayliq
 байпақ	baypaq
 байрақ	bayraq
@@ -10157,6 +10182,7 @@ xораз	xoraz
 ваниль	vanil
 ванна	vanna
 ванна бөлмесі	vanna bolmesi
+варвар	varvar
 ватт	vatt
 веб шолғыш	veb solgis
 веб-сайт	vebsayt
@@ -11356,6 +11382,8 @@ xораз	xoraz
 гректермен	grektermen
 гректі	grekti
 гректің	grektin
+гривна	grivna
+гривня	grivnya
 григориан күнтізбесі	grigorian kuntizbesi
 гризеофульвин	grizeofwlvin
 гризон	grizon
@@ -11800,6 +11828,20 @@ xораз	xoraz
 дауылды	dawildi
 дауылдың	dawildin
 дауылмен	dawilmen
+дауылпаз	dawilpaz
+дауылпазбен	dawilpazben
+дауылпазда	dawilpazda
+дауылпаздан	dawilpazdan
+дауылпаздар	dawilpazdar
+дауылпаздарда	dawilpazdarda
+дауылпаздардан	dawilpazdardan
+дауылпаздарды	dawilpazdardi
+дауылпаздардың	dawilpazdardin
+дауылпаздармен	dawilpazdarmen
+дауылпаздарға	dawilpazdarga
+дауылпазды	dawilpazdi
+дауылпаздың	dawilpazdin
+дауылпазға	dawilpazga
 дауылға	dawilga
 дауыс	dawis
 дауыс беру	dawis berw
@@ -12004,6 +12046,7 @@ xораз	xoraz
 дем беру	dem berw
 демалу	demalw
 демалыс	demalis
+демалыс күндері	demalis kunderi
 демалыс күні	demalis kuni
 демалыспен	demalispen
 демалыста	demalista
@@ -12097,8 +12140,22 @@ xораз	xoraz
 департаментті	departamentti
 департаменттік	departamenttik
 департаменттің	departamenttin
+депо	depo
+депода	depoda
+деподан	depodan
 депозитор	depozitor
+деполар	depolar
+деполарда	depolarda
+деполардан	depolardan
+деполарды	depolardi
+деполардың	depolardin
+деполармен	depolarmen
+деполарға	depolarga
+депомен	depomen
+депоны	deponi
+депоның	deponin
 депортация	deportaciya
+депоға	depoga
 депутат	depwtat
 деревиш	derevis
 дерек	derek
@@ -13682,6 +13739,7 @@ xораз	xoraz
 еврей	evrey
 егде	egde
 егделік	egdelik
+егемен	egemen
 егемендік	egemendik
 егер	eger
 егеу	egew
@@ -13805,6 +13863,7 @@ xораз	xoraz
 елге	elge
 елде	elde
 елден	elden
+елдендіру	eldendirw
 елдер	elder
 елдерге	elderge
 елдерде	elderde
@@ -14828,6 +14887,7 @@ xораз	xoraz
 жазға	jazga
 жазүй	jazuy
 жай көз	jay koz
+жай механизм	jay mexanizm
 жай сан	jay san
 жай-жапсар	jayjapsar
 жайбарақат	jaybaraqat
@@ -15470,6 +15530,7 @@ xораз	xoraz
 жарлықшының	jarliqsinin
 жарлықшыға	jarliqsiga
 жарлыққа	jarliqqa
+жарма	jarma
 жармасқы	jarmasqi
 жармасқыда	jarmasqida
 жармасқыдан	jarmasqidan
@@ -19122,6 +19183,7 @@ xораз	xoraz
 инабатсыз	inabatsiz
 инабатты	inabatti
 инабаттылық	inabattiliq
+инактивация	inaktivaciya
 инвариант	invariant
 инвариантпен	invariantpen
 инвариантта	invariantta
@@ -20246,6 +20308,20 @@ xораз	xoraz
 кедейшілік	kedeysilik
 кеден	keden
 кеден салықтары	keden saliqtari
+кеденші	kedensi
+кеденшіда	kedensida
+кеденшідан	kedensidan
+кеденшілар	kedensilar
+кеденшіларда	kedensilarda
+кеденшілардан	kedensilardan
+кеденшіларды	kedensilardi
+кеденшілардың	kedensilardin
+кеденшілармен	kedensilarmen
+кеденшіларға	kedensilarga
+кеденшімен	kedensimen
+кеденшіны	kedensini
+кеденшіның	kedensinin
+кеденшіға	kedensiga
 кедергі	kedergi
 кедергіге	kedergige
 кедергіде	kedergide
@@ -21242,6 +21318,7 @@ xораз	xoraz
 киіммен	kiimmen
 киімнен	kiimnen
 киімнің	kiimnin
+киіс	kiis
 кларитромицин	klaritromicin
 кларнет	klarnet
 кларнетке	klarnetke
@@ -21600,6 +21677,7 @@ xораз	xoraz
 конденсаторға	kondensatorga
 кондиционер	kondicioner
 конклав	konklav
+конкур	konkwr
 конкурс	konkwrs
 коннотация	konnotaciya
 консалтинг	konsalting
@@ -21715,6 +21793,7 @@ xораз	xoraz
 контраварианттық	kontravarianttiq
 контракт	kontrakt
 контраст	kontrast
+контрафактілік	kontrafaktilik
 контрацепция	kontracepciya
 контрмәдениет	kontrmadeniet
 контрреволюционер	kontrrevolywcioner
@@ -21857,6 +21936,7 @@ xораз	xoraz
 корпоративтік	korporativtik
 корпус	korpws
 корректура	korrektwra
+корт	kort
 косатка	kosatka
 косеканс	kosekans
 косинус	kosinws
@@ -22577,6 +22657,7 @@ xораз	xoraz
 күн бұлау	kun bulaw
 күн күнтізбесі	kun kuntizbesi
 күн күркіреу	kun kurkirew
+күн сайын	kun sayin
 күн сағаттары	kun sagattari
 күн әрпі	kun arpi
 күнаһар	kunahar
@@ -26181,6 +26262,7 @@ xораз	xoraz
 ми жүйкесі	mi juykesi
 ми шемені	mi semeni
 ми ісігі	mi isigi
+ми қыртысы	mi qirtisi
 мида	mida
 мидазолам	midazolam
 мидан	midan
@@ -26551,6 +26633,7 @@ xораз	xoraz
 мойынорағыш	moyinoragis
 мойынсұндыру	moyinsundirw
 мойынтірек	moyintirek
+мойынтұрық	moyinturiq
 мойынға	moyinga
 мола	mola
 молда	molda
@@ -28176,6 +28259,7 @@ xораз	xoraz
 наркоз	narkoz
 наркология	narkologiya
 нарратология	narratologiya
+нарциссизм	narcissizm
 нарцистік	narcistik
 наршараб	narsarab
 наршарабпен	narsarabpen
@@ -29284,6 +29368,7 @@ xораз	xoraz
 ойшылмен	oysilmen
 ойшылға	oysilga
 ойын	oyin
+ойын сүйегі	oyin suyegi
 ойынбасы	oyinbasi
 ойында	oyinda
 ойындар	oyindar
@@ -31819,6 +31904,7 @@ xораз	xoraz
 поэзияландыру	poeziyalandirw
 поэзиялық	poeziyaliq
 поэма	poema
+поэтика	poetika
 православие	pravoslavie
 православие шіркеуі	pravoslavie sirkewi
 православиелік	pravoslavielik
@@ -33647,6 +33733,7 @@ xораз	xoraz
 сайтты	saytti
 сайттың	sayttin
 сайтқа	saytqa
+сайын	sayin
 сайқымазақ	sayqimazaq
 саксофон	saksofon
 саксофонда	saksofonda
@@ -33746,6 +33833,7 @@ xораз	xoraz
 салпыерінмен	salpierinmen
 салпыеріннен	salpierinnen
 салпыеріннің	salpierinnin
+салпыншақ	salpinsaq
 салт	salt
 салт-дәстүр	saltdastur
 салтанат	saltanat
@@ -35808,6 +35896,7 @@ xораз	xoraz
 созылмалы	sozilmali
 созылмалы ауру	sozilmali awrw
 созылғыштық	sozilgistiq
+сойлесу	soylesw
 сойыл	soyil
 сол	sol
 солар	solar
@@ -36180,6 +36269,7 @@ xораз	xoraz
 стратегияның	strategiyanin
 стратегияға	strategiyaga
 стратиграфия	stratigrafiya
+стратиграфиялық	stratigrafiyaliq
 стрелиция	streliciya
 стресс	stress
 строма	stroma
@@ -40499,6 +40589,7 @@ xораз	xoraz
 триазиннің	triazinnin
 триангуляция	triangwlyaciya
 триатлон	triatlon
+трибунал	tribwnal
 тригонды	trigondi
 тригонометрия	trigonometriya
 тригонометриялық	trigonometriyaliq
@@ -40584,6 +40675,7 @@ xораз	xoraz
 тромбонға	trombonga
 тромбоцит	trombocit
 тропизм	tropizm
+тропикалық	tropikaliq
 тропиктік	tropiktik
 тропосфера	troposfera
 тротуар	trotwar
@@ -40864,6 +40956,7 @@ xораз	xoraz
 тынымсыз	tinimsiz
 тынымсыздық	tinimsizdiq
 тыныс алу	tinis alw
+тыныс белгісі	tinis belgisi
 тыныстық	tinistiq
 тыныш	tinis
 тыныштандыру	tinistandirw
@@ -42842,6 +42935,7 @@ xораз	xoraz
 уды	wdi
 удың	wdin
 уезд	wezd
+уик-энд	wikend
 уики	wiki
 укекіре	wkekire
 украин	wkrain
@@ -43340,6 +43434,7 @@ xораз	xoraz
 федерацияға	federaciyaga
 фельдмаршал	feldmarsal
 феминизм	feminizm
+феминист	feminist
 фенантрен	fenantren
 фенек	fenek
 фенилаланин	fenilalanin
@@ -44414,6 +44509,7 @@ xораз	xoraz
 хақ	xaq
 хақас тілі	xaqas tili
 хақында	xaqinda
+хедхантинг	xedxanting
 хеликаза	xelikaza
 хеликазада	xelikazada
 хеликазадан	xelikazadan
@@ -47283,6 +47379,7 @@ xораз	xoraz
 эвфемизм	evfemizm
 эйкозан	eykozan
 эйнштейний	eynsteyniy
+эйфория	eyforiya
 экватор	ekvator
 экзема	ekzema
 экзистенциализм	ekzistencializm
@@ -48733,6 +48830,7 @@ xораз	xoraz
 Қадиша	qadisa
 Қажымқан	qajimqan
 Қажытархан	qajitarxan
+Қазақ елі	qazaq eli
 Қазақ ҚСР	qazaq qsr
 Қазақстан	qazaqstan
 Қайнан	qaynan
@@ -49149,7 +49247,6 @@ xораз	xoraz
 қазанға	qazanga
 қазаға	qazaga
 қазақ	qazaq
-қазақ елі	qazaq eli
 қазақ тілі	qazaq tili
 қазақи	qazaqi
 қазақпен	qazaqpen
@@ -49180,7 +49277,10 @@ xораз	xoraz
 қазақтық	qazaqtiq
 қазақтың	qazaqtin
 қазақша	qazaqsa
+қазақша	substantivised
 қазақша білмеймін	qazaqsa bilmeymin
+қазақша кітаптар	qazaqsa kitaptar
+қазақша сөйлеу	qazaqsa soylew
 қазақы	qazaqi
 қазаққа	qazaqqa
 қазбен	qazben
@@ -49219,6 +49319,7 @@ xораз	xoraz
 қазынамен	qazinamen
 қазынаны	qazinani
 қазынаның	qazinanin
+қазынашы	qazinasi
 қазынаға	qazinaga
 қазыны	qazini
 қазының	qazinin
@@ -49377,6 +49478,7 @@ xораз	xoraz
 қалада	qalada
 қаладан	qaladan
 қалай	qalay
+қалайсың	qalaysin
 қалайсың?	qalaysin
 қалайша	qalaysa
 қалайы	qalayi
@@ -49658,7 +49760,9 @@ xораз	xoraz
 қалыпқа	qalipqa
 қалың	qalin
 қалың мал	qalin mal
+қалың қалай	qalin qalay
 қалыңдық	qalindiq
+қалыңыз қалай	qaliniz qalay
 қалға	qalga
 қалқан	qalqan
 қалқан құлақ	qalqan qulaq
@@ -50221,6 +50325,8 @@ xораз	xoraz
 қарақұстың	qaraqustin
 қарақұсқа	qaraqusqa
 қараңғы	qarangi
+қараңғы материя	qarangi materiya
+қараңғы энергия	qarangi energiya
 қараңғылық	qarangiliq
 қараөрік	qaraorik
 қараөрікке	qaraorikke
@@ -53942,6 +54048,7 @@ xораз	xoraz
 үнді	undi
 үндіеуропалық	undiewropaliq
 үндіеуропатану	undiewropatanw
+үнділік	undilik
 үндіспін	undispin
 үндітану	unditanw
 үндітанушы	unditanwsi
@@ -53962,6 +54069,7 @@ xораз	xoraz
 үрей шабуыл	urey sabwil
 үрейлі	ureyli
 үрейшіл	ureysil
+үрлеу	urlew
 үрмебұршақ	urmebursaq
 үрмебұршақпен	urmebursaqpen
 үрмебұршақта	urmebursaqta
@@ -55621,6 +55729,7 @@ xораз	xoraz
 әуретті	awretti
 әуреттің	awrettin
 әурешілік	awresilik
+әфсана	afsana
 әшекей	asekey
 әшекейге	asekeyge
 әшекейде	asekeyde
@@ -56199,7 +56308,6 @@ xораз	xoraz
 өрнекшөпті	orneksopti
 өрнекшөптің	orneksoptin
 өрт	ort
-өрт сөндіретін	ort sondiretin
 өрт сөндіру бөлімі	ort sondirw bolimi
 өрт сөндіруші	ort sondirwsi
 өртеу	ortew
@@ -56459,5 +56567,3 @@ xораз	xoraz
 ۇ	u
 ۋ	w
 ە	e
-학과	ko
-학부	ko

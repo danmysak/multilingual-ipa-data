@@ -112,7 +112,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అంగారకవారము	angarakavaramu
 అంగారకుఁడు	angarakundu
 అంగారకుడు	angarakudu
-అంగారకుడుకుజుడు	kujudu
+అంగారకుడుor కుజుడు	kujudu
 అంగారము	angaramu
 అంగాలు	angalu
 అంగాస్త్రము	angastramu
@@ -478,6 +478,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అగ్నిజ్వాల	agnijvala
 అగ్నిదీపనము	agnidipanamu
 అగ్నినిరోధము	agninirodhamu
+అగ్నిపర్వతం	agniparvatam
 అగ్నిపర్వతము	agniparvatamu
 అగ్నిపర్వతములు	agniparvatamulu
 అగ్నిప్రవేశము	agnipravesamu
@@ -855,6 +856,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అధోముఖుడు	adhomukhudu
 అధ్యక్షుడు	adhyaksudu
 అధ్యక్షురాలు	adhyaksuralu
+అధ్యయనము	adhyayanamu
 అధ్యాపకుఁడు	adhyapakundu
 అధ్యాపకుడు	adhyapakudu
 అధ్యాపకురాలు	adhyapakuralu
@@ -1013,6 +1015,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అనుస్వారం	anusvaram
 అనుస్వారము	anusvaramu
 అనూరుడు	anurudu
+అనూహ్యరీతి	anuhyariti
 అనృతము	anrtamu
 అనే	ane
 అనేకం	anekam
@@ -1461,6 +1464,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అర్జెంటీనా	arjentina
 అర్ణము	arnamu
 అర్ణవము	arnavamu
+అర్థ జీవితకాలం	artha jivitakalam
 అర్థం	artham
 అర్థంలేని	arthamleni
 అర్థదర్శిన్	arthadarsin
@@ -1608,6 +1612,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అవమానపడు	avamanapadu
 అవమానము	avamanamu
 అవమానించు	avamanincu
+అవయము	avayamu
 అవయవదాత	avayavadata
 అవయవదానం	avayavadanam
 అవయవము	avayavamu
@@ -1727,6 +1732,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 అసహ్యించుకొను	asahyincukonu
 అసాంఘిక	asanghika
 అసాక్షికము	asaksikamu
+అసాధారణము	asadharanamu
 అసాధ్యం	asadhyam
 అసాధ్యము	asadhyamu
 అసి	asi
@@ -2250,6 +2256,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఆర్జించు	arjintsu
 ఆర్జింౘు	arjintsu
 ఆర్థిక	arthika
+ఆర్థిక రికవరీ	arthika rikavari
 ఆర్థిక శాస్త్రము	arthika sastramu
 ఆర్థికము	arthikamu
 ఆర్ద్రత	ardrata
@@ -2569,6 +2576,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఇన్నూరు	innuru
 ఇన్నూఱు	innuru
 ఇన్మాఱు	inmaru
+ఇన్వెస్టర్	investar
 ఇన్స్టగ్రమ్	instagram
 ఇన్స్పెక్టరు	inspektaru
 ఇపుడు	ipudu
@@ -2695,6 +2703,8 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఈఁదులాడు	induladu
 ఈక	ika
 ఈకలు	ikalu
+ఈక్విటీ	ikviti
+ఈక్విటీ మార్కెట్	ikviti market
 ఈగ	iga
 ఈగపులి	igapuli
 ఈగపులులు	igapululu
@@ -2732,6 +2742,8 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఈపు	ipu
 ఈఫిల్ టవర్	iphil tavar
 ఈమని	imani
+ఈమారు	imaru
+ఈము	imu
 ఈమె	ime
 ఈయన	iyana
 ఈరు	iru
@@ -3412,7 +3424,6 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఎర వేయు	era veyu
 ఎరచి	eraci
 ఎరిగించు	erigincu
-ఎరిస్	eris
 ఎరుక	eruka
 ఎరుకు	eruku
 ఎరుకుల	erukula
@@ -3443,6 +3454,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఎఱుక	eruka
 ఎఱుపు	erupu
 ఎఱ్ఱ	erra
+ఎఱ్ఱ కడలి	erra kadali
 ఎఱ్ఱదీపము	erradipamu
 ఎలకులు	elakulu
 ఎలా	ela
@@ -3536,6 +3548,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ఏడింతలు	edintalu
 ఏడిపించు	edipincu
 ఏడు	edu
+ఏడుకొండలు	edukondalu
 ఏడుగురు	eduguru
 ఏడుచు	educu
 ఏడునొకటి	edunokati
@@ -3989,6 +4002,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 కట్టడము	kattadamu
 కట్టడములు	kattadamulu
 కట్టడాలు	kattadalu
+కట్టడి	kattadi
 కట్టప్ప	kattappa
 కట్టలు	kattalu
 కట్టవ	kattava
@@ -4065,6 +4079,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 కడుపులు	kadupulu
 కడ్డీ	kaddi
 కణ	kana
+కణ భౌతికశాస్త్రం	kana bhautikasastram
 కణం	kanam
 కణజాలము	kanajalamu
 కణము	kanamu
@@ -5283,6 +5298,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 కృత్రిమమైన	krtrimamaina
 కృదంతం	krdantam
 కృదంతము	krdantamu
+కృప	krpa
 కృపాణము	krpanamu
 కృశించు	krsincu
 కృషి	krsi
@@ -5781,6 +5797,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 క్రక్కు	krakku
 క్రమ పద్ధతి	krama paddhati
 క్రమం	kramam
+క్రమక్రమముగా	kramakramamuga
 క్రమము	kramamu
 క్రమాంకము	kramankamu
 క్రమించు	kramincu
@@ -6684,7 +6701,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 గురుకోణత్రిభుజము	gurukonatribhujamu
 గురుకోణము	gurukonamu
 గురుడు	gurudu
-గురుడుబృహస్పతి	brhaspati
+గురుడుor బృహస్పతి	brhaspati
 గురుతు	gurutu
 గురుతుపట్టు	gurutupattu
 గురుతులు	gurutulu
@@ -7206,6 +7223,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 చంద్రిక	candrika
 చంద్రుండు	candrundu
 చంద్రుడు	candrudu
+చంద్రుడుor జాబిల్లి	jabilli
 చంద్రుని	candruni
 చంద్రుల	candrula
 చంద్రులు	candrulu
@@ -7504,6 +7522,8 @@ uయొళ్కార్-ఒలా	uyolkarola
 చికిత్సకుఁడు	cikitsakundu
 చికిత్సకుడు	cikitsakudu
 చికిత్సచేయు	cikitsaceyu
+చికిత్సాలయం	cikitsalayam
+చికిత్సాలయము	cikitsalayamu
 చికిత్సించు	cikitsincu
 చిక్కదనం	cikkadanam
 చిక్కదనము	cikkadanamu
@@ -8405,6 +8425,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 జామీను	jaminu
 జాము	jamu
 జాయ	jaya
+జాయసవాల	jayasavala
 జారజుడు	jarajudu
 జారత్వము	jaratvamu
 జారస్త్రీ	jarastri
@@ -8427,6 +8448,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 జార్ఖండ్	jarkhand
 జార్చు	jarcu
 జార్జియా	jarjiya
+జార్జ్	jarj
 జాఱు	jaru
 జాల	jala
 జాలం	jalam
@@ -10072,6 +10094,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 దాక్షాయణి	daksayani
 దాక్షిణ్యం	daksinyam
 దాక్షిణ్యము	daksinyamu
+దాఖలు	dakhalu
 దాగిలి	dagili
 దాగు	dagu
 దాగుట	daguta
@@ -10546,6 +10569,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ద్రావణీయము	dravaniyamu
 ద్రావిడ	dravida
 ద్రావిడ భాషలు	dravida bhasalu
+ద్రావిడము	dravidamu
 ద్రావిడులు	dravidulu
 ద్రుతప్రకృతి	drutaprakrti
 ద్రుతప్రకృతికము	drutaprakrtikamu
@@ -11779,7 +11803,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 నెత్తి	netti
 నెత్తురు	netturu
 నెదర్లాండ్	nedarland
-నెప్ట్యూన్ఇంద్రుడు	indrudu
+నెప్ట్యూన్or ఇంద్రుడు	indrudu
 నెప్త్యూన్	neptyun
 నెమరు	nemaru
 నెమరువేయు	nemaruveyu
@@ -12517,6 +12541,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 పరిశీలన	parisilana
 పరిశీలించు	parisilincu
 పరిశోధన	parisodhana
+పరిశోధనము	parisodhanamu
 పరిశోధించు	parisodhincu
 పరిశ్రమ	parisrama
 పరిశ్రమము	parisramamu
@@ -12601,6 +12626,8 @@ uయొళ్కార్-ఒలా	uyolkarola
 పల్లము	pallamu
 పల్లవుడు	pallavudu
 పల్లి	palli
+పల్లీ	palli
+పల్లీకాయ	pallikaya
 పల్లె	palle
 పల్లెకు పల్లె	dhilliki dhilli
 పల్లెకు పల్లె	palleku palle
@@ -13855,6 +13882,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ప్రజాస్వామ్యీకరణ	prajasvamyikarana
 ప్రజోత్పత్తి	prajotpatti
 ప్రజోత్పత్తి అంగీరస	angirasa
+ప్రజోపయోగ పరిధి	prajopayoga paridhi
 ప్రజ్ఞ	prajna
 ప్రణామము	pranamamu
 ప్రణాళిక	pranalika
@@ -13948,6 +13976,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 ప్రధానోపాధ్యాయుడు	pradhanopadhyayudu
 ప్రధానోపాధ్యాయురాలు	pradhanopadhyayuralu
 ప్రపంచ కవోష్ణత	prapanca kavosnata
+ప్రపంచ బ్యాంకు	prapanca byanku
 ప్రపంచము	prapancamu
 ప్రపంచవ్యాప్తంగా	prapancavyaptanga
 ప్రపదము	prapadamu
@@ -14232,8 +14261,8 @@ uయొళ్కార్-ఒలా	uyolkarola
 ప్లీహము	plihamu
 ప్లీహోదరుడు	plihodarudu
 ప్లూటో	pluto
+ప్లూటోor యముడు	yamudu
 ప్లూటోనియమ్	plutoniyam
-ప్లూటోయముడు	yamudu
 ప్లేటో	pleto
 ఫ	pha
 ఫం	pham
@@ -14946,6 +14975,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 బొంత	bonta
 బొంతకాకి	bontakaki
 బొంతలు	bontalu
+బొంద	bonda
 బొంది	bondi
 బొంబాయి	bombayi
 బొక్క	bokka
@@ -15789,6 +15819,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 మరువము	maruvamu
 మరుసటి	marusati
 మరొకటి	marokati
+మరోమారు	maromaru
 మర్కటం	markatam
 మర్కటకిశోరన్యాయము	markatakisoranyayamu
 మర్కటము	markatamu
@@ -16101,6 +16132,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 మారే	mare
 మారేడు	maredu
 మారేడుచెట్టు	mareducettu
+మార్కెట్	market
 మార్క్స్	marks
 మార్గం	margam
 మార్గదర్శకుడు	margadarsakudu
@@ -17032,7 +17064,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 యుద్ధాలు	yuddhalu
 యునెస్కో	yunesko
 యురేనస్	yurenas
-యురేనస్వరుణుడు	varunudu
+యురేనస్or వరుణుడు	varunudu
 యురేనియం	yureniyam
 యురేనియము	yureniyamu
 యురేనియమ్	yureniyam
@@ -17093,6 +17125,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 యోర్క్	york
 యోర్క్శిర్	yorksir
 యోవేలు	yovelu
+యోసేపు	yosepu
 యౌతకము	yautakamu
 యౌవతము	yauvatamu
 యౌవనం	yauvanam
@@ -18426,7 +18459,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 వలలు	valalu
 వలస	valasa
 వలసదేశము	valasadesamu
-వలసపోయిన వాఁడు	valasapoyina vandu
+వలసపోయిన వాఁడుi	valasapoyina vandu
 వలసపోవు	valasapovu
 వలి	vali
 వలీముఖము	valimukhamu
@@ -19453,11 +19486,13 @@ uయొళ్కార్-ఒలా	uyolkarola
 వేయి	veyi
 వేయించు	veyincu
 వేయు	veyu
+వేరియంట్‌	veriyant
 వేరు	veru
 వేరు చేయు	veru ceyu
 వేరు పడు	veru padu
 వేరుపడు	verupadu
 వేరుసెనగ	verusenaga
+వేరుసెనగకాయ	verusenagakaya
 వేరే	vere
 వేర్పాటు	verpatu
 వేర్లు	verlu
@@ -19778,6 +19813,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 శవాసనం	savasanam
 శవాసనము	savasanamu
 శశము	sasamu
+శశాంకుడు	sasankudu
 శశి	sasi
 శశికళ	sasikala
 శశికాంతము	sasikantamu
@@ -20736,6 +20772,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 సరము	saramu
 సరయు	sarayu
 సరళ	sarala
+సరళ యంత్రం	sarala yantram
 సరళం	saralam
 సరళంగా	saralanga
 సరళము	saralamu
@@ -21089,8 +21126,13 @@ uయొళ్కార్-ఒలా	uyolkarola
 సిద్ధించు	siddhincu
 సిద్ధుడు	siddhudu
 సిద్ధురాలు	siddhuralu
+సినినటి	sininati
+సినినటుడు	sininatudu
 సినిమా	sinima
 సినిమాలు	sinimalu
+సినీనటి	sininati
+సినీనటుడు	sininatudu
+సినీనటులు	sininatulu
 సిపాయి	sipayi
 సిమ్లా	simla
 సియోల్	siyol
@@ -21350,6 +21392,7 @@ uయొళ్కార్-ఒలా	uyolkarola
 సెకండ్ సెటప్	sekand setap
 సెకను	sekanu
 సెగవ్యాధి	segavyadhi
+సెనక్కాయ	senakkaya
 సెనగలు	senagalu
 సెప్టెంబరు	septembaru
 సెప్టెంబర్	septembar

@@ -30,6 +30,7 @@
 ހާސް	has
 ހިނި	hini
 ހިނިތައް	hinitak
+ހިންނަވަރު	hinnavaru
 ހިންދީ	hindi
 ހިންދު ކަނޑު	hindu kandu
 ހިންދު ދިދަމަސް	hindu didamas
@@ -85,6 +86,7 @@
 ނަންތައް	nantak
 ނަރުވާ ބިބީ	naruva bibi
 ނަރުވާ ބިބީތައް	naruva bibitak
+ނައިފަރު	naifaru
 ނައިޖީރިއާ	naijiria
 ނަވައި	navai
 ނަވާރަ	navara
@@ -92,6 +94,8 @@
 ނަމާދު	namadu
 ނަމޫނާ	namuna
 ނަމޫނާތައް	namunatak
+ނަގަރު	nagaru
+ނަގަރުތައް	nagarutak
 ނަސަބުގެ ޢިލްމު	nasabuge ilmu
 ނާގަލޭންޑު	nagalendu
 ނާޝްޕަތީ	naspati
@@ -127,23 +131,33 @@
 ރަހިމު	rahimu
 ރަހިމުތައް	rahimutak
 ރަށިއާ	rasia
+ރަށް	ras
+ރަށްވެހި	rasvehi
+ރަށްވެހިތައް	rasvehitak
+ރަށްތައް	rastak
 ރައި	rai
 ރައްދު	raddu
 ރައްދުތައް	raddutak
+ރަދުން	radun
+ރަދުންތައް	raduntak
 ރަތ	rat
 ރަތތެހި	rattehi
 ރަތުލޯ	ratulo
 ރަތްކަނޑު	ratkandu
 ރަސްމީ	rasmi
+ރާހި	rahi
+ރާހިތައް	rahitak
 ރާނޭ	rane
 ރާބޮނދި	rabondi
 ރާއްޖެ	rajje
 ރާއްޖެތައް	rajjetak
+ރާދަ	rada
 ރާޒުވާ	razuva
 ރާޖަސްތާން	rajastan
 ރިތް މަސް	rit mas
 ރިޔާލު	riyalu
 ރިޔާޟިއްޔާތު	riyadiyyatu
+ރިޔާޟިއްޔާތުތައް	riyadiyyatutak
 ރީނދޫ	rindu
 ރުޅި	ruli
 ރުޅިތައް	rulitak
@@ -162,6 +176,8 @@
 ބަހާމަސް	bahamas
 ބަށި	basi
 ބަންގާޅު	bangalu
+ބަންޑާރައިން	bandarain
+ބަންޑާރައިންތައް	bandaraintak
 ބަންޔަން	banyan
 ބަރަބޯ	barabo
 ބަރުމާ	baruma
@@ -214,6 +230,8 @@
 ބުޅިތުނބި	bulitumbi
 ބުޅިގޮށް	buligos
 ބުކްޝޮޕް	buksop
+ބުވަނަ	buvana
+ބުވަނަތައް	buvanatak
 ބުދަ	buda
 ބުދަ ދުވަސް	buda duvas
 ބުދަ ދުވަސްތައް	buda duvastak
@@ -258,6 +276,7 @@
 ކަރާސީނު	karasinu
 ކަރުނަ	karuna
 ކަރުނަތައް	karunatak
+ކަރުކަށަ	karukasa
 ކަރުދާސް	karudas
 ކަރުދާސްތައް	karudastak
 ކަރްނާޓަކާ	karnataka
@@ -286,7 +305,9 @@
 ކަޒަކިސްތާން	kazakistan
 ކާނާ	kana
 ކާނާތައް	kanatak
+ކާންޏަ	kanna
 ކާޅު އާއިލާ	kalu aila
+ކާކު	kaku
 ކާމަރަނގަ	kamaranga
 ކާމިޔާބީއަށް އެދެން	kamiyabias eden
 ކާފޫރު	kafuru
@@ -301,6 +322,7 @@
 ކިރުޅިޔަތައް	kiruliyatak
 ކިއުބާ	kiuba
 ކީރިތި ޤުރުއާން	kiriti quruan
+ކުންބަ	kunba
 ކުރު	kuru
 ކުރު މަސް	kuru mas
 ކުރު މަސްތައް	kuru mastak
@@ -310,6 +332,7 @@
 ކުޅަނދިލިތައް	kulandilitak
 ކުޅި	kuli
 ކުޅު	kulu
+ކުޅުދުއްފުށި	kuluduffusi
 ކުކުން	kukun
 ކުކުޅު	kukulu
 ކުކް ޖަޒީރާ	kuk jazira
@@ -371,6 +394,8 @@
 އަނގޮޓި ބޮނޑަނަ	angoti bondana
 އަންހެންމީހާ	anhenmiha
 އަންހެންމީހާތައް	anhenmihatak
+އަންދާސާ	andasa
+އަންދާސާތައް	andasatak
 އަންދްރަ ޕްރަދޭޝް	andra prades
 އަންގާރަ ދުވަސް	angara duvas
 އަންގާރަ ދުވަސްތައް	angara duvastak
@@ -381,15 +406,19 @@
 އަޅުގަންޑު	alugandu
 އަޅުގަންޑުގެ	aluganduge
 އަކުރު	akuru
+އަކުރުތައް	akurutak
 އައިބްރޯ	aibro
 އައިސްއަލަމާރި	aisalamari
 އައިސްލަންޑަން	aislandan
 އައްލާހު	allahu
 އައްޑޫ	addu
+އަފަ	afa
+އަފުން	afun
 އަފްޣާނިސްތާން	afganistan
 އަދަބިއްޔާތު	adabiyyatu
 އަދި	adi
 އަތޮޅު	atolu
+އަތޮޅުތައް	atolutak
 އަތްތިލަ	attila
 އަލަނާސި	alanasi
 އަލަނާސި ބިބީ	alanasi bibi
@@ -397,6 +426,7 @@
 އަލިފާން	alifan
 އަލިފާންތައް	alifantak
 އަލިފުބާ	alifuba
+އަލިފުބާތައް	alifubatak
 އަލުގަނޑު	alugandu
 އަލުގަނޑުމެން	alugandumen
 އަލުގަނޑުމެންއަށް	alugandumenas
@@ -422,10 +452,12 @@
 އާދިއްތަ	aditta
 އާދިއްތަ ދުވަސް	aditta duvas
 އާދިއްތަ ދުވަސްތައް	aditta duvastak
+އާދިއްތަތައް	adittatak
 އާތަމާލަ	atamala
 އާސާމު	asamu
 އާޖެންޓީ	ajenti
 އިހި	ihi
+އިނބަ	imba
 އިނގިރޭސި	ingiresi
 އިނގިރޭސިވިލާތް	ingiresivilat
 އިނގިލި	ingili
@@ -434,6 +466,7 @@
 އިންސިޔުލިން	insiyulin
 އިންޑިއާ	india
 އިންޑޮނޭޝިޔާ	indonesiya
+އިރަ	ira
 އިރަވީ ނިޒާމު	iravi nizamu
 އިރަވީ ނިޒާމުތައް	iravi nizamutak
 އިރާގް	irag
@@ -441,10 +474,12 @@
 އިރުވައިހުދު	iruvaihudu
 އިރުމަތީ ޓިމޯރު	irumati timoru
 އިރުތައް	irutak
+އިބަ	iba
 އިކުއެޑޯރު	ikuedoru
 އިކުއެޓޯރިއަލް ގިނީ	ikuetorial gini
 އިދިފުށަށްދަމާ ބަލި	idifusasdama bali
 އިލާހު	ilahu
+އިސަބަ	isaba
 އިސްރާއީލު	israilu
 އިސްކަންދަރިއްޔާ	iskandariyya
 އިސްލާމް	islam
@@ -453,6 +488,7 @@
 އިސްޕެނިޝް	ispenis
 އިޓަލީވިލާތް	italivilat
 އީސާގެފާނު	isagefanu
+އުނބަ	umba
 އުރަމަތީ ކަށިގަނޑު	uramati kasigandu
 އުރުދުން	urudun
 އުރުދުޣާން	urudugan
@@ -462,7 +498,9 @@
 އުއްބައްތި	ubbatti
 އުއްތަރު ޕްރަދޭޝް	uttaru prades
 އުއްތަރުކަންދު	uttarukandu
+އުތުރު	uturu
 އުތުރު ކޮރެއާ	uturu korea
+އުތުރުތައް	uturutak
 އުޑު	udu
 އުޒްބެކި	uzbeki
 އުޒްބެކިސްތާން	uzbekistan
@@ -544,10 +582,13 @@
 ވާރެޑުނި	vareduni
 ވިހަ	viha
 ވިހި	vihi
+ވިރުސިކަ	virusika
 ވިކިޕީޑިޔާ	vikipidiya
 ވިއެޓުނާމު	vietunamu
 ވިލާ	vila
 ވިޓަމިން	vitamin
+ވެހި	vehi
+ވެހިތައް	vehitak
 ވެނ	ven
 ވެނެޒުއޭލާ	venezuela
 ވެކްސިން	veksin
@@ -568,6 +609,7 @@
 މަރު	maru
 މަރުތެޔޮ	maruteyo
 މަބުސްތާން	mabustan
+މަކަރަ	makara
 މަކާއޫ	makau
 މައިދާ	maida
 މައިދާތައް	maidatak
@@ -603,12 +645,14 @@
 މާލެ	male
 މާސްކު ބިބީ	masku bibi
 މާސްކު ބިބީތައް	masku bibitak
+މި	mi
 މިނިކާވަގަ	minikavaga
 މިނިވަންކަން	minivankan
 މިއަންމާ	mianma
 މިއަދު	miadu
 މިއުޒިކް	miuzik
 މިއުޒިކްތައް	miuziktak
+މިތުނަ	mituna
 މިސްކިތް	miskit
 މިސްވާކު	misvaku
 މިޒޮރާމް	mizoram
@@ -616,7 +660,10 @@
 މިޔަރުތައް	miyarutak
 މިޔަރެމު ދޫނި	miyaremu duni
 މިޞްރު	misru
+މީންޏަ	minna
 މީދާ	mida
+މުންނާރު	munnaru
+މުންނާރުތައް	munnarutak
 މުންބާ	munba
 މުރަނގަ ތޮޅި	muranga toli
 މުރާކި	muraki
@@ -636,6 +683,7 @@
 މެސެޑޯނިއާ	mesedonia
 މެސޮޕޮޓޭމިއާ	mesopotemia
 މެޓާ	meta
+މޭސަ	mesa
 މޭޒު	mezu
 މޭޒުތައް	mezutak
 މޮންގޯލިއާ	mongolia
@@ -654,8 +702,12 @@
 ފަރުޖު	faruju
 ފަރޮއޭ ޖަޒީރާ	faroe jazira
 ފަޅޯ	falo
+ފަކުސަމަ	fakusama
+ފަކުސަމަތައް	fakusamatak
 ފައި	fai
 ފައިސާ	faisa
+ފައްޅި	falli
+ފައްޅިތައް	fallitak
 ފަތްމިނި ބިބީ	fatmini bibi
 ފަތްމިނި ބިބީތައް	fatmini bibitak
 ފަލަމަސްގަނޑު	falamasgandu
@@ -680,8 +732,11 @@
 ފުރޮޅު	furolu
 ފުއްޕާމޭ	fuppame
 ފުއްޕާމޭތައް	fuppametak
+ފުވައްމުލައް	fuvammulak
 ފުލުސްމީހާ	fulusmiha
 ފުޓްބޯލްް	futbol
+ފޫރުއްބަ	furubba
+ފޫރުއްބަތައް	furubbatak
 ފެހުރިހި	fehurihi
 ފެހުރިހިތައް	fehurihitak
 ފެން	fen
@@ -696,6 +751,9 @@
 ފޮޑި	fodi
 ފްލޮރައިޑް	floraid
 ދ	d
+ދަނަ	dana
+ދަރުމަ	daruma
+ދަރުމަތައް	darumatak
 ދަބަރު	dabaru
 ދަބަރުޖެހުނ	dabarujehun
 ދައިޔ	daiy
@@ -704,6 +762,7 @@
 ދި	di
 ދިހަ	diha
 ދިރުމާބެހޭ އިލްމު	dirumabehe ilmu
+ދިއްދޫ	diddu
 ދިއްލީ	dilli
 ދިވެހި	divehi
 ދިވެހިރާއްޖެ	divehirajje
@@ -716,6 +775,7 @@
 ދިދަމަސް ބިބީތައް	didamas bibitak
 ދިގު	digu
 ދީން	din
+ދީންތައް	dintak
 ދުށްމިނު	dusminu
 ދުށްމިނުތައް	dusminutak
 ދުނފިނި	dunfini
@@ -724,6 +784,7 @@
 ދުއިސައްތަ	duisatta
 ދުވަސް	duvas
 ދުވަސްތައް	duvastak
+ދުވާފަރު	duvafaru
 ދުމް	dum
 ދޫ	du
 ދޫނި	duni
@@ -731,8 +792,10 @@
 ދޫތައް	dutak
 ދެ	de
 ދެހެކިން	dehekin
+ދެކުނު	dekunu
 ދެކުނު ކޮރެއާ	dekunu korea
 ދެކުނު އެފްރިކާ	dekunu efrika
+ދެކުނުތައް	dekunutak
 ދޭ	de
 ދޮން ބިބީ	don bibi
 ދޮން ބިބީތައް	don bibitak
@@ -743,6 +806,7 @@
 ދޯނި	doni
 ދޯނިތައް	donitak
 ތ	t
+ތަ	ta
 ތަށި	tasi
 ތަށިތައް	tasitak
 ތަނބި ކަށިގަނޑު	tambi kasigandu
@@ -751,10 +815,12 @@
 ތައާރަފް	taaraf
 ތައާރަފްތައް	taaraftak
 ތައިވާން	taivan
+ތަފުރުނު	tafurunu
 ތަލަކަޅު ބިބީ	talakalu bibi
 ތަލަކަޅު ބިބީތައް	talakalu bibitak
 ތަޖިކިސްތާން	tajikistan
 ތާނަ	tana
+ތިނަދޫ	tinadu
 ތިނެސްކަން ބިބީ	tineskan bibi
 ތިނެސްކަން ބިބީތައް	tineskan bibitak
 ތިން	tin
@@ -783,6 +849,8 @@
 ތުރުކު	turuku
 ތުރުކުމެނިސްތާން	turukumenistan
 ތުކުނި	tukuni
+ތުލަ	tula
+ތުލަތައް	tulatak
 ތޫނިސް	tunis
 ތެއްތިރީސް	tettiris
 ތެލުގޫ	telugu
@@ -823,6 +891,8 @@
 ގ	g
 ގަހަވީ އިލްމު	gahavi ilmu
 ގަހުވަ	gahuva
+ގަން	gan
+ގަންތައް	gantak
 ގަންގާ ކޯރު	ganga koru
 ގަބުރު	gaburu
 ގަދީމީ	gadimi
@@ -852,7 +922,11 @@
 ގޮދަން	godan
 ގޯވާ	gova
 ޏ	n
+ޏަމްޏަމް	namnam
+ޏަމްޏަމްތައް	namnamtak
 ސ	s
+ސަހަރު	saharu
+ސަހަރުތައް	saharutak
 ސަންސްކްރިއްތް	sanskritt
 ސައި	sai
 ސައިބޯނި	saiboni
@@ -875,6 +949,8 @@
 ސާރިދޯޅުތައް	saridolutak
 ސާޅީސް	salis
 ސާދަ	sada
+ސިންހަ	sinha
+ސިރީ	siri
 ސިކުނޑި	sikundi
 ސިކުނޑިތައް	sikunditak
 ސިކުންގެދީން	sikungedin
@@ -887,6 +963,8 @@
 ސީނުކަރަ	sinukara
 ސުން	sun
 ސުރިނާމް	surinam
+ސުކުން	sukun
+ސުކުންތައް	sukuntak
 ސުއްނަތް	sunnat
 ސުވިޑެން	suviden
 ސުވިޒަލޭންޑު	suvizalendu
@@ -903,6 +981,7 @@
 ސްނޯ	sno
 ސްނޯތައް	snotak
 ސްކޫލު	skulu
+ސްކޫލުތައް	skulutak
 ސްޓޯންހެންޖް	stonhenj
 ސްޕެއިން	spein
 ޑ	d
@@ -995,6 +1074,7 @@
 ޝަހަރުތައް	saharutak
 ޝަރީޢަތް	sariat
 ޝުކުރިއްޔާ	sukuriyya
+ޝްރީ	sri
 ޞ	s
 ޟ	d
 ޠ	t

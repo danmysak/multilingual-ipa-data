@@ -4,7 +4,6 @@ Mункун	Munk̬un
 bермут	bermut
 çăпата	çăpat̬a
 çăткăн кайăк	çătkăn k̬ajăk
-çӑва	çăva
 çар карапĕ	çar k̬arapĕ
 çарçӑ	çarçă
 çармăс	çarmăs
@@ -73,7 +72,6 @@ çутçанталăк	çutçant̬alăk
 Дуэро	Duero
 Ӗ	Ĕ
 Ӗпхӳ	Ĕphü
-Европа Пӗрлешӗвӗ	Evrop̬a P̬ĕrleš̬ĕvĕ
 Екклесиаст	Ekkles̬iast
 Ереван	Erevan
 Женева	Ženeva
@@ -327,6 +325,8 @@ çутçанталăк	çutçant̬alăk
 вӗрен	vĕren
 вӗрене	vĕrene
 вӗрентекен	vĕrent̬ek̬en
+вӗренткӗч	vĕrentkĕč
+вӗрентӳ	vĕrent̬ü
 вӗри	vĕri
 вӗсем	vĕs̬em
 вӗсемпе	vĕs̬emp̬e
@@ -759,6 +759,7 @@ çутçанталăк	çutçant̬alăk
 пӗрре	pĕrre
 пӗрремӗш	pĕrremĕš
 пӗрхӗнчӗк	pĕrh̬ĕnč̬ĕk
+пӗт	pĕt
 пӗтӗм	pĕt̬ĕm
 пӗчӗк	pĕč̬ĕk
 пӗҫӗ	pĕś̬ĕ
@@ -854,8 +855,9 @@ çутçанталăк	çutçant̬alăk
 сана	sana
 сана мӗнле ҫенӗҫе?	sana mĕnle ś̬enĕś̬e?
 санпа	sanp̬a
-санра	sanra
 санран	sanran
+санта	sant̬a
+сантан	sant̬an
 сарӑ	sară
 сарлака	sarlak̬a
 сасă чĕлĕхĕсем	sasă čĕlĕhĕsem
@@ -932,6 +934,7 @@ çутçанталăк	çutçant̬alăk
 тĕкĕлтура	tĕkĕlt̬ura
 тĕнче вăрçи	tĕnč̬e vărçi
 тĕп хула	tĕp hula
+тӑвӑл	tăvăl
 тӑвӑр	tăvăr
 тӑвар	tăvar
 тӑват	tăvat
@@ -968,6 +971,7 @@ çутçанталăк	çutçant̬alăk
 тӗве	tĕve
 тӗк	tĕk
 тӗкӗр	tĕk̬ĕr
+тӗксӗм йӑмлӑх	tĕksĕm jămlăh
 тӗн	tĕn
 тӗнӗл	tĕnĕl
 тӗп	tĕp
@@ -977,6 +981,7 @@ çутçанталăк	çutçant̬alăk
 тӗс	tĕs
 тӗтӗм	tĕt̬ĕm
 тӗтре	tĕtre
+тӗттӗм энерги	tĕttĕm energi
 телекурӑм	telek̬urăm
 телефон	telefon
 темиҫе	temiś̬e
@@ -1129,7 +1134,7 @@ çутçанталăк	çutçant̬alăk
 хаҫат	haś̬at
 хваттер	hvatter
 хӗвел	hĕvel
-хӗлле	hĕlle
+хӗл	hĕl
 хӗн	hĕn
 хӗр	hĕr
 хӗрарӑм	hĕrarăm
@@ -1368,6 +1373,7 @@ çутçанталăк	çutçant̬alăk
 ҫӗмӗрӗл	śĕmĕrĕl
 ҫӗмӗрт	śĕmĕrt
 ҫӗмрен	śĕmren
+ҫӗн	śĕn
 ҫӗнӗ	śĕnĕ
 ҫӗнӗ ҫул	śĕnĕ ś̬ul
 ҫӗр	śĕr

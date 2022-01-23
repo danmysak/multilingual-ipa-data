@@ -797,6 +797,7 @@ taraškievica: зу́бар	zubar
 Артур	artur
 Арфе́й	arfjej
 Арха́нгельск	arxanhjelsk
+Архангел Міхаіл	arxanhjel mixail
 Арца́х	arcax
 Арцём	arcjom
 Арцёма	arcjoma
@@ -936,6 +937,7 @@ taraškievica: зу́бар	zubar
 Баварыя	bavaryja
 Бага́мскія Астравы́	bahamskija astravy
 Бага́мы	bahamy
+Багама́ці	bahamaci
 Багаро́дзіца	baharodzica
 Багародзіца	baharodzica
 Багата́	bahata
@@ -1440,6 +1442,7 @@ taraškievica: зу́бар	zubar
 Вялі́кая Расі́я	vjalikaja rasija
 Вялі́кдзень	vjalikdzjen
 Вялі́кі Ло́ндан	vjaliki londan
+Вялі́кі Но́ўгарад	vjaliki nouharad
 Вялі́кі вы́бух	vjaliki vybux
 Вялі́кі по́ст	vjaliki post
 Вялікабрыта́нію	vjalikabrytaniju
@@ -2771,7 +2774,6 @@ taraškievica: зу́бар	zubar
 Лос-А́нджэлес	losandzeljes
 Лу́жыца	luzyca
 Луга́нск	luhansk
-Луганск	luhansk
 Лужы́ца	luzyca
 Лужы́цай	luzycaj
 Лужы́цаю	luzycaju
@@ -2879,6 +2881,7 @@ taraškievica: зу́бар	zubar
 Ма́рка	marka
 Ма́тэргорн	materhorn
 Ма́тэрхорн	materxorn
+Ма́ці Бо́жая	maci bozaja
 Ма́я	maja
 Маа́стрыхт	maastryxt
 Маа́стрыхта	maastryxta
@@ -2962,6 +2965,8 @@ taraškievica: зу́бар	zubar
 Максімаўна	maksimauna
 Мала́ві	malavi
 Мала́йзія	malajzija
+Мала́я Мядзве́дзіха	malaja mjadzvjedzixa
+Мала́я Мядзве́дзіца	malaja mjadzvjedzica
 Мала́я Расі́я	malaja rasija
 Мала́я Русь	malaja rus
 Маларо́сія	malarosija
@@ -5864,6 +5869,7 @@ taraškievica: зу́бар	zubar
 авёс	avjos
 авечка	avjecka
 авітаміноз	avitaminoz
+авія́тар	avijatar
 авія́цыя	avijacyja
 авіябіле́т	avijabiljet
 авіякампа́нія	avijakampanija
@@ -5983,6 +5989,9 @@ taraškievica: зу́бар	zubar
 агу́льнымі	ahulnymi
 агу́льных	ahulnyx
 агу́льныя	ahulnyja
+агульнадзяржа́ўны	ahulnadzjarzauny
+агульнанаро́дны	ahulnanarodny
+агульнанацыяна́льны	ahulnanacyjanalny
 агульны	ahulny
 агурка́	ahurka
 агурка́м	ahurkam
@@ -7067,8 +7076,13 @@ taraškievica: зу́бар	zubar
 амерыкані́зме	amjerykanizmje
 амерыкані́зму	amjerykanizmu
 амерыкані́змы	amjerykanizmy
+амерыканіза́цыя	amjerykanizacyja
+амерыканізава́ць	amjerykanizavac
 амерыканізм	amjerykanizm
+амерыканізі́раваць	amjerykaniziravac
 амерыцый	amjerycyj
+амнезі́я	amnjezija
+амні́стыя	amnistyja
 ампер-гадзіна	ampjerhadzina
 амперметр	ampjermjetr
 амплуа́	amplua
@@ -7185,6 +7199,7 @@ taraškievica: зу́бар	zubar
 андо́рскіх	andorskix
 андо́рскія	andorskija
 андорскі	andorski
+андро́ід	android
 анёл	anjol
 анёла	anjola
 анёлам	anjolam
@@ -7250,6 +7265,7 @@ taraškievica: зу́бар	zubar
 апа́рышы	aparysy
 апа́тыя	apatyja
 апавяда́нне	apavjadannje
+апавяда́ньне	apavjadannje
 апавясці́ць	apavjascic
 апавяшча́ць	apavjascac
 апавяшчэ́нне	apavjascennje
@@ -7614,6 +7630,7 @@ taraškievica: зу́бар	zubar
 армяні́ны	armjaniny
 армянін	armjanin
 армія	armija
+арніталагі́чны	arnitalahicny
 арніталогія	arnitalohija
 аро́л	arol
 арол	arol
@@ -7703,6 +7720,7 @@ taraškievica: зу́бар	zubar
 ары́йка	aryjka
 ары́йскі	aryjski
 арыгіна́л	aryhinal
+арыгіна́льна	aryhinalna
 арыгіна́льнасць	aryhinalnasc
 арыгіна́льны	aryhinalny
 арыенталі́стыка	aryjentalistyka
@@ -8286,6 +8304,7 @@ taraškievica: зу́бар	zubar
 ба́бах	babax
 ба́баю	babaju
 ба́бе	babje
+ба́бка	babka
 ба́бу	babu
 ба́бушак	babusak
 ба́бушка	babuska
@@ -8328,6 +8347,9 @@ taraškievica: зу́бар	zubar
 ба́нкі	banki
 ба́нька	banka
 ба́ня	banja
+ба́рбар	barbar
+ба́рбарка	barbarka
+ба́рбарскі	barbarski
 ба́рбарства	barbarstva
 ба́рва	barva
 ба́ржа	barza
@@ -8717,6 +8739,7 @@ taraškievica: зу́бар	zubar
 бамбава́нне	bambavannje
 бамбава́ць	bambavac
 бамбаві́к	bambavik
+бамбасхо́вішча	bambasxovisca
 бамбёжка	bambjozka
 бамбу́к	bambuk
 бамбу́кам	bambukam
@@ -8805,6 +8828,7 @@ taraškievica: зу́бар	zubar
 бараны́	barany
 барацьба́	baracba
 барбары́зм	barbaryzm
+барбары́нскі	barbarynski
 барбары́нства	barbarynstva
 барбекю́	barbjekju
 барве́нак	barvjenak
@@ -9193,6 +9217,8 @@ taraškievica: зу́бар	zubar
 беларусіза́цыя	bjelarusizacyja
 белая блакітніца	bjelaja blakitnica
 белая сініца	bjelaja sinica
+белетры́ст	bjeljetryst
+белетры́стка	bjeljetrystka
 белы	bjely
 бельведэ́р	bjelvjeder
 бельгі́ек	bjelhijek
@@ -9667,11 +9693,17 @@ taraškievica: зу́бар	zubar
 бро́калі	brokali
 бро́кер	brokjer
 бро́нза	bronza
+бро́нзай	bronzaj
+бро́нзаю	bronzaju
+бро́нзе	bronzje
+бро́нзу	bronzu
+бро́нзы	bronzy
 бро́сня	brosnja
 бро́шка	broska
 брод	brod
 бром	brom
 бронецягнік	bronjecjahnik
+бронза	bronza
 бру́днага	brudnaha
 бру́днае	brudnaje
 бру́днай	brudnaj
@@ -9702,7 +9734,9 @@ taraškievica: зу́бар	zubar
 брута́льны	brutalny
 бруха	bruxa
 бручка	brucka
+брушна́я по́ласць	brusnaja polasc
 брушны́	brusny
+брушы́на	brusyna
 бры́дкага	brydkaha
 бры́дкае	brydkaje
 бры́дкае качаня́	brydkaje kacanja
@@ -11773,6 +11807,7 @@ taraškievica: зу́бар	zubar
 бяздзе́тны	bjazdzjetny
 бяздо́нне	bjazdonnje
 бяздо́нны	bjazdonny
+бязду́мны	bjazdumny
 бязду́шны	bjazdusny
 бязла́дздзе	bjazladzdzje
 бязлю́дны	bjazljudny
@@ -12102,6 +12137,7 @@ taraškievica: зу́бар	zubar
 ва́раны	varany
 ва́рвар	varvar
 ва́рварка	varvarka
+ва́рварскі	varvarski
 ва́рварства	varvarstva
 ва́рта	varta
 ва́ртасць	vartasc
@@ -12558,6 +12594,7 @@ taraškievica: зу́бар	zubar
 ваўчанё	vaucanjo
 ваўчаня́	vaucanja
 ваўчо́к	vaucok
+ваўчы́ха	vaucyxa
 ваўчы́ца	vaucyca
 вахцёр	vaxcjor
 вахцёрка	vaxcjorka
@@ -13911,6 +13948,7 @@ taraškievica: зу́бар	zubar
 вы́сылка	vysylka
 вы́сілак	vysilak
 вы́тварыць	vytvaryc
+вы́хаваць	vyxavac
 вы́хад	vyxad
 вы́церці	vycjerci
 вы́чуніць	vycunic
@@ -14076,6 +14114,7 @@ taraškievica: зу́бар	zubar
 вымо́ў	vymou
 вымова	vymova
 вымя	vymja
+вымярэ́нне	vymjarennje
 выміра́нне	vymirannje
 выміра́ць	vymirac
 вынахо́дзіць	vynaxodzic
@@ -14147,6 +14186,7 @@ taraškievica: зу́бар	zubar
 выро́шчваць	vyroscvac
 высакаме́рны	vysakamjerny
 высакаро́дны	vysakarodny
+высакая́касны	vysakajakasny
 высачыня́	vysacynja
 выслаць	vyslac
 высло́ўе	vyslouje
@@ -14209,9 +14249,10 @@ taraškievica: зу́бар	zubar
 выхава́льніцаю	vyxavalnicaju
 выхава́льніцу	vyxavalnicu
 выхава́льніцы	vyxavalnicy
+выхава́нне	vyxavannje
+выхава́ньне	vyxavannje
 выхавальнік	vyxavalnik
 выхавальніца	vyxavalnica
-выхаваньне	vyxavannje
 выхадны́	vyxadny
 выхадны́ дзень	vyxadny dzjen
 выхадны́я	vyxadnyja
@@ -14230,6 +14271,7 @@ taraškievica: зу́бар	zubar
 выхо́дзіць	vyxodzic
 выхо́дзіць за́муж	vyxodzic zamuz
 выхо́дзіш	vyxodzis
+выхо́ўваць	vyxouvac
 выходзіць	vyxodzic
 выць	vyc
 выцяка́ць	vycjakac
@@ -14928,6 +14970,8 @@ taraškievica: зу́бар	zubar
 гадзі́нніку	hadzinniku
 гадзі́ннікі	hadzinniki
 гадзі́ну	hadzinu
+гадзі́ншчык	hadzinscyk
+гадзі́ншчыца	hadzinscyca
 гадзі́ны	hadziny
 гадзіна	hadzina
 гадзіннік	hadzinnik
@@ -14936,6 +14980,7 @@ taraškievica: зу́бар	zubar
 гаёў	hajou
 газ	haz
 газападо́бны	hazapadobny
+газаправо́д	hazapravod
 газапрово́д	hazaprovod
 газе́т	hazjet
 газе́та	hazjeta
@@ -15534,6 +15579,7 @@ taraškievica: зу́бар	zubar
 геапалі́тыка	hjeapalityka
 геапаліты́чны	hjeapalitycny
 геасінкліналь	hjeasinklinal
+геафізі́чны	hjeafizicny
 гее́на	hjejena
 гей	hjej
 гей-пара́д	hjejparad
@@ -15659,6 +15705,7 @@ taraškievica: зу́бар	zubar
 глыбо́кія	hlybokija
 глыбокапаважа́ны	hlybokapavazany
 глыбокі	hlyboki
+глыбі́нная бо́мба	hlybinnaja bomba
 глыбіня́	hlybinja
 глыта́ць	hlytac
 гляда́ч	hljadac
@@ -15688,6 +15735,7 @@ taraškievica: зу́бар	zubar
 глі́ны	hliny
 глін	hlin
 гліна	hlina
+гм	hm
 гмыз	hmyz
 гна́ла	hnala
 гна́лі	hnali
@@ -16015,6 +16063,7 @@ taraškievica: зу́бар	zubar
 грама́дству	hramadstvu
 грама́дствы	hramadstvy
 грама́тыка	hramatyka
+грамадcкі набытак	hramadcki nabytak
 грамадзя́н	hramadzjan
 грамадзя́нам	hramadzjanam
 грамадзя́намі	hramadzjanami
@@ -16224,6 +16273,7 @@ taraškievica: зу́бар	zubar
 гры́зці	hryzci
 гры́зшы	hryzsy
 гры́ўна	hryuna
+гры́ўня	hryunja
 грыб	hryb
 грыба́м	hrybam
 грыба́мі	hrybami
@@ -16334,6 +16384,7 @@ taraškievica: зу́бар	zubar
 гу́слі	husli
 гу́ссю	hussju
 гу́сі	husi
+гу́тарка	hutarka
 гу́чна	hucna
 гу́чнага	hucnaha
 гу́чнае	hucnaje
@@ -16472,7 +16523,6 @@ taraškievica: зу́бар	zubar
 гусі́ты	husity
 гусі́це	husicje
 гусіт	husit
-гута́рка	hutarka
 гута́рыць	hutaryc
 гуча́ць	hucac
 гучнагавары́цель	hucnahavarycjel
@@ -16535,6 +16585,8 @@ taraškievica: зу́бар	zubar
 гігіені́чны	hihijenicny
 гід	hid
 гідкі	hidki
+гідралагі́чны	hidralahicny
+гідрало́гія	hidralohija
 гідрацэфалія	hidracefalija
 гіе́на	hijena
 гілём	hiljom
@@ -16553,12 +16605,14 @@ taraškievica: зу́бар	zubar
 гінекало́гія	hinjekalohija
 гінекамастыя	hinjekamastyja
 гінеко́лаг	hinjekolah
+гіпакапнія	hipakapnija
 гіпапата́м	hipapatam
 гіпаталамус	hipatalamus
 гіпатэну́за	hipatenuza
 гіпатэты́чны	hipatetycny
 гіпе́рбала	hipjerbala
 гіперакты́ўнасць	hipjeraktyunasc
+гіперкапнія	hipjerkapnija
 гіперметрапія	hipjermjetrapija
 гіперспасы́лка	hipjerspasylka
 гіперінфля́цыя	hipjerinfljacyja
@@ -16615,6 +16669,7 @@ taraškievica: зу́бар	zubar
 да́дзены	dadzjeny
 да́дзеныя	dadzjenyja
 да́й мне	daj mnje
+да́йджэст	dajdzest
 да́йце	dajcje
 да́йце мне	dajcje mnje
 да́лай-ла́ма	dalajlama
@@ -17478,6 +17533,8 @@ taraškievica: зу́бар	zubar
 двухгало́сны	dvuxhalosny
 двухго́ддзе	dvuxhoddzje
 двухдо́льныя	dvuxdolnyja
+двухко́лавы	dvuxkolavy
+двухко́лы	dvuxkoly
 двухкра́тны	dvuxkratny
 двухме́рны	dvuxmjerny
 двухмо́ўны	dvuxmouny
@@ -18003,6 +18060,7 @@ taraškievica: зу́бар	zubar
 дзікабра́зы	dzikabrazy
 дзікабраз	dzikabraz
 дзіку́н	dzikun
+дзіку́нка	dzikunka
 дзіку́нскі	dzikunski
 дзікі	dziki
 дзіўны	dziuny
@@ -18634,6 +18692,11 @@ taraškievica: зу́бар	zubar
 дэзінфармацыя	dezinfarmacyja
 дэклара́цыя	deklaracyja
 дэкларава́ць	deklaravac
+дэко́рум	dekorum
+дэко́румам	dekorumam
+дэко́руме	dekorumje
+дэко́руму	dekorumu
+дэкорум	dekorum
 дэлега́т	deljehat
 дэлега́тка	deljehatka
 дэлега́цыя	deljehacyja
@@ -20501,6 +20564,7 @@ taraškievica: зу́бар	zubar
 збо́жжы	zbozzy
 збо́рка	zborka
 збо́рлівасць	zborlivasc
+збо́рнік	zbornik
 збо́ршчык	zborscyk
 збожжа	zbozza
 збожжасхо́вішча	zbozzasxovisca
@@ -20864,7 +20928,8 @@ taraškievica: зу́бар	zubar
 зе́рнях	zjernjax
 зе́рні	zjerni
 зебравая акула	zjebravaja akula
-землетрасенне	zjemljetrasjennje
+землетрасе́нне	zjemljetrasjennje
+землетрасе́ньне	zjemljetrasjennje
 землеўла́снік	zjemljeulasnik
 землеўла́сніца	zjemljeulasnica
 землеўлада́льнік	zjemljeuladalnik
@@ -20879,6 +20944,7 @@ taraškievica: зу́бар	zubar
 зза́ду	zzadu
 ззяць	zzjac
 зла́я	zlaja
+злаба́	zlaba
 злаві́ць	zlavic
 зладзе́йка	zladzjejka
 зладзе́ям	zladzjejam
@@ -20962,6 +21028,7 @@ taraškievica: зу́бар	zubar
 злодзей	zlodzjej
 злой	zloj
 злосць	zlosc
+злосьць	zlosc
 злу́чнік	zlucnik
 злу́чніка	zlucnika
 злу́чнікам	zlucnikam
@@ -21192,6 +21259,7 @@ taraškievica: зу́бар	zubar
 знай	znaj
 знайсці́	znajsci
 знак	znak
+знак прыпы́нку	znak prypynku
 знара́д	znarad
 знаро́к	znarok
 знаў	znau
@@ -21285,6 +21353,7 @@ taraškievica: зу́бар	zubar
 зо́латам	zolatam
 зо́лату	zolatu
 зо́лаце	zolacje
+зо́на	zona
 зо́рак	zorak
 зо́ракам	zorakam
 зо́раку	zoraku
@@ -21558,6 +21627,7 @@ taraškievica: зу́бар	zubar
 ка́нтар	kantar
 ка́нцлер	kancljer
 ка́нцлерка	kancljerka
+ка́пар	kapar
 ка́псула	kapsula
 ка́ра	kara
 ка́ра сме́рцю	kara smjercju
@@ -21807,6 +21877,7 @@ taraškievica: зу́бар	zubar
 казлыта́ць	kazlytac
 казляня́	kazljanja
 казна́	kazna
+казначэ́й	kaznacej
 казо́й	kazoj
 казо́ю	kazoju
 казу	kazu
@@ -21836,7 +21907,9 @@ taraškievica: зу́бар	zubar
 калама́р	kalamar
 каламутны	kalamutny
 каланіза́цыя	kalanizacyja
+каланізава́ць	kalanizavac
 каланія́льны	kalanijalny
+каланіялі́зм	kalanijalizm
 калара́дскі жук	kalaradski zuk
 каласа́льны	kalasalny
 каласа́м	kalasam
@@ -22050,7 +22123,9 @@ taraškievica: зу́бар	zubar
 камп'ю́тэру	kampjuteru
 камп'ю́тэры	kampjutery
 камп'ютар	kampjutar
+камп'ютарызава́ць	kampjutaryzavac
 камп'ютэр	kampjuter
+камп'ютэрыза́цыя	kampjuteryzacyja
 кампа́кт-ды́ск	kampaktdysk
 кампа́ктнасць	kampaktnasc
 кампа́ній	kampanij
@@ -22066,6 +22141,7 @@ taraškievica: зу́бар	zubar
 кампазі́тарка	kampazitarka
 кампане́нт	kampanjent
 кампаньён	kampanjon
+кампаньёнка	kampanjonka
 кампанія	kampanija
 кампенса́цыя	kampjensacyja
 кампетэ́нтнасць	kampjetentnasc
@@ -22159,6 +22235,7 @@ taraškievica: зу́бар	zubar
 кандыцыяне́р	kandycyjanjer
 кандэля́бр	kandeljabr
 кане́ц	kanjec
+кане́ц ты́дня	kanjec tydnja
 кане́чна	kanjecna
 кане́чнасць	kanjecnasc
 кане́чнасьць	kanjecnasc
@@ -22318,6 +22395,7 @@ taraškievica: зу́бар	zubar
 каплі́ца	kaplica
 капо́т	kapot
 капрыфоль	kapryfol
+капту́р	kaptur
 капу́ста	kapusta
 капу́стай	kapustaj
 капу́стаю	kapustaju
@@ -22896,8 +22974,6 @@ taraškievica: зу́бар	zubar
 каха́ю	kaxaju
 каха́юць	kaxajuc
 каха́ючы	kaxajucy
-каханак	kaxanak
-каханка	kaxanka
 каханне	kaxannje
 кахаць	kaxac
 каце́	kacje
@@ -23145,6 +23221,7 @@ taraškievica: зу́бар	zubar
 кле́тку	kljetku
 кле́ткі	kljetki
 кле́тцы	kljetcy
+кле́шчы	kljescy
 кле́іць	kljeic
 клён	kljon
 клён Гінала	kljon hinala
@@ -23195,6 +23272,7 @@ taraškievica: зу́бар	zubar
 кляна́х	kljanax
 кляно́ў	kljanou
 кляны́	kljany
+клясці́ся	kljascisja
 клясы́чная му́зыка	kljasycnaja muzyka
 клясы́чны	kljasycny
 клясыфіка́цый	kljasyfikacyj
@@ -23868,6 +23946,8 @@ taraškievica: зу́бар	zubar
 крывадушнік	kryvadusnik
 крывадушніца	kryvadusnica
 крыважэ́рны	kryvazerny
+крывапі́вец	kryvapivjec
+крывасмо́к	kryvasmok
 крывёй	kryvjoj
 крывёю	kryvjoju
 крыво́га	kryvoha
@@ -25030,6 +25110,8 @@ taraškievica: зу́бар	zubar
 лёсы	ljosy
 лёт	ljot
 лётаць	ljotac
+лётнік	ljotnik
+лётніца	ljotnica
 лётніцтва	ljotnictva
 лётнішч	ljotnisc
 лётнішча	ljotnisca
@@ -25152,6 +25234,7 @@ taraškievica: зу́бар	zubar
 ло́дку	lodku
 ло́дкі	lodki
 ло́дцы	lodcy
+ло́жа	loza
 ло́жак	lozak
 ло́жка	lozka
 ло́жкам	lozkam
@@ -26409,11 +26492,14 @@ taraškievica: зу́бар	zubar
 мараку́я	marakuja
 марапла́вец	maraplavjec
 марапла́віца	maraplavica
+марапла́ўнiк	maraplaunik
+марапла́ўца	maraplauca
 марато́рый	maratoryj
 марафо́н	marafon
 марга́ць	marhac
 маргары́н	marharyn
 маргну́ць	marhnuc
+маргіналіза́цыя	marhinalizacyja
 марка	marka
 маркатлі́вы	markatlivy
 марке́тынг	markjetynh
@@ -26768,6 +26854,9 @@ taraškievica: зу́бар	zubar
 меда́ль	mjedal
 медаед	mjedajed
 медзведзянё	mjedzvjedzjanjo
+медзведзяня́	mjedzvjedzjanja
+медзвядзёнак	mjedzvjadzjonak
+медзвяня́	mjedzvjanja
 медзь	mjedz
 медрэсэ́	mjedrese
 медсястра́	mjedsjastra
@@ -26848,6 +26937,7 @@ taraškievica: зу́бар	zubar
 метабаліт	mjetabalit
 метады́чны	mjetadycny
 метал	mjetal
+металало́м	mjetalalom
 металу́рг	mjetalurh
 металізаваць	mjetalizavac
 метр	mjetr
@@ -27608,6 +27698,7 @@ taraškievica: зу́бар	zubar
 мі́тынгах	mitynhax
 мі́тынгу	mitynhu
 мі́тынгі	mitynhi
+мі́шка	miska
 міг	mih
 міга́ць	mihac
 мігну́ць	mihnuc
@@ -27624,6 +27715,7 @@ taraškievica: зу́бар	zubar
 мігра́цыі	mihracyi
 міграцыя	mihracyja
 між ты́м	miz tym
+міжвае́нны	mizvajenny
 міжгалакты́чны	mizhalaktycny
 міжгаро́дні	mizharodni
 міжземнаморскі	mizzjemnamorski
@@ -27641,6 +27733,7 @@ taraškievica: зу́бар	zubar
 міжнаро́днымі	miznarodnymi
 міжнаро́дных	miznarodnyx
 міжнаро́дныя	miznarodnyja
+міжнароднае права	miznarodnaje prava
 міжнародны	miznarodny
 міжславя́нская мова	mizslavjanskaja mova
 міжславя́нскі	mizslavjanski
@@ -27708,6 +27801,7 @@ taraškievica: зу́бар	zubar
 мілімэ́тру	milimetru
 мілімэ́тры	milimetry
 мілімэтар	milimetar
+мілітарыза́цыя	militaryzacyja
 мілітарызаваць	militaryzavac
 міліцыя	milicyja
 міліцыя́нт	milicyjant
@@ -27785,6 +27879,7 @@ taraškievica: зу́бар	zubar
 на по́ўдзень	na poudzjen
 на по́ўнач	na pounac
 на праця́гу	na pracjahu
+на разье́знае	na razjeznaje
 на ўсхо́д	na usxod
 на шча́сце	na scascje
 на́бярэжная	nabjareznaja
@@ -28224,6 +28319,7 @@ taraškievica: зу́бар	zubar
 напы́шлівы	napyslivy
 напэ́ўна	napeuna
 напэўна	napeuna
+напярэ́дадні	napjaredadni
 напі́льнік	napilnik
 напі́саны	napisany
 напі́ша	napisa
@@ -28483,6 +28579,7 @@ taraškievica: зу́бар	zubar
 насяко́мых	nasjakomyx
 насяко́мыя	nasjakomyja
 насякомае	nasjakomaje
+насякомае́дны	nasjakomajedny
 насі́	nasi
 насі́ла	nasila
 насі́лкі	nasilki
@@ -28507,6 +28604,7 @@ taraškievica: зу́бар	zubar
 натура́льна	naturalna
 натура́льная мо́ва	naturalnaja mova
 натура́льны	naturalny
+натуральны лагарыфм	naturalny laharyfm
 наўмы́сля	naumyslja
 наўмы́сна	naumysna
 наўмы́снага	naumysnaha
@@ -29811,6 +29909,7 @@ taraškievica: зу́бар	zubar
 паабе́даю	paabjedaju
 паабе́даюць	paabjedajuc
 паабедаць	paabjedac
+паабяца́ць	paabjacac
 паб	pab
 паб'е́	pabje
 паб'е́ш	pabjes
@@ -30152,6 +30251,7 @@ taraškievica: зу́бар	zubar
 павісі́ць	pavisic
 павісі́ш	pavisis
 павісіце́	pavisicje
+павіту́ха	pavituxa
 павішу́	pavisu
 пага́нец	pahanjec
 пага́нка	pahanka
@@ -30899,6 +30999,8 @@ taraškievica: зу́бар	zubar
 пака́зваю	pakazvaju
 пака́зваюць	pakazvajuc
 пака́зваючы	pakazvajucy
+пакава́нне	pakavannje
+пакава́ньне	pakavannje
 пакава́ць	pakavac
 пакаёўка	pakajouka
 пакажу́	pakazu
@@ -30974,6 +31076,7 @@ taraškievica: зу́бар	zubar
 пако́рлівых	pakorlivyx
 пако́рлівыя	pakorlivyja
 пако́рнасць	pakornasc
+пако́ўка	pakouka
 пако́ўнасць	pakounasc
 пако́ю	pakoju
 пако́я	pakoja
@@ -31982,6 +32085,7 @@ taraškievica: зу́бар	zubar
 парсюко́ў	parsjukou
 парсюку́	parsjuku
 парсюкі́	parsjuki
+партаты́ўны	partatyuny
 партве́йн	partvjejn
 партманэ́т	partmanet
 партнёр	partnjor
@@ -32037,6 +32141,7 @@ taraškievica: зу́бар	zubar
 партыза́нка	partyzanka
 партыя	partyja
 партыі	partyi
+пару́ка	paruka
 пару́шыць	parusyc
 паручы́цель	parucycjel
 паручы́целька	parucycjelka
@@ -32236,6 +32341,8 @@ taraškievica: зу́бар	zubar
 паслы́	pasly
 пасля́	paslja
 паслявае́нны	pasljavajenny
+паслядо́ўнік	pasljadounik
+паслядо́ўніца	pasljadounica
 паслізну́цца	pasliznucca
 пасмешышча	pasmjesysca
 пасне́даць	pasnjedac
@@ -32651,6 +32758,7 @@ taraškievica: зу́бар	zubar
 пацалава́ны	pacalavany
 пацалава́ў	pacalavau
 пацалава́ўшы	pacalavausy
+пацалава́цца	pacalavacca
 пацалава́ць	pacalavac
 пацалаваць	pacalavac
 пацало́ваны	pacalovany
@@ -33061,6 +33169,8 @@ taraškievica: зу́бар	zubar
 пеніс	pjenis
 пенітэнцыя́рны	pjenitencyjarny
 пеніцылі́н	pjenicylin
+пептыдная сувязь	pjeptydnaja suvjaz
+пераадо́ленне	pjeraadoljennje
 пераадо́лець	pjeraadoljec
 пераадо́льваць	pjeraadolvac
 пераапрана́емся	pjeraapranajemsja
@@ -33094,6 +33204,7 @@ taraškievica: зу́бар	zubar
 перава́гу	pjeravahu
 перава́гі	pjeravahi
 перава́зе	pjeravazje
+перава́рваць	pjeravarvac
 перавага	pjeravaha
 пераважна	pjeravazna
 пераваро́т	pjeravarot
@@ -33150,6 +33261,8 @@ taraškievica: зу́бар	zubar
 перажыло́	pjerazylo
 перажылі́	pjerazyli
 перажыць	pjerazyc
+перазапі́сваць	pjerazapisvac
+перазапіса́ць	pjerazapisac
 перайма́ць	pjerajmac
 перайменава́ць	pjerajmjenavac
 пераймяно́ўваць	pjerajmjanouvac
@@ -33242,6 +33355,10 @@ taraškievica: зу́бар	zubar
 перамо́жніца	pjeramoznica
 перамо́жца	pjeramozca
 перамо́зе	pjeramozje
+перамо́ўнік	pjeramounik
+перамо́ўніца	pjeramounica
+перамо́ўшчык	pjeramouscyk
+перамо́ўшчыца	pjeramouscyca
 перамога	pjeramoha
 перамяшчэнне	pjeramjascennje
 перамі́р'е	pjeramirje
@@ -33291,8 +33408,13 @@ taraškievica: зу́бар	zubar
 перасяле́нец	pjerasjaljenjec
 перасяле́нка	pjerasjaljenka
 перасяле́нне	pjerasjaljennje
+перасяля́цца	pjerasjaljacca
+перасяля́ць	pjerasjaljac
+перасялі́цца	pjerasjalicca
+перасялі́ць	pjerasjalic
 перасячэ́нне	pjerasjacennje
 ператварэ́нне	pjeratvarennje
+ператраўля́ць	pjeratrauljac
 пераўтварэ́нне	pjerautvarennje
 перахо́д	pjeraxod
 перахо́дзіць	pjeraxodzic
@@ -33370,6 +33492,7 @@ taraškievica: зу́бар	zubar
 першаму́чаніцы	pjersamucanicy
 першамучанік	pjersamucanik
 першамучаніца	pjersamucanica
+першапачатко́ва	pjersapacatkova
 першапрахо́дзец	pjersapraxodzjec
 першая чвэрць	pjersaja cverc
 першы	pjersy
@@ -33380,6 +33503,7 @@ taraškievica: зу́бар	zubar
 перы́яд	pjeryjad
 перыстальтыка	pjerystaltyka
 перытаніт	pjerytanit
+перыферы́я	pjeryfjeryja
 перыяд паўраспаду	pjeryjad pauraspadu
 перэ́	pjere
 перэ́ш	pjeres
@@ -33455,6 +33579,10 @@ taraškievica: зу́бар	zubar
 пла́чце	placcje
 плаваць	plavac
 плагія́т	plahijat
+плагія́там	plahijatam
+плагія́ту	plahijatu
+плагія́це	plahijacje
+плагіят	plahijat
 плада́м	pladam
 плада́мі	pladami
 плада́х	pladax
@@ -33967,6 +34095,7 @@ taraškievica: зу́бар	zubar
 польскі	polski
 польскі грыб	polski hryb
 полісемія	polisjemija
+політэісты́чны	politeistycny
 помнік	pomnik
 помніць	pomnic
 помста	pomsta
@@ -34219,6 +34348,8 @@ taraškievica: зу́бар	zubar
 праграмі́стка	prahramistka
 прагрэ́с	prahres
 прагу́лка	prahulka
+прагу́льваць	prahulvac
+прагуля́ць	prahuljac
 прада́дзены	pradadzjeny
 прада́жны	pradazny
 прада́й	pradaj
@@ -34807,6 +34938,7 @@ taraškievica: зу́бар	zubar
 пры́суд	prysud
 пры́яцелем	pryjacjeljem
 пры́яцель	pryjacjel
+пры́яцелька	pryjacjelka
 пры́яцелю	pryjacjelju
 пры́яцеля	pryjacjelja
 пры́яцелям	pryjacjeljam
@@ -35290,8 +35422,6 @@ taraškievica: зу́бар	zubar
 прышчэ́пліванне	prysceplivannje
 прыю́т	pryjut
 прыя́зны	pryjazny
-прыя́цель	pryjacjel
-прыя́целька	pryjacjelka
 прыя́цельскі	pryjacjelski
 прыя́цельства	pryjacjelstva
 прыязджа́е	pryjazdzaje
@@ -35458,6 +35588,8 @@ taraškievica: зу́бар	zubar
 пульса́р	pulsar
 пульт	pult
 пункт	punkt
+пункт гле́джання	punkt hljedzannja
+пункт по́гляду	punkt pohljadu
 пунктуа́льнасць	punktualnasc
 пунктуа́льны	punktualny
 пунктуа́цыя	punktuacyja
@@ -35554,6 +35686,7 @@ taraškievica: зу́бар	zubar
 пчаля́р	pcaljar
 пчаля́рка	pcaljarka
 пчаля́рства	pcaljarstva
+пчалі́ны воск	pcaliny vosk
 пчо́лам	pcolam
 пчо́ламі	pcolami
 пчо́лах	pcolax
@@ -36029,6 +36162,7 @@ taraškievica: зу́бар	zubar
 піла	pila
 піла́	pila
 піле́	pilje
+пілёт	piljot
 піло́	pilo
 піло́й	piloj
 піло́т	pilot
@@ -36584,6 +36718,8 @@ taraškievica: зу́бар	zubar
 размо́ўнік	razmounik
 размо́ўца	razmouca
 размова	razmova
+размы́ць	razmyc
+размыва́ць	razmyvac
 размяшчэ́нне	razmjascennje
 разно́счык	raznoscyk
 разно́сіць по́шту	raznosic postu
@@ -36657,6 +36793,8 @@ taraškievica: зу́бар	zubar
 рамада́н	ramadan
 рамантава́ць	ramantavac
 раманты́чны	ramantycny
+рамані́ст	ramanist
+рамані́стка	ramanistka
 раманіза́цыя	ramanizacyja
 раме́нь	ramjen
 раме́снік	ramjesnik
@@ -37108,6 +37246,7 @@ taraškievica: зу́бар	zubar
 ро́даў	rodau
 ро́дах	rodax
 ро́джаны	rodzany
+ро́дзiч	rodzic
 ро́дзе	rodzje
 ро́дзяцца	rodzjacca
 ро́дзяць	rodzjac
@@ -37126,6 +37265,8 @@ taraškievica: зу́бар	zubar
 ро́днаму	rodnamu
 ро́днаму скло́ну	rodnamu sklonu
 ро́днасны	rodnasny
+ро́днасць	rodnasc
+ро́днасьць	rodnasc
 ро́днаю	rodnaju
 ро́дная	rodnaja
 ро́дная мо́ва	rodnaja mova
@@ -37402,6 +37543,7 @@ taraškievica: зу́бар	zubar
 рухавікі́	ruxaviki
 руцэ́	ruce
 руча́й	rucaj
+руча́нне	rucannje
 ручаі́на	rucaina
 ручка	rucka
 ручны́	rucny
@@ -37615,6 +37757,7 @@ taraškievica: зу́бар	zubar
 рэ́чыве	recyvje
 рэ́чыву	recyvu
 рэ́чывы	recyvy
+рэ́чышча	recysca
 рэ́шата	resata
 рэ́шатам	resatam
 рэ́шату	resatu
@@ -37732,6 +37875,7 @@ taraškievica: зу́бар	zubar
 рэнтге́н	renthjen
 рэнэга́т	renehat
 рэпарцёр	reparcjor
+рэпарцёрка	reparcjorka
 рэпрэ́сія	represija
 рэпты́лія	reptylija
 рэпута́цыя	reputacyja
@@ -37771,6 +37915,7 @@ taraškievica: зу́бар	zubar
 рэферэ́ндумы	refjerendumy
 рэферэндум	refjerendum
 рэфо́рма	reforma
+рэформа́тар	reformatar
 рэфэрэ́ндум	referendum
 рэцэ́пт	recept
 рэцэ́сія	recesija
@@ -38321,6 +38466,7 @@ taraškievica: зу́бар	zubar
 сваю́	svaju
 свая́	svaja
 свая́к	svajak
+свая́цтва	svajactva
 свая́чка	svajacka
 сваі́м	svaim
 сваі́мі	svaimi
@@ -38483,13 +38629,16 @@ taraškievica: зу́бар	zubar
 свяці́ць	svjacic
 свяшчэ́ннiк	svjascennik
 свяшчэ́нны	svjascenny
+свяшчэ́ннік	svjascennik
 свяшчэ́нства	svjascenstva
+свяшчэннаслужы́цель	svjascennasluzycjel
 сві́нням	svinnjam
 сві́ннямі	svinnjami
 сві́ннях	svinnjax
 сві́нні	svinni
 сві́ран	sviran
 сві́тар	svitar
+свідраві́на	svidravina
 свіна́рнік	svinarnik
 свіне́й	svinjej
 свіне́ц	svinjec
@@ -38754,6 +38903,7 @@ taraškievica: зу́бар	zubar
 ска́заны	skazany
 ска́нар	skanar
 ска́ндый	skandyj
+ска́рбнік	skarbnik
 ска́рбніца	skarbnica
 ска́рга	skarha
 скаба́	skaba
@@ -39792,6 +39942,7 @@ taraškievica: зу́бар	zubar
 соль	sol
 сом	som
 сон	son
+сонечная батарэя	sonjecnaja batareja
 сонечны	sonjecny
 сонечны вецер	sonjecny vjecjer
 сонны	sonny
@@ -39971,6 +40122,7 @@ taraškievica: зу́бар	zubar
 спасі́ба	spasiba
 спаў	spau
 спаць	spac
+спача́тку	spacatku
 спачува́нне	spacuvannje
 спачыва́ць на ла́ўрах	spacyvac na laurax
 спе́вы	spjevy
@@ -39992,6 +40144,8 @@ taraškievica: зу́бар	zubar
 спеў	spjeu
 спецна́з	spjecnaz
 спецыя́льны	spjecyjalny
+спецыялі́ст	spjecyjalist
+спецыялі́стка	spjecyjalistka
 спецыялізава́ць	spjecyjalizavac
 спець	spjec
 спечаце́	spjecacje
@@ -40164,6 +40318,8 @@ taraškievica: зу́бар	zubar
 спытаць	spytac
 спэ́рма	sperma
 спэйс шатл	spejs satl
+спэцыялі́ст	specyjalist
+спэцыялі́стка	specyjalistka
 спя́чы	spjacy
 спява́е	spjavaje
 спява́ем	spjavajem
@@ -40201,6 +40357,7 @@ taraškievica: зу́бар	zubar
 спякотны	spjakotny
 спяку́	spjaku
 спяку́ць	spjakuc
+спярша́	spjarsa
 спяць	spjac
 спячо́м	spjacom
 спячы	spjacy
@@ -40313,7 +40470,6 @@ taraškievica: зу́бар	zubar
 ста́расце	starascje
 ста́расць	starasc
 ста́рац	starac
-ста́рая дзе́ва	staraja dzjeva
 ста́ршы	starsy
 ста́ршы брат	starsy brat
 ста́ршыl	starsyl
@@ -40386,6 +40542,7 @@ taraškievica: зу́бар	zubar
 сталя́р	staljar
 сталява́р	staljavar
 сталягмі́т	staljahmit
+сталякты́т	staljaktyt
 сталі́ц	stalic
 сталі́ца	stalica
 сталі́цай	stalicaj
@@ -40442,6 +40599,7 @@ taraškievica: зу́бар	zubar
 стара́нны	staranny
 стара́цца	staracca
 стара́я	staraja
+стара́я дзе́ва	staraja dzjeva
 стараанглі́йская	staraanhlijskaja
 старабелару́скі	starabjelaruski
 старавер	staravjer
@@ -40660,6 +40818,7 @@ taraškievica: зу́бар	zubar
 стра́шны	strasny
 страбаскоп	strabaskop
 стравава́нне	stravavannje
+стравава́ць	stravavac
 страж	straz
 страйк	strajk
 страка́ла	strakala
@@ -41185,6 +41344,7 @@ taraškievica: зу́бар	zubar
 супе́рнічаць	supjernicac
 суперажыва́нне	supjerazyvannje
 суперма́ркет	supjermarkjet
+супермадэ́ль	supjermadel
 суперсіла	supjersila
 суплетыві́зм	supljetyvizm
 супо́льна	supolna
@@ -41229,6 +41389,7 @@ taraškievica: зу́бар	zubar
 сура	sura
 суразмо́ўца	surazmouca
 сурвэ́тка	survetka
+сургу́ч	surhuc
 сурма́	surma
 суро́вы	surovy
 суро́к	surok
@@ -41472,6 +41633,7 @@ taraškievica: зу́бар	zubar
 сыр	syr
 сыра́я	syraja
 сырава́тка	syravatka
+сыраві́на	syravina
 сыраква́ша	syrakvasa
 сыро́ватка	syrovatka
 сыро́га	syroha
@@ -41670,6 +41832,7 @@ taraškievica: зу́бар	zubar
 сям'я́	sjamja
 сям'і́	sjami
 сяме́й	sjamjej
+сяме́йства	sjamjejstva
 сямён	sjamjon
 сямёнам	sjamjonam
 сямёнамі	sjamjonami
@@ -41891,6 +42054,7 @@ taraškievica: зу́бар	zubar
 сінтаксі́чны	sintaksicny
 сінтаі́зм	sintaizm
 сінтэты́чны	sintetycny
+сінхро́нны	sinxronny
 сінюха	sinjuxa
 сіня́к	sinjak
 сіняшыйка	sinjasyjka
@@ -42052,6 +42216,7 @@ taraškievica: зу́бар	zubar
 тайга́	tajha
 тайла́ндскі	tajlandski
 тайм	tajm
+тайм-а́ўт	tajmaut
 тайн	tajn
 тайна	tajna
 тайпаны	tajpany
@@ -42084,6 +42249,7 @@ taraškievica: зу́бар	zubar
 таксікалагі́чны	taksikalahicny
 таксікало́гія	taksikalohija
 таксікама́нія	taksikamanija
+такт	takt
 такты́чны	taktycny
 таку́ю	takuju
 такі	taki
@@ -42188,6 +42354,7 @@ taraškievica: зу́бар	zubar
 тарта́х	tartax
 тарто́ў	tartou
 тарту́ра	tartura
+тарту́ры	tartury
 тарты́	tarty
 таршэ́р	tarser
 тары́ф	taryf
@@ -42387,6 +42554,7 @@ taraškievica: зу́бар	zubar
 том	tom
 тон	ton
 тонкі	tonki
+топ-мадэ́ль	topmadel
 тор	tor
 торг	torh
 торн	torn
@@ -42445,6 +42613,7 @@ taraškievica: зу́бар	zubar
 травы́	travy
 травяны́	travjany
 травяні́сты	travjanisty
+траві́ць	travic
 траге́дыя	trahjedyja
 трады́цый	tradycyj
 трады́цыю	tradycyju
@@ -42686,6 +42855,7 @@ taraškievica: зу́бар	zubar
 трыво́жны	tryvozny
 трыво́жыць	tryvozyc
 трыкалор	trykalor
+трыку́тны	trykutny
 трыку́тнік	trykutnik
 трыку́тнік роўнабо́чны	trykutnik rounabocny
 трыльён	tryljon
@@ -42727,6 +42897,8 @@ taraškievica: зу́бар	zubar
 трына́ццаці	trynaccaci
 трынаццаты	trynaccaty
 трынаццаць	trynaccac
+трыно́га	trynoha
+трыно́жнік	trynoznik
 трыснёг	trysnjoh
 трысняга́м	trysnjaham
 трысняга́мі	trysnjahami
@@ -44183,6 +44355,7 @@ taraškievica: зу́бар	zubar
 упаду́ць	upaduc
 упакава́ць	upakavac
 упако́ўваць	upakouvac
+упако́ўка	upakouka
 упарты	uparty
 упасці	upasci
 упаўнава́жваць	upaunavazvac
@@ -44321,6 +44494,7 @@ taraškievica: зу́бар	zubar
 усеагу́льных	usjeahulnyx
 усеагу́льныя	usjeahulnyja
 усеагульны	usjeahulny
+усенаро́дны	usjenarodny
 усклі́кнуць	uskliknuc
 ускліка́ць	usklikac
 ускра́іна	uskraina
@@ -44459,6 +44633,8 @@ taraškievica: зу́бар	zubar
 уто́йваць	utojvac
 уто́мны	utomny
 утра́так	utratak
+утрыма́нец	utrymanjec
+утрыма́нка	utrymanka
 уту́льны	utulny
 ухі́ляцца	uxiljacca
 ухі́лімся	uxilimsja
@@ -44787,6 +44963,8 @@ taraškievica: зу́бар	zubar
 фельдма́ршал	fjeldmarsal
 феля́цыя	fjeljacyja
 феміні́зм	fjeminizm
+феміні́ст	fjeminist
+феміні́стка	fjeministka
 феміні́сцкі	fjeminiscki
 феміністы́чны	fjeministycny
 фено́мен	fjenomjen
@@ -44806,6 +44984,7 @@ taraškievica: зу́бар	zubar
 фо́бія	fobija
 фо́кус	fokus
 фо́кус-по́кус	fokuspokus
+фо́куснік	fokusnik
 фо́ндавая бі́ржа	fondavaja birza
 фо́рма	forma
 фо́рмай	formaj
@@ -44951,6 +45130,9 @@ taraškievica: зу́бар	zubar
 фэ́рма	ferma
 фэдэра́цыя	federacyja
 фэйскантро́ль	fejskantrol
+фэміні́зм	feminizm
+фэміні́ст	feminist
+фэміні́стка	feministka
 фэрзь	ferz
 фю́рар	fjurar
 фю́рэр	fjurer
@@ -45443,6 +45625,7 @@ taraškievica: зу́бар	zubar
 хляво́ў	xljavou
 хляву́	xljavu
 хлявы́	xljavy
+хм	xm
 хма́ра	xmara
 хма́рай	xmaraj
 хма́рам	xmaram
@@ -45664,7 +45847,7 @@ taraškievica: зу́бар	zubar
 хіндзі	xindzi
 хіра́гана	xirahana
 хірага́на	xirahana
-хірург	xirurh
+хіру́рг	xirurh
 хіста́цца	xistacca
 хітры	xitry
 ц	c
@@ -45891,6 +46074,7 @@ taraškievica: зу́бар	zubar
 цёмнаю	cjomnaju
 цёмная	cjomnaja
 цёмная матэ́рыя	cjomnaja materyja
+цёмная энергія	cjomnaja enjerhija
 цёмную	cjomnuju
 цёмны	cjomny
 цёмным	cjomnym
@@ -46586,6 +46770,7 @@ taraškievica: зу́бар	zubar
 чаму́-не́будзь	camunjebudz
 чаму́сь	camus
 чаму́сьці	camusci
+чапе́ц	capjec
 чапля	caplja
 чараві́к	caravik
 чараві́ка	caravika
@@ -46755,7 +46940,7 @@ taraškievica: зу́бар	zubar
 часа́цца	casacca
 часа́ць	casac
 часам	casam
-часапісец	casapisjec
+часапі́сец	casapisjec
 часнако́м	casnakom
 часнаку́	casnaku
 часно́к	casnok
@@ -46814,6 +46999,7 @@ taraškievica: зу́бар	zubar
 чатыро́х	catyrox
 чатыро́х	catyry catyrox
 чатыромста́м	catyromstam
+чатырохвуго́льны	catyroxvuholny
 чатырохвуго́льнік	catyroxvuholnik
 чатырохно́гае	catyroxnohaje
 чатырохсо́т	catyroxsot
@@ -47447,6 +47633,7 @@ taraškievica: зу́бар	zubar
 шасцівуго́льніку	sascivuholniku
 шасцівуго́льнікі	sascivuholniki
 шасцівугольнік	sascivuholnik
+шасцігра́нны	sascihranny
 шасцідзеся́ты	sascidzjesjaty
 шасцідзесяты	sascidzjesjaty
 шасцідзесяці́	sascidzjesjaci
@@ -47740,6 +47927,7 @@ taraškievica: зу́бар	zubar
 шні́цаль	snical
 шо́мпал	sompal
 шо́па	sopa
+шо́пінг	sopinh
 шо́рты	sorty
 шо́са	sosa
 шо́стага	sostaha
@@ -47805,6 +47993,7 @@ taraškievica: зу́бар	zubar
 штаны	stany
 штаны́	stany
 штат	stat
+штаты́ў	statyu
 што	sto
 што азнача́е …?	sto aznacaje 
 што вы ро́біце?	sto vy robicje
@@ -47840,6 +48029,7 @@ taraškievica: зу́бар	zubar
 штоме́сяц	stomjesjac
 штоме́сячна	stomjesjacna
 штоме́сячны	stomjesjacny
+шторм	storm
 штось	stos
 штосьці	stosci
 штоты́дзень	stotydzjen
@@ -47854,6 +48044,7 @@ taraškievica: зу́бар	zubar
 штрых	stryx
 штрэйкбрэ́хер	strejkbrexjer
 шту́ка	stuka
+шту́рман	sturman
 шту́рхае	sturxaje
 шту́рхаем	sturxajem
 шту́рхаеце	sturxajecje
@@ -47870,6 +48061,7 @@ taraškievica: зу́бар	zubar
 шту́рхаючы	sturxajucy
 шту́чны	stucny
 шту́чны інтэле́кт	stucny inteljekt
+штука́р	stukar
 штурва́л	sturval
 штурхаць	sturxac
 штурхель	sturxjel
@@ -48039,6 +48231,7 @@ taraškievica: зу́бар	zubar
 шчыльны	scylny
 шчыпа́ць	scypac
 шчыпо́к	scypok
+шчыпцы́	scypcy
 шчыры	scyry
 шчыт	scyt
 шчыта́	scyta
@@ -48132,6 +48325,7 @@ taraškievica: зу́бар	zubar
 шыро́тамі	syrotami
 шыро́тах	syrotax
 шыро́ты	syroty
+шырокамашта́бны	syrokamastabny
 шырокі	syroki
 шырыня́	syrynja
 шыў	syu
@@ -48292,6 +48486,7 @@ taraškievica: зу́бар	zubar
 эксперыме́нт	ekspjerymjent
 эксперыментава́ць	ekspjerymjentavac
 эксплуата́цыя	ekspluatacyja
+экспэ́рт	ekspert
 экстаты́чны	ekstatycny
 экстраардына́рны	ekstraardynarny
 экстрады́цыя	ekstradycyja
@@ -48352,9 +48547,13 @@ taraškievica: зу́бар	zubar
 эміра́т	emirat
 эміса́р	emisar
 энало́гія	enalohija
+эндакры́нны	endakrynny
+эндакрынало́гія	endakrynalohija
 эндаскоп	endaskop
 эне́ргія	enjerhija
+энтамалагі́чны	entamalahicny
 энтамало́гія	entamalohija
+энтамо́лаг	entamolah
 энтузія́зм	entuzijazm
 энцыклапе́дыя	encyklapjedyja
 энцыклапеды́чны	encyklapjedycny
@@ -49053,6 +49252,7 @@ taraškievica: зу́бар	zubar
 і́хнымі	ixnymi
 і́хных	ixnyx
 і́хныя	ixnyja
+і́хні	ixni
 іблі́с	iblis
 ігла	ihla
 ігла́	ihla
@@ -49245,6 +49445,7 @@ taraškievica: зу́бар	zubar
 імпе́рыяю	impjeryjaju
 імпе́рыі	impjeryi
 імпера́тар	impjeratar
+імператры́ца	impjeratryca
 імперыя	impjeryja
 імперыялі́зм	impjeryjalizm
 імправізава́ць	impravizavac
@@ -49284,6 +49485,7 @@ taraškievica: зу́бар	zubar
 інва́зія	invazija
 інвалі́д	invalid
 інвалі́дка	invalidka
+інвалі́дная каля́ска	invalidnaja kaljaska
 інвестава́ць	invjestavac
 інво́йс	invojs
 інгаля́тар	inhaljatar
@@ -49355,6 +49557,7 @@ taraškievica: зу́бар	zubar
 інтэгра́л	intehral
 інтэгра́цыя	intehracyja
 інтэле́кт	inteljekt
+інтэлектуаліза́цыя	inteljektualizacyja
 інтэліге́нцыя	intelihjencyja
 інтэнсы́ўны	intensyuny
 інтэрв'ю	intervju

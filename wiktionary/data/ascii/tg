@@ -171,6 +171,8 @@ xатти ниёгон	xatti niyogon
 Дордон	dordon
 Доғистон	dogiston
 Доҳа	doha
+Дубби Акбар	dubbi akbar
+Дубби Асғар	dubbi asgar
 Душанбе	dusanbe
 Дуҳа	duha
 Е	e
@@ -550,6 +552,7 @@ xатти ниёгон	xatti niyogon
 Чех Ҷумҳурии	cex jumhuriyi
 Чехия	cexiya
 Чехословакия	cexoslovakiya
+Чеченистон	ceceniston
 Чиле	cile
 Чили	cili
 Чин	cin
@@ -660,6 +663,7 @@ xатти ниёгон	xatti niyogon
 авторитаризм	avtoritarizm
 авторучка	avtorucka
 автострада	avtostrada
+авф	avf
 агар	agar
 агарчи	agarci
 агенти	agenti
@@ -744,6 +748,8 @@ xатти ниёгон	xatti niyogon
 актёр	aktyor
 актиний	aktiniy
 актриса	aktrisa
+акушер	akuser
+акушерка	akuserka
 алам	alam
 аланга	alanga
 албанӣ	albani
@@ -760,6 +766,7 @@ xатти ниёгон	xatti niyogon
 алов	alov
 аломат	alomat
 аломати баён	alomati bayon
+аломати ист	alomati ist
 аломати мусовӣ	alomati musovi
 аломати роҳ	alomati roh
 аломати савол	alomati savol
@@ -832,6 +839,7 @@ xатти ниёгон	xatti niyogon
 анбор	anbor
 анбори ғалла	anbori galla
 анбоштан	anbostan
+анбӯр	anbur
 анбӯҳ	anbuh
 анвои нашъа	anvoyi nasa
 ангал	angal
@@ -1090,6 +1098,7 @@ xатти ниёгон	xatti niyogon
 афсона	afsona
 афсор	afsor
 афсунгар	afsungar
+афт	aft
 афтодан	aftodan
 афшура	afsura
 афюн	afyun
@@ -1135,6 +1144,21 @@ xатти ниёгон	xatti niyogon
 ашон	ason
 ашонро	asonro
 ашро	asro
+ашъор	asor
+ашъорам	asoram
+ашъорамон	asoramon
+ашъорамонро	asoramonro
+ашъорамро	asoramro
+ашъорат	asorat
+ашъоратон	asoraton
+ашъоратонро	asoratonro
+ашъоратро	asoratro
+ашъораш	asoras
+ашъорашон	asorason
+ашъорашонро	asorasonro
+ашъорашро	asorasro
+ашъори	asori
+ашъорро	asorro
 ашқ	asq
 аъзо	azo
 аэропорт	aeroport
@@ -1312,6 +1336,7 @@ xатти ниёгон	xatti niyogon
 баранда	baranda
 бараҳна	barahna
 бараҳнагӣ	barahnagi
+барбар	barbar
 барбат	barbat
 барбитурат	barbiturat
 барвақт	barvaqt
@@ -1433,6 +1458,7 @@ xатти ниёгон	xatti niyogon
 бачадон	bacadon
 бачапартоӣ	bacapartoyi
 башар	basar
+башара	basara
 башарӣ	basari
 башарият	basariyat
 баъд	bad
@@ -1801,6 +1827,7 @@ xатти ниёгон	xatti niyogon
 бози	bozi
 бозӣ	bozi
 бозӣ кардан	bozi kardan
+бозигар	bozigar
 бозингар	bozingar
 бозича	bozica
 бозор	bozor
@@ -1982,6 +2009,7 @@ xатти ниёгон	xatti niyogon
 бофтед	bofted
 бофтем	boftem
 бофтӣ	bofti
+бохтан	boxtan
 бочка	bocka
 бошараф	bosaraf
 бошгоҳ	bosgoh
@@ -2057,6 +2085,7 @@ xатти ниёгон	xatti niyogon
 боғҳояшро	boghoyasro
 боқлаҷон	boqlajon
 боҳу	bohu
+боҷ	boj
 браузер	brauzer
 бром	brom
 бронепоезд	bronepoyezd
@@ -2530,6 +2559,7 @@ xатти ниёгон	xatti niyogon
 гарм	garm
 гармича	garmica
 гармо	garmo
+гармшавии глобалӣ	garmsaviyi globali
 гароиши ҷинсӣ	garoyisi jinsi
 гарон	garon
 гаронбаҳо	garonbaho
@@ -2682,6 +2712,8 @@ xатти ниёгон	xatti niyogon
 грамматика	grammatika
 график	grafik
 грейпфрут	greypfrut
+гривна	grivna
+гривня	grivnya
 грим	grim
 грипп	gripp
 гӯгирд	gugird
@@ -3433,6 +3465,7 @@ xатти ниёгон	xatti niyogon
 дошем	dosem
 дошӣ	dosi
 доштан	dostan
+доя	doya
 доғ	dog
 ду	du
 дӯзанда	duzanda
@@ -3904,6 +3937,7 @@ xатти ниёгон	xatti niyogon
 замма	zamma
 замон	zamon
 замона	zamona
+замонат	zamonat
 замони гузашта	zamoni guzasta
 замони ҳозира	zamoni hozira
 зан	zan
@@ -4170,6 +4204,7 @@ xатти ниёгон	xatti niyogon
 ибора	ibora
 ибтидо	ibtido
 ид	id
+идеология	ideologiya
 идея	ideya
 идиома	idioma
 идора	idora
@@ -4424,6 +4459,7 @@ xатти ниёгон	xatti niyogon
 истисно	istisno
 истифода бурдан	istifoda burdan
 истифода кардан	istifoda kardan
+истихдом	istixdom
 истиқлол	istiqlol
 истиқоматгоҳ	istiqomatgoh
 истодан	istodan
@@ -4633,6 +4669,37 @@ xатти ниёгон	xatti niyogon
 иқтисод	iqtisod
 иқтисодӣ	iqtisodi
 иқтисодиёт	iqtisodiyot
+иқтисодиётам	iqtisodiyotam
+иқтисодиётамон	iqtisodiyotamon
+иқтисодиётамонро	iqtisodiyotamonro
+иқтисодиётамро	iqtisodiyotamro
+иқтисодиётат	iqtisodiyotat
+иқтисодиётатон	iqtisodiyotaton
+иқтисодиётатонро	iqtisodiyotatonro
+иқтисодиётатро	iqtisodiyotatro
+иқтисодиёташ	iqtisodiyotas
+иқтисодиёташон	iqtisodiyotason
+иқтисодиёташонро	iqtisodiyotasonro
+иқтисодиёташро	iqtisodiyotasro
+иқтисодиёте	iqtisodiyote
+иқтисодиётеро	iqtisodiyotero
+иқтисодиёти	iqtisodiyoti
+иқтисодиётро	iqtisodiyotro
+иқтисодиётҳо	iqtisodiyotho
+иқтисодиётҳои	iqtisodiyothoyi
+иқтисодиётҳоро	iqtisodiyothoro
+иқтисодиётҳоям	iqtisodiyothoyam
+иқтисодиётҳоямон	iqtisodiyothoyamon
+иқтисодиётҳоямонро	iqtisodiyothoyamonro
+иқтисодиётҳоямро	iqtisodiyothoyamro
+иқтисодиётҳоят	iqtisodiyothoyat
+иқтисодиётҳоятон	iqtisodiyothoyaton
+иқтисодиётҳоятонро	iqtisodiyothoyatonro
+иқтисодиётҳоятро	iqtisodiyothoyatro
+иқтисодиётҳояш	iqtisodiyothoyas
+иқтисодиётҳояшон	iqtisodiyothoyason
+иқтисодиётҳояшонро	iqtisodiyothoyasonro
+иқтисодиётҳояшро	iqtisodiyothoyasro
 иҷозат	ijozat
 иҷозат додан	ijozat dodan
 иҷроия	ijroyiya
@@ -4899,6 +4966,7 @@ xатти ниёгон	xatti niyogon
 каср	kasr
 касра	kasra
 кассета	kasseta
+кассир	kassir
 каста	kasta
 кат	kat
 катализатор	katalizator
@@ -4913,6 +4981,7 @@ xатти ниёгон	xatti niyogon
 кафкӯбӣ кардан	kafkubi kardan
 кафлез	kaflez
 кафлесак	kaflesak
+кафолат	kafolat
 кафтар	kaftar
 кафтор	kaftor
 кафш	kafs
@@ -5457,6 +5526,7 @@ xатти ниёгон	xatti niyogon
 лаҳистонӣ	lahistoni
 лаҳн	lahn
 лаҳҷа	lahja
+лётчик	lyotcik
 лекин	lekin
 лесидан	lesidan
 либерализм	liberalizm
@@ -5868,6 +5938,7 @@ xатти ниёгон	xatti niyogon
 матоъ	mato
 матъам	matam
 мафия	mafiya
+мафкура	mafkura
 мафсил	mafsil
 мафҳум	mafhum
 махавхона	maxavxona
@@ -5881,6 +5952,7 @@ xатти ниёгон	xatti niyogon
 машварат додан	masvarat dodan
 машваратчӣ	masvaratci
 машриқ	masriq
+машруб	masrub
 машрубот	masrubot
 машшота	massota
 машъал	masal
@@ -6449,6 +6521,7 @@ xатти ниёгон	xatti niyogon
 молихулиё	molixuliyo
 молиш	molis
 молия	moliya
+момо	momo
 момут	momut
 мон	mon
 монад	monad
@@ -6763,6 +6836,7 @@ xатти ниёгон	xatti niyogon
 музди кор	muzdi kor
 музей	muzey
 музокира	muzokira
+музокирот	muzokirot
 музояда	muzoyada
 мукааб	mukaab
 муколама	mukolama
@@ -6909,6 +6983,7 @@ xатти ниёгон	xatti niyogon
 мустабид	mustabid
 мустамлака	mustamlaka
 мустамлика	mustamlika
+мустамликадори	mustamlikadori
 мустанад	mustanad
 мустанадӣ	mustanadi
 мусташор	mustasor
@@ -7682,6 +7757,7 @@ xатти ниёгон	xatti niyogon
 оркестр	orkestr
 ороиш	oroyis
 ороишгар	oroyisgar
+ороишгоҳ	oroyisgoh
 ором	orom
 оромгоҳ	oromgoh
 оростан	orostan
@@ -7825,6 +7901,7 @@ xатти ниёгон	xatti niyogon
 оҳангар	ohangar
 оҳангсоз	ohangsoz
 оҳанрабо	ohanrabo
+оҷур	ojur
 падар	padar
 падарам	padaram
 падарамон	padaramon
@@ -7876,6 +7953,7 @@ xатти ниёгон	xatti niyogon
 пайкари осмонӣ	paykari osmoni
 пайкор	paykor
 паймона	paymona
+пайом	payom
 пайраха	payraxa
 пайраҳа	payraha
 пайраҳача	payrahaca
@@ -8307,6 +8385,7 @@ xатти ниёгон	xatti niyogon
 пизишкро	piziskro
 пил	pil
 пилк	pilk
+пилот	pilot
 пилта	pilta
 пингвин	pingvin
 пингон	pingon
@@ -8486,6 +8565,37 @@ xатти ниёгон	xatti niyogon
 протактиний	protaktiniy
 протокол	protokol
 профессор	professor
+профессорам	professoram
+профессорамон	professoramon
+профессорамонро	professoramonro
+профессорамро	professoramro
+профессорат	professorat
+профессоратон	professoraton
+профессоратонро	professoratonro
+профессоратро	professoratro
+профессораш	professoras
+профессорашон	professorason
+профессорашонро	professorasonro
+профессорашро	professorasro
+профессоре	professore
+профессореро	professorero
+профессори	professori
+профессорон	professoron
+профессоронам	professoronam
+профессоронамон	professoronamon
+профессоронамонро	professoronamonro
+профессоронамро	professoronamro
+профессоронат	professoronat
+профессоронатон	professoronaton
+профессоронатонро	professoronatonro
+профессоронатро	professoronatro
+профессоронаш	professoronas
+профессоронашон	professoronason
+профессоронашонро	professoronasonro
+профессоронашро	professoronasro
+профессорони	professoroni
+профессоронро	professoronro
+профессорро	professorro
 пӯлод	pulod
 пӯпанак	pupanak
 пӯсида	pusida
@@ -8854,6 +8964,7 @@ xатти ниёгон	xatti niyogon
 реклама	reklama
 рекорди	rekordi
 рений	reniy
+репортёр	reportyor
 рептилия	reptiliya
 рессора	ressora
 ресторан	restoran
@@ -8975,6 +9086,7 @@ xатти ниёгон	xatti niyogon
 роҳиб	rohib
 роҳиба	rohiba
 роҳнамо	rohnamo
+рӯ	ru
 рӯбоҳ	ruboh
 рӯд	rud
 рӯда	ruda
@@ -9209,6 +9321,7 @@ xатти ниёгон	xatti niyogon
 сандали	sandali
 сандвич	sandvic
 сандуқ	sanduq
+сандуқдор	sanduqdor
 саноат	sanoat
 саноатам	sanoatam
 саноатамон	sanoatamon
@@ -9448,6 +9561,7 @@ xатти ниёгон	xatti niyogon
 силсила	silsila
 сим	sim
 символ	simvol
+симо	simo
 симоб	simob
 симобам	simobam
 симобамон	simobamon
@@ -9526,6 +9640,7 @@ xатти ниёгон	xatti niyogon
 славян	slavyan
 словак	slovak
 словакӣ	slovaki
+словен	sloven
 словенӣ	sloveni
 соат	soat
 соати зангдор	soati zangdor
@@ -9774,6 +9889,7 @@ xатти ниёгон	xatti niyogon
 сумалак	sumalak
 суманак	sumanak
 сумка	sumka
+сунами	sunami
 суннат	sunnat
 суол	suol
 супермаркет	supermarket
@@ -9842,6 +9958,7 @@ xатти ниёгон	xatti niyogon
 суханрониҳояшон	suxanronihoyason
 суханрониҳояшонро	suxanronihoyasonro
 суханрониҳояшро	suxanronihoyasro
+сухбат кардан	suxbat kardan
 сухт	suxt
 сухтан	suxtan
 суши	susi
@@ -9921,6 +10038,7 @@ xатти ниёгон	xatti niyogon
 тавсия додан	tavsiya dodan
 тавсия кардан	tavsiya kardan
 тавушқон	tavusqon
+тавқ	tavq
 тагал	tagal
 тадкиқ	tadkiq
 таёқ	tayoq
@@ -10337,6 +10455,7 @@ xатти ниёгон	xatti niyogon
 труси	trusi
 тсар	tsar
 тсирконий	tsirkoniy
+тсунами	tsunami
 ту	tu
 ту Шумо	tu
 тӯб	tub
@@ -10459,6 +10578,7 @@ xатти ниёгон	xatti niyogon
 уйғурӣ	uyguri
 украйинӣ	ukrayini
 уксус	uksus
+ултиматум	ultimatum
 ультрасадо	ultrasado
 умед	umed
 умед бастан	umed bastan
@@ -10729,6 +10849,35 @@ xатти ниёгон	xatti niyogon
 фарҳангӣ	farhangi
 фарҳангистон	farhangiston
 фарҳангро	farhangro
+фарҳангшиносӣ	farhangsinosi
+фарҳангшиносие	farhangsinosiye
+фарҳангшиносиеро	farhangsinosiyero
+фарҳангшиносии	farhangsinosiyi
+фарҳангшиносиро	farhangsinosiro
+фарҳангшиносиям	farhangsinosiyam
+фарҳангшиносиямон	farhangsinosiyamon
+фарҳангшиносиямонро	farhangsinosiyamonro
+фарҳангшиносиямро	farhangsinosiyamro
+фарҳангшиносият	farhangsinosiyat
+фарҳангшиносиятон	farhangsinosiyaton
+фарҳангшиносиятонро	farhangsinosiyatonro
+фарҳангшиносиятро	farhangsinosiyatro
+фарҳангшиносияш	farhangsinosiyas
+фарҳангшиносияшон	farhangsinosiyason
+фарҳангшиносияшонро	farhangsinosiyasonro
+фарҳангшиносияшро	farhangsinosiyasro
+фарҳангшиносиҳо	farhangsinosiho
+фарҳангшиносиҳои	farhangsinosihoyi
+фарҳангшиносиҳоро	farhangsinosihoro
+фарҳангшиносиҳоям	farhangsinosihoyam
+фарҳангшиносиҳоямон	farhangsinosihoyamon
+фарҳангшиносиҳоямро	farhangsinosihoyamro
+фарҳангшиносиҳоят	farhangsinosihoyat
+фарҳангшиносиҳоятон	farhangsinosihoyaton
+фарҳангшиносиҳоятро	farhangsinosihoyatro
+фарҳангшиносиҳояш	farhangsinosihoyas
+фарҳангшиносиҳояшон	farhangsinosihoyason
+фарҳангшиносиҳояшро	farhangsinosihoyasro
 фарҳангҳо	farhangho
 фарҳангҳои	farhanghoyi
 фарҳангҳоро	farhanghoro
@@ -10837,6 +10986,8 @@ xатти ниёгон	xatti niyogon
 фаҳмонидан	fahmonidan
 феврал	fevral
 федерасия	federasiya
+феминизм	feminizm
+феминист	feminist
 ферма	ferma
 фермий	fermiy
 фестивал	festival
@@ -10880,6 +11031,7 @@ xатти ниёгон	xatti niyogon
 фолклор	folklor
 фона	fona
 фонус	fonus
+фонуси дарёӣ	fonusi daryoyi
 форам	foram
 формула	formula
 форсӣ	forsi
@@ -10994,6 +11146,7 @@ xатти ниёгон	xatti niyogon
 ха-ха	xaxa
 хабар	xabar
 хабар додан	xabar dodan
+хабарнавис	xabarnavis
 хабарнигор	xabarnigor
 хаббоз	xabboz
 хавф	xavf
@@ -11002,6 +11155,7 @@ xатти ниёгон	xatti niyogon
 хаз	xaz
 хазидан	xazidan
 хазина	xazina
+хазинадор	xazinador
 хайёт	xayyot
 хайма	xayma
 хаймае	xaymaye
@@ -11057,6 +11211,7 @@ xатти ниёгон	xatti niyogon
 харбуза	xarbuza
 харгӯш	xargus
 хардал	xardal
+харид	xarid
 харидан	xaridan
 харидор	xaridor
 харита	xarita
@@ -11091,6 +11246,7 @@ xатти ниёгон	xatti niyogon
 хеле	xele
 хестан	xestan
 хеш	xes
+хешовандӣ	xesovandi
 хиёбон	xiyobon
 хиёнат	xiyonat
 хиёнат кардан	xiyonat kardan
@@ -11135,6 +11291,7 @@ xатти ниёгон	xatti niyogon
 химикдон	ximikdon
 химча	ximca
 хирадманд	xiradmand
+хироҷ	xiroj
 хирс	xirs
 хирсбача	xirsbaca
 хирсбачае	xirsbacaye
@@ -11814,6 +11971,7 @@ xатти ниёгон	xatti niyogon
 черногорӣ	cernogori
 черногориягӣ	cernogoriyagi
 чехӣ	cexi
+чеҳра	cehra
 чӣ	ci
 чӣ xeл	ci xel
 чӣ гуна	ci guna
@@ -11844,6 +12002,37 @@ xатти ниёгон	xatti niyogon
 чорраҳа	corraha
 чорум	corum
 чоршанбе	corsanbe
+чоршанбее	corsanbeye
+чоршанбееро	corsanbeyero
+чоршанбеи	corsanbeyi
+чоршанберо	corsanbero
+чоршанбеям	corsanbeyam
+чоршанбеямон	corsanbeyamon
+чоршанбеямонро	corsanbeyamonro
+чоршанбеямро	corsanbeyamro
+чоршанбеят	corsanbeyat
+чоршанбеятон	corsanbeyaton
+чоршанбеятонро	corsanbeyatonro
+чоршанбеятро	corsanbeyatro
+чоршанбеяш	corsanbeyas
+чоршанбеяшон	corsanbeyason
+чоршанбеяшонро	corsanbeyasonro
+чоршанбеяшро	corsanbeyasro
+чоршанбеҳо	corsanbeho
+чоршанбеҳои	corsanbehoyi
+чоршанбеҳоро	corsanbehoro
+чоршанбеҳоям	corsanbehoyam
+чоршанбеҳоямон	corsanbehoyamon
+чоршанбеҳоямонро	corsanbehoyamonro
+чоршанбеҳоямро	corsanbehoyamro
+чоршанбеҳоят	corsanbehoyat
+чоршанбеҳоятон	corsanbehoyaton
+чоршанбеҳоятонро	corsanbehoyatonro
+чоршанбеҳоятро	corsanbehoyatro
+чоршанбеҳояш	corsanbehoyas
+чоршанбеҳояшон	corsanbehoyason
+чоршанбеҳояшонро	corsanbehoyasonro
+чоршанбеҳояшро	corsanbehoyasro
 чоряк	coryak
 чошт	cost
 чоқ	coq
@@ -12119,7 +12308,38 @@ xатти ниёгон	xatti niyogon
 шербачаҳояшонро	serbacahoyasonro
 шербачаҳояшро	serbacahoyasro
 шеър	ser
+шеърам	seram
+шеърамон	seramon
+шеърамонро	seramonro
+шеърамро	seramro
+шеърат	serat
+шеъратон	seraton
+шеъратонро	seratonro
+шеъратро	seratro
+шеъраш	seras
+шеърашон	serason
+шеърашонро	serasonro
+шеърашро	serasro
+шеъре	sere
+шеъреро	serero
+шеъри	seri
 шеърнавис	sernavis
+шеърро	serro
+шеърҳо	serho
+шеърҳои	serhoyi
+шеърҳоро	serhoro
+шеърҳоям	serhoyam
+шеърҳоямон	serhoyamon
+шеърҳоямонро	serhoyamonro
+шеърҳоямро	serhoyamro
+шеърҳоят	serhoyat
+шеърҳоятон	serhoyaton
+шеърҳоятонро	serhoyatonro
+шеърҳоятро	serhoyatro
+шеърҳояш	serhoyas
+шеърҳояшон	serhoyason
+шеърҳояшонро	serhoyasonro
+шеърҳояшро	serhoyasro
 шива	siva
 шиддат	siddat
 шикам	sikam
@@ -12257,6 +12477,10 @@ xатти ниёгон	xatti niyogon
 шояд	soyad
 шоҳ	soh
 шоҳ мот	soh mot
+шоҳам	soham
+шоҳамон	sohamon
+шоҳамонро	sohamonro
+шоҳамро	sohamro
 шоҳаншоҳ	sohansoh
 шоҳаншоҳам	sohansoham
 шоҳаншоҳамон	sohansohamon
@@ -12290,11 +12514,22 @@ xатти ниёгон	xatti niyogon
 шоҳаншоҳҳояшонро	sohansohhoyasonro
 шоҳаншоҳҳояшро	sohansohhoyasro
 шоҳасар	sohasar
+шоҳат	sohat
+шоҳатон	sohaton
+шоҳатонро	sohatonro
+шоҳатро	sohatro
+шоҳаш	sohas
+шоҳашон	sohason
+шоҳашонро	sohasonro
+шоҳашро	sohasro
 шоҳгавазн	sohgavazn
 шоҳдухт	sohduxt
 шоҳдухтар	sohduxtar
+шоҳе	sohe
+шоҳеро	sohero
 шоҳзода	sohzoda
 шоҳзодахоним	sohzodaxonim
+шоҳи	sohi
 шоҳӣ	sohi
 шоҳид	sohid
 шоҳин	sohin
@@ -12330,7 +12565,6 @@ xатти ниёгон	xatti niyogon
 шоҳинҳояшонро	sohinhoyasonro
 шоҳинҳояшро	sohinhoyasro
 шоҳкор	sohkor
-шоҳкорr	sohkorr
 шоҳмот	sohmot
 шоҳмотам	sohmotam
 шоҳмотамон	sohmotamon
@@ -12395,6 +12629,22 @@ xатти ниёгон	xatti niyogon
 шоҳмотҳояшон	sohmothoyason
 шоҳмотҳояшонро	sohmothoyasonro
 шоҳмотҳояшро	sohmothoyasro
+шоҳон	sohon
+шоҳонам	sohonam
+шоҳонамон	sohonamon
+шоҳонамонро	sohonamonro
+шоҳонамро	sohonamro
+шоҳонат	sohonat
+шоҳонатон	sohonaton
+шоҳонатонро	sohonatonro
+шоҳонатро	sohonatro
+шоҳонаш	sohonas
+шоҳонашон	sohonason
+шоҳонашонро	sohonasonro
+шоҳонашро	sohonasro
+шоҳони	sohoni
+шоҳонро	sohonro
+шоҳро	sohro
 шоҳроҳ	sohroh
 шпион	spion
 шпритс	sprits
@@ -12538,6 +12788,7 @@ xатти ниёгон	xatti niyogon
 экология	ekologiya
 экран	ekran
 экскаватор	ekskavator
+эксперт	ekspert
 экстремизм	ekstremizm
 элак	elak
 электрик	elektrik
@@ -12613,6 +12864,7 @@ xатти ниёгон	xatti niyogon
 юнонӣ	yunoni
 юрист	yurist
 юрт	yurt
+юғ	yug
 ягона	yagona
 ядро	yadro
 як	yak
@@ -13102,6 +13354,7 @@ xатти ниёгон	xatti niyogon
 қишлоқ	qisloq
 қишлоқӣ	qisloqi
 қишр	qisr
+қобила	qobila
 қоблама	qoblama
 қоз	qoz
 қозӣ	qozi
@@ -13195,6 +13448,7 @@ xатти ниёгон	xatti niyogon
 ҳавлӣ	havli
 ҳаво	havo
 ҳаводор	havodor
+ҳавонавард	havonavard
 ҳавонавардӣ	havonavardi
 ҳавопаймо	havopaymo
 ҳавопаймоӣ	havopaymoyi
@@ -13639,6 +13893,7 @@ xатти ниёгон	xatti niyogon
 ҳилол	hilol
 ҳимоя	himoya
 ҳиндӣ	hindi
+ҳинду	hindu
 ҳиндуия	hinduyiya
 ҳиндустонӣ	hindustoni
 ҳис	his
@@ -13726,6 +13981,7 @@ xатти ниёгон	xatti niyogon
 ҳуштак	hustak
 ҳуштак кашидан	hustak kasidan
 ҳуқуқ	huquq
+ҳуқуқи байналмилалӣ	huquqi baynalmilali
 ҳуқуқи башар	huquqi basar
 ҳуқуқи инсон	huquqi inson
 ҳуқуқшинос	huquqsinos
@@ -14046,6 +14302,7 @@ xатти ниёгон	xatti niyogon
 ҷаррохони	jarroxoni
 ҷаррохонро	jarroxonro
 ҷаррохро	jarroxro
+ҷарроҳ	jarroh
 ҷарроҳи	jarrohi
 ҷасад	jasad
 ҷасорат	jasorat

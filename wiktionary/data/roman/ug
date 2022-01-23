@@ -30,7 +30,6 @@ far يىراق	yiraq
 Хитай	Kazakhstan
 Хитай	Xitay
 Хорватийә	Kazakhstan
-Хорватийә	Xorwatiye
 айрилиш	ayrilish
 бала	bala
 бир	bir
@@ -1335,6 +1334,7 @@ far يىراق	yiraq
 بويسۇنماق	boysunmaq
 بويىچە	boyiche
 بويۇن	boyun
+بويۇنتۇرۇق	boyunturuq
 بوگوتا	bogota
 بوۋاق	bowaq
 بى-	bi-
@@ -3322,7 +3322,6 @@ far يىراق	yiraq
 تۇز	tuz
 تۇز كانى	tuz kani
 تۇزلۇق	tuzluq
-تۇساللا	tusalla
 تۇغماق	tughmaq
 تۇغۇلغان كۈن	tughulghan kün
 تۇغۇلماق	tughulmaq
@@ -4536,6 +4535,7 @@ far يىراق	yiraq
 خەتەر	xeter
 خەتەرلىك	xeterlik
 خەرىتە	xerite
+خەزىنىچى	xezinichi
 خەزىنە	xezine
 خەزىنە قالدۇقى	xezine qalduqi
 خەس	xes
@@ -5486,6 +5486,7 @@ far يىراق	yiraq
 دېموكراتىيە	dëmokratiye
 دېمەك	dëmek
 دېڭىز	dëngiz
+دېڭىز شاۋقۇنى	dëngiz shawquni
 دېڭىز چوشقىسى	dëngiz choshqisi
 دېڭىزلار	dëngizlar
 دېڭىزچى	dëngizchi
@@ -6836,8 +6837,10 @@ far يىراق	yiraq
 ساتقۇنلۇق	satqunluq
 ساتقۇچى	satquchi
 ساتماق	satmaq
+ساتىرا	satira
 ساتىراش	satirash
 ساتىراشخانا	satirashxana
+ساتىراچ	satirach
 ساخا	saxa
 سادا	sada
 سادىق	sadiq
@@ -7371,6 +7374,7 @@ far يىراق	yiraq
 سلوۋاك	slowak
 سلوۋاكىيە	slowakiye
 سلوۋېن	slowën
+سلوۋېنىيىلىك	slowëniyilik
 سلوۋېنىيە	slowëniye
 سوت	sot
 سودا	soda
@@ -8310,6 +8314,7 @@ far يىراق	yiraq
 سېتىۋالغۇچى	sëtiwalghuchi
 سېتىۋالغۇچىلار	sëtiwalghuchilar
 سېتىۋالماق	sëtiwalmaq
+سېتىۋېلىش	sëtiwëlish
 سېخ	sëx
 سېر ئۇنۋانى	sër unwani
 سېرب	sërb
@@ -8681,6 +8686,7 @@ far يىراق	yiraq
 فۇجى تېغى	fuji tëghi
 فېدېراتسىيە	fëdëratsiye
 فېستىۋال	fëstiwal
+فېمىنىزم	fëminizm
 فېۋرال	fëwral
 فەرزىن‎ ، گەردە	gerde
 فەرغانە	ferghane
@@ -9810,6 +9816,7 @@ far يىراق	yiraq
 قىن	qin
 قىيام	qiyam
 قىيامەت	qiyamet
+قىيناش	qiynash
 قىيىن	qiyin
 قىيىن ئىش	qiyin ish
 قىيىن ئەھۋالدا قال	qiyin ehwalda qal
@@ -10774,6 +10781,7 @@ far يىراق	yiraq
 كاۋاپ	kawap
 كاۋاپلار	kawaplar
 كران	kran
+كرودىيىلىك	krodiyilik
 كرودىيە	krodiye
 كرىزىس	krizis
 كرىستال	kristal
@@ -12892,6 +12900,8 @@ far يىراق	yiraq
 موزاي	mozay
 موسكۋا	moskwa
 موقدىشۇ	moqdishu
+مولداۋىيان	moldawiyan
+مولداۋىيىلىك	moldawiyilik
 مولداۋىيە	moldawiye
 مولدوۋا	moldowa
 موللا	molla
@@ -18281,6 +18291,7 @@ far يىراق	yiraq
 ئۆلۈم	ölüm
 ئۆلۈپ	ölüp
 ئۆمرە	ömre
+ئۆمىلىگۈچى ھايۋان	ömiligüchi haywan
 ئۆمۈچۈك	ömüchük
 ئۆي	öy
 ئۆي جاھازلىرى	öy jahazliri
@@ -18768,6 +18779,7 @@ far يىراق	yiraq
 ئۆگەنمەك	ögenmek
 ئۇ	u
 ئۇ شۇنداق ئادەم	u shundaq adem
+ئۇتماق	utmaq
 ئۇتۇق	utuq
 ئۇخلىماق	uxlimaq
 ئۇرال تاغلىرى	ural taghliri
@@ -18830,6 +18842,7 @@ far يىراق	yiraq
 ئۇپۇق	upuq
 ئۇچار گىلەم	uchar gilem
 ئۇچتۇرپان	uchturpan
+ئۇچقۇچى	uchquchi
 ئۇچماق	uchmaq
 ئۇچۇر	uchur
 ئۇچۇرلار	uchurlar
@@ -20938,6 +20951,7 @@ far يىراق	yiraq
 ئەتۋىركە	etwirke
 ئەتە	ete
 ئەجدىھا	ejdiha
+ئەجنەبىي	ejnebiy
 ئەجەم	ejem
 ئەجەمىستان	ejemistan
 ئەخلەت	exlet
@@ -24239,6 +24253,7 @@ far يىراق	yiraq
 چېلىش	chëlish
 چېلىشچى	chëlishchi
 چېلەك	chëlek
+چېچېنىيە	chëchëniye
 چېچەك	chëchek
 چېچەكتىن	chëchektin
 چېچەكتە	chëchekte
@@ -24256,6 +24271,7 @@ far يىراق	yiraq
 چەت	chet
 چەت تىلى	chet tili
 چەت ئەللىك	chet ellik
+چەتئەللىك	chet'ellik
 چەمبىرەك	chembirek
 چەيزە	cheyze
 چەينەك	cheynek
@@ -24892,6 +24908,7 @@ far يىراق	yiraq
 ھېچنېمە يوق	hëchnëme yoq
 ھەبەشىستان	hebeshistan
 ھەج	hej
+ھەجۋە	hejwe
 ھەدىد	hedid
 ھەدىس	hedis
 ھەدىيىلىك	hediyilik
@@ -25436,6 +25453,7 @@ far يىراق	yiraq
 ۋەتەن	weten
 ۋەتەنپەرۋەرلىك	wetenperwerlik
 ۋەدىك سانسكرىت	wedik sanskrit
+ۋەدە	wede
 ۋەزىر	wezir
 ۋەزىرىستان	weziristan
 ۋەزىپە	wezipe

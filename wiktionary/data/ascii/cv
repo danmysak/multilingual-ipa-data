@@ -4,7 +4,6 @@ Mункун	munkun
 bермут	bermut
 çăпата	capata
 çăткăн кайăк	catkan kajak
-çӑва	cava
 çар карапĕ	car karape
 çарçӑ	carca
 çармăс	carmas
@@ -73,7 +72,6 @@ çутçанталăк	cutcantalak
 Дуэро	duero
 Ӗ	e
 Ӗпхӳ	ephu
-Европа Пӗрлешӗвӗ	evropa perleseve
 Екклесиаст	ekklesiast
 Ереван	erevan
 Женева	zeneva
@@ -326,6 +324,8 @@ çутçанталăк	cutcantalak
 вӗрен	veren
 вӗрене	verene
 вӗрентекен	verenteken
+вӗренткӗч	verentkec
+вӗрентӳ	verentu
 вӗри	veri
 вӗсем	vesem
 вӗсемпе	vesempe
@@ -756,6 +756,7 @@ çутçанталăк	cutcantalak
 пӗрре	perre
 пӗрремӗш	perremes
 пӗрхӗнчӗк	perhencek
+пӗт	pet
 пӗтӗм	petem
 пӗчӗк	pecek
 пӗҫӗ	pese
@@ -851,8 +852,9 @@ çутçанталăк	cutcantalak
 сана	sana
 сана мӗнле ҫенӗҫе?	sana menle senese
 санпа	sanpa
-санра	sanra
 санран	sanran
+санта	santa
+сантан	santan
 сарӑ	sara
 сарлака	sarlaka
 сасă чĕлĕхĕсем	sasa celehesem
@@ -929,6 +931,7 @@ çутçанталăк	cutcantalak
 тĕкĕлтура	tekeltura
 тĕнче вăрçи	tence varci
 тĕп хула	tep hula
+тӑвӑл	taval
 тӑвӑр	tavar
 тӑвар	tavar
 тӑват	tavat
@@ -965,6 +968,7 @@ çутçанталăк	cutcantalak
 тӗве	teve
 тӗк	tek
 тӗкӗр	teker
+тӗксӗм йӑмлӑх	teksem jamlah
 тӗн	ten
 тӗнӗл	tenel
 тӗп	tep
@@ -974,6 +978,7 @@ çутçанталăк	cutcantalak
 тӗс	tes
 тӗтӗм	tetem
 тӗтре	tetre
+тӗттӗм энерги	tettem energi
 телекурӑм	telekuram
 телефон	telefon
 темиҫе	temise
@@ -1126,7 +1131,7 @@ çутçанталăк	cutcantalak
 хаҫат	hasat
 хваттер	hvatter
 хӗвел	hevel
-хӗлле	helle
+хӗл	hel
 хӗн	hen
 хӗр	her
 хӗрарӑм	heraram
@@ -1363,6 +1368,7 @@ çутçанталăк	cutcantalak
 ҫӗмӗрӗл	semerel
 ҫӗмӗрт	semert
 ҫӗмрен	semren
+ҫӗн	sen
 ҫӗнӗ	sene
 ҫӗнӗ ҫул	sene sul
 ҫӗр	ser

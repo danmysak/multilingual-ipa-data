@@ -463,6 +463,7 @@ synonyms at เถาะ	to
 กลุ่มดาวสิงโต	gloom daao sing dtoh
 กลุ่มดาวหงส์	glum daao hong
 กลุ่มดาวหมีเล็ก	glumdaaomiilek
+กลุ่มดาวหมีใหญ่	glumdaaomiiyai
 กลุ่มอาการ	glumaagaan
 กลุ้ม	glum
 กลูโคส	gluukoot
@@ -998,9 +999,11 @@ synonyms at เถาะ	to
 การรังควาน	gaanrangkwaan
 การรับของโจร	gaanrapkoongjoon
 การรับน้อง	gaanrapnoong
+การรับประกัน	gaanrapbpragan
 การรับประทาน	gaanrapbprataan
 การรับฟัง	gaanrapfang
 การรับมือ	gaanrapmuu
+การรับรอง	gaanraproong
 การรับรู้	gaanrapruu
 การรีดเอาทรัพย์	gaanriitaosap
 การรุก	gaanruk
@@ -1665,6 +1668,7 @@ synonyms at เถาะ	to
 ขาด	kaat
 ขาดคอช้าง	kaatkoochaang
 ขาดใจ	kaatjai
+ขาตั้งกล้อง	kaadtangglong
 ขาน	kaan
 ขานขันหมาก	kaankanmaak
 ขาบ	kaap
@@ -1946,7 +1950,7 @@ synonyms at เถาะ	to
 คนออสเตรีย	kon oosdtriia
 คนอังกฤษ	kon anggrit
 คนอาร์มีเนีย	kon aamiiniia
-คนอินเดีย	kon india
+คนอินเดีย	kon indiia
 คนอเมริกัน	kon ameerigan
 คนเดียว	kondiao
 คนเดือนตุลา	konduuandtulaa
@@ -2025,7 +2029,6 @@ synonyms at เถาะ	to
 คริสต์ศักราช	kritsakgaraat
 คริสต์ศาสนา	krit saatsanaa
 คริสเตียน	kritsadtiian
-คริสโตเฟอร์	kritdtohfer
 ครีต	kriit
 ครีบ	kriip
 ครีม	kriim
@@ -2096,7 +2099,6 @@ synonyms at เถาะ	to
 คลีโอพัตรา	kliioopatdtraa
 คลี่	klii
 คลื่น	kluun
-คลื่นยักษ์	khleuun yak
 คลื่นยักษ์	kluunyak
 คลื่นใต้น้ำ	kluundtaainaam
 คลื่นใส้	kluunsai
@@ -2462,7 +2464,6 @@ synonyms at เถาะ	to
 คอ	koo
 คอก	kook
 คอคอด	kookoot
-คอคอด	kor kot
 คองโก	konggoo
 คอจีน	koojiin
 คอซอง	koosoong
@@ -2478,11 +2479,13 @@ synonyms at เถาะ	to
 คอนเสิร์ต	koonseet
 คอบ	koop
 คอม	kom
+คอมพิวเตอร์	khxmphiwtexr
 คอมพิวเตอร์	kompiudtee
 คอมมิวนิสต์	kommiunit
 คอย	kooi
 คอร์ แองเกลส์	koo eeng glee
 คอร์ด	koot
+คอร์ต	koot
 คอร์นดอก	koorndook
 คอร์นวอลล์	koonwool
 คอร์รับชั่น	koorapchan
@@ -2582,6 +2585,7 @@ synonyms at เถาะ	to
 คาร์เตอร์	kaadtee
 คาร์เธจ	kaatet
 คาร์เนชั่น	kaaneechan
+คาร์เมลทาไซท์	kaameentaasai
 คาร์โบไฮเดรต	kaaboohaidreet
 คาว	kaao
 คาวบอย	kaaobooi
@@ -2597,7 +2601,7 @@ synonyms at เถาะ	to
 คำตรงกันข้าม	kam dtrong gan kaam
 คำตอบ	kamdtoop
 คำติชม	kamdtichom
-คำต่อคำ	khamto kham
+คำต่อคำ	kamdtookam
 คำถากถาง	kamtaaktaang
 คำถาม	kamtaam
 คำทับศัพท์	kamtapsap
@@ -3421,6 +3425,7 @@ synonyms at เถาะ	to
 ชา	chaa
 ชาขาว	chaakaao
 ชาชัก	chaachak
+ชาญ	chaan
 ชาด	chaat
 ชาดก	chaadok
 ชาดำ	chaa dam
@@ -3805,6 +3810,7 @@ synonyms at เถาะ	to
 ซูริก	soorik
 ซูรินาม	suurinaam
 ซูรินาเม	suurinaamee
+ซูเปอร์คอมพิวเตอร์	su pexr khxmphiwtexr
 ซูเปอร์มาร์เก็ต	suubpeemaaget
 ซูเปอร์ฮีโร่	supexrhiro
 ซูเฟล	suuflee
@@ -4395,11 +4401,13 @@ synonyms at เถาะ	to
 ตัวถ่วง	dtuuatuuang
 ตัวทำละลาย	dtuuatamlalaai
 ตัวนำ	dtuuanam
+ตัวประกอบ	dtuuabpragoop
 ตัวประกัน	dtuuabpragan
 ตัวปรับต่อ	dtua bprap dtor
 ตัวผู้	dtuuapuu
 ตัวมูซ	dtua moot
 ตัวยง	dtuuayong
+ตัวร้าย	dtuuaraai
 ตัวละคร	dtuualakoon
 ตัวหนอน	dtuuanoon
 ตัวหนังสือ	dtuuanangsuu
@@ -4413,6 +4421,7 @@ synonyms at เถาะ	to
 ตัวเลข	dtuualeek
 ตัวเลือก	dtuualuuak
 ตัวเหนี่ยวนำ	dtuuaniaonam
+ตัวเอก	dtuuaeek
 ตัวเอง	dtuuaeeng
 ตัวแจง	dtua jaeng
 ตัวแทน	dtuuateen
@@ -4490,7 +4499,7 @@ synonyms at เถาะ	to
 ตำรวจหญิง	tamruat ying
 ตำรา	dtamraa
 ตำราอาหาร	dtamraaaahaan
-ตำราเรียน	dtamraa rian
+ตำราเรียน	dtamraariian
 ตำลึง	dtamlung
 ตำหนัก	dtamnak
 ตำหนิ	dtamni
@@ -5103,6 +5112,7 @@ synonyms at เถาะ	to
 ทำลาย	tam laai
 ทำลาย	tamlaai
 ทำลายให้สิ้น	tam laai hai sin
+ทำศพ	tamsop
 ทำสมาธิ	tamsamaati
 ทำออรัล	tamooral
 ทำอาหาร	tam aahaan
@@ -5469,6 +5479,7 @@ synonyms at เถาะ	to
 นฤบดินทร์	naruboodin
 นฤบดี	naruboodii
 นฤพาน	narupaan
+นฤมิต	narumit
 นวด	nuuat
 นวนิยาย	nawaniyaai
 นวม	nuam
@@ -5973,7 +5984,7 @@ synonyms at เถาะ	to
 น้ำแข็งใส	namkengsai
 น้ำแข็งไส	namkengsai
 น้ำแตก	naamdteek
-น้ำแร่	nam rae
+น้ำแร่	namree
 น้ำแล้ง	naamleeng
 น้ำใจ	naamjai
 น้ำใจนักกีฬา	namjainakgiilaa
@@ -6313,7 +6324,6 @@ synonyms at เถาะ	to
 บุรีรัมย์	buriiram
 บุรุนดี	burundii
 บุรุษ	burut
-บุรุษไปรษณีย์	burut bpraisanee
 บุรุษไปรษณีย์	burutbpraisanii
 บุษบก	butsabok
 บุษบา	butsabaa
@@ -6759,6 +6769,7 @@ synonyms at เถาะ	to
 ปัจจุบัน	bpatjuban
 ปัจฉิม	bpatchim
 ปัจฉิมบท	bpatchimmabot
+ปัจเจก	bpatjeek
 ปัจเจกนิยม	bpatjayk niyom
 ปัจเจกนิยม	bpatjeekganiyom
 ปัญจาบ	bpanjaap
@@ -6802,7 +6813,6 @@ synonyms at เถาะ	to
 ปากดี	bpaakdii
 ปากท้อง	bpaaktoong
 ปากน้ำ	bpaaknaam
-ปากน้ำ	paak naam
 ปากปลาร้า	bpaakbplaaraa
 ปากหมา	bpaakmaa
 ปากหวาน	bpaakwaan
@@ -6869,6 +6879,7 @@ synonyms at เถาะ	to
 ปีมะโว้	bpiimawoo
 ปีย์รติ	bpiiradti
 ปีศาจ	bpiisaat
+ปีหน้าฟ้าใหม่	bpiinaafaamai
 ปีเตอร์	bpiidtee
 ปีแสง	bpiiseeng
 ปีใหม่	bpiimai
@@ -7154,7 +7165,7 @@ synonyms at เถาะ	to
 ผู้ลี้ภัย	puuliipai
 ผู้ล่า	puulaa
 ผู้วินิจฉัย	puuwinitchai
-ผู้วิเศษ	poowisayt
+ผู้วิเศษ	puuwiseet
 ผู้ว่าการ	puuamnuaigaan
 ผู้สนับสนุน	puusanapsanun
 ผู้สมัคร	puusamak
@@ -7178,6 +7189,7 @@ synonyms at เถาะ	to
 ผู้อ่าน	puuaan
 ผู้เขียน	pookian
 ผู้เข้าร่วม	puukaoruuam
+ผู้เชี่ยวชาญ	puuchiaochaan
 ผู้เฒ่า	puutao
 ผู้เยาว์	puuyao
 ผู้เรียน	puuriian
@@ -7694,6 +7706,7 @@ synonyms at เถาะ	to
 พื้นผิว	puunpiu
 พื้นหลัง	puunlang
 พื้นเมือง	puunmuuang
+พื้นเสีย	puunsiia
 พุกาม	pugaam
 พุง	pung
 พุดซ้อน	putsoon
@@ -7710,7 +7723,6 @@ synonyms at เถาะ	to
 พุธ	put
 พุ่ง	pung
 พุ่ม	pum
-พูด	poot
 พูด	puut
 พูดกลอนสด	poot glon sot
 พูดช้าลงหน่อย	poot chaa long noi
@@ -8764,6 +8776,7 @@ synonyms at เถาะ	to
 ยุกระบัด	yukgrabat
 ยุกระบัตร	yukgrabat
 ยุค	yuk
+ยุคมืด	yukmuut
 ยุคสำริด	yook samrit
 ยุคสำริด	yuksamrit
 ยุคหินเก่า	yook hin gao
@@ -8923,6 +8936,7 @@ synonyms at เถาะ	to
 รวมมิตร	ruuammit
 รวมไปถึง	ruam pai thung
 รวย	ruai
+รวยสกปรก	rwy skprk
 รวันดา	rawandaa
 รวิ	rwi
 รวิวาร	rawiwaan
@@ -8963,7 +8977,6 @@ synonyms at เถาะ	to
 รอยสัก	rooisak
 รอยเท้า	rooitaao
 รอยโรค	rooirook
-รอสตอฟ	rorsadtorw
 ระ	ra
 ระกา	ragaa
 ระกาศก	ragaasok
@@ -9338,6 +9351,7 @@ synonyms at เถาะ	to
 ร้อนใน	roonnai
 ร้อย	rooi
 ร้อยละ	rooila
+ร้อยวันพันปี	rooiwanpanbpii
 ร้อยเอ็ด	rooiet
 ร้อยแก้ว	roi geeu
 ร้อยแปด	rooibpeet
@@ -9509,6 +9523,7 @@ synonyms at เถาะ	to
 ลัทธิมนุษยนิยม	latti manutniyom
 ลัทธิมาร์ก-เลนิน	latti maaklaynin
 ลัทธิมาร์กซ	latti maak
+ลัทธิอาณานิคม	lattiaanaanikom
 ลัทธิเต๋า	latti dtao
 ลัทธิเผด็จการ	lattipadetgaan
 ลัทธิเลนิน	latti laynin
@@ -9808,6 +9823,7 @@ synonyms at เถาะ	to
 ว.	woo
 วก	wok
 วง	wong
+วงกต	wonggot
 วงกบ	wonggop
 วงกลม	wongglom
 วงการ	wonggaan
@@ -9894,6 +9910,7 @@ synonyms at เถาะ	to
 วันจันทร์	wan jan
 วันฉลอง	wan chalong
 วันชาติ	wanchaat
+วันดีคืนดี	wandiikuundii
 วันตรุษไทย	wandtruttai
 วันทยหัตถ์	wantayahat
 วันทยาวุธ	wantayaawut
@@ -9909,6 +9926,7 @@ synonyms at เถาะ	to
 วันยังค่ำ	wanyangkam
 วันวาเลนไทน์	wanwaalentaai
 วันศุกร์	wan suk
+วันสุดสัปดาห์	wan sutsapdaa
 วันหยุด	wanyut
 วันอังคาร	wan angkaan
 วันอาทิตย์	wan aatit
@@ -11189,6 +11207,7 @@ synonyms at เถาะ	to
 สูง	suung
 สูงขึ้น เพิ่ม	sung keun
 สูงส่ง	suungsong
+สูจิ	suuji
 สูญ	suun
 สูญหาย	suunhaai
 สูญเสีย	suunsiia
@@ -11331,6 +11350,7 @@ synonyms at เถาะ	to
 หนังสือ	nangsuu
 หนังสือการ์ตูน	nangsuugaadtuun
 หนังสือพิมพ์	nangsuupim
+หนังสืออ้างอิง	nangsuuaanging
 หนังสือเดินทาง	nangsuudeentaang
 หนังสือเรียน	nangsuuriian
 หนังสือเสียง	nangsuusiiang
@@ -11446,6 +11466,7 @@ synonyms at เถาะ	to
 หมอความ	mookwaam
 หมอง	moong
 หมองู	moonguu
+หมอตำแย	moo dtamyee
 หมอน	moon
 หมอนข้าง	moonkaang
 หมอนวด	moonuuat
@@ -11578,6 +11599,7 @@ synonyms at เถาะ	to
 หม้อแปลงไฟ	moobpleengfai
 หม้อแปลงไฟฟ้า	moobpleengfaifaa
 หม้อไฟ	moofai
+หม้าย	maai
 หยก	yok
 หยก ๆ	yokyok
 หยด	yot
@@ -11821,7 +11843,7 @@ synonyms at เถาะ	to
 หัวขี้เลื่อย	huuakiiluai
 หัวข่าว	huuakaao
 หัวข้อ	huuakoo
-หัวควย	hua kuay
+หัวควย	huuakuai
 หัวฉีด	hua cheet
 หัวดับเพลิง	huuadappleeng
 หัวดี	huuadii
@@ -12071,6 +12093,7 @@ synonyms at เถาะ	to
 อดิเรก	adireek
 อดีต	adiit
 อดีตกาล	adiitdtagaan
+อดีตชาติ	adiitdtachaat
 อดุลยเดช	adunyadeet
 อธิกมาส	atigamaat
 อธิการบดี	atigaanboodii
@@ -12841,6 +12864,7 @@ synonyms at เถาะ	to
 ฮ	hoo
 ฮ.ศ.	hoosoo
 ฮวงจุ้ย	huuangjui
+ฮวงซุ้ย	huuangsui
 ฮวน	huuan
 ฮอกกี้	hokgii
 ฮอกวอตส์	horgwot
@@ -13445,6 +13469,7 @@ synonyms at เถาะ	to
 เชียร์ลีดเดอร์	chiialiitdee
 เชี่ย	chiia
 เชี่ยว	chiao
+เชี่ยวชาญ	chiaochaan
 เชือก	chuuak
 เชือด	chuuat
 เชื่อ	chuua
@@ -13585,7 +13610,6 @@ synonyms at เถาะ	to
 เดือน ๗	duuanjet
 เดือน ๘	duuanbpeet
 เดือน ๙	duuangaao
-เดือนสุริยคติ	duuan
 เดือนเย็น	duuanyen
 เดือย	duai
 เดโช	deechoo
@@ -13798,6 +13822,7 @@ synonyms at เถาะ	to
 เนยแข็ง	neeikeng
 เนยโกโก้	neeigoogoo
 เนยใส	neeisai
+เนรมิต	neeramit
 เนรเทศ	neerateet
 เนวาดา	neewaadaa
 เนอ	nee
@@ -14166,6 +14191,7 @@ synonyms at เถาะ	to
 เฟือง	fuuang
 เฟือย	fuai
 เฟื่อง	fuuang
+เฟื่องฟู	fuuangfuu
 เฟื่องฟ้า	fuuangfaa
 เฟื้อง	fuuang
 เฟ้น	fen
@@ -14208,6 +14234,7 @@ synonyms at เถาะ	to
 เมสสิยาห์	metsiyaa
 เมอแร็งก์	meereng
 เมา	mao
+เมาค้าง	maokaang
 เมาส์	mao
 เมาะ	mo
 เมาเหล้า	mao lao
@@ -14443,6 +14470,7 @@ synonyms at เถาะ	to
 เลี่ยน	liian
 เลี่ยม	liiam
 เลี้ยง	liiang
+เลี้ยงดู	liiangduu
 เลี้ยว	liao
 เลี้ยวเบน	liaobeen
 เลือก	luuak
@@ -14838,7 +14866,7 @@ synonyms at เถาะ	to
 เห็นขี้ดีกว่าไส้	henkiidiigwaasai
 เห็นชอบ	henchoop
 เห็นด้วย	henduai
-เห็นอกเห็นใจ	henjai
+เห็นอกเห็นใจ	henokhenjai
 เห็นแก่	hengee
 เห็นแก่ตัว	hengeedtuua
 เห็นใจ	henjai
@@ -15667,6 +15695,7 @@ synonyms at เถาะ	to
 แอชลีย์	eechlii
 แอดิเลด	aedilayt
 แอตแลนติก	eetleendtik
+แอนดรอยด์	eendrooi
 แอนดรูว์	androo
 แอนตาร์กติกา	endtaakdtigaa
 แอนติบอดี	eendtiboodii
@@ -15718,7 +15747,6 @@ synonyms at เถาะ	to
 แฮลเชียม	haessiam
 แฮ็กเกอร์	hekgee
 แฮ้ง	haeng
-แฮ้ง	heeng
 โก-ลก	goolok
 โกง	gohng
 โกง	goong
@@ -16254,6 +16282,7 @@ synonyms at เถาะ	to
 โหด	hoht
 โหด	hoot
 โหดร้าย	hohtraai
+โหดร้าย	hootraai
 โหดเหี้ยม	hoothiiam
 โหน	hoon
 โหนก	nook
@@ -16994,6 +17023,7 @@ synonyms at เถาะ	to
 †เสิก	sek
 †เฬี้ยง	liiang
 †แฃวน	kween
+†แจรก	jreek
 †แซก	seek
 †โกฏ	goot
 †โกฐ	goot

@@ -3,11 +3,14 @@
 აკრეპი	akrepi
 ანდერი	anderi
 ანდღა	andga
+ანკესი	ankesi
 ანკრეპი	ankrepi
 ანწკლი	anckli
+ანჭესი – Atina	ancesi
 არ	ar
 ართი	arti
 აქრემი	akremi
+აღუსტოზი	agustozi
 ბაბა	baba
 ბაკი	baki
 ბარდი	bardi
@@ -22,8 +25,11 @@
 ბოზომოთალებური	bozomotaleburi
 ბოზონთა	bozonta
 ბოზონთაბური	bozontaburi
+ბორია	boria
 ბულეკი	buleki
 ბულეჭი	buleci
+ბურბუ	burbu
+ბურჭული	burculi
 ბუძი	buzhi
 ბუჲუღი	buyugi
 ბჯა	bzha
@@ -31,14 +37,21 @@
 გვერი	gveri
 გზა	gza
 გზამშინე	gzamsine
+გიინი – Xopa-Batumi	giini
+გირინი	girini
 გუ̂ერი	gueri
 გუბი	gubi
 გუერი	gueri
 გური	guri
+გურუნი	guruni
+გჲარი	gyari
+გჲარინაჭუმს	gyarinacums
+გჲარობა	gyaroba
 და	da
 და́ლეფე	dalepe
 დალეფე	dalepe
 დაჩხირი	dacxiri
+დაჩხური – Atina	dacxuri
 დემირი	demiri
 დიდა	dida
 დიდი	didi
@@ -48,13 +61,16 @@
 დინჭკიჯი	dinckizhi
 დინჭყიჯი	dincqizhi
 დიცხირი	dicxiri
+დრაპანი	drapani
 დრეპანი	drepani
 დუშმანი	dusmani
 დუშმენი	dusmeni
 დღა	dga
+დჲარი	dyari
 ეკენია	ekenia
 ერკინა	erkina
 ეშეღი	esegi
+ზესკუ	zesku
 თანი	tani
 თი	ti
 თიმჩხუ	timcxu
@@ -70,12 +86,19 @@
 კაზი	kazi
 კაკალი	kakali
 კალმახა	kalmaxa
+კალმახი	kalmaxi
 კამპაა	kampaa
 კამპარა	kampara
 კამწამი	kamcami
 კარა	kara
+კარმახა	karmaxa
 კატუ	katu
 კაწახური	kacaxuri
+კერფი	kerpi
+კერჶი	kerfi
+კეფი	kepi
+კეფრი	kepri
+კეჶი	kefi
 კითი	kiti
 კირი	kiri
 კოლხეთი	kolxeti
@@ -85,17 +108,21 @@
 კოღონი	kogoni
 კოჩი	koci
 კოხა	koxa
+კული	kuli
 კუტალა	kutala
+ლაგი	lagi
 ლაზიკა	lazika
 ლაზუდი	lazudi
 ლაზური	lazuri
 ლაზური ნენა	lazuri nena
 ლაზუტი	lazuti
 ლაკი	laki
+ლაკოტა	lakota
 ლაკოტი	lakoti
 ლაუზტი	lauzti
 ლაქი	laki
 ლაჭი	laci
+ლაჲჭი	layci
 ლები	lebi
 ლებიარი	lebiari
 ლებონი	leburi
@@ -109,8 +136,10 @@
 მგერი	mgeri
 მგვერი	mgveri
 მეგაბრე	megabre
+მეგჲარი	megyari
 მთუთი	mtuti
 მთხირ	mtxir
+მთხოლარი	mtxolari
 მინძი	minzhi
 მინჯი	minzhi
 მკომა	mkoma
@@ -142,6 +171,7 @@
 ნოშქერი	noskeri
 ნუკუ	nuku
 ნცხენი	ncxeni
+ოგჲარე	ogyare
 ოვრო	ovro
 ოთხო	otxo
 ოკაკალუ	okakalu
@@ -149,14 +179,18 @@
 ომან	oman
 ომქირალე	omkirale
 ონტულე	ontule
+ორა	ora
 ორაღი	oragi
 ორვო	orvo
 ორნეღი	ornegi
 ოროფა	oropa
+ორტიკი	ortiki
 ოსური	osuri
 ოტრიკე	otrike
+ოტრიჭი	otrici
 ოქორთურა	okortura
 ოქოსალე	okosale
+ოჩხე	ocxe
 ოჭუმე	ocume
 ოხვამბე	oxvambe
 ოხვამე	oxvame
@@ -168,11 +202,14 @@
 პაპული	papuli
 პაპუწი	papuci
 პასალი	pasali
+პასქია	paskia
 პიჯი	pizhi
-პოსკჲა́	poskya
+პოსკჲა	poskya
 პრასა	prasa
 პრასკა	praska
-პროსკჲა́	proskya
+პრასკჲა	praskya
+პროსკა	proska
+პროსკჲა	proskya
 პროღონი	progoni
 რახნა	raxna
 რუსეთი	ruseti
@@ -181,6 +218,7 @@
 საეტი	saeti
 სანიჲე	saniye
 საღოლ	sagol
+სერი	seri
 სკიფინდრი	skipindri
 სონური რე	sonuri re
 სუმი	sumi
@@ -195,6 +233,7 @@
 ტყა	tqa
 ურუმი	urumi
 უჩა	uca
+ფალანწა	palanca
 ფანტელი	panteli
 ფანწალა	pancala
 ფატი	pati
@@ -268,8 +307,14 @@
 წულუ კითი	culu kiti
 ჭაბუ	cabu
 ჭარ	car
+ჭერენდი	cerendi
+ჭეფრი	cepri
 ჭილილი	cilili
 ჭიმა	cima
+ჭუბრი – Vitse	cubri
+ჭუბუი – Xopa-Batumi	cubui
+ჭუბური	cuburi
+ჭუვრი – Artasheni	cuvri
 ჭუმანი	cumani
 ჭუმე	cume
 ჭუმენ	cumen
@@ -277,15 +322,19 @@
 ხარმანი	xarmani
 ხაჩკეტი	xacketi
 ხე	xe
+ხინჟი	xinzi
 ხინჯი	xinzhi
 ხორცი	xorci
 ხუ	xu
 ხუთი	xuti
 ჯა	zha
 ჯანგი	zhangi
+ჯარი	zhari
 ჯენგი	zhengi
 ჯიგერი	zhigeri
 ჯოღოი	zhogoi
+ჯოღორი	zhogori
+ჯოღორი – Atina	zhogori
 ჯუმა	zhuma
 ჯუმალეფე	zhumalepe
 ჰაწი	haci

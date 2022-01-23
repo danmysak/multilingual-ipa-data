@@ -576,6 +576,7 @@ SIM карт	sim kart
 Испаних	ispanikh
 Итали	itali
 Иуда	iuda
+Их Баавгай	ikh baavgai
 Их Британ руугаа	ikh britan ruugaa
 Их Британи	ikh britani
 Их Британиа	ikh britania
@@ -609,13 +610,13 @@ SIM карт	sim kart
 Казахстанаараа	kazakhstanaaraa
 Казахстанаас	kazakhstanaas
 Казахстанаасаа	kazakhstanaasaa
-Казахстанд	kazakhstand
 Казахстандаа	kazakhstandaa
+Казахстантай	kazakhstantai
 Казахстантайгаа	kazakhstantaigaa
-Казахстанх	kazakhstankh
 Казахстаны	kazakhstany
 Казахстаныг	kazakhstanyg
 Казахстаныгаа	kazakhstanygaa
+Казахстаных	kazakhstanykh
 Казахстаныхаа	kazakhstanykhaa
 Каир	kair
 Калининград	kaliningrad
@@ -988,17 +989,10 @@ SIM карт	sim kart
 Тбилис	tbilis
 Тверь	tveri
 Тегеран	tegeran
-Тегеран Тегеран уруу	tegeran tegeran uruu
-Тегеран Тегеранд	tegeran tegerand
-Тегеранаар	tegeranaar
-Тегеранаас	tegeranaas
 Тегеранд	tegerand
-Тегерантай	tegerantai
-Тегеранх	tegerankh
-Тегераны	tegerany
-Тегераныг	tegeranyg
 Теннесси	tennessi
 Теслагийн ороомог	teslagiin oroomog
+Техран	tekhran
 Тибериус	tiberius
 Тигр	tigr
 Тирана	tirana
@@ -1203,6 +1197,7 @@ SIM карт	sim kart
 Чех	chekh
 Чех улс	chekh uls
 Чехословак	chekhoslovak
+Чечень	checheni
 Чили	chili
 Чингис	chingis
 Чингис хаан	chingis khaan
@@ -1268,6 +1263,7 @@ SIM карт	sim kart
 Эрхүү	erkhuu
 Эрхүү гол	erkhuu gol
 Эрхүү муж	erkhuu muj
+Эрхүү хот	erkhuu khot
 Эрчис	erchis
 Эрээн хот	ereen khot
 Эскимо үнсэлт	eskimo unselt
@@ -1487,11 +1483,13 @@ SIM карт	sim kart
 аз жаргал	az jargal
 аз сайн	az sain
 азарга	azarga
+азгүйдэл	azguidel
 азербайжан	azerbaijan
 азербайжан хэл	azerbaijan khel
 ази	azi
 азийн	aziin
 азот	azot
+азот ᠠᠽᠣᠲ	azot
 азрага	azraga
 азтай	aztai
 азын жигнэмэг	azyn jignemeg
@@ -1567,9 +1565,12 @@ SIM карт	sim kart
 албадлага	albadlaga
 албадмал	albadmal
 албан	alban
+албан байгууллага	alban baiguullaga
+албан бус	alban bus
 албан газар	alban gazar
 албан ёсны	alban yosny
 албан тушаал	alban tushaal
+албан тушаалтан	alban tushaaltan
 албан хэрэг	alban khereg
 албани	albani
 албани хүн	albani khun
@@ -2217,7 +2218,8 @@ SIM карт	sim kart
 бенгал хэл	bengal khel
 бензин	benzin
 бензин түгээгүүр	benzin tugeeguur
-берилли	berilli
+берили ᠪᠧᠷᠢᠯᠢ	berili
+берилли ᠪᠧᠷᠢᠯᠯᠢ	berilli
 беркли	berkli
 бетон	beton
 би	bi
@@ -2311,7 +2313,7 @@ SIM карт	sim kart
 бирд	bird
 бирм	birm
 бирмингемчүүд	birmingemchuud
-бисмут	bismut
+бисмут ᠪᠢᠰᠮ᠌ᠦ᠌ᠲ	bismut
 битүү	bituu
 битүү захтай цамц	bituu zakhtai tsamts
 бич	bich
@@ -2338,6 +2340,7 @@ SIM карт	sim kart
 блог	blog
 богино	bogino
 богино оймс	bogino oims
+богино өгүүллэг	bogino oguulleg
 богширго	bogshirgo
 бодис	bodis
 бодисадва	bodisadva
@@ -2366,7 +2369,6 @@ SIM карт	sim kart
 болих	bolikh
 болно	bolno
 боловсрол	bolovsrol
-боловсрол ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ	bolovsrol
 боловсрох	bolovsrokh
 боловч	bolovch
 бологтун	bologtun
@@ -2492,6 +2494,7 @@ SIM карт	sim kart
 буудал	buudal
 буудах	buudakh
 бууз	buuz
+буулга	buulga
 бууралтах	buuraltakh
 буурцаг	buurtsag
 бух	bukh
@@ -2820,6 +2823,7 @@ SIM карт	sim kart
 гей	gei
 гейша	geisha
 гели	geli
+гели ᠾᠧᠯᠢ	geli
 гель	geli
 ген	gen
 геологи	geologi
@@ -3042,6 +3046,7 @@ SIM карт	sim kart
 гүзээлзгэнэ	guzeelzgene
 гүйдэл	guidel
 гүйлгээ	guilgee
+гүйлс	guils
 гүйлтийн зам	guiltiin zam
 гүйлтийн цана	guiltiin tsana
 гүйх	guikh
@@ -3353,6 +3358,7 @@ SIM карт	sim kart
 дэлдэн зараа	delden zaraa
 дэлхий	delkhii
 дэлхийн	delkhiin
+дэлхийн дулаарал	delkhiin dulaaral
 дэлэн	delen
 дэлэн	hiddeng declension
 дэлэнч	delench
@@ -3387,6 +3393,7 @@ SIM карт	sim kart
 дүпү	dupu
 дүрвэгч	durvegch
 дүрс	durs
+дүрс бичлэг	durs bichleg
 дүрс маяг	durs mayag
 дүрслэх	durslekh
 дүрэм	durem
@@ -4031,6 +4038,7 @@ SIM карт	sim kart
 ивээл жил	iveel jil
 ивээх	iveekh
 ид шид	id shid
+идеологи	ideologi
 идлэг шонхор	idleg shonkhor
 идэвхжүүлсэн нүүрс	idevkhjuulsen nuurs
 идэж болох байдал	idej bolokh baidal
@@ -4052,6 +4060,7 @@ SIM карт	sim kart
 ил уурхай	il uurkhai
 ил хэлэх	il khelekh
 ил ярих	il yarikh
+илбэчин	ilbechin
 илгээмж	ilgeemj
 илгээх	ilgeekh
 илд	ild
@@ -4239,6 +4248,7 @@ SIM карт	sim kart
 коктэйлтой үдэшлэг	kokteiltoi udeshleg
 кола	kola
 колони	koloni
+колоничлол	kolonichlol
 колонк	kolonk
 комбайн	kombain
 комикс	komiks
@@ -4341,22 +4351,7 @@ SIM карт	sim kart
 либералын	liberalyn
 либералынх	liberalynkh
 лийр	liir
-лийр [[лийр лийр лүү	liir liir luu
-лийр лийрт	liir liirt
-лийр лүүгээ	liir luugee
-лийрийг	liiriig
-лийрийгээ	liiriigee
-лийрийн	liiriin
-лийрийнхээ	liiriinkhee
-лийртэй	liirtei
-лийртэйгээ	liirteigee
-лийртээ	liirtee
-лийрх	liirkh
-лийрээ	liiree
-лийрээр	liireer
-лийрээрээ	liireeree
-лийрээс	liirees
-лийрээсээ	liireesee
+лийрэрхүү	liirerkhuu
 лимбэ	limbe
 лимузин	limuzin
 лимфа	limfa
@@ -4394,6 +4389,8 @@ SIM карт	sim kart
 луужин	luujin
 лууны нүд	luuny nud
 луус	luus
+луут	luut
+луутай	luutai
 лхагва	lkhagva
 лянхуа хөл	lyankhua khol
 лүгээ	lugee
@@ -4565,7 +4562,7 @@ SIM карт	sim kart
 мойл	moil
 молдав	moldav
 молекул	molekul
-молибден	molibden
+молибден ᠮᠣᠯᠢᠪᠳᠡᠨ	molibden
 молтогчин	moltogchin
 монгол	mongol
 монгол бичиг	mongol bichig
@@ -4925,6 +4922,7 @@ SIM карт	sim kart
 нарийн өвчин	nariin ovchin
 наркотик	narkotik
 нарлаг	narlag
+нарны хавтан	narny khavtan
 нарны шил	narny shil
 нарны эрчим хүч	narny erchim khuch
 нарс	nars
@@ -4979,7 +4977,9 @@ SIM карт	sim kart
 ниоби	niobi
 нирун	nirun
 нирунчууд	nirunchuud
+нисгэгч	nisgegch
 нисгэл	nisgel
+нисгэх	nisgekh
 нисдэг таваг	nisdeg tavag
 нисдэг тэрэг	nisdeg tereg
 нислэг	nisleg
@@ -5154,7 +5154,6 @@ SIM карт	sim kart
 нүүрний байдал	nuurnii baidal
 нүүрс	nuurs
 нүүрс ᠨᠡᠭᠦᠷᠡᠰᠦ	nuurs
-нүүрстөрөгч	nuurstorogch
 нөгөө	nogoo
 нөгөөдөр	nogoodor
 нөл	nol
@@ -5438,6 +5437,7 @@ SIM карт	sim kart
 паробъкъ	parobuku
 паспорт	pasport
 паяльник	payalinik
+пептидийн холбоо	peptidiin kholboo
 перестройка	perestroika
 перс	pers
 персик	persik
@@ -5731,6 +5731,7 @@ SIM карт	sim kart
 сойз	soiz
 сойздох	soizdokh
 сойр	soir
+солгой	solgoi
 солиотой	soliotoi
 солир	solir
 солирын чулуулаг	soliryn chuluulag
@@ -5827,6 +5828,7 @@ SIM карт	sim kart
 сурвалжлагч	survaljlagch
 сургагч	surgagch
 сургамж	surgamj
+сурган хүмүүжил	surgan khumuujil
 сургах	surgakh
 сургуулийн автобус	surguuliin avtobus
 сургуулийн анги	surguuliin angi
@@ -6388,6 +6390,7 @@ SIM карт	sim kart
 тулай өвчин	tulai ovchin
 тулалдаан	tulaldaan
 тулалдах	tulaldakh
+тулах	tulakh
 тулга	tulga
 тулгах	tulgakh
 тулгуур	tulguur
@@ -6423,6 +6426,7 @@ SIM карт	sim kart
 туслах	tuslakh
 тутам	tutam
 тутарга	tutarga
+тууж	tuuj
 тууз	tuuz
 туулай	tuulai
 туулай туулайд	tuulai tuulaid
@@ -6846,6 +6850,7 @@ SIM карт	sim kart
 усны цорго	usny tsorgo
 усны үхэр	usny ukher
 устөрөгч	ustorogch
+устөрөгч ᠤᠰᠤᠲᠥᠷᠥᠭᠴᠢ	ustorogch
 устөрөгчийн бөмбөг	ustorogchiin bombog
 усчин	uschin
 усын	usyn
@@ -6927,6 +6932,8 @@ SIM карт	sim kart
 фараон	faraon
 фашизм	fashizm
 фашист	fashist
+феминизм	feminizm
+феминист	feminist
 ферм	ferm
 фермер	fermer
 ферми	fermi
@@ -6936,6 +6943,7 @@ SIM карт	sim kart
 финлянд	finlyand
 финлянди	finlyandi
 фирм	firm
+флор ᠹᠯᠣᠷ	flor
 фонем	fonem
 фонологи	fonologi
 фото	foto
@@ -6977,7 +6985,7 @@ SIM карт	sim kart
 фронтыгоо	frontygoo
 фронтын	frontyn
 фронтынхоо	frontynkhoo
-фтор	ftor
+фтор ᠹᠲᠣᠷ	ftor
 функц	funkts
 фунт	funt
 фут	fut
@@ -7319,6 +7327,7 @@ SIM карт	sim kart
 хоёрдахь	khoyordakhi
 хоёрдугаар	khoyordugaar
 хоёрдугаар сар	khoyordugaar sar
+хожих	khojikh
 хойг	khoig
 хойгуур	khoiguur
 хойд	khoid
@@ -8129,6 +8138,7 @@ SIM карт	sim kart
 цуйван	hiddeng declension
 цуйван	tsuivan
 цулбуур	tsulbuur
+цунами	tsunami
 цунх	tsunkh
 цурваг	tsurvag
 цурхай	tsurkhai
@@ -8788,7 +8798,9 @@ SIM карт	sim kart
 этик	etik
 этноцентризм	etnotsentrizm
 эх	ekh
+эх баригч	ekh barigch
 эх газар	ekh gazar
+эх орон	ekh oron
 эх оронд минь	ekh orond mini
 эх оронч үзэл	ekh oronch uzel
 эхийн сүү	ekhiin suu
@@ -8984,6 +8996,7 @@ SIM карт	sim kart
 үзэгний сав	uzegnii sav
 үзэгч	uzegch
 үзэл	uzel
+үзэл суртал	uzel surtal
 үзэлтэн	uzelten
 үзэлцэх	uzeltsekh
 үзэм	uzem
@@ -9184,6 +9197,7 @@ SIM карт	sim kart
 өглөөний цай	ogloonii tsai
 өгсөх	ogsokh
 өгүүлбэр	oguulber
+өгүүллэг	oguulleg
 өгүүлэгдэхүүн	oguulegdekhuun
 өгүүлэл	oguulel
 өгүүлэх	oguulekh
@@ -9266,6 +9280,7 @@ SIM карт	sim kart
 өнөө орой	onoo oroi
 өнөөдөр	onoodor
 өр	or
+өргөгч	orgogch
 өргөдөг шат	orgodog shat
 өргөдөл	orgodol
 өргөж явах	orgoj yavakh
@@ -9449,11 +9464,8 @@ SIM карт	sim kart
 ᠠᠯᠢᠮ᠎ᠠ	alima
 ᠠᠯᠤᠬ᠎ᠠ	aluqa
 ᠠᠯᠤᠰ	alus
-ᠠᠯᠪᠠ	alba
 ᠠᠯᠪᠠ ᠬᠠᠭᠠᠬᠤ	alba qagaqu
-ᠠᠯᠪᠠᠨ	alban
 ᠠᠯᠪᠠᠨ ᠭᠠᠵᠠᠷ	alban gajar
-ᠠᠯᠪᠠᠨ ᠲᠤᠰᠢᠶᠠᠯ	alban tusiyal
 ᠠᠯᠪᠠᠨ᠋ᠢ	albani
 ᠠᠯᠪᠠᠨ᠋ᠢᠶ᠌᠎ᠠ᠋	albaniya
 ᠠᠯᠪᠠᠳᠠᠬᠤ	albadaqu
@@ -9941,6 +9953,7 @@ SIM карт	sim kart
 ᠦᠵᠦᠭ	ujug
 ᠦᠵᠦᠭᠦᠷ	ujugur
 ᠦᠶ᠎ᠡ	uye
+ᠦᠶᠡᠷ	uyer
 ᠦᠷ᠎ᠡ	ure
 ᠦᠷᠢᠯ	uril
 ᠦᠷᠦᠮᠴᠢ	urumci
@@ -10007,6 +10020,7 @@ SIM карт	sim kart
 ᠨᠢᠯᠬ᠎ᠠ	nilqa
 ᠨᠢᠰᠤ	nisu
 ᠨᠢᠰᠬᠡᠬᠦ	niskeku
+ᠨᠢᠰᠬᠡᠭᠴᠢ	niskegci
 ᠨᠢᠰᠬᠡᠯ	niskel
 ᠨᠢᠰᠬᠦ	nisku
 ᠨᠢᠰᠬᠦ ᠣᠩᠭᠤᠴᠠ	nisku ongguca
@@ -10154,7 +10168,6 @@ SIM карт	sim kart
 ᠪᠡᠭᠡᠯᠡᠢ	begelei
 ᠪᠡᠭᠡᠵᠢᠩ	begejing
 ᠪᠡᠯᠡᠨ	belen
-ᠪᠡᠯᠡᠭ	beleg
 ᠪᠡᠯᠡᠳᠬᠡᠯ	beledkel
 ᠪᠡᠯᠭᠡᠪᠴᠢ	belgebci
 ᠪᠡᠯᠭᠡᠭᠦᠰᠦ	belgegusu
@@ -10184,7 +10197,6 @@ SIM карт	sim kart
 ᠪᠢᠴᠢᠭᠡᠴᠢ	bicigeci
 ᠪᠢᠴᠢᠮᠡᠯ	bicimel
 ᠪᠢᠴᠢᠯ ᠠᠮᠢᠨ ᠰᠤᠳᠤᠯᠤᠯ	bicil amin sudulul
-ᠪᠢᠴᠢᠯᠭᠡ	bicilge
 ᠪᠢᠷ	bir
 ᠪᠢᠷᠠᠭᠤ	biragu
 ᠪᠢᠷᠭ᠎ᠠ	birga
@@ -10520,6 +10532,7 @@ SIM карт	sim kart
 ᠬᠣᠷᠢᠨ	qorin
 ᠬᠣᠷᠢᠭᠳᠠᠯ	qorigdal
 ᠬᠣᠷᠣᠭᠣᠲᠣ ᠬᠣᠨ	qorogoto qon
+ᠬᠣᠷᠤ	qoru
 ᠬᠣᠷᠤᠬᠠᠢ	qoruqai
 ᠬᠣᠷᠤᠰᠬᠤ	qorusqu
 ᠬᠤᠢ	qui
@@ -10540,7 +10553,6 @@ SIM карт	sim kart
 ᠬᠤᠯᠠᠭᠠᠢ	qulagai
 ᠬᠤᠯᠠᠭᠠᠶᠢᠴᠢ	qulagayici
 ᠬᠤᠯᠢᠬᠢ	quliqi
-ᠬᠤᠯᠤ	qulu
 ᠬᠤᠯᠤᠭᠠᠨ᠎ᠠ	qulugana
 ᠬᠤᠯᠤᠭᠠᠬᠤ	qulugaqu
 ᠬᠤᠯᠤᠰᠤ	qulusu
@@ -10928,7 +10940,6 @@ SIM карт	sim kart
 ᠯᠠᠲ᠋ᠸᠢᠶ᠌᠎ᠠ᠋	latwiya
 ᠯᠢᠭ	lig
 ᠯᠢᠲ᠋ᠸᠠ	litwa
-ᠯᠢᠷ	lir
 ᠯᠢᠹᠲ᠋	lift
 ᠯᠣᠣ ᠵᠢᠨ ᠰᠠᠬᠠᠯ	loojin saqal
 ᠯᠣᠣᠯᠢ	looli
@@ -11084,6 +11095,7 @@ SIM карт	sim kart
 ᠰᠤᠷᠤᠯᠴᠠᠬᠤ	surulcaqu
 ᠰᠤᠷᠪᠤᠯᠵᠢ	surbulji
 ᠰᠤᠷᠬᠤ	surqu
+ᠰᠤᠷᠭᠠᠨ ᠬᠦᠮᠦᠵᠢᠯ	surgan kumujil
 ᠰᠤᠷᠭᠠᠬᠤ	surgaqu
 ᠰᠤᠸᠠᠨᠫᠠᠨ	suwanpan
 ᠰᠤᠻᠪᠠᠠᠲᠠᠷ	sukbaatar
@@ -11150,6 +11162,7 @@ SIM карт	sim kart
 ᠲ᠋ᠧᠯᠧᠸᠢᠽᠣᠷ	telewizor
 ᠲ᠋ᠧᠯᠧᠹᠣᠨ	telefon
 ᠲ᠋ᠧᠻᠨᠢᠭᠴᠢ	teknigci
+ᠲ᠋ᠧᠾᠷᠠᠨ	tehran
 ᠲ᠋ᠷᠠᠮᠸᠠᠢ	tramwai
 ᠲ᠋ᠷᠠᠻᠲ᠋ᠣᠷ	traktor
 ᠲ᠋ᠷᠣᠯᠯᠧᠶ᠋ᠢᠪᠦᠰ	trolleyibus
@@ -11552,7 +11565,6 @@ SIM карт	sim kart
 ᠴᠢᠨᠤ᠎ᠠ	cinua
 ᠴᠢᠨᠵᠦᠦ	cinjuu
 ᠴᠢᠩᠨᠠᠬᠤ	cingnaqu
-ᠴᠢᠩᠭᠠᠭᠠᠨᠵᠠ	cinggaganja
 ᠴᠢᠩᠭᠢᠰ	cinggis
 ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ	cinggis qagan
 ᠴᠢᠩᠭᠢᠰᠬᠠᠭᠠᠨ	cinggis qagan
@@ -11708,7 +11720,6 @@ SIM карт	sim kart
 ᠵᠢᠷᠤᠭ	jirug
 ᠵᠢᠷᠤᠭ ᠤᠨ ᠠᠫᠫᠠᠷᠠᠲ᠋	jirugun apparat
 ᠵᠢᠷᠤᠭᠠᠴᠢ	jirugaci
-ᠵᠢᠷᠤᠭᠲᠤ	jirugtu
 ᠵᠢᠷᠤᠭᠴᠢᠨ	jirugcin
 ᠵᠢᠷᠤᠮ	jirum
 ᠵᠢᠷᠦᠬᠡ	jiruke
@@ -11852,6 +11863,7 @@ SIM карт	sim kart
 ᠸᠢᠦᠯᠦᠨᠼᠧᠯ	wiuluncel
 ᠸᠢᠩᠨᠠᠲ	wingnat
 ᠸᠢᠰᠠ	wisa
+ᠸᠢᠳᠢᠣ᠋	widio
 ᠸᠢᠶ᠋ᠧᠲ᠋ᠨ᠋ᠠᠮ	wiyetnam
 ᠸᠢᠶᠧᠲ᠋ᠨ᠋ᠠᠮ	wiyetnam
 ᠸᠢᠷᠦ᠋ᠰ	wirus
@@ -11862,6 +11874,8 @@ SIM карт	sim kart
 ᠹᠢᠷᠮ	firm
 ᠹᠣᠲ᠋ᠣ ᠠᠫᠫᠠᠷᠠᠲ᠋	foto apparat
 ᠹᠣᠲ᠋ᠣ᠋	foto
+ᠹᠧᠮᠢᠨᠢᠰᠮ	feminism
+ᠹᠧᠮᠢᠨᠢᠰᠲ᠋	feminist
 ᠹᠧᠷᠮ	ferm
 ᠹᠷᠠᠨᠼ	franc
 ᠹᠷᠠᠨᠼᠢ	franci
@@ -11895,6 +11909,7 @@ SIM карт	sim kart
 ᠻᠸᠠᠳ᠋ᠷᠠᠲ᠋	kwadrat
 ᠼ	c
 ᠼᠢᠷᠻ	cirk
+ᠼᠦᠨᠠᠮᠢ	cunami
 ᠼᠧᠨᠲ᠋	cent
 ᠼᠧᠾᠡ	cehe
 ᠽ	z

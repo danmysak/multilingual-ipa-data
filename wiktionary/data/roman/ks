@@ -52,7 +52,9 @@ dəh	dạh
 اَٹوٗٹ	aṭūṭ
 اَٹَل	aṭal
 اَٹھووُہ	aṭhōvuh
+اَپَزَر	apazar
 اَپُز	apuz
+اَپُز وَنُن	apuz vanun
 اَپۆر	apor
 اَپۆز	apoz
 اَچھُر	achur
@@ -77,6 +79,7 @@ dəh	dạh
 اِ	i
 اِدرار	idrār
 اِنسان	insān
+اِنڈِیا	inḍiyā
 آ	ā
 آب	āb
 آتھوار	āthvār
@@ -172,6 +175,7 @@ dəh	dạh
 بُلبُل	bulbul
 بِل بِچُر	bil bicur
 بِلؠ بِچُر	bil' bicur
+بٔڈؠ	bạḍ'
 بٔے کاکَنؠ	bạē kākan'
 بٕۂر	bụhạr
 بٕہٕر	bụhụr
@@ -182,6 +186,7 @@ dəh	dạh
 بٲرِش کَرٕنؠ	bạ̄riś karụn'
 بٲلی وُڈ	bạ̄ly vuḍ
 بٲے کاکَنؠ	bạ̄ē kākan'
+بھارَت	bhārat
 بہَ	ba
 بہٕ	bụ
 بۄ	bọ
@@ -265,6 +270,7 @@ dəh	dạh
 جُمعہ	jumāh
 جۆم	jom
 جۆم تہٕ کٔشیٖر	jom thụ kạśīr
+جۆم تہٕ کٔشیٖر	jom tụ kạśīr
 جۆنوٗب	jonūb
 ح	h
 خ	kh
@@ -465,9 +471,13 @@ dəh	dạh
 سَکھ	sakh
 سَگُن	sagun
 سُہ	suh
+سِری نَگَر	sirī nagar
 سِری نَگَر	sirī-nagar
 سِریٖنَگَر	sirīnagar
 سِکھ مَت	sikh mat
+سِیاسَتھ	siyāsath
+سِیاسَتھ دان	siyāsath dān
+سِیٲسی	siyạ̄sī
 سٕژنہِ پوو	sụċni pov
 سٕژنہِ پۆہ	sụċnhi poh
 سٟتؠ	sụ̄t'
@@ -581,6 +591,7 @@ dəh	dạh
 مَرٕد	marụd
 مَزہَب	mazhab
 مَشرِق	maśriq
+مَشُن	maśun
 مَغرِب	maġrib
 مَل	mal
 مَنٛجہۆر	manjhor
@@ -602,6 +613,7 @@ dəh	dạh
 مُج	muj
 مُلک	mulk
 مِسر	misr
+مٔشِتھ گَژھُن	mạśith gaċhun
 مٔشیٖد	mạśīd
 مٔچھ	mạch
 مٕتھٕر	mụthụr
@@ -701,6 +713,7 @@ dəh	dạh
 وُلٹہٕ	vulṭụ
 وُنَل	vunal
 وُہ	vuh
+ؤری	wạrī
 ؤٹِل	vạṭil
 ؤہراتھ	vạhrāth
 ؤہرٕوود	wạhrụwōd
@@ -709,6 +722,7 @@ dəh	dạh
 وٲد	vạ̄d
 وٲنؠ	vạ̄n'
 وۄتُر	vọtur
+وۄشژار	vọśċār
 وۄپَس	vọpas
 وۄپُر	vọpur
 وۆژھ	voċh
@@ -795,11 +809,13 @@ dəh	dạh
 پَرکھاوُن	parkhāvun
 پَرکھٲے	parkhạ̄ē
 پَزَر	pazar
+پَزُن	pazun
 پَش	paś
 پَلَو	palav
 پَمپوش	pampōś
 پَنجٲبۍ	panjạ̄b'
 پَنُن	panun
+پَنٛجاب	panjāb
 پَنٛجٲبؠ	panjạ̄b'
 پَنٛداہ	pandāh
 پَنٛژاہ	panċāh
@@ -878,8 +894,8 @@ dəh	dạh
 چھَلُن	chalun
 چھَپُن	chapun
 چھَپُن	chāpun
-چھَک	chak
 چھَکُن	chakun
+چھَکھ	chakh
 چھُ	chu
 چھُک	chuk
 چھِرٕ	chirụ
@@ -1057,6 +1073,7 @@ dəh	dạh
 گامُک	gāmuk
 گانٛٹھ	gānṭh
 گاٹُل	gāṭul
+گاٹٕلؠ	gāṭụl'
 گاٹہٕ	gāṭụ
 گاٹہٕ جار	gāṭụ jār
 گاٹہٕ دیُٛن	gāṭụ dyun
@@ -1071,6 +1088,7 @@ dəh	dạh
 گَرَم	garam
 گَرُن	garun
 گَرٕ	garụ
+گَرٕم	garụm
 گَژھُن	gaċhun
 گَگُر	gagur
 گَگٕراے	gagụrāē
@@ -1132,6 +1150,8 @@ dəh	dạh
 ہیٚچھُن	hechun
 ۄ	ọ
 ی	y
+یاد آسُن	yād āsun
+یاد کَرُن	yād karun
 یَلہٕ	yalụ
 یِم	yim
 یِمَن	yiman
@@ -1163,8 +1183,13 @@ dəh	dạh
 अज़ुक	azuk
 अथु	athu
 अनुन	anun
+अपज़र	apazar
+अपुज़	apuz
+अपुज़ वनुन	apuza wanun
+अपॊज़	apoz
 अपॖज़	apụz
 अबॊद	abod
+अब्वद	abwad
 अम्ब	amb
 अम्ब्	amb
 असुन	asun
@@ -1172,6 +1197,7 @@ dəh	dạh
 आप्रावुन	āprāwun
 आब	āb
 आसुन	āsun
+इंडिया	iṃḍiyā
 ऑ	ạ̄
 ऑव्युल	ạ̄wyul
 ऒंजूर	onjūr
@@ -1212,6 +1238,7 @@ dəh	dạh
 गाज़ॖर	gāzụr
 गाटुल	gāṭul
 गाटॖज	gāṭụj
+गाटॖल्य	gāṭụl'
 गाम	gām
 गामुक	gāmuk
 गाश	gāś
@@ -1323,6 +1350,8 @@ dəh	dạh
 पंजऻब्य	panjạ̄b'
 पकुन	pakun
 पगाह	pagāh
+पज़र	pazar
+पज़ुन	pazun
 पतॖ	patụ
 पनुन	panun
 पम्पोश	pampōś
@@ -1336,6 +1365,7 @@ dəh	dạh
 पॆठ	peṭh
 पेर्युस	pēryus
 पॊंज़	poṃz
+पॊज़	poz
 पॊत लॊग	pota log
 पोञु॒	pōñu॒
 पोन्य	pōn'
@@ -1379,10 +1409,13 @@ dəh	dạh
 ब्व	bọ
 ब्वद	bwad
 बॖ	bụ
+भारत	bhārat
 मंज़	maṃz
 मन्	man
 मरुन	marun
 मरॖद	marụd
+मशुन	maśun
+मऺशिथ गछ़ुन	mạśith gaċhun
 मऻंश	mạ̄ṃś
 मऻज	mạ̄j
 मऻश	mạ̄ś
@@ -1396,6 +1429,8 @@ dəh	dạh
 म्वल	mwal
 म्वलुल	mwalul
 यछ़ुन	yaċhun
+याद आसुन	yād āsun
+याद करुन	yād karun
 यि	yi
 यि तॖ गछ़	yi tụ gaċh
 यीरुन	yīrun
@@ -1405,6 +1440,7 @@ dəh	dạh
 रातुक	rātuk
 राथ	rāth
 रान्	rān
+रुकुन	rukāwun
 रुकुन	rukun
 रूस	rūs
 र्यथ	ryath
@@ -1420,6 +1456,7 @@ dəh	dạh
 वनुन	wanun
 वर्ताव	wartāw
 वर्तावुन	wartāwun
+वऺरी	wạrī
 वाँगुन	vāṅgun
 वाँगुन	wām̐gun
 वाँदुर	wām̐dur
@@ -1446,6 +1483,7 @@ dəh	dạh
 हफतॖ	haphatụ
 हाम	hām
 हाल	hāl
+हिन्दोस्तान	hindōstān
 हु	hu
 हॆकुन	hekun
 हॆछुन	hechun

@@ -13,7 +13,6 @@ Bouxdaez	/pou˦˨ tai˧˩/
 Bouxdoj	/pou˦˨ to˥/
 Bouxgun	/pou˦˨ kun˨˦/
 Bouxhek	/pou˦˨ heːk˧˥/
-Bouxmienh	/pou˦˨ miːn˧/
 Bouxmiuz	/pou˦˨ miu˧˩/
 Bouxyaej	/pou˦˨ jai˥/
 Buzdauzyaz	/pu˧˩ taːu˧˩ ja˧˩/
@@ -55,6 +54,7 @@ Fuzcouh	/fu˧˩ ɕou˧/
 Fuzgen	/fu˧˩ keːn˧˥/
 Fuzgyau	/fu˧˩ kʲaːu˧˥/
 Fuzsanh	/fu˧˩ θaːn˧/
+Gangjbi	/kaːŋ˥ pi˧˥/
 Ganhsuz	/kaːn˧ θu˧˩/
 Ginghcuz	/kiŋ˧ ɕu˧˩/
 Ginhcouh	/kin˧ ɕou˧/
@@ -99,10 +99,12 @@ Lanz	/laːn˧˩/
 Lanzcouh	/laːn˧˩ ɕou˧/
 Laujvoh	/laːu˥ βo˧/
 Lenzhozgoz	/leːn˧˩ ho˧˩ ko˧˩/
+Liengz	/liːŋ˧˩/
 Lij	/li˥/
 Lingz	/liŋ˧˩/
 Linzgvei	/lin˧˩ kʷei˧˥/
 Liujcouh	/liu˥ ɕou˧/
+Liz	/li˧˩/
 Loz	/lo˧˩/
 Lozcwngz	/lo˧˩ ɕɯŋ˧˩/
 Lozmajnizya	/lo˧˩ ma˥ ni˧˩ ja˨˦/
@@ -352,6 +354,7 @@ cihsaw	/ɕi˧ θaɯ˨˦/
 cij	/ɕi˥/
 cijgaeng	/ɕi˥ kaŋ˨˦/
 cijvaiz	/ɕi˥ βaːi˧˩/
+cik	/ɕik˥/
 cim	/ɕim˨˦/
 cingjsoq	/ɕiŋ˥ θo˧˥/
 cinz	/ɕin˧˩/
@@ -389,6 +392,7 @@ cwngci	/ɕɯŋ˧˥ ɕi˧˥/
 cwngciyoz	/ɕɯŋ˧˥ ɕi˧˥ jo˧˩/
 cwngcwz	/ɕɯŋ˨˦ ɕɯ˧˩/
 cwngfuj	/ɕɯŋ˨˦ fu˥/
+cwngzcizdanh	/ɕɯŋ˧˩ ɕi˧˩ taːn˧/
 cwz	/ɕɯ˧˩/
 cwzyoz	/ɕɯ˧˩ jo˧˩/
 da	/ta˨˦/
@@ -587,6 +591,7 @@ gieng	/kiːŋ˨˦/
 gienz	/kiːn˧˩/
 gig	/kik˧/
 gih	/ki˧/
+gihgiyinz	/ki˧ ki˧˥ jin˧˩/
 gihgvanh	/ki˧ kʷaːn˧/
 gij	/ki˥/
 gijgwn	/ki˥ kɯn˨˦/
@@ -607,6 +612,7 @@ giujdin	/kiu˥ tin˨˦/
 giuz	/kiu˧˩/
 giz	/ki˧˩/
 gizcangj	/ki˧˩ ɕaːŋ˥/
+gizdah	/ki˧˩ ta˧/
 gizhaenx	/ki˧˩ han˦˨/
 gizneix	/ki˧˩ nei˦˨/
 go	/ko˨˦/
@@ -775,6 +781,7 @@ leq	/le˧˥/
 lexhe	/le˦˨ he˨˦/
 lieng	/liːŋ˨˦/
 liengz	/liːŋ˧˩/
+liengzhaiz	/liːŋ˧˩ haːi˧˩/
 liengzsim	/liːŋ˧˩ θim˨˦/
 lienh	/liːn˧/
 lienzhab	/liːn˧˩ haːp˧/
@@ -789,6 +796,7 @@ linh	/lin˧/
 linx	/lin˦˨/
 linz	/lin˧˩/
 lizsij	/li˧˩ θi˥/
+lizswh	/li˧˩ θɯ˧/
 lo	/lo˨˦/
 loeg	/lok˧/
 loeghozraez	/lok˧ ho˧˩ ɣai˧˩/
@@ -982,8 +990,10 @@ ngoenzbyug	/ŋon˧˩ pʲuk˧/
 ngoenzcog	/ŋon˧˩ ɕoːk˧/
 ngoenzgoeng	/ŋon˧˩ koŋ˨˦/
 ngoenzhong	/ŋon˧˩ hoːŋ˨˦/
+ngoenzlijbai	/ŋon˧˩ li˥ paːi˧˥/
 ngoenzlwenz	/ŋon˧˩ lɯːn˧˩/
 ngoenzneix	/ŋon˧˩ nei˦˨/
+ngoenzsinghgiz	/ŋon˧˩ θiŋ˧ ki˧˩/
 ngoh	/ŋo˧/
 ngux	/ŋu˦˨/
 ngux nyied co'ngux	/ŋu˦˨ ɲiːt˧ ɕo˨˦ ŋu˦˨/
@@ -1125,6 +1135,13 @@ sihgvah	/θi˧ kʷa˧/
 sik	/θik˥/
 sim	/θim˨˦/
 simhai	/θim˨˦ haːi˨˦/
+singhgiz	/θiŋ˧ ki˧˩/
+singhgizhaj	/θiŋ˧ ki˧˩ ha˥/
+singhgizit	/θiŋ˧ ki˧˩ ʔit˥/
+singhgizngeih	/θiŋ˧ ki˧˩ ŋei˧/
+singhgizroek	/θiŋ˧ ki˧˩ ɣok˥/
+singhgizsam	/θiŋ˧ ki˧˩ θaːm˨˦/
+singhgizseiq	/θiŋ˧ ki˧˩ θei˧˥/
 singqmingz	/θiŋ˧˥ miŋ˧˩/
 singz	/θiŋ˧˩/
 sinhvwnz	/θin˧ βɯn˧˩/
@@ -1213,6 +1230,7 @@ yijfaz	/ji˥ fa˧˩/
 yijmauzgiuz	/ji˥ maːu˧˩ kiu˧˩/
 yijvwnz	/ji˥ βɯn˧˩/
 yijyenz	/ji˥ jeːn˧˩/
+yijyenzyoz	/ji˥ jeːn˧˩ jo˧˩/
 yinhyoz	/jin˧ jo˧˩/
 yinz	/jin˧˩/
 yinzgouj	/jin˧˩ kou˥/

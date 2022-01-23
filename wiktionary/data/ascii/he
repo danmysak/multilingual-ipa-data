@@ -25,7 +25,7 @@
 Root ג־ל־ה תַּגְלִית	taglit
 Root ז־ו־ן זָן	zan
 Root י־שׁ־ב הוּשַׁב	hushav
-Root ס־ר־ט־ן סִרְטֵן	sirten
+Root י־ת־ר יֶתֶר	yeter
 Root שׁ־ו־ב הוּשַׁב	hushav
 form בָּיְתָה	bayta
 form דְּבָרֶךָ	dvarecha
@@ -168,6 +168,7 @@ see מלעיל	milel
 אֲבִיזָר	abizar
 אֲבִיזָר מִין	avizar min
 אֲבִישָׁלוֹם	avishalom
+אֲבֵדָה	aveda
 אֲבַב	avav
 אֲבַגְתָא	abagta
 אֲבַדּוֹן	avadon
@@ -209,6 +210,7 @@ see מלעיל	milel
 אֲדוֹנָי \ אֲדֹנָי	adonay
 אֲהָהּ	aha
 אֲהָהּ	ahah
+אֲהוֹי	ahoy
 אֲהוּבָה	ahuva
 אֲוִיר	avir
 אֲוִירִי	aviri
@@ -235,6 +237,7 @@ see מלעיל	milel
 אֲלָכְסוֹן	alakhson
 אֲלָפִים	alafim
 אֲללַּהּ	allah
+אֲמִירָה	amira
 אֲמִתִּי	amiti
 אֲמָנָה	amana
 אֲמָנָה חֶבְרָתִית	amana khevratit
@@ -279,14 +282,15 @@ see מלעיל	milel
 אֲפַרְסְמוֹן	afarsmon
 אֲפַרְסֵק	afarsek
 אֲפַרְסֵקִים	afarsekim
+אֲפַרְפַּר	afarpar
 אֲפַרְשְׁזִיף	afarshezif
 אֲפוּנָה	afuna
 אֲקְטוּאַלְיָה	aqtualya
 אֲקָדֶמְיָה	akademya
-אֲרִי [pattern: קֶטֶל]	ari
-אֲרִי m [pattern: קֶטֶל]	ari
+אֲרִי	ari
 אֲרִי יָם	ari yam
 אֲרִיאֵל	ariel
+אֲרִיזָה	ariza
 אֲרִינָמָל	arinamal
 אֲרֶשֶׁת	areshet
 אֲרַם	aram
@@ -339,6 +343,7 @@ see מלעיל	milel
 אִבְחֵן	ivkhen
 אִבְחַת חֶרֶב	ivhat herev
 אִבְחָה	ivha
+אִבְחָה	ivkha
 אִבְטֵחַ	ivteakh
 אִבֵּד	ibbed
 אִבֵּד	ibed
@@ -372,6 +377,7 @@ see מלעיל	milel
 אִיֵּר	iyyer
 אִיָּר	iyar
 אִיּוֹב	iyov
+אִיּוּם	iyum
 אִיּוּר	iyur
 אִיבּוּב	abuv
 אִיבּוּב	ibuv
@@ -382,6 +388,7 @@ see מלעיל	milel
 אִידִישָׁאִי	idishai
 אִידִישׁ	idish
 אִידֵאָל	ideal
+אִידֵאוֹלוֹגִיָה	ideologya
 אִיזֶבֶל	izevel
 אִיזָאנָגִי	izanagi
 אִיזָאנָמִי	izanami
@@ -500,14 +507,14 @@ see מלעיל	milel
 אִתְחוּל	ithul
 אִתּוֹ	ito
 אֵאוּגֵנִיקָה	eugeniqa
-אֵב m [pattern: קֵטֶל]	ev
-אֵבֶר m [pattern: קֵטֶל]	ever
+אֵב	ev
+אֵבֶר	ever
 אֵבוּז	evuz
 אֵבוּס \ אֵיבוּס	evus
 אֵגוֹצֶנְטְרִי	egotsentri
 אֵד	ed
 אֵדֶלְשְטֵיין	edelshteyn
-אֵדֶר m [pattern: קֵטֶל]	eder
+אֵדֶר	eder
 אֵהוּד	ehud
 אֵזוֹב	ezob
 אֵזוֹר	ezor
@@ -587,7 +594,6 @@ see מלעיל	milel
 אֵלּוּ	elu
 אֵלוֹן	elon
 אֵם	em
-אֵם f [pattern: קֵטֶל]	em
 אֵם הַפְּנִינָה	em hapnina
 אֵם פּוּנְדְקָאִית	em pundeqait
 אֵם קְרִיאָה	em kria
@@ -599,7 +605,6 @@ see מלעיל	milel
 אֵפֶר	efer
 אֵפוֹד מָגֵן	efod magen
 אֵצֶל	etsel
-אֵצֶל [pattern: קֵטֶל]	etsel
 אֵקָלִיפְּטוּס	ekaliptus
 אֵרַע	era
 אֵרָאֶה	erae
@@ -609,7 +614,6 @@ see מלעיל	milel
 אֵשֶׁת	eshet
 אֵשֶׁת חַיִל	eshet chayil
 אֵשׁ	esh
-אֵשׁ f [pattern: קֵטֶל]	esh
 אֵשׁ צוֹלֶבֶת	esh tzolevet
 אֵת	et
 אֵתוֹס	etos
@@ -618,7 +622,6 @@ see מלעיל	milel
 אֶבְיֹונָה	mishnaic
 אֶבְרָה	evra
 אֶבֶן	even
-אֶבֶן f [pattern: קֶטֶל]	even
 אֶבֶן הַחֲכָמִים	even hakhakhamim
 אֶבֶן הַחֲכָמִים	even hekhakhamim
 אֶבֶן הָרֹאשָׁה	even harosha
@@ -627,7 +630,7 @@ see מלעיל	milel
 אֶבֶן מַשְׁחֶזֶת	even maskezet
 אֶבֶן נֶגֶף	even negef
 אֶבֶן שׁוֹאֶבֶת	even shoevet
-אֶבֶק m [pattern: קֶטֶל]	evek
+אֶבֶק	evek
 אֶבוֹלוּצְיָה	evolutsya
 אֶבוֹלוּצִיוֹנִי	evolutsyoni
 אֶגְזוֹז	egzoz
@@ -637,8 +640,8 @@ see מלעיל	milel
 אֶגוֹ	ego
 אֶגרוֹף	egrof
 אֶדִינְבּוֹרוֹ	edinboro
-אֶדֶן m [pattern: קֶטֶל]	eden
-אֶדֶר m [pattern: קֶטֶל]	eder
+אֶדֶן	eden
+אֶדֶר	eder
 אֶהְיֶה	ehye
 אֶזְרָח	ezrakh
 אֶזְרָחִי	ezrakhi
@@ -654,7 +657,6 @@ see מלעיל	milel
 אֶלִיפְּסָה	elipsa
 אֶלֶגַנְטִי	eleganti
 אֶלֶף	elef
-אֶלֶף m [pattern: קֶטֶל]	elef
 אֶלֶקְטְרוֹן	elektron
 אֶלֶקְטְרוֹנִי	elektroni
 אֶלֶקְטוֹרָט	elektorat
@@ -700,6 +702,7 @@ see מלעיל	milel
 אֶפְשָׁרִי	efshari
 אֶפְשָׁרוּת	efsharut
 אֶפִּידֶמְיוֹלוֹגְיָה	epidemiologiya
+אֶפִּיזוֹדָה	epizoda
 אֶפִּיסְטֵמוֹלוֹגְיָה	epistemologya
 אֶפִּיקוֹרֶס	epikores
 אֶפִּיקוֹרוֹס	epikoros
@@ -725,11 +728,9 @@ see מלעיל	milel
 אֶרְצֶה	ertse
 אֶרִיתְרֵאָה \ אריתריאה	eritrea
 אֶרֶז	erez
-אֶרֶז m [pattern: קֶטֶל]	erez
-אֶרֶס m [pattern: קֶטֶל]	eres
+אֶרֶס	eres
 אֶרֶץ	erets
 אֶרֶץ	eretz
-אֶרֶץ f [pattern: קֶטֶל]	eretz
 אֶרֶץ הַקֹּדֶשׁ	eretz haqodesh
 אֶרֶץ יִשְׂרָאֵל	eretz yisrael
 אֶרָאטָה	erata
@@ -748,7 +749,6 @@ see מלעיל	milel
 אֶשְׁקָף	eshkaf
 אֶשְׁתָּקַד	eshtakad
 אֶשֶׁךְ	eshekh
-אֶשֶׁךְ m [pattern: קֶטֶל]	eshekh
 אֶתְגָּר	etgar
 אֶתְכֶם	etchem
 אֶתְמוֹל	etmol
@@ -766,7 +766,6 @@ see מלעיל	milel
 אֶתֶר	eter
 אֶתָנוֹל	etanol
 אֶת־	et
-אֶת־ [pattern: קֵטֶל]	et
 אַב	av
 אַבְּחַזְיָה	abkhaziya
 אַבְּחָזִית	abkhazit
@@ -780,6 +779,7 @@ see מלעיל	milel
 אַבְזָר	abzar
 אַבְחָנָה	avkhana
 אַבְטִיחַ	avtiakh
+אַבְטָחָה	avtakha
 אַבְטָלָה	avtala
 אַבְנִית	avnit
 אַבְנֵט	avnet
@@ -787,6 +787,7 @@ see מלעיל	milel
 אַבְנֵר	avner
 אַבְנָן	avnan
 אַבְקָה	avka
+אַבְקָה	avkea
 אַבְקָן	avkan
 אַבְרֵק	avreq
 אַבְרָהָם	avraham
@@ -871,13 +872,11 @@ see מלעיל	milel
 אַחַר־כָּךְ	akharkakh
 אַחַת	akhat
 אַחַת־עֶשְׂרֵה	akhatesre
-אַט [pattern: קֶטֶל]	at
+אַט	at
 אַטְלָס	atlas
 אַיְינְשְׁטַיְין	aynshteyn
 אַיִל	ayil
-אַיִל m [pattern: קֶטֶל]	ayil
 אַיִן	ayin
-אַיִן m [pattern: קֶטֶל]	ayin
 אַיֵּה	aye
 אַיֶּלֶת הַשָׁחַר	ayelet hashahar
 אַיַּל הַכַּרְמֶל	ayal hakarmel
@@ -1014,7 +1013,6 @@ see מלעיל	milel
 אַסֶרְטִיבִי	asertivi
 אַעֲלֶה	aale
 אַף	af
-אַף m [pattern: קֶטֶל]	af
 אַף־עַל־פִּי	af al pi
 אַף־עַל־פִּי	afalpi
 אַף־עַל־פִּי־כֵן	afalpikhen
@@ -1162,6 +1160,7 @@ see מלעיל	milel
 אָדִיגֶ׳ה	adijeh
 אָדִיס אָבֶּבָּה	adis ababa
 אָדִיס אָבֶּבָּה	adis abeba
+אָדַם	adam
 אָדָם	adam
 אָדָם זְאֵב	adam zeev
 אָדָם חוֹשֵׁב	adam chosev
@@ -1290,8 +1289,8 @@ see מלעיל	milel
 אָפָה	afa
 אָפוֹר	afor
 אָץ	ats
+אָצִיל	atsil
 אָצִיל	atzil
-אָצִיל [pattern: קָטִיל]	atsil
 אָצֵטוֹן	atseton
 אָקָדֶמְיָה	akademya
 אָקּוֹרְדִּיּוֹן	akordiyon
@@ -1490,6 +1489,7 @@ see מלעיל	milel
 אגו טריפ	ego trip
 אגוֹז קשיוּ	egoz keshyu
 אגודה	aguda
+אגודה \ אֲגֻדָּה	aguda
 אגודל	agudal
 אגודת	agudat
 אגודת \ אֲגֻדַּת	agudat
@@ -1613,6 +1613,7 @@ see מלעיל	milel
 אוֹטוֹנוֹמְיָה	otonomya
 אוֹטוֹסְטְרָדָה	otostrada
 אוֹטוֹקְרַטְיָה	otokratya
+אוֹטוֹרִיטָה	otorita
 אוֹי	oy
 אוֹיֵב	oyev
 אוֹכֵל	okhel
@@ -1622,6 +1623,7 @@ see מלעיל	milel
 אוֹלִיגַרְכְיָה	oligarkhya
 אוֹלִימְפְּיָאדָה	olimpyada
 אוֹלִימְפִּי	olimpi
+אוֹלָר	olar
 אוֹם	om
 אוֹמְרִים	omrim
 אוֹמֵן	omen
@@ -1630,7 +1632,6 @@ see מלעיל	milel
 אוֹמֶנֶת	omenet
 אוֹמֶרְטָה	omertah
 אוֹן	on
-אוֹנְנוּת	onanut
 אוֹנְנוּת	onenut
 אוֹנְקוֹלוֹגְיָה	onkologya
 אוֹנֵן	onen
@@ -1730,6 +1731,7 @@ see מלעיל	milel
 אוּנ׳	un
 אוּפְּס	ups
 אוּפְּסָלָה	upsala
+אוּפוֹרְיָה	oforya
 אוּץ	uts
 אוּקְלִידִי	uklidi
 אוּקְרָאִינִי	ukraini
@@ -1783,6 +1785,7 @@ see מלעיל	milel
 אודה	oda
 אודות	odot
 אודם	odem
+אודם \ אֹדֶם	odem
 אוהב	ohev
 אוהב משחקים	ohev mishakim
 אוהבת	ohevet
@@ -1803,6 +1806,7 @@ see מלעיל	milel
 אווירה	avira
 אווירה \ אֲוִירָה	avira
 אווירון	aviron
+אווירון \ אֲוִירוֹן	aviron
 אווירי	aviri
 אווירי \ אֲוִירִי	aviri
 אוון	aven
@@ -1851,6 +1855,7 @@ see מלעיל	milel
 אוכזב	ukhzav
 אוכל	okhel
 אוכל	ukal
+אוכל \ אֹֽכֶל	okhel
 אוכל \ אֹכֶל	okhel
 אוכל \ אֻכַּל	ukal
 אוכל בריא	okhel bari
@@ -1902,9 +1907,11 @@ see מלעיל	milel
 אומץ	omets
 אומץ	ometz
 אומץ	umats
+אומץ \ אֹמֶץ	omets
 אומץ \ אֻמַּץ	umats
 אומץ לב	ometslev
 אומר	omer
+אומר \ אֹמֶר	omer
 אומרים	omrim
 און	aven
 און	on
@@ -1922,6 +1929,7 @@ see מלעיל	milel
 אוננות כרונית	onanut khronit
 אוננים	unanim
 אונס	ones
+אונס \ אֹנֶס	ones
 אונסכ״ו	unesko
 אונ׳	un
 אוסטרי	ostri
@@ -1935,6 +1943,7 @@ see מלעיל	milel
 אוסלו	oslo
 אוסמיום	osmiyum
 אוסף	osef
+אוסף \ אֹסֶף	osef
 אופה	ofa
 אופה	ofe
 אופה	ufa
@@ -2038,12 +2047,14 @@ see מלעיל	milel
 אוריפידס	euripides
 אורית	orit
 אורך	orekh
+אורך \ אֹרֶךְ	orekh
 אורך גל	orekh gal
 אורך גל \ אֹרֶךְ גַּל	orekh gal
 אורך ימים \ אֹרֶךְ יָמִים	orekh yamim
 אורך רוח	orekh ruakh
 אורך רוח \ אֹרֶךְ רוּחַ	orekh ruakh
 אורן	oren
+אורן \ אֹרֶן	oren
 אורנבורג	orenburg
 אורנוס	uranus
 אורנז'	oranj
@@ -2214,6 +2225,7 @@ see מלעיל	milel
 איבד \ אִבֵּד	ibed
 איבה	eyva
 איבוד	ibud
+איבוד \ אִבּוּד	ibud
 איבול	ibul
 איבול \ אִבּוּל	ibul
 איבולים	ibulim
@@ -2221,6 +2233,7 @@ see מלעיל	milel
 איבזר	ivzer
 איבזר \ אִבְזֵר	ivzer
 איבחון	ivkhun
+איבחון \ אִבְחוּן	ivkhun
 איבטח	ivteakh
 איבטח \ אִבְטֵחַ	ivteakh
 איביי	ibey
@@ -2262,7 +2275,6 @@ see מלעיל	milel
 איו״ש	eyvsh
 איזבל	izevel
 איזה	eize
-איזה	eyze
 איזו	eizo
 איזומטרי	eezometree
 איזומטריה	izometria
@@ -2277,8 +2289,10 @@ see מלעיל	milel
 איחד	ikhed
 איחד \ אִחֵד	ikhed
 איחוד	ikhud
+איחוד \ אִחוּד	ikhud
 איחוד מחדש	ikhud mekhadash
 איחור	ikhur
+איחור \ אִחוּר	ikhur
 איחר	ikher
 איחר \ אִחֵר	ikher
 איטי	iti
@@ -2366,6 +2380,7 @@ see מלעיל	milel
 אימונית \ אִמּוּנִית	imunit
 אימוץ	imuts
 אימוץ	ymutz
+אימוץ \ אִמּוּץ	imuts
 אימייל	imel
 אימן	imen
 אימן \ אִמֵּן	imen
@@ -2845,8 +2860,8 @@ see מלעיל	milel
 אני לא מבין	ani lo mevin
 אני לא מבינה	ani lo mevina
 אני לא מדבר עברית	ani lo medaber ivrit
-אני מצטער	ani miztaer
-אני מצטערת	ani miztaeret
+אני מצטער	ani mitstaer
+אני מצטערת	ani mitstaeret
 אני משתגע.	ani mishtagea
 אני נוצרי	ani notsri
 אני נוצריה	ani notsriya
@@ -2969,6 +2984,7 @@ see מלעיל	milel
 אפחד	efkhad
 אפטשי	aptshi
 אפיה	apia
+אפיזודה	epizoda
 אפילו	afilu
 אפילו \ אֲפִלּוּ	afilu
 אפילו אם	afilu im
@@ -3348,6 +3364,7 @@ see מלעיל	milel
 בְּדוֹלַח	bdolah
 בְּד׳ אַמּוֹת	bedalet amot
 בְּהִירָה	behira
+בְּהִירוּת	bhirut
 בְּהִתְהַוּוּת	bhithavut
 בְּהֵמָה	behema
 בְּהֵמָה	bhema
@@ -3383,9 +3400,9 @@ see מלעיל	milel
 בְּכוֹר	bkhor
 בְּכוֹרָה	bkhora
 בְּלִי	bli
-בְּלִי [pattern: קֶטֶל]	bli
 בְּלִיטָה	blita
 בְּלִיל	blil
+בְּלִילָה	blila
 בְּלָמִים	blamim
 בְּלֹא	blo
 בְּלוֹג	blog
@@ -3418,6 +3435,7 @@ see מלעיל	milel
 בְּסֵדֶר	bseder
 בְּסֵדֶר גָּמוּר	bseder gamur
 בְּסַךְ הַכֹּל	bsakh hakol
+בְּעִיטָה	bita
 בְּעִילָה	beila
 בְּעִיר	bir
 בְּעִלּוּם שֵׁם	beilum shem
@@ -3433,6 +3451,7 @@ see מלעיל	milel
 בְּעָיָה	beaya
 בְּעָלִים	balim
 בְּעָלִים	bealim
+בְּעָתָה	beata
 בְּעֹר	bor
 בְּעוֹד	bod
 בְּפֶה מָלֵא	bepe male
@@ -3464,6 +3483,7 @@ see מלעיל	milel
 בְּרֵאשִׁית	bereshit
 בְּרֵאשִׁית	breshit
 בְּרֵאשִׁיתִי	bereshiti
+בְּרֵכַת עֲגִינָה	brekhat agina
 בְּרֵכָה	brecha
 בְּרֶקְזִיט	brekzit
 בְּרַם	bram
@@ -3504,6 +3524,7 @@ see מלעיל	milel
 בִּגְלַל	biglal
 בִּגְלַל שֶׁ־	biglal she
 בִּגְתָן	bigtan
+בִּדְיוֹן	bidyon
 בִּדְיוֹנִי	bidyoni
 בִּדְלָתַיִם סְגוּרוֹת	bidlataim sgurot
 בִּזְּתָא	bizzeta
@@ -3554,6 +3575,7 @@ see מלעיל	milel
 בִּכֵּר	biker
 בִּלְבַד	bilvad
 בִּלְבּוּל	bilbul
+בִּלְהָה	bilha
 בִּלְעֲדֵי	biladei
 בִּלְעָדִי	biladi
 בִּלְשָׁן	bilshan
@@ -3572,8 +3594,10 @@ see מלעיל	milel
 בִּן רֶגַע	bin rega
 בִּנְיָמִין	binyamin
 בִּנְיָן	binyan
+בִּנְיָנִים	binyanim
 בִּפְנִים	bifnim
 בִּקְבֵּק	bikbek
+בִּקְעָה	biqa
 בִּקֵּעַ	biqea
 בִּקֵּר	bikker
 בִּקֵּשׁ	bikesh
@@ -3593,6 +3617,7 @@ see מלעיל	milel
 בִּרְצִיפוּת	birtsifut
 בִּשְׁבִיל	bishvil
 בִּשְׁבִילִי	bishvili
+בִּשְׂרוֹנִי	bisroni
 בִּשֵּׁל	bishel
 בִּשּׁוּל	bishul
 בִּתְּנַאי שֶׁ־	bitnai she
@@ -3699,24 +3724,23 @@ see מלעיל	milel
 בֵיתֵנוּ	beitenu
 בֶּאֱמֶת	beemet
 בֶּאֱמֶת?	beemet
-בֶּגֶד m [pattern: קֶטֶל]	beged
+בֶּגֶד	beged
 בֶּגֶד יָם	beged yam
 בֶּגֶ״ד כֶּפֶ״ת	beged kefet
 בֶּהָלָה	behala
 בֶּהָלָה	beholeh
 בֶּטֶן	beten
-בֶּטֶן f [pattern: קֶטֶל]	beten
-בֶּטַח [pattern: קֶטֶל]	betakh
+בֶּטַח	betakh
 בֶּטוֹן	beton
-בֶּכִי m [pattern: קֶטֶל]	bekhi
+בֶּכִי	bekhi
 בֶּכֶר	becher
-בֶּכֶר m [pattern: קֶטֶל]	bekher
+בֶּכֶר	bekher
 בֶּלְגְּיָה	belgya
 בֶּלְגְּרָד	belgrad
 בֶּלְגִּי	belgi
 בֶּלִיז	beliz
 בֶּלֶט	belet
-בֶּלֶם m [pattern: קֶטֶל]	belem
+בֶּלֶם	belem
 בֶּלָה	bela
 בֶּמוֹל	bemol
 בֶּן אֱנוֹשׁ	ben enosh
@@ -3733,6 +3757,7 @@ see מלעיל	milel
 בֶּן זְקוּנִים	ben zkunim
 בֶּן זוֹנָה	ben zona
 בֶּן זוּג	ben zug
+בֶּן זוּג \ בת זוג	bat zug
 בֶּן חוֹרִין	ben horin
 בֶּן טוֹבִים	ben tovim
 בֶּן יִשְׂרָאֵל	ben yisrael
@@ -3755,17 +3780,16 @@ see מלעיל	milel
 בֶּנֶט	benet
 בֶּנזִין	benzin
 בֶּעָרוּם	bearum
-בֶּצֶר m [pattern: קֶטֶל]	betser
+בֶּצֶר	betser
 בֶּצַע	betza
-בֶּקַע m [pattern: קֶטֶל]	beqa
+בֶּקַע	beqa
 בֶּרְדִּיצֶ׳ב	berdichev
 בֶּרְלִין	berlin
 בֶּרְן	bern
 בֶּרִילְיוּם	berilium
 בֶּרִילְיוּם	berilyum
-בֶּרֶז m [pattern: קֶטֶל]	berez
+בֶּרֶז	berez
 בֶּרֶךְ	berekh
-בֶּרֶךְ f [pattern: קֶטֶל]	berekh
 בֶּרמַן	berman
 בֶרְלוּסְקוֹנִי	berluskoni
 בַּאְסָה	basa
@@ -3773,12 +3797,10 @@ see מלעיל	milel
 בַּאך	bakh
 בַּארְק	bark
 בַּבּוּן	babun
-בַּג m [pattern: קֶטֶל]	bag
+בַּג	bag
 בַּגְדַּאדּ \ בַּגְדָּד	bagdad
 בַּגְרוּת	bagrut
 בַּד	bad
-בַּד [pattern: קֶטֶל]	bad
-בַּד m [pattern: קֶטֶל]	bad
 בַּד שָׁמִיר	bad shamir
 בַּדְחָן	badkhan
 בַּדְלָנִי	badlani
@@ -3788,7 +3810,6 @@ see מלעיל	milel
 בַּהֶרֶת	baheret
 בַּהַט	bahat
 בַּז	baz
-בַּז m [pattern: קֶטֶל]	baz
 בַּזְבּוּז	bazbuz
 בַּזְיָרוּת	bazyarut
 בַּזֶּה אֲחַר זֶה	baze akhar ze
@@ -3801,7 +3822,6 @@ see מלעיל	milel
 בַּיְשָׁן	bayshan
 בַּיְתָה	bayta
 בַּיִת	bayit
-בַּיִת m [pattern: קֶטֶל]	bayit
 בַּכְרִי	bachri
 בַּכּוּרָה	bakura
 בַּל	bal
@@ -3854,8 +3874,6 @@ see מלעיל	milel
 בַּקָּשָׁה	bakasha
 בַּקָּשׁוֹת	bakashot
 בַּר	bar
-בַּר [pattern: קֶטֶל]	bar
-בַּר m [pattern: קֶטֶל]	bar
 בַּר מִינַן	bar minan
 בַּר מִצְוָה	bar mitsva
 בַּרְבֶּדוֹס	barbedos
@@ -3909,7 +3927,6 @@ see מלעיל	milel
 בָּדָד	badad
 בָּדָה	bada
 בָּהִיר	bahir
-בָּהִיר [pattern: קָטִיל]	bahir
 בָּהֶם	bahem
 בָּהָאִי	bahai
 בָּהָאִית	bahait
@@ -3931,7 +3948,6 @@ see מלעיל	milel
 בָּטוּחַ	batuakh
 בָּכִיר	bachir
 בָּכִיר	bakhir
-בָּכִיר [pattern: קָטִיל]	bakhir
 בָּכָה	bakha
 בָּלֵט	balet
 בָּלַל	balal
@@ -3970,8 +3986,7 @@ see מלעיל	milel
 בָּקַע	baqa
 בָּקָר	bakar
 בָּר	bar
-בָּר [pattern: קֶטֶל]	bar
-בָּרִיא [pattern: קָטִיל]	bari
+בָּרִיא	bari
 בָּרֶגֶל	baregel
 בָּרֶקֶת	bareket
 בָּרֶקֶת	bareqet
@@ -3991,6 +4006,7 @@ see מלעיל	milel
 בָּרוּר	barur
 בָּרוּר כַּשֶּׁמֶשׁ	barur kashemesh
 בָּשֵׁל	bashel
+בָּשָֹר אָדֹם	basar adom
 בָּשָׂר	basar
 בָּשָׂר לָבָן	basar lavan
 בָּתִּים	batim
@@ -4101,6 +4117,7 @@ see מלעיל	milel
 באמצעות	beemtzaut
 באמת	beemet
 באמתחתו	beamtakhto
+באס	bees
 באס טר	bas ter
 באסה	basa
 באפלו	bafalo
@@ -4254,6 +4271,7 @@ see מלעיל	milel
 בולדוזר	buldozer
 בולט	bolet
 בוליביה	bolivya
+בולען	bolan
 בום על־קולי	bum alkoli
 בומרנג	bumerang
 בונה	bone
@@ -4304,6 +4322,7 @@ see מלעיל	milel
 בוש \ בֹּשׁ	bosh
 בושה	busha
 בושם	bosem
+בושם \ בֹּשֶׂם	bosem
 בושר \ בֻּשַּׂר	busar
 בז	baz
 בזאת	bazot
@@ -4373,6 +4392,7 @@ see מלעיל	milel
 ביד רמה	byad ramah
 בידה	bide
 בידוד	bidud
+בידוד \ בִּדוּד	bidud
 בידח	bideakh
 בידח \ בִּדֵּחַ	bideakh
 בידל	bidel
@@ -4412,6 +4432,7 @@ see מלעיל	milel
 ביטול	bitul
 ביטול \ בִּטּוּל	bitul
 ביטחון	bitakhon
+ביטחון \ בִּטָּחוֹן	bitakhon
 ביטחון עצמי	bitakhon atzmi
 ביטחוני	bitkhoni
 ביטחוני \ בִּטְחוֹנִי	bitkhoni
@@ -4498,6 +4519,7 @@ see מלעיל	milel
 ביצת כינה	betsat kina
 ביקבק \ בִּקְבֵּק	bikbek
 ביקור	bikur
+ביקור \ בִּקּוּר	bikur
 ביקורת	biqoret
 ביקורת \ בִּקֹּרֶת	biqoret
 ביקורת חריפה	biqoret harifa
@@ -4700,7 +4722,6 @@ see מלעיל	milel
 בן אחר בן	ben akhar ben
 בן דוד	bendod
 בן דור	ben dor
-בן זוג	ben zug
 בן זונה	ben zona
 בן זונה	benzona
 בן זכר	ben zakhar
@@ -4754,6 +4775,7 @@ see מלעיל	milel
 בנימין	binyamin
 בנין	benin
 בנין	binyan
+בנינים	binyanim
 בנך	binkha
 בנלי	banali
 בננה	banana
@@ -5021,7 +5043,6 @@ see מלעיל	milel
 בשרני	basrani
 בת	bat
 בת דוד	batdod
-בת זוג	bat zug
 בת חוה	bat khava
 בת חלוף	bat khalof
 בת כמה את	bat kama at
@@ -5077,11 +5098,12 @@ see מלעיל	milel
 גְּבוּל	gvul
 גְּבוּלוֹת	gvulot
 גְּדִי	gdi
-גְּדִי m [pattern: קֶטֶל]	gdi
 גְּדִיָּה	gediya
 גְּדִיל	gdil
+גְּדֵרָה	gdera
 גְּדוֹת־	gdot
 גְּוִיָּה	gviya
+גְּזֵרָה	gzera
 גְּזוֹזְרָה	gzozra
 גְּזוּזְטְרָה	gzuztra
 גְּלִידֶרִיָּה	glideriya
@@ -5111,6 +5133,7 @@ see מלעיל	milel
 גְּמָר	gmar
 גְּמוּל	gmul
 גְּנִיזָה	gniza
+גְּנֵבָה	gneva
 גְּנַבְתֶּם	ganavtem
 גְּנַבְתֶּן	ganavten
 גְּנָזִים	gnazim
@@ -5119,6 +5142,7 @@ see מלעיל	milel
 גְּנוֹסִיס	gnosis
 גְּרִיל	gril
 גְּרִינְלַנְד	grinland
+גְּרִיסָה	grisa
 גְּרָם	gram
 גְּרָמוֹפוֹן	gramofon
 גְּרָף	graf
@@ -5150,10 +5174,12 @@ see מלעיל	milel
 גִּזְבָּר	gizbar
 גִּזְעָנִי	gizani
 גִּזְעָנוּת	gizanut
+גִּזְרָה	gizra
 גִּזָּה	gizza
 גִּטִּין	gitin
 גִּיֵּס	giyes
 גִּיֵּר	giyer
+גִּיּוּס	giyus
 גִּיּוּר	giyur
 גִּיגָבַּיְט	gigabayt
 גִּיד הַנָּשֶׁה	gid hanashe
@@ -5197,6 +5223,7 @@ see מלעיל	milel
 גִ׳ירָף	jiraf
 גִ׳ירָפָה	jirafa
 גֵּאֶה	gee
+גֵּאוֹ־	geo
 גֵּאוֹגְרַפְיָה	geografya
 גֵּאוֹגְרָף	geagraf
 גֵּאוֹמֶטְרְיָה	geometrya
@@ -5206,8 +5233,7 @@ see מלעיל	milel
 גֵּב	gev
 גֵּו	gev
 גֵּז	gez
-גֵּז m [pattern: קֵטֶל]	gez
-גֵּט m [pattern: קֵטֶל]	get
+גֵּט	get
 גֵּיְשָׁה	geysha
 גֵּיא בֶן הִנֹּם	ge ven hinom
 גֵּיהִנּוֹם	gehinom
@@ -5225,21 +5251,16 @@ see מלעיל	milel
 גֶ'נוֹסַיְד	djenosayd
 גֶּבֶס	geves
 גֶּבֶר	gever
-גֶּבֶר m [pattern: קֶטֶל]	gever
 גֶּבֶר גֶּבֶר	gever gever
 גֶּדֶם	gedem
-גֶּדֶם m [pattern: קֶטֶל]	gedem
 גֶּזֶר	gezer
-גֶּזֶר m [pattern: קֶטֶל]	gezer
 גֶּזַע	geza
-גֶּזַע m [pattern: קֶטֶל]	geza
 גֶּטוֹ	geto
-גֶּלֶד m [pattern: קֶטֶל]	geled
+גֶּלֶד	geled
 גֶּן	gen
 גֶּנִים	genim
 גֶּנֶרָל	general
 גֶּפֶן	gefen
-גֶּפֶן f [pattern: קֶטֶל]	gefen
 גֶּפֶת	gapat
 גֶּרְמַנְיָה	germanya
 גֶּרְמַנְיוּם	germanyum
@@ -5248,7 +5269,8 @@ see מלעיל	milel
 גֶּרֶב	gerev
 גֶּרֶז	gerez
 גֶּשֶׁם	geshem
-גֶּשֶׁר m [pattern: קֶטֶל]	geser
+גֶּשֶׁם תָּלוּי	geshem talui
+גֶּשֶׁר	geser
 גֶרֶם מַדרֵגוֹת	gerem madregot
 גֶשֶׁר	gesher
 גֶ׳ז	jez
@@ -5261,7 +5283,6 @@ see מלעיל	milel
 גֶ׳קְסוֹן	jekson
 גַּאֲוָה	gaava
 גַּב	gav
-גַּב m [pattern: קֶטֶל]	gav
 גַּבְנוּן	gavnun
 גַּבְרִי	gavri
 גַּבְרִיּוּת	gavriyut
@@ -5272,19 +5293,16 @@ see מלעיל	milel
 גַּבַשׁוּשִׁית	gavshusit
 גַּבָּה	gaba
 גַּג	gag
-גַּג m [pattern: קֶטֶל]	gag
 גַּד	gad
 גַּדְגֶ׳ט	gadjet
 גַּדָּא	gada
 גַּז	gaz
-גַּז m [pattern: קֶטֶל]	gaz
 גַּחְלִילִית	gahlilit
 גַּחְלִילִית	gakhlilit
 גַּחֶלֶת	gakhelet
 גַּטְקֶס	gatqes
 גַּיְא	gay
 גַּל	gal
-גַּל m [pattern: קֶטֶל]	gal
 גַּל אַרְכֻּבָּה	gal arkuba
 גַּל זִיזִים	gal zizim
 גַּל פִּיקוֹת	gal pikot
@@ -5311,6 +5329,8 @@ see מלעיל	milel
 גַּם כֵּן	gam ken
 גַּמְבָּה	gamba
 גַּמְלָה	gamlah
+גַּמֶּדֶת	gamedet
+גַּמֶּלֶת	gamelet
 גַּמָּד	gamad
 גַּמָּדִי	gamadi
 גַּמָּדִים	gamadim
@@ -5318,11 +5338,11 @@ see מלעיל	milel
 גַּמָּדוּת	gamadut
 גַּמָּל	gamal
 גַּן	gan
-גַּן m [pattern: קֶטֶל]	gan
 גַּן בּוֹטָנִי	gan botani
 גַּן חַיּוֹת	gan khayot
 גַּן עֵדֶן	gan eden
 גַּנִּים	ganim
+גַּנֶּנֶת	ganenet
 גַּנָּב	ganav
 גַּנָּן	ganan
 גַּנָּנוּת	gananut
@@ -5351,7 +5371,6 @@ see מלעיל	milel
 גַּרְתָּ	garta
 גַּשְׁמִיּוּת	gashmiut
 גַּת	gat
-גַּת f [pattern: קֶטֶל]	gat
 גַּ׳אנְק פוּד	jank fud
 גַאלְיוֹט	galyot
 גַמָּד	gammad
@@ -5378,7 +5397,6 @@ see מלעיל	milel
 גָּדָה	gada
 גָּדֹל	gadol
 גָּדוֹל	gadol
-גָּדוֹל [pattern: קָטוֹל]	gadol
 גָּדוֹת	gadot
 גָּהָץ	gahatz
 גָּוַע	gava
@@ -5421,6 +5439,7 @@ see מלעיל	milel
 גָּרַר	garar
 גָּרַת	garat
 גָּרוֹן	garon
+גָּרוּעַ	garua
 גָּרוּשׁ	garush
 גָּשׁוֹשׁ	gashosh
 גָּשׁוּם	gashum
@@ -5502,6 +5521,7 @@ see מלעיל	milel
 גאווה \ גַּאֲוָה	gaava
 גאוותן	gaavtan
 גאולה	gula
+גאולה \ גְּאֻלָּה	gula
 גאומטריה	geometrya
 גאומטריה אוקלידית	geometria evklidit
 גאומטריה סופית	geometrya sofit
@@ -5596,6 +5616,7 @@ see מלעיל	milel
 גוֹדֶל	godel
 גוּמִי	gumi
 גוּף	guf
+גוּר	gur
 גואטמלה סיטי	guatemala siti
 גובה	gova
 גובה	govah
@@ -5605,6 +5626,7 @@ see מלעיל	milel
 גוגול	gugol
 גוגל	gugl
 גודל	godel
+גודל \ גֹּדֶל	godel
 גוואקמולי	gvakamoli
 גוואקמולי \ גְּוָאקָמוֹלִי	gvakamoli
 גוויה	gviya
@@ -5764,7 +5786,9 @@ see מלעיל	milel
 גילה	gila
 גילה \ גִּלָּה	gila
 גילוח	giluakh
+גילוח \ גִּלּוּחַ	giluakh
 גילוי	giluy
+גילוי \ גִּלּוּי	giluy
 גילוי לב	giluilev
 גילוי מסמכים	giluy mismakhim
 גילויים	giluyim
@@ -5803,10 +5827,13 @@ see מלעיל	milel
 גירית	girit
 גירית הדבש	girit hadvash
 גירסה	girsa
+גירעון	geraon
+גירעון \ גֵּרָעוֹן	geraon
 גירש	geresh
 גירש \ גֵּרֵשׁ	geresh
 גישה	gisha
 גישור	gishur
+גישור \ גִּשּׁוּר	gishur
 גישוש	gishush
 גישש	gishesh
 גישש \ גִּשֵּׁשׁ	gishesh
@@ -6074,9 +6101,11 @@ see מלעיל	milel
 דְּלַעַת	delaat
 דְּלַעַת	dlaat
 דְּלָתוֹת	dlatot
+דְּמֵי חָסוּת	dmey khasut
 דְּמֵי שָׁלָל	dmey shalal
 דְּמָמָה	dmama
 דְּמוּת	dmut
+דְּקִירָה	dkira
 דְּרֶדְנוֹט	drednot
 דְּרַגְנוֹעַ	dragnoa
 דְּרַסְתִּי	drasti
@@ -6122,6 +6151,7 @@ see מלעיל	milel
 דִּימֵּם	dimem
 דִּין	din
 דִּינָה	dina
+דִּינָמִיקָה	dinamika
 דִּינָר	dinar
 דִּיסְלֶקְצִיָּה	dislektsya
 דִּיסְק	disk
@@ -6179,18 +6209,14 @@ see מלעיל	milel
 דֶּאוֹדוֹרַנְט	deodorant
 דֶּבֶק	devek
 דֶּבֶר	dever
-דֶּבֶר m [pattern: קֶטֶל]	dever
 דֶּגֶל	degel
-דֶּגֶל m [pattern: קֶטֶל]	degel
 דֶּגֶל נוֹחוּת	degel nokhut
 דֶּוַונַאגַּרִי	devanagari
 דֶּלְפֵּק	delpek
 דֶּלְתָּא	delta
 דֶּלְתּוֹת	deltot
 דֶּלֶק	delek
-דֶּלֶק m [pattern: קֶטֶל]	delek
 דֶּלֶת	delet
-דֶּלֶת f [pattern: קֶטֶל]	delet
 דֶּמֶה	deme
 דֶּמוֹקְרָט	demokrat
 דֶּמוֹקְרָטִיזַצְיָה	demokratizatsya
@@ -6200,19 +6226,15 @@ see מלעיל	milel
 דֶּפְּרֶסְיָה	depresiya
 דֶּקֶל	dekel
 דֶּקֶל	deqel
-דֶּקֶל m [pattern: קֶטֶל]	dekel
-דֶּקֶר m [pattern: קֶטֶל]	deker
+דֶּקֶר	deker
 דֶּרְבִּי	derbi
-דֶּרֶג m [pattern: קֶטֶל]	dereg
+דֶּרֶג	dereg
 דֶּרֶךְ	derekh
-דֶּרֶךְ [pattern: קֶטֶל]	derekh
-דֶּרֶךְ f [pattern: קֶטֶל]	derekh
 דֶּרֶךְ אֶרֶץ	derech erets
 דֶּרֶךְ־אֶרֶץ	derekherets
 דֶּרֶךְ־אַגַּב	derekhagav
 דֶּרֶן	deren
 דֶּשֶׁא	deshe
-דֶּשֶׁא m [pattern: קֶטֶל]	deshe
 דֶּשֶׁן	deshen
 דֶבֶק	devek
 דֶקָאמֶרוֹן	dekameron
@@ -6228,16 +6250,15 @@ see מלעיל	milel
 דַּג זָהָב	dag zahav
 דַּגְדְּגָן	dagdegan
 דַּגְלָן	daglan
-דַּד m [pattern: קֶטֶל]	dad
+דַּד	dad
 דַּוְקָא	davka
 דַּוָּר	davar
 דַּחְלִיל	dakhlil
 דַּחְפּוֹר	dakhpor
 דַּחַף	dahaf
-דַּחַף m [pattern: קֶטֶל]	dakhaf
+דַּחַף	dakhaf
 דַּי	dai
 דַּי	day
-דַּי [pattern: קֶטֶל]	dai
 דַּיִג	dayig
 דַּיָּה	daya
 דַּיָּה אֲדֻמָּה	daya aduma
@@ -6252,19 +6273,17 @@ see מלעיל	milel
 דַּעַת	daat
 דַּעַת קָהָל	daat qahal
 דַּף	daf
-דַּף m [pattern: קֶטֶל]	daf
 דַּפְדְּפָן	dafdfan
 דַּפְנָה	dafna
 דַּפִּים	dapim
+דַּק	dak
 דַּק	daq
-דַּק [pattern: קֶטֶל]	dak
 דַּקַּת קֶשֶׁת	dakat keshet
 דַּקָּה	daka
 דַּקָּר	dakar
 דַּקּוֹת	dakot
 דַּקּוּת	daqut
 דַּר	dar
-דַּר m [pattern: קֶטֶל]	dar
 דַּרְבּוּקָה	darbuka
 דַּרְגָּה	darga
 דַּרְגָּשׁ שֵׁנָה	dargash shenah
@@ -6297,12 +6316,12 @@ see מלעיל	milel
 דָּוִית	davit
 דָּחַף	dakhaf
 דָּחָה	dakha
-דָּלִיק [pattern: קָטִיל]	dalik
+דָּלִיק	dalik
 דָּלֶת	dalet
 דָּלֶ״ת	dalet
 דָּלַק	dalak
 דָּלָה	dala
-דָּלָק m [pattern: קָטָל]	dalak
+דָּלָק	dalak
 דָּלוֹרִית	dalorit
 דָּם	dam
 דָּמִים	damim
@@ -6314,7 +6333,6 @@ see מלעיל	milel
 דָּעַךְ	daakh
 דָּפַק	dafak
 דָּקֶל	dakel
-דָּקֶל	daqel
 דָּקַר	dakar
 דָּקָאר \ דָקָר	dakar
 דָּר	dar
@@ -6491,6 +6509,7 @@ see מלעיל	milel
 דוא״ל	doal
 דוא״ל	doel
 דוב	dov
+דוב \ דֹּב	dov
 דוב הקוטב	dov hakotev
 דוב נמלים	dov nemalim
 דובאי	dubay
@@ -6530,6 +6549,7 @@ see מלעיל	milel
 דוחה	dokhe
 דוחן	dochan
 דוחן	dokhan
+דוחן \ דֹּחַן	dochan
 דוכא	duka
 דוכא \ דֻּכָּא	duka
 דוכדך	dukhdakh
@@ -6602,6 +6622,7 @@ see מלעיל	milel
 דיאלקטולוגיה	dialeqtologia
 דיבג	dibeg
 דיבור	dibur
+דיבור \ דִּבּוּר	dibur
 דיבורים	diburim
 דיבר	diber
 דיבר \ דִּבֵּר	diber
@@ -6624,6 +6645,7 @@ see מלעיל	milel
 דיווח	diveakh
 דיווח	divuakh
 דיווח \ דִּוֵּחַ	diveakh
+דיווח \ דִּוּוּחַ	divuakh
 דיווח ראשוני	divuakh rishoni
 דיון	diun
 דיון	diyun
@@ -6814,6 +6836,7 @@ see מלעיל	milel
 דקירה	dkira
 דקל	dakel
 דקל	dekel
+דקל \ דָּקֶל	dakel
 דקלום	diklum
 דקלים	dkalim
 דקר	dakar
@@ -6899,11 +6922,14 @@ see מלעיל	milel
 הֲגִירָה	hagira
 הֲגִירָה	hagirah
 הֲגַנָּה	hagana
+הֲגָבָה	hagava
+הֲגָנָה \ הֲגַנָּה	hagana
 הֲדַס	hadas
 הֲדַסִּים	hadasim
 הֲדַסָּה	hadasa
 הֲדָדִיּוּת	hadadiut
 הֲדוֹם	hadom
+הֲזָזָה	hazaza
 הֲטָלָה לַיָּם	hatala layam
 הֲכִי	hakhi
 הֲכָנָה	hakhana
@@ -6922,9 +6948,17 @@ see מלעיל	milel
 הֲמוֹנֵי־	hamonei
 הֲנָאָה	hanaa
 הֲנָחָה	hanakha
+הֲסָרָה	hasara
 הֲסָתָה	hasata
 הֲפִיכָה	hafikha
+הֲפֵכָה	hafekha
+הֲפָצָה	hafatza
+הֲצָפָה	hatsafa
+הֲקַלָּה f or	hakala
 הֲקָאָה	hakaa
+הֲקָלָה	hakala
+הֲקָמָה	hakama
+הֲרִיסָה	harisa
 הֲרֵי	harei
 הֲרָצָה	haratsa
 הֲרָרִים	hararim
@@ -7058,6 +7092,7 @@ see מלעיל	milel
 הִסְכִּים	hiskim
 הִסְמִיק	hismik
 הִסְנִיף	hisnif
+הִסְפִּיג	hispig
 הִסְפִּיק	hispik
 הִסְרִיט	hisrit
 הִסְתִּיר	histir
@@ -7271,6 +7306,7 @@ see מלעיל	milel
 הִתְחַבֵּא	hitkhabe
 הִתְחַבֵּר	hitkhaber
 הִתְחַדֵּשׁ	hitkhadesh
+הִתְחַזֵּק	hitkhazek
 הִתְחַמֵּם	hitchamem
 הִתְחַנֵּךְ	hitkhanekh
 הִתְחַנֵּן	hitkhanen
@@ -7340,6 +7376,7 @@ see מלעיל	milel
 הִתְעַטֵּף	hitatef
 הִתְעַכֵּל	hitakel
 הִתְעַלְּלוּת	hitallut
+הִתְעַלְּמוּת	hitalmut
 הִתְעַלְּפוּת	hitalfut
 הִתְעַלֵּל	hitalel
 הִתְעַלֵּם	hitalem
@@ -7376,6 +7413,7 @@ see מלעיל	milel
 הִתְפָּרֵעַ	hitparea
 הִתְפָּרֵק	hitparek
 הִתְפּוֹצֵץ	hitpotsets
+הִתְפּוֹרֵר	hitporer
 הִתְקִין	hitkin
 הִתְקִין תֹּרֶן	hitkin toren
 הִתְקִיף	hitkif
@@ -7499,6 +7537,7 @@ see מלעיל	milel
 הֶֽחֱזַרְתָּ	hekhezarta
 הֶאֱבִיס	heevis
 הֶאֱבִיר	heevir
+הֶאֱדִים	hedim
 הֶאֱדִים	heedim
 הֶאֱזִין	heezin
 הֶאֱמִין	heemin
@@ -7508,8 +7547,6 @@ see מלעיל	milel
 הֶאָרָה	heara
 הֶבְדֵּל	hevdel
 הֶבֶל	hevel
-הֶבֶל [pattern: קֶטֶל]	hevel
-הֶבֶל m [pattern: קֶטֶל]	hevel
 הֶבֶל פֶּה	hevel pe
 הֶגְבֵּל	hegbel
 הֶגְמוֹנְיָה	hegmonya
@@ -7585,8 +7622,8 @@ see מלעיל	milel
 הֶרְפֶּס	herpes
 הֶרְץ	herts
 הֶרְצְלִיָּה	hertseliyya
-הֶרֶג m [pattern: קֶטֶל]	hereg
-הֶרֶס m [pattern: קֶטֶל]	heres
+הֶרֶג	hereg
+הֶרֶס	heres
 הֶתְקֵף	hetkef
 הֶתְקֵף	hetqef
 הֶתְקֵף לֵב	hetkef lev
@@ -7594,6 +7631,7 @@ see מלעיל	milel
 הֶתקֵן	mitkan
 הַ־	ha
 הַאֲלָהָה	haalaha
+הַאֲרָכָה	haarakha
 הַאִיחוּד הַאֵירוֹפִּי	haikhud haeropi
 הַאִם	haim
 הַאִם הוּא פֹּה?	haim hu po
@@ -7604,22 +7642,30 @@ see מלעיל	milel
 הַב	hav
 הַבְּרִית	habrit
 הַבְדָּלָה	havdala
+הַבְהָרָה	havhara
 הַבְטָחָה	havtakha
 הַבַּיְתָה	habayta
 הַבַּיִת	habayit
 הַבַּיִת הַלָּבָן	habayit halavan
 הַבָּא	haba
 הַגְבָּהָה	hagbaha
+הַגְבָּלָה	hagbala
 הַגְדָּרָה	hagdara
+הַגְזָמָה	hagzama
 הַגְרָלָה	hagrala
 הַגֵּר	hager
 הַגַּאִי	hagai
 הַגַּאי	hagay
 הַגַּן	hagan
+הַגָּדָה	hagada
 הַגָּדָה הַמַּעֲרָבִית	hagadah hamaaravit
 הַגָּלִיל	hagalil
 הַגָּעָה	hagaa
+הַגָּשָׁה	hagasha
 הַדְבָּקָה	hadbaka
+הַדְגָּמָה	hadgama
+הַדְלָקָה	hadlaka
+הַדְרָכָה	hadrakha
 הַדְרָן	hadran
 הַדָּבָר	hadavar
 הַדחָקָה	hadkhaka
@@ -7629,12 +7675,14 @@ see מלעיל	milel
 הַהַשְׂכָּלָה	hahaskala
 הַהוּא	hahu
 הַוָּה	hawwa
+הַזְמָנָה	hazmana
 הַזְנָחָה	haznakha
 הַזֶּה	haze
 הַחְלָטָה	hakhlata
 הַחְלָפָה	hakhlafa
 הַחוּצָה	hakhutsa
 הַטְמָעָה	hatmaa
+הַטְעָמָה	hatama
 הַטְרָדָה	hatrada
 הַטּוֹבִים	hatovim
 הַי טֶק	hai tek
@@ -7650,9 +7698,12 @@ see מלעיל	milel
 הַכְּנֶסֶת	hakneset
 הַכְחָדָה	hakhkhada
 הַכְנָסַת אוֹרְחִים	hachnasat orhim
+הַכְנָסָה	hakhnasa
+הַכְרָזָה	hakhraza
 הַכְתָּבָה	hakhtava
 הַכֵּס הַקָּדוֹשׁ	hakes haqadosh
 הַכָּאָה	hakaa
+הַכָּרָה	hakara
 הַכֹּל דְּבַשׁ	hakol dvash
 הַכּוּזָרִי	hakuzari
 הַכתָבָה	hakhtava
@@ -7662,6 +7713,7 @@ see מלעיל	milel
 הַלְּלוּיָהּ	halluyah
 הַלְּלוּקָהּ	hallukah
 הַלְאָמָה	halamah
+הַלְבָּשָׁה	halbasha
 הַלְבָּשָׁה תַּחְתּוֹנָה	halbasha takhtona
 הַלְוַאי	halevai
 הַלְלוּיָהּ	halluyah
@@ -7672,10 +7724,13 @@ see מלעיל	milel
 הַלָּלוּ	halalu
 הַמְּדָתָא	hamdata
 הַמְבּוּרְגֶּר	hamburger
+הַמְלָצָה	hamlatsa
 הַמְצָאָה	hamtsaa
 הַמְרָאָה	hamraa
+הַמְתָּנָה	hamtana
 הַמִּזְרָח הַתִּיכוֹן	hamizrah hatikhon
 הַמִּזְרָח הַתִּיכוֹן	hamizrakh hatikhon
+הַמִּשְׁכָּן	hamishkan
 הַמֶּמְשָׁלָה	hamemshala
 הַמַּעֲמָד הַבֵּינוֹנִי	hamaamad habenoni
 הַמַּצָּב הַכַּלְכָּלִי	hamatsav hakalkali
@@ -7689,30 +7744,41 @@ see מלעיל	milel
 הַנְדָּסָה	handasa
 הַנְדָּסָה אֶזְרָחִית	handasah ezrakhit
 הַנְפָּשָׁה	hanpasha
+הַנְצָחָה	hantsakha
 הַנַּכְּבָּה	hanakba
 הַנָּחָה	hanakha
 הַסְּטוּדֶנְטִים	hastudentim
+הַסְבָּרָה	hasbara
 הַסְגַּבְרָה	hasgavra
 הַסְכָּמָה	haskama
+הַסְכָּמָה שֶׁבִּשְׁתִיקָה	haskama sebistiqa
 הַסְלָלָה	haslala
 הַסְלָמָה	haslamah
 הַסָּעָה	hasaa
+הַעְתָּקָה	hataka
+הַעֲבָרָה	haavara
 הַעֲדָפָה	haadafa
 הַעֲסָקָה	haasaka
 הַפְּרִי הָאָסוּר	hapri haasur
 הַפְגָּנָה	hafgana
 הַפְחָתָה	hafhata
+הַפְחָתָה	hafkhata
+הַפְטָרָה	haftara
 הַפְסָקַת־אֵשׁ	hafsakatesh
 הַפְסָקַת־חַשְׁמַל	hafsakatkhashmal
+הַפְסָקָה	hafsaka
 הַפְרָדָה	hafrada
 הַפְרָעָה	hafraa
 הַפְרָעָה נַפְשִׁית	hafraa nafshit
+הַפְתָּעָה	haftaa
 הַפִּירָמִידָה	hapiramida
 הַפִילִיפִּינִים	hafilipinim
 הַפַּעַם	hapaam
+הַפָּלָה	hapala
 הַפָּר	hapar
 הַצְּלָב הָאָדוֹם	hatzlav haadom
 הַצְהָרָה	hatshara
+הַצְלָחָה	hatzlakha
 הַצְרָנָה	hatsrana
 הַצִּדָּה	hatsida
 הַצִּילֵנוּ	hatsilenu
@@ -7720,11 +7786,17 @@ see מלעיל	milel
 הַצִּילוּ!	hatsilu
 הַצַּיְתָנִית	hatsaytanit
 הַצָּגָה	hatsaga
+הַצָּגָה	hatzaga
+הַצָּלָה	hatsala
+הַצָּעָה	hatsaa
 הַצָּפוֹן	hatsafon
 הַצָּתָה	hatzata
+הַצָצָה	hatsatsa
 הַצלָחָה	hatslakha
+הַקְדָּמָה	hakdama
 הַקְהֵל	hakhel
 הַקְלָאסִיקוֹ	haklasiko
+הַקְפָּאָה	hakpaa
 הַקַּלָּה	hakala
 הַקָּדוֹשׁ בָּרוּךְ הוּא	hakadosh barukh hu
 הַר	har
@@ -7745,20 +7817,25 @@ see מלעיל	milel
 הַרְפַּתְקָה	harpatka
 הַרְצָאָה	hartsaa
 הַרְשָׁאָה	harshaa
+הַרְשָׁמָה	harshama
 הַרבֵּה	harbe
+הַשְׁבָּתָה	hashbata
 הַשְׁוָאָה	hashvaa
 הַשְׁלִיכֵהוּ	hashlichehu
 הַשְׁלִימִי	hashlimi
 הַשְׁלִימוּ	hashlimu
 הַשְׁלֵם	hashlem
 הַשְׁלֵמְנָה	hashlemna
+הַשְׁלָטָה	hashlata
 הַשְׁמַע	hasma
 הַשְׁמָדַת עַם	hashmadat am
 הַשְׁמָדָה	hashmada
 הַשְׁעָיָה	hashaya
 הַשְׁעָרָה	hashara
 הַשְׁפָּעָה	hashpaa
+הַשְׁקָעָה	hashkaa
 הַשְׁרָאָה	hashraa
+הַשְׁתָּנָה	hashtana
 הַשְׂכָּלָה	haskala
 הַשְׂכָּרָה	haskara
 הַשֵּׁם	hashem
@@ -7785,11 +7862,12 @@ see מלעיל	milel
 הָאוֹר	haor
 הָאוּ	hau
 הָבְּרִית הָחֲדָשָׁה	habrit hahadasha
-הָבְנֶה	hovne
+הָבְנֶה	hovneh
 הָבֵא	have
 הָבָה	hava
 הָגָה	haga
 הָגָר	hagar
+הָדִּי \ הודי	hodi
 הָדָּת הָבָּהָאִית	hadat habahait
 הָדָר	hadar
 הָדוּק	haduq
@@ -7834,7 +7912,7 @@ see מלעיל	milel
 הָעוֹלָם הַבָּא	haolam haba
 הָעוֹלָם הַזֶּה	haolam haze
 הָפְכִּי	hofki
-הָפִיךְ [pattern: קָטִיל]	hafikh
+הָפִיךְ	hafikh
 הָפַך	hafach
 הָפַךְ	hafakh
 הָפוּךְ	hafuch
@@ -7953,7 +8031,7 @@ see מלעיל	milel
 הבליע	hivlia
 הבלקן	habalkan
 הבנה	havana
-הבנה	hovne
+הבנה	hovneh
 הבנו	hevannu
 הבנו	hevanu
 הבנות	havanot
@@ -8175,7 +8253,6 @@ see מלעיל	milel
 הודו	hodu
 הודו \ הֹדּוּ	hodu
 הודות ל-	hodot le
-הודי	hodi
 הודיה	hodiah
 הודיע	hodia
 הודעה	hodaa
@@ -8468,6 +8545,7 @@ see מלעיל	milel
 היו	hayu
 היווה	hiva
 היווה \ הִוָּה	hiva
+היוון	hiven
 היוון \ הִוֵּן	hiven
 היווסד	hivased
 היום	hayom
@@ -8797,6 +8875,7 @@ see מלעיל	milel
 הסניף	hisnif
 הססן	hasesan
 הסעה	hasaa
+הספיג	hispig
 הספיק	hispik
 הספק	hespek
 הסרה	hasara
@@ -9271,6 +9350,7 @@ see מלעיל	milel
 התחבא	hitkhabe
 התחבר	hitkhaber
 התחדש	hitkhadesh
+התחזק	hitkhazek
 התחייבות	hitkhayvut
 התחייבות \ הִתְחַיְּבוּת	hitkhayvut
 התחיל	hitkhil
@@ -9359,6 +9439,7 @@ see מלעיל	milel
 התנודב \ הִתְנֻדַּב	hitnudav
 התנודד	hitnoded
 התנזר	hitnazer
+התנזרות	hitnazrut
 התנחל	hitnakhel
 התנחלות	hitnahalut
 התניה	hatnayah
@@ -9510,6 +9591,7 @@ see מלעיל	milel
 וְעִידָה	vida
 וְעָדָה	vada
 וְרִיד	vrid
+וְרַדְרַד	vradrad
 וְרָאֲךָ	vraacha
 וְרָדִים	vradim
 וְשִׁלַּחְתִּי	vshilachti
@@ -9540,6 +9622,7 @@ see מלעיל	milel
 וִיקִינְגִּי	vikingi
 וִיקִיפֶּדְיָה	vikipedya
 וִיקִיפֶּדְיוֹת	vikipedyot
+וִירְגָּה	virga
 וִירוּס	virus
 וֵטוֹ	veto
 וֵיילְס	veils
@@ -9555,7 +9638,6 @@ see מלעיל	milel
 וֶרְסָאיּ	versay
 וֶרְסָטִילִי	versatili
 וֶרֶד	vered
-וֶרֶד m [pattern: קֶטֶל]	vered
 וַאֲמַרְתֶּם	vaamartem
 וַאלְלָה	walla
 וַדַּאי	vaday
@@ -9717,7 +9799,6 @@ see מלעיל	milel
 ווּדוּ	vudu
 ווּלְגָרִי	vulgari
 ווּלְקָן	vulkan
-ווּלְקָן	vulqan
 ווּסווּסִים	vusvusim
 וואו	wau
 וואו!	wau
@@ -9955,15 +10036,18 @@ see מלעיל	milel
 זְמָם	zmam
 זְמָן	zman
 זְמָרִים	zmarim
+זְנִיחָה	znikha
 זְנַב־סוּס	zanavsus
 זְנָבוֹ	znavo
 זְנוּת	znut
 זְעַפְרָן	zafran
-זְעַפְרָן	zeapran
+זְעַפְרָן	zeafran
 זְקֵנָה	zkena
 זְקַנְקַן	zkankan
 זְקוּנִים	zkunim
 זְרִיזוּת	zrizut
+זְרִיחָה	zrikha
+זְרִיקָה	zrika
 זְרִיקוֹת	zrikot
 זְרַקּוֹר	zraqor
 זְרָגִים	zragim
@@ -9975,6 +10059,7 @@ see מלעיל	milel
 זִגֵּג	zigeg
 זִהָה	ziha
 זִיּוּן	ziyun
+זִיּוּף	ziyuf
 זִיבָה	ziva
 זִיגוֹטָה	zigota
 זִיו	ziv
@@ -9990,6 +10075,7 @@ see מלעיל	milel
 זִכְרֵי	zikhrei
 זִכָּרוֹן	zikaron
 זִלְזֵל	zilzel
+זִלְפָּה	zilpa
 זִמֵּן	zimmen
 זִמֵּר	zimer
 זִמָּה	zima
@@ -10007,7 +10093,6 @@ see מלעיל	milel
 זֵיתִים	zetim
 זֵיתָא	zeta
 זֵכֶר	zecher
-זֵכֶר m [pattern: קֵטֶל]	zecher
 זֵעָה	zea
 זֵר	zer
 זֵתַר	zetar
@@ -10022,17 +10107,15 @@ see מלעיל	milel
 זֶה עַתָּה	ze ata
 זֶהוּ	zehu
 זֶהוּת	zehut
-זֶמֶר m [pattern: קֶטֶל]	zemer
+זֶמֶר	zemer
 זֶנִית	zenit
 זֶפֶת	zefet
 זֶרֶג	zereg
 זֶרֶם	zerem
-זֶרֶם m [pattern: קֶטֶל]	zerem
 זֶרֶשׁ	zeresh
 זֶרֶת	zeret
-זֶרַח m [pattern: קֶטֶל]	zerakh
+זֶרַח	zerakh
 זֶרַע	zera
-זֶרַע m [pattern: קֶטֶל]	zera
 זֶ׳רְמִינָאל	zherminal
 זַבְדִּי	zabdi
 זַגָּג	zagag
@@ -10041,7 +10124,6 @@ see מלעיל	milel
 זַיְפָן	zayfan
 זַיִן	zayin
 זַיִת	zayit
-זַיִת m [pattern: קֶטֶל]	zayit
 זַיִ״ן	zayin
 זַיָּן	zayan
 זַךְ	zakh
@@ -10066,7 +10148,6 @@ see מלעיל	milel
 זָבָה	zava
 זָדוֹן	zadon
 זָהִיר	zahir
-זָהִיר [pattern: קָטִיל]	zahir
 זָהָב	zahav
 זָוִית	zavit
 זָוִית חַדָּה	zavit hada
@@ -10078,7 +10159,7 @@ see מלעיל	milel
 זָוִית שְׁטוּחַה	zavit shtukha
 זָז	zaz
 זָחַל	zakhal
-זָךְ [pattern: קֶטֶל]	zakh
+זָךְ	zakh
 זָכַר	zachar
 זָכַר	zakhar
 זָכָה	zakha
@@ -10086,7 +10167,6 @@ see מלעיל	milel
 זָכוֹר	zachor
 זָכוּר	zachur
 זָמִין	zamin
-זָמִין [pattern: קָטִיל]	zamin
 זָמִיר	zamir
 זָמַם	zamam
 זָמַר	zamar
@@ -10094,7 +10174,7 @@ see מלעיל	milel
 זָנָב	zanav
 זָנָה	zana
 זָע	za
-זָעִיר [pattern: קָטִיל]	zair
+זָעִיר	zair
 זָעַם	zaam
 זָעַף	zaaf
 זָעַק	zaak
@@ -10184,6 +10264,7 @@ see מלעיל	milel
 זוֹמְבִּי	zombi
 זוֹנֶה	zone
 זוֹנָה	zona
+זוֹרְמִיּוּת	zormiyut
 זוֹרֵם	zorem
 זוּ	zu
 זוּבְּרוֹבְקָה	zubrovka
@@ -10204,6 +10285,7 @@ see מלעיל	milel
 זוהם \ זֹהַם	zoham
 זוהר	zohar
 זוהר	zoher
+זוהר \ זֹהַר	zohar
 זוהר הדרום	zohar hadarom
 זוהר הצפון	zohar hatsafon
 זוהר הצפון	zohar hatzafon
@@ -10245,6 +10327,7 @@ see מלעיל	milel
 זיהה	ziha
 זיהה \ זִהָה	ziha
 זיהוי	zihuy
+זיהוי \ זִהוּי	zihuy
 זיהוי דיבור	zihuy dibur
 זיהוי קול	zihuy kol
 זיהום	zihum
@@ -10286,6 +10369,7 @@ see מלעיל	milel
 זיקה	zika
 זיקה \ זִקָּה	zika
 זיקוק	ziquq
+זיקוק \ זִקּוּק	ziquq
 זיקוקי די-נור	zikukei dinur
 זיקוקי די-נור	ziquqei dinur
 זיקית	zikit
@@ -10382,7 +10466,7 @@ see מלעיל	milel
 זעיר	zair
 זעם	zaam
 זעף	zaaf
-זעפרן	zeapran
+זעפרן	zeafran
 זעק	zaak
 זפת	zefet
 זצ״ל	zatsal
@@ -10462,6 +10546,7 @@ see מלעיל	milel
 חֲגִיגָה	khagiga
 חֲגוֹר	khagor
 חֲגוֹרָה	khagora
+חֲדִירָה	khadira
 חֲדֵרָה	khadera
 חֲדַר אוֹכֶל	khadar ochel
 חֲדַר אוֹרְחִים	khadar orkhim
@@ -10500,6 +10585,7 @@ see מלעיל	milel
 חֲלִיפוֹת	khalifot
 חֲלִיקָה	khalika
 חֲלֵקֵי־	khalkei
+חֲלַשְׁלוּשׁ	halashlush
 חֲלָבִי	khalavi
 חֲלָבִים	khalavim
 חֲלָלִית	khalalit
@@ -10551,6 +10637,7 @@ see מלעיל	milel
 חֲצִי כַּדּוּר	khatsi kadur
 חֲצִי סַהַר	khatsi sahar
 חֲצִי עִגּוּל	khatsi igul
+חֲצִי־אִי	khatsii
 חֲצִי־הַלַּיְלָה	khatsihalayla
 חֲצַרְמָוֶת	hasarmawet
 חֲצָאִית	khatsait
@@ -10560,6 +10647,8 @@ see מלעיל	milel
 חֲצוֹת הַלַּיְלָה	khatsothalayla
 חֲצוֹת־הַלֵּיל	khatsothaleyl
 חֲצוֹת־הַלַּיְלָה	khatsothalayla
+חֲצוּבָה	khatsuva
+חֲקִיקָה	khakika
 חֲקִירָה	khakira
 חֲרִיזָה	khariza
 חֲרֵדִי	haredi
@@ -10575,7 +10664,9 @@ see מלעיל	milel
 חֲשִׁיבוּת	khashivut
 חֲשִׁישׁ	hashish
 חֲשִׁישׁ	khashish
+חֲשִׂיפָה	khasifa
 חֲתִיכַת	hatichat
+חֲתִיכָה	khatikha
 חֲתִימַת	khatimat
 חֲתִימָה	khatima
 חֲתַלְתּוּל	khataltul
@@ -10605,6 +10696,7 @@ see מלעיל	milel
 חִיּוּבִי	khiyuvi
 חִיּוּךְ	khiyukh
 חִיּוּנִי	hiyuni
+חִיבּוּר \ חִבּוּר	hibbur
 חִידָה	hida
 חִידָה	khida
 חִידוֹן	hidon
@@ -10658,21 +10750,21 @@ see מלעיל	milel
 חֵית	khet
 חֵי״ת	khet
 חֵךְ	khekh
-חֵלֶב m [pattern: קֵטֶל]	khelev
+חֵלֶב	khelev
 חֵלֶק	khelek
-חֵלֶק m [pattern: קֵטֶל]	khelek
 חֵלֶק דיבור	khelek dibur
 חֵמֶת חֲלִילִים	hemet halilim
 חֵמָה	khema
 חֵמָר	chemar
-חֵן m [pattern: קֵטֶל]	chen
+חֵן	chen
 חֵן חֵן	hen hen
 חֵן חֵן	khen khen
-חֵפֶץ m [pattern: קֵטֶל]	hefets
+חֵפֶץ	hefets
 חֵפֶת	hepet
 חֵפֶת	khefet
 חֵץ	khets
-חֵץ m [pattern: קֵטֶל]	khetz
+חֵץ	khetz
+חֵצִי	khatsi
 חֵצִי	khetsi
 חֵקֶר	kheker
 חֵקֶר הַדָּגִים	kheker hadagim
@@ -10686,15 +10778,13 @@ see מלעיל	milel
 חֶבְרָתִי	khevrati
 חֶבְרוֹן	khevron
 חֶבֶל	khevel
-חֶבֶל m [pattern: קֶטֶל]	khevel
 חֶבֶל גְּרִירָה	khevel grira
 חֶבֶל הָרָיְן	khevel harayn
 חֶבֶל חַרְטוֹם	khevel khartom
-חֶבֶק m [pattern: קֶטֶל]	khevek
-חֶבֶר m [pattern: קֶטֶל]	khever
+חֶבֶק	khevek
+חֶבֶר	khever
 חֶדֶר	heder
 חֶדֶר	kheder
-חֶדֶר m [pattern: קֶטֶל]	kheder
 חֶדֶר דְּוָדִים	kheder dvadim
 חֶלְבְּנָה	helbena
 חֶלְבּוֹן	helbon
@@ -10705,24 +10795,23 @@ see מלעיל	milel
 חֶלְקִי	khelki
 חֶלְקִיק	khelkik
 חֶלְקָה	helqa
-חֶלֶד m [pattern: קֶטֶל]	kheled
+חֶלֶד	kheled
 חֶמְאָה	khema
 חֶמְלָה	khemla
-חֶמֶד m [pattern: קֶטֶל]	khemed
-חֶמֶר m [pattern: קֶטֶל]	chemer
-חֶסֶד m [pattern: קֶטֶל]	khesed
+חֶמֶד	khemed
+חֶמֶר	chemer
+חֶסֶד	khesed
 חֶרְמֵשׁ	khermesh
+חֶרְמוֹן	khermon
 חֶרְפָּה	kherpa
 חֶרֶב	herev
 חֶרֶב	kherev
-חֶרֶב f [pattern: קֶטֶל]	kherev
 חֶרֶב מַלָּחִים	kherev malakhim
 חֶרֶב פִּיפִיּוֹת	herev pifiyot
 חֶרֶב פִּיפִיּוֹת	kherev pifiyot
-חֶרֶס m [pattern: קֶטֶל]	kheres
-חֶרֶק m [pattern: קֶטֶל]	kherek
+חֶרֶס	kheres
+חֶרֶק	kherek
 חֶרֶשׁ	kheresh
-חֶרֶשׁ m [pattern: קֶטֶל]	kheresh
 חֶרֶשׂ	kheres
 חֶשְׁבּוֹן	kheshbon
 חֶשְׁבּוֹנָאוּת	kheshbonaut
@@ -10743,7 +10832,6 @@ see מלעיל	milel
 חַבּוּבּ	habub
 חַבּוּשׁ	chabush
 חַג	khag
-חַג m [pattern: קֶטֶל]	khag
 חַג אוּרִים שָׂמֵחַ	hag urim sameah
 חַג הַהוֹדָיָה	hag hahodaya
 חַג הַמּוֹלָד	khag hamolad
@@ -10758,7 +10846,6 @@ see מלעיל	milel
 חַג׳	khaj
 חַד	had
 חַד	khad
-חַד [pattern: קֶטֶל]	had
 חַד אֵיבָר	khad eivar
 חַד גּוֹנִי	khad goni
 חַד וְחָלָק	had vehalaq
@@ -10786,7 +10873,6 @@ see מלעיל	milel
 חַיִּים	hayim
 חַיִּים	khayim
 חַיִל	khayil
-חַיִל m [pattern: קֶטֶל]	khayil
 חַיֵּי־	hhayeh
 חַיֵּיהֶם	chayehem
 חַיֵּיכֶן	khayeykhen
@@ -10812,8 +10898,9 @@ see מלעיל	milel
 חַלְבָה	khalva
 חַלְוָה	khalva
 חַלְטוּרָה	khaltura
+חַלָּה	khala
 חַלָּמִישׁ	khalamish
-חַלָּף m [pattern: קַטָּל]	khalaf
+חַלָּף	khalaf
 חַלָּשָׁה	khalasha
 חַלָּשׁ	halash
 חַלָּשׁ	khalash
@@ -10823,7 +10910,6 @@ see מלעיל	milel
 חַלּוּק	haluq
 חַם	cham
 חַם	kham
-חַם [pattern: קֶטֶל]	kham
 חַם לִי	ham li
 חַמְדָנוּת	hamdanut
 חַמְסִין	khamsin
@@ -10842,7 +10928,6 @@ see מלעיל	milel
 חַנּוּן	khanun
 חַסְדֵי־	khasdei
 חַסָּה	khasa
-חַצִי־אִי	khatsii
 חַקְלָאִי	khaklai
 חַקְלָאוּת	khaklaut
 חַקְלָאוּת אוֹרְגָּנִית	khaklaut organit
@@ -10871,7 +10956,7 @@ see מלעיל	milel
 חַשְׁמוֹנַאי	khashmonai
 חַשָּׁב	khashav
 חַתָּךְ	khatakh
-חָבִיב [pattern: קָטִיל]	khaviv
+חָבִיב	khaviv
 חָבִיב הַקָּהָל	khaviv haqahal
 חָבִית	khavit
 חָבִית מֵי שְׁתִיָּה	khavit mey shtiya
@@ -10907,6 +10992,7 @@ see מלעיל	milel
 חָזוֹן	khazon
 חָח	hah
 חָט	khat
+חָטִיף	chatif
 חָטַף	chataf
 חָטָא	khata
 חָטוּף	khatuf
@@ -10934,6 +11020,7 @@ see מלעיל	milel
 חָלָס	halas
 חָלָק	khalak
 חָלוּל	khalul
+חָלוּץ	halutz
 חָלוּץ	khaluts
 חָם	kham
 חָמֵץ	hametz
@@ -10961,11 +11048,11 @@ see מלעיל	milel
 חָנוּת	hanut
 חָנוּת	khanut
 חָס	khas
+חָסִיד	khasid
 חָסֵר	khaser
 חָסַךְ	khasakh
 חָסָה	khasa
 חָסוֹן	khason
-חָסוֹן [pattern: קָטוֹל]	khason
 חָסוּד	hasud
 חָסוּי	khasui
 חָסוּן	khasun
@@ -10977,6 +11064,7 @@ see מלעיל	milel
 חָפַץ	hafats
 חָפַר	khafar
 חָצִיל	hatsil
+חָצִיל	khatsil
 חָצִילִים	chatsilim
 חָצֵר	hatzer
 חָצֵר	khatser
@@ -11046,7 +11134,7 @@ see מלעיל	milel
 חֹלִי	choli
 חֹמֶט	khomet
 חֹמֶץ	khomets
-חֹמֶר m [pattern: קֹטֶל]	chomer
+חֹמֶר	chomer
 חֹפֶן	hofen
 חֹק שָׁארְל	khok sharl
 חֹר	hor
@@ -11301,6 +11389,7 @@ see מלעיל	milel
 חוזה	khoze
 חוזק	khozek
 חוזק	khuzak
+חוזק \ חֹזֶק	khozek
 חוזק \ חֻזַּק	khuzak
 חוחית	khokhit
 חוט	khut
@@ -11310,19 +11399,24 @@ see מלעיל	milel
 חוטי חשמל	khutei khashmal
 חוטיני	hutini
 חוטם	khotem
+חוטם \ חֹטֶם	khotem
 חוטמית	khotmit
 חוטמית \ חָטְמִית	khotmit
 חוטר	hoter
 חוטר	khoter
+חוטר \ חֹטֶר	hoter
+חוטר \ חֹטֶר	khoter
 חוילה	khavila
 חוכמה	khokhma
 חוכמה \ חָכְמָה	khokhma
 חול	hol
+חול \ חֹל	hol
 חול \ חֹל	holl
 חול \ חֹל	khol
 חול המועד	khol hamoed
 חול המועד \ חֹל הַמּוֹעֵד	khol hamoed
 חולד	kholed
+חולד \ חֹלֶד	kholed
 חולדה	hulda
 חולדה \ חֻלְדָּה	hulda
 חולה	khole
@@ -11341,6 +11435,7 @@ see מלעיל	milel
 חולשה \ חֻלְשָׁה	khulsha
 חום	khom
 חום	khum
+חום \ חֹם	khom
 חומה	khoma
 חומוס	humus
 חומוס	khumus
@@ -11379,10 +11474,9 @@ see מלעיל	milel
 חופש	khupas
 חופש	khupash
 חופש \ חֹפֶשׁ	khofesh
-חופש \ חֻפַּשׁ	khupas
 חופש \ חֻפַּשׁ	khupash
+חופש \ חֻפַּשׂ	khupas
 חופש גדול	hakhofesh hagadol
-חופשה	hufsha
 חופשה	khufsha
 חופשה \ חֻפְשָׁה	khufsha
 חופשי	khofshi
@@ -11445,6 +11539,7 @@ see מלעיל	milel
 חורפים	khorafim
 חורפים \ חֳרָפִים	khorafim
 חורש	horesh
+חורש \ חֹרֶשׁ	horesh
 חורש \ חֹרֶשׁ	khoresh
 חורת	chorat
 חוש	khush
@@ -11456,6 +11551,7 @@ see מלעיל	milel
 חושבת	khoshevet
 חושבתני	choshvatni
 חושך	khoshekh
+חושך \ חֹשֶׁךְ	khoshekh
 חושן משפט	khoshekhmishpat
 חותם	khotam
 חותן	khoten
@@ -11527,6 +11623,7 @@ see מלעיל	milel
 חיג׳אב \ חִגָ׳אבּ	khijab
 חידה	khida
 חידוש	khidush
+חידוש \ חִדּוּשׁ	khidush
 חידק	haydaq
 חידקל	khidekel
 חידקל \ חִדֶּקֶל	khidekel
@@ -11540,6 +11637,7 @@ see מלעיל	milel
 חיווט	khivet
 חיווט	khivut
 חיווט \ חִוֵּט	khivet
+חיווט \ חִוּוּט	khivut
 חיווי	khivuy
 חיוור	khiver
 חיוור \ חִוֵּר	khiver
@@ -11555,6 +11653,7 @@ see מלעיל	milel
 חיטא	khite
 חיטא \ חִטֵּא	khite
 חיטה	khita
+חיטה \ חִטָּה	khita
 חיטובים	khituvym
 חיטוי	khituy
 חיטט	khitet
@@ -11627,6 +11726,7 @@ see מלעיל	milel
 חימצה \ חִמְצָה	khimtsa
 חינה	khina
 חינוך	khinukh
+חינוך \ חִנּוּךְ	khinukh
 חינוך גופני	khinukh gufani
 חינוכי	khinukhei
 חינוכי	khinukhi
@@ -11642,6 +11742,7 @@ see מלעיל	milel
 חיסל	khisel
 חיסן	khisen
 חיסרון	khisaron
+חיסרון \ חִסָּרוֹן	khisaron
 חיפה	kheifa
 חיפה	khipa
 חיפה \ חִפָּה	khipa
@@ -11822,6 +11923,7 @@ see מלעיל	milel
 חמר	kheimahr
 חמר \ חֶמֶר	khemer
 חמרמורת	khamarmoret
+חמרמורת \ חֲמַרְמֹרֶת	khamarmoret
 חמרן	hamran homran
 חמרן	khamran
 חמש	khamesh
@@ -11848,6 +11950,7 @@ see מלעיל	milel
 חנוך	khanokh
 חנוך	khinukh
 חנוכה	khanuka
+חנוכה \ חֲנֻכָּה	khanuka
 חנוכיה	khanukiya
 חנוכיה \ חֲנֻכִּיָּה	khanukiya
 חנוכיות	khanukiyot
@@ -11867,6 +11970,7 @@ see מלעיל	milel
 חניבה	chaniva
 חניון	khanyon
 חנייה	khanaya
+חנייה \ חֲנָיָה	khanaya
 חניית ביניים	haniat beinayim
 חניכה	hanikha
 חניכיים	khanikhaim
@@ -11945,7 +12049,6 @@ see מלעיל	milel
 חצב	khatsav
 חצבת	hatsevet
 חצה	khatsa
-חצובה	chatsuba
 חצוף	khatsuf
 חצוצרה	khatsotsra
 חצות	khatsot
@@ -12111,6 +12214,7 @@ see מלעיל	milel
 טְבִּילִיסִי	tbilisi
 טְבִילָה	tvila
 טְבֶרְיָה	tverya
+טְוִיָּה	tviya
 טְחִינָה	tkhina
 טְחוֹל	tehol
 טְיוּטָה	tyuta
@@ -12174,6 +12278,7 @@ see מלעיל	milel
 טִלְפֵן	tilpen
 טִמֵּא	time
 טִפֵּל	tipel
+טִפּוּל הֲמָרָה	tipul hamara
 טִרְפֵּד	tirped
 טֵבֵת	tevet
 טֵית	tet
@@ -12183,9 +12288,8 @@ see מלעיל	milel
 טֵרִי	terry
 טֵרוּף	teruf
 טֶבַח	tevah
-טֶבַח m [pattern: קֶטֶל]	tevakh
+טֶבַח	tevakh
 טֶבַע	teva
-טֶבַע m [pattern: קֶטֶל]	teva
 טֶהֱרָאן	teheran
 טֶהֱרָאנִי	teherani
 טֶטָנוּס	tetanus
@@ -12210,7 +12314,7 @@ see מלעיל	milel
 טֶנִיס שׁוּלְחָן	tenis shulkhan
 טֶסְט	test
 טֶסְטוֹסְטֶרוֹן	testosteron
-טֶפַח m [pattern: קֶטֶל]	tefakh
+טֶפַח	tefakh
 טֶקְסְט	tekst
 טֶקְסַס	teksas
 טֶקִילָה	tekila
@@ -12218,7 +12322,7 @@ see מלעיל	milel
 טֶקֶס תֵּה	tekes te
 טֶקסט	tekst
 טֶרְמִינוֹלוֹגְיָה	terminologia
-טֶרֶם [pattern: קֶטֶל]	terem
+טֶרֶם	terem
 טֶרֶף	teref
 טֶרָאמָרוֹת	teramarot
 טֶרוֹר	teror
@@ -12247,7 +12351,7 @@ see מלעיל	milel
 טַיִס	tayis
 טַיֶּסֶת	tayeset
 טַיֶלֶת	tayellet
-טַל m [pattern: קֶטֶל]	tal
+טַל	tal
 טַלְטַל	taltal
 טַלִּית	talit
 טַלִּיתוֹת	talitot
@@ -12255,7 +12359,7 @@ see מלעיל	milel
 טַמְפּוּרָה	tempura
 טַנְק	tank
 טַעֲנָה	taana
-טַף m [pattern: קֶטֶל]	taf
+טַף	taf
 טַפִּיל	tapil
 טַפִּילִי	tapili
 טַפֵּנָד	tapenad
@@ -12286,11 +12390,10 @@ see מלעיל	milel
 טָמַן רֹאשׁוֹ בַּחוֹל	taman rosho bakhol
 טָס	tas
 טָעִים	taim
-טָעִים [pattern: קָטִיל]	taim
 טָעַם	taam
 טָעַן	taan
 טָעָה	taa
-טָעָן m [pattern: קַטָּל]	taan
+טָעָן	taan
 טָעוּת	taut
 טָעוּת פְרוֹיְדְּיָאנִית	taut froydyanit
 טָפַח	tafakh
@@ -12430,6 +12533,7 @@ see מלעיל	milel
 טופלו	tuplu
 טופלו \ טֻפְּלוּ	tuplu
 טופר	tofer
+טופר \ טֹפֶר	tofer
 טוקיו	tokyo
 טור	tur
 טוראי	turai
@@ -12518,6 +12622,7 @@ see מלעיל	milel
 טיפולים \ טִפּוּלִים	tipulim
 טיפון	tifun
 טיפוס	tipus
+טיפוס \ טִפּוּס	tipus
 טיפח	tipeakh
 טיפטוף	tiftuf
 טיפית	tipit
@@ -12545,7 +12650,6 @@ see מלעיל	milel
 טכנית	tekhnit
 טכנתיום	tekhnetyum
 טל	tal
-טל [pattern: קֶטֶל]	tal
 טלאי	tlai
 טלאי	tlay
 טלאים	tlaim
@@ -12695,12 +12799,14 @@ see מלעיל	milel
 יְדִידוּת	ydidut
 יְדִידוּת	yedidut
 יְדִידוּתִי	ydiduti
+יְדִיעָה	ydia
 יְדַבֵּר	ydaber
 יְדָנִי	yadani
 יְדָנִי	ydani
 יְהִי	yhi
 יְהִי אוֹר	yehi or
 יְהִירוּת	yehirut
+יְהִירוּת	yhirut
 יְהָב	yehav
 יְהָב	yhav
 יְהֹוָה	yahwe
@@ -12847,8 +12953,8 @@ see מלעיל	milel
 יֵין נֶסֶךְ	yein nesekh
 יֵינוֹת	yenot
 יֵינוֹת אֲדֻמִּים	yeinot adumim
+יֵצֶר	yetser
 יֵצֶר	yetzer
-יֵצֶר m [pattern: קֵטֶל]	yetser
 יֵצֶר הָטוֹב	yetser hatov
 יֵצֶר הָרַע	yetser hara
 יֵרָאוּ	yerau
@@ -12861,18 +12967,13 @@ see מלעיל	milel
 יֵשׁוּעַ	yesua
 יֵשוּ הַנּוֹצְרִי	yeshu hanotsri
 יֶדַע	yeda
-יֶדַע m [pattern: קֶטֶל]	yeda
 יֶזַע	yeza
-יֶזַע m [pattern: קֶטֶל]	yeza
 יֶלֶד	yeled
-יֶלֶד m [pattern: קֶטֶל]	yeled
-יֶרִי m [pattern: קֶטֶל]	yeri
+יֶרִי	yeri
 יֶרֶק	yereq
-יֶרֶק m [pattern: קֶטֶל]	yereq
 יֶרַח	yerakh
-יֶרַח m [pattern: קֶטֶל]	yerakh
 יֶרַח דְּבַשׁ	yerah dvash
-יֶתֶר m [pattern: קֶטֶל]	yeter
+יֶתֶר	yeter
 יֶתֶר צַד	yeter tsad
 יַאֲמִינוּ	yaaminu
 יַאִיר	yair
@@ -12904,7 +13005,6 @@ see מלעיל	milel
 יַחַס	yakhas
 יַחַס הַקִּנְיָן	yakhas hakinyan
 יַיִן	yayin
-יַיִן m [pattern: קֶטֶל]	yayin
 יַיִן לָבָן	yayin lavan
 יַכְטוֹנֵרִית	yakhtonerit
 יַלְדִּי	yaldi
@@ -12914,6 +13014,7 @@ see מלעיל	milel
 יַלְדוּתִי	yalduti
 יַלְקוּט	yalkut
 יַלֶּדְכֶן	yaledchen
+יַלֶּפֶת	yalefet
 יַם הַמֶּלַח	yam hamelakh
 יַם יַפָּן	yam yapan
 יַם כִּנֶּרֶת	yam kineret
@@ -12931,6 +13032,7 @@ see מלעיל	milel
 יַעֲקֹב	yaakov
 יַעֲקֹב	yaaqov
 יַעֲקֹב בֵּן זַבְדִי	yaaqov ben zavdi
+יַעֲרָה	yaara
 יַעֲשֶׂה	yaase
 יַעַן	yaan
 יַעַר	yaar
@@ -12980,7 +13082,6 @@ see מלעיל	milel
 יָדוֹ	yado
 יָהֳרָה	yohora
 יָהִיר	yahir
-יָהִיר [pattern: קָטִיל]	yahir
 יָהּ	yah
 יָוָן	yavan
 יָזְמָה	yozma
@@ -12997,7 +13098,6 @@ see מלעיל	milel
 יָלִיד	yalid
 יָלַד	yalad
 יָם	yam
-יָם m [pattern: קֶטֶל]	yam
 יָמִים	yamim
 יָמִים טוֹבִים	yamim tovim
 יָמִין	yamin
@@ -13380,6 +13480,7 @@ see מלעיל	milel
 יושבת	yushbat
 יושבת \ יֻשְׁבַּת	yushbat
 יושר	yosher
+יושר \ יֹשֶׁר	yosher
 יושרה	yoshra
 יושרה \ יָשְׁרָה	yoshra
 יותר	yoter
@@ -13429,6 +13530,7 @@ see מלעיל	milel
 ייבש \ יִבֵּשׁ	yibesh
 ייבשתי את זה.	yibashti et ze
 יידוע	yidua
+יידוע \ יִדּוּעַ	yidua
 יידיש	yidish
 יידע	yidea
 יידע \ יִדֵּעַ	yidea
@@ -13455,6 +13557,7 @@ see מלעיל	milel
 ייסד \ יִסֵּד	yised
 ייסוד	yesud
 ייסוד	yisud
+ייסוד \ יִסּוּד	yisud
 ייסר	yiser
 ייעל	yiel
 ייעל \ יִעֵל	yiel
@@ -13473,6 +13576,7 @@ see מלעיל	milel
 ייצר	yitser
 ייצר \ יִצֵּר	yitser
 יישוב	yishuv
+יישוב \ יִשּׁוּב	yishuv
 יישום	yisum
 יישום \ יִשּׂוּם	yisum
 יישומון	yisumon
@@ -13561,6 +13665,7 @@ see מלעיל	milel
 יעקוב	yaaqov
 יעקוב \ יַעֲקֹב	yaaqov
 יעקוביאן	yaakobian
+יערה	yaara
 יערות	yarot
 יעשה	yaase
 יעשה	yease
@@ -13785,7 +13890,6 @@ see מלעיל	milel
 כְּחַלְחַל	kkhalkhal
 כְּחוּלָה	khula
 כְּלִי	kli
-כְּלִי m [pattern: קֶטֶל]	kli
 כְּלִי זַיִן	kli zayin
 כְּלִי טַיִס	kli tayis
 כְּלִי טַיִס	klitayis
@@ -13867,6 +13971,7 @@ see מלעיל	milel
 כְּתַב יְתֵדוֹת	ktav ytedot
 כְּתַב יָד	ktav yad
 כְּתַב עֵת	ktav et
+כְּתַמְתַּם	ktamtam
 כְּתָב	ktav
 כְּתָב אַשּׁוּרִי	ktav ashuri
 כְּתָב יָד	ktav yad
@@ -13956,20 +14061,14 @@ see מלעיל	milel
 כֵּן יְהִי רָצוֹן	ken yehi ratzon
 כֵּנֶה	kene
 כֵּס	kes
-כֵּס m [pattern: קֵטֶל]	kes
 כֵּס החַרְצִית	kes khartsit
 כֵּף הַתִּקְוָה הַטּוֹבָה	kef hatikva hatova
-כֵּפֶל m [pattern: קֵטֶל]	kefel
 כֵּרָה	kera
 כֶּבֶל	kevel
 כֶּבֶשׁ	kevesh
-כֶּבֶשׁ m [pattern: קֶטֶל]	kevesh
 כֶּבֶשׂ	keves
-כֶּבֶשׂ m [pattern: קֶטֶל]	keves
 כֶּלֶא	kele
-כֶּלֶא m [pattern: קֶטֶל]	kele
 כֶּלֶב	kelev
-כֶּלֶב m [pattern: קֶטֶל]	kelev
 כֶּלֶב יָם	kelev yam
 כֶּלֶב יָם	kelevyam
 כֶּלֶב כְּנַעֲנִי	kelev knaani
@@ -13980,19 +14079,17 @@ see מלעיל	milel
 כֶּלֶב־נָהָר	kelevnahar
 כֶּנֶס	kenes
 כֶּסֶף	kesef
-כֶּסֶף m [pattern: קֶטֶל]	kesef
+כֶּפֶל	kefel
 כֶּרֶךְ	kerekh
 כֶּרֶם	kerem
-כֶּרֶם m [pattern: קֶטֶל]	kerem
-כֶּתֶם m [pattern: קֶטֶל]	ketem
+כֶּתֶם	ketem
 כֶּתֶר	keter
-כֶּתֶר m [pattern: קֶטֶל]	keter
 כַּאֲשֶׁר	kaasher
 כַּבִּיר	kabbir
 כַּבַּאי	kabai
-כַּבַּבּ	kabab
 כַּבָּאִית	kabait
-כַּד m [pattern: קֶטֶל]	kad
+כַּבָּבּ	kabab
+כַּד	kad
 כַּדּוּר	kadur
 כַּדּוּר בְּדֹלַח	kaddur bdolah
 כַּדּוּר סַל	kadur sal
@@ -14015,6 +14112,7 @@ see מלעיל	milel
 כַּזַּיִת	kzayit
 כַּחְלִיל	kahlil
 כַּיּוֹם	kayom
+כַּלְבָּה	kalba
 כַּלְבָן	kalban
 כַּלְכַּל	kalkal
 כַּלְכָּלִי	kalkali
@@ -14048,7 +14146,6 @@ see מלעיל	milel
 כַּסֶּפֶת	kasefet
 כַּעְבָּה	kaba
 כַּף	kaf
-כַּף f [pattern: קֶטֶל]	kaf
 כַּף אַשְׁפָּה	kaf ashpa
 כַּף יָד	kaf yad
 כַּף‎ מָחָא	maha kaf
@@ -14150,13 +14247,12 @@ see מלעיל	milel
 כֹּהֲנִים	kohanim
 כֹּהֵן	kohen
 כֹּהֵן גָּדוֹל	kohen gadol
-כֹּהֶל m [pattern: קֹטֶל]	kohel
+כֹּהֶל	kohel
 כֹּחַ	koach
 כֹּחַל	kochal
 כֹּל	kol
 כֹּל יָכוֹל	kol yachol
 כֹּמֶר	komer
-כֹּמֶר m [pattern: קֹטֶל]	komer
 כֹּפֶר	koper
 כֻּלָּם	kulam
 כֻּסְבָּרָה	kusbara
@@ -14351,6 +14447,7 @@ see מלעיל	milel
 כולנו \ כֻּלָּנוּ	kulanu
 כולסטרול	kolesterol
 כומר	komer
+כומר \ כֹּמֶר	komer
 כומתה	kumta
 כונן	konan
 כונן	konen
@@ -14393,6 +14490,7 @@ see מלעיל	milel
 כותונת \ כֻּתֹּנֶת	kutonet
 כותל	hakotel
 כותל	kotel
+כותל \ כֹּתֶל	kotel
 כותנה	kutna
 כותנה \ כֻּתְנָה	kutna
 כותר	kotar
@@ -14488,7 +14586,9 @@ see מלעיל	milel
 כיסתה	kista
 כיף	keif
 כיפה	kipa
+כיפה \ כִּפָּה	kipa
 כיפור	kipur
+כיפור \ כִּפּוּר	kipur
 כיפורים	kipurim
 כיפורים \ כִּפּוּרִים	kipurim
 כיפר	kiper
@@ -14502,7 +14602,9 @@ see מלעיל	milel
 כיריים	kirayim
 כישוף	kishuf
 כישלון	kishalon
+כישלון \ כִּשָּׁלוֹן	kishalon
 כישרון	kisharon
+כישרון \ כִּשָּׁרוֹן	kisharon
 כיתה	kita
 כיתה \ כִּתָּה	kita
 כיתוב \ כִּתּוּב	kituv
@@ -14579,6 +14681,7 @@ see מלעיל	milel
 כלל הסנדוויץ׳	klalhasendvich
 כלל־עולמי	klalolami
 כלנית	kalanit
+כלפי	klapei
 כלשהו	kolshehu
 כמה	kama
 כמה	kamah
@@ -14766,6 +14869,7 @@ see מלעיל	milel
 כתוב	katuv
 כתובה	ktuba
 כתובה	ktuva
+כתובה \ כְּתֻבָּה	ktuba
 כתובים	ktuvim
 כתובית	ktuvit
 כתובת	ktovet
@@ -14819,6 +14923,7 @@ see מלעיל	milel
 לְבַד	lvad
 לְבַכּוֹת	lvakot
 לְבַלְבֵּל	lvalbel
+לְבַנְבַּן	lvanban
 לְבָבוֹ	lvavo
 לְבָנִים	lvanim
 לְבָנָה	lvana
@@ -14855,6 +14960,7 @@ see מלעיל	milel
 לְחִי	lekhi
 לְחִי הַחַרְטוֹם	lekhi hakhartom
 לְחִימָה	lkhima
+לְחִישָׁה	lkhisha
 לְחִנָּם	lehinam
 לְחַבֵּל	lkhabel
 לְחַזֵק	lekhazek
@@ -14876,6 +14982,7 @@ see מלעיל	milel
 לְלֹא מַשּׂוֹא פָּנִים	llo maso panim
 לְלֹא שֵׁם	lelo shem
 לְמִידָה	lemida
+לְמִידָה	lmida
 לְמַטָּה	lmata
 לְמַעְלָה	lmala
 לְמַעַן	lmaan
@@ -15004,7 +15111,6 @@ see מלעיל	milel
 לֵאוֹנַרְדְּ	leonard
 לֵאמֹר	lemor
 לֵב	lev
-לֵב m [pattern: קֵטֶל]	lev
 לֵבָב	levav
 לֵגִיטִימִיּוּת	legitimiyut
 לֵדָה	leda
@@ -15015,16 +15121,17 @@ see מלעיל	milel
 לֵילוֹת	leilot
 לֵיצַן חָצֵר	letzan hatzer
 לֵיצָן	leitsan
+לֵיצָן	leitzan
 לֵכִי	lechi
 לֵץ	lets
-לֵק m [pattern: קֵטֶל]	leq
+לֵק	leq
 לֶ־	l
 לֶ־	la
 לֶ־	le
 לֶ־	li
 לֶ־	lo
 לֶאֶהוֹב	leehov
-לֶבֶד m [pattern: קֶטֶל]	leved
+לֶבֶד	leved
 לֶבַנְט	levant
 לֶבַנְטִינִי	levantini
 לֶג	leg
@@ -15035,7 +15142,6 @@ see מלעיל	milel
 לֶזַהוֹת	lezahot
 לֶחִי	lekhi
 לֶחֶם	lekhem
-לֶחֶם m [pattern: קֶטֶל]	lekhem
 לֶחֶם וְשַׁעֲשׁוּעִים	lekhem veshaashuim
 לֶחֶם זַנְגְּבִיל	lekhem zangvil
 לֶחֶם מִשְׁנֶה	lekhem mishne
@@ -15045,14 +15151,11 @@ see מלעיל	milel
 לֶנִינִיזְם	leninizm
 לֶסְבִּית	lesbit
 לֶסֶת	leset
-לֶסֶת f [pattern: קֶטֶל]	leset
 לֶסבִּית	lesbit
 לֶפֶת	lefet
-לֶפֶת f [pattern: קֶטֶל]	lefet
 לֶקַח	lekakh
 לֶקַח	leqah
 לֶשֶׁם	leshem
-לֶשֶׁם m [pattern: קֶטֶל]	leshem
 לֶתֶת	letet
 לַ־	l
 לַ־	la
@@ -15074,7 +15177,7 @@ see מלעיל	milel
 לַהַב	lahav
 לַהַבְיוֹר	lahavyor
 לַהַג	lahag
-לַהַט m [pattern: קֶטֶל]	lahat
+לַהַט	lahat
 לַהַק	lahak
 לַוְויָן \ לַוְיָן	lavyan
 לַוְיָין \ לַוְיָן	lavyan
@@ -15086,7 +15189,7 @@ see מלעיל	milel
 לַחֲנוֹק \ לַחֲנֹק	lakhanok
 לַחֲשׁוֹב	lachashov
 לַחַן	lahan
-לַחַן m [pattern: קֶטֶל]	lakhan
+לַחַן	lakhan
 לַחַץ	lakhats
 לַחַץ דָּם	lakhats dam
 לַחַשׁ	lahash
@@ -15096,7 +15199,6 @@ see מלעיל	milel
 לַיְלָה טוֹב	layla tov
 לַיְלָה לָבָן	layla lavan
 לַיִל	layil
-לַיִל m [pattern: קֶטֶל]	layil
 לַיִשׁ	layish
 לַכָּה	laka
 לַמְדָּא	lamda
@@ -15394,6 +15496,7 @@ see מלעיל	milel
 לוֹכֵד חֲלוֹמוֹת	loked khalomot
 לוֹנְדּוֹן	london
 לוֹנְדּוֹן רַבָּתִי	london rabati
+לוֹעֲזִיּוּת	loaziyut
 לוֹעֲזִית	loazit
 לוֹעֵז	loez
 לוּ	lu
@@ -15533,6 +15636,7 @@ see מלעיל	milel
 ליבב	libev
 ליבב \ לִבֵּב	libev
 ליבה	liba
+ליבה \ לִבָּה	liba
 ליבו שבור.	libo shavur
 ליבונית	livonit
 ליבידו	libido
@@ -15867,6 +15971,7 @@ see מלעיל	milel
 מְאַסֵּף	measef
 מְאַת־	mat
 מְאֹד	mod
+מְאֻחָר	meuhar
 מְאֻלָּף	meulaf
 מְאוּחָד	mukhad
 מְאוּרָה	meura
@@ -15891,6 +15996,7 @@ see מלעיל	milel
 מְגוּרִים	megurim
 מְגוּרִים	mgurim
 מְגוּרֵי חַרְטוֹם	megurey khartom
+מְדִידָה	medida
 מְדִינִי	mdini
 מְדִינִיּוֹת	mdiniyot
 מְדִינִיּוּת	mdiniyut
@@ -15934,6 +16040,7 @@ see מלעיל	milel
 מְחִילָה	mekhila
 מְחִילָה	mkhila
 מְחִיצָה	mehitza
+מְחִיקָה	mkhika
 מְחִיקוֹן	mekhikon
 מְחִיר	mkhir
 מְחִיר קִמְעוֹנָאִי	mehir kimonai
@@ -16038,8 +16145,10 @@ see מלעיל	milel
 מְסוּכָּן	msukan
 מְעִי	mei
 מְעִי	mi
+מְעִיכָה	mikha
 מְעִיל	meil
 מְעִיל	mil
+מְעִילָה	mila
 מְעַבֵּד	meabed
 מְעַגֵּל	magel
 מְעַט	mat
@@ -16062,6 +16171,7 @@ see מלעיל	milel
 מְפֻנְצָ'ר	mefuntshar
 מְצִיאוּת	metziut
 מְצִיאוּת	mtsiut
+מְצִיצָה	mtsitsa
 מְצִיצָה	mtzitza
 מְצַוֶּה	mtsave
 מְצֹרָע	mtzorah
@@ -16078,6 +16188,7 @@ see מלעיל	milel
 מְקוֹמִי	mkomi
 מְקוֹמוֹת	mkomot
 מְקוֹרִי	mkori
+מְרִיצָה	mritsa
 מְרַבִּי	merabbi
 מְרַגֵּל	meragel
 מְרַגֵל	meragel
@@ -16121,8 +16232,10 @@ see מלעיל	milel
 מְתוּשֶׁלַח	metuselah
 מִ־	mi
 מִבְּרֵאשִׁית	mibereshit
+מִבְדָּק	mivdak
 מִבְדּוֹק יָבֵש	mivdok yavesh
 מִבְחָן	mivkhan
+מִבְטָא	mivta
 מִבְנֶה	mivne
 מִבְצָע	mivtsa
 מִבְצָעִי	mivtsai
@@ -16143,6 +16256,7 @@ see מלעיל	milel
 מִגְדָּל פּוֹרֵחַ בָּאֲוִיר	migdal poreah baavir
 מִגְדָּלָהּ	migdalah
 מִגְדָּר	migdar
+מִגְזָר	migzar
 מִגְלָשׁ	miglash
 מִגְרָעָה	migraa
 מִגְרָשׁ	migrash
@@ -16178,6 +16292,7 @@ see מלעיל	milel
 מִזֵּג	mizeg
 מִזֵּג	mizzeg
 מִזרָקָה	mizraka
+מִחְבָּר	mikhbar
 מִחְיָה	mihya
 מִחוּץ	mikhuts
 מִטְבָּח	mitbakh
@@ -16198,6 +16313,7 @@ see מלעיל	milel
 מִי יִתֵּן	mi yiten
 מִי שִׁפּוּלַיִם	mey shipulayim
 מִיָּד	miyad
+מִיּוּן	miyun
 מִיּוּן	miyyun
 מִידְשִׁיפְּמֶן	midshipman
 מִיהִי	mihi
@@ -16266,6 +16382,7 @@ see מלעיל	milel
 מִכְלוֹל	mikhlol
 מִכְסֶה	mikhse
 מִכְסֶה לֹעַ	mikhse loa
+מִכְרֶה	michre
 מִכְרֶה	mikhre
 מִכְרָה	michra
 מִכְרָהּ	michrah
@@ -16283,9 +16400,11 @@ see מלעיל	milel
 מִלְּבַד	milvad
 מִלְּעֵיל	milel
 מִלְּרַע	milra
+מִלְגָּה	milga
 מִלְחֶמֶת	milkhemet
 מִלְחֶמֶת סַחַר	milkhemetsakhar
 מִלְחָמָה	milkhama
+מִלְכָּה	milka
 מִלִּית	milit
 מִלֵּא	mile
 מִלַּת יַחַס	milat yakhas
@@ -16323,6 +16442,7 @@ see מלעיל	milel
 מִסְכוֹר	miskhor
 מִסְמֵר	mismer
 מִסְמָך	mismakh
+מִסְנָן	misnan
 מִסְעָד	misad
 מִסְעָדָה	misada
 מִסְעָדָוֹת	misadot
@@ -16341,6 +16461,7 @@ see מלעיל	milel
 מִפְּנֵי שֶׁ־	mipnei she
 מִפְּנֵי־	mipnei
 מִפְגָּשִׁים	mifgashim
+מִפְגָּשׁ	mifgash
 מִפְלֶצֶת	mifletset
 מִפְלֶצֶת	mifletzet
 מִפְלַצְתִּי	miflatsti
@@ -16395,12 +16516,15 @@ see מלעיל	milel
 מִקְנֶה	mikne
 מִקְנֶה	miqne
 מִקְצוֹעַ	miktsoa
+מִקְרֶה	mikre
+מִקְרָא	mikra
 מִקְרָאִי	mikrai
 מִקְרָאִי	miqrai
 מִקּוּם	mikum
 מִרְיָם	miryam
 מִרְמָה	mirma
 מִרְעֶה	mire
+מִרְפֵּק	mirpek
 מִרְפֶּסֶת	mirpeset
 מִרְפָּאָה	mirpaa
 מִרְצֶפֶת	mirtsefet
@@ -16417,6 +16541,7 @@ see מלעיל	milel
 מִשְׁוָר	mishvar
 מִשְׁחָה	mishkha
 מִשְׁחָטָה	mishkhata
+מִשְׁטָח	mishtakh
 מִשְׁטָר	mishtar
 מִשְׁטָרָה	mishtara
 מִשְׁטָרָה צְבָאִית	mishtara tsvait
@@ -16426,13 +16551,15 @@ see מלעיל	milel
 מִשְׁכָּב	mishkav
 מִשְׁכָּן	mishkan
 מִשְׁלַח יָד	mishlakh yad
+מִשְׁלַחַת	mishlakhat
 מִשְׁלוֹחַ	mishloakh
 מִשְׁמֵעַ	mishmea
 מִשְׁמֵשׁ	mishmesh
 מִשְׁמֶרֶת	mishmeret
 מִשְׁמֶרֶת כֶּלֶב	mishmerte kelev
 מִשְׁמָר	mishmar
-מִשְׁנֶה [pattern: מִקְטָל]	mishne
+מִשְׁנֵה תוֹרָה	mishne tora
+מִשְׁנֶה	mishne
 מִשְׁנָה	mishna
 מִשְׁנָיוֹת	mishnayot
 מִשְׁעוֹל	mishol
@@ -16446,6 +16573,7 @@ see מלעיל	milel
 מִשְׁפָּטִי	mishpati
 מִשְׁפָּטִים	mishpatim
 מִשְׁקֶפֶת	mishkefet
+מִשְׁקָל	mishkal
 מִשְׁקָל	mishqal
 מִשְׁקָל בֵּינוֹנִי	mishkal benoni
 מִשְׁקָעִים	mishkaim
@@ -16454,6 +16582,7 @@ see מלעיל	milel
 מִשְׁתֶּה	mishte
 מִשְׁתַּמֵּשׁ	mishtamesh
 מִשְׁתַּנֶּה	mishtane
+מִשְׁתָּלָה	mishtala
 מִשְׁתָּנָה	mishtana
 מִשְׂחֲקֵי וִידֵאוֹ	miskhakei video
 מִשְׂחֲקֵי מַחְשֵׁב	miskhakei makhshev
@@ -16471,6 +16600,7 @@ see מלעיל	milel
 מִשׁלַחַת	mishlakhat
 מִשדר	mishdar
 מִתְאַגְרֵף	mitagref
+מִתְאָר	mitar
 מִתְחַסֵּד	mitkhased
 מִתְחָרֶה	mitkhare
 מִתְכַּתֵּב	mitkatev
@@ -16508,7 +16638,6 @@ see מלעיל	milel
 מֵדַלִיָה	medaliya
 מֵזִין	mezin
 מֵזַח	mezakh
-מֵזַח m [pattern: קֵטֶל]	mezakh
 מֵטִיל	metil
 מֵי	me
 מֵי חַמְצָן	me chamtsan
@@ -16548,19 +16677,20 @@ see מלעיל	milel
 מֵצַר סִיצִילְיָה	metzar sitzilya
 מֵקֵל	mekel
 מֵרַב	merav
+מֵרֹאשׁ	merosh
 מֵרוֹץ	merots
 מֵת	met
 מֵתִים	metim
 מֵתוּ	metu
 מֵ״ם	mem
-מֶגֶד m [pattern: קֶטֶל]	meged
+מֶגֶד	meged
 מֶדְיוּם	medyum
 מֶדוּזָה	meduza
 מֶזֶג	mezeg
-מֶזֶג m [pattern: קֶטֶל]	mezeg
 מֶזֶג אֲוִיר	mezegavir
 מֶזֶג־אֲוִיר	mezegavir
 מֶזַח	mezakh
+מֶחְבָּר	mekhbar
 מֶחְלָף	mekhlaf
 מֶחְקָר	mekhkar
 מֶחְקָרִים	mechkarim
@@ -16588,9 +16718,9 @@ see מלעיל	milel
 מֶלְתָּחָה	meltaha
 מֶלֶט	melet
 מֶלֶךְ	melekh
-מֶלֶךְ m [pattern: קֶטֶל]	melekh
+מֶלֶךְ הַחַיּוֹת	melech hahayyot
+מֶלַח	melah
 מֶלַח	melakh
-מֶלַח m [pattern: קֶטֶל]	melah
 מֶלַח יָם	melakh yam
 מֶלַח לִמּוֹן	melach limon
 מֶלַנֶזיה	melanezya
@@ -16601,7 +16731,7 @@ see מלעיל	milel
 מֶמְשָׁלָה	memshala
 מֶמְשָׁלוֹת	memshalot
 מֶסִידוֹר	mesidor
-מֶסֶר m [pattern: קֶטֶל]	meser
+מֶסֶר	meser
 מֶקְסִיקוֹ	meksiko
 מֶקְסִיקוֹ סִיטִי	meksiko siti
 מֶרְחַב תִּמְרוּן	merkhav timrun
@@ -16617,12 +16747,10 @@ see מלעיל	milel
 מֶרְקוּרְיוּס	merkurius
 מֶרִי	meri
 מֶרֶד	mered
-מֶרֶד m [pattern: קֶטֶל]	mered
 מֶרֶס	meres
 מֶרֶץ	merets
-מֶרֶץ m [pattern: קֶטֶל]	merets
 מֶשִׁי	meshi
-מֶשֶׁךְ m [pattern: קֶטֶל]	meshekh
+מֶשֶׁךְ	meshekh
 מֶשֶׁק	meshek
 מֶשֶׁק בַּיִת	mesheq bayit
 מֶתֶג	meteg
@@ -16632,10 +16760,13 @@ see מלעיל	milel
 מַאֲגָר	maagar
 מַאֲדִים	maadim
 מַאֲדִימִי	maadimi
+מַאֲהָל	maahal
 מַאֲזִין	maazin
 מַאֲכֶלֶת	maakhelet
+מַאֲכָל	maakhal
 מַאֲמִין	maamin
 מַאֲמָץ	maamats
+מַאֲמָר	maamar
 מַאֲסָר	maasar
 מַאֲפִיַּת	maafiyat
 מַאֲפִיָּה	maafia
@@ -16648,6 +16779,7 @@ see מלעיל	milel
 מַאיָה	maya
 מַבְּסוּט	mabsut
 מַבְדִּיל	mavdil
+מַבְחֵנָה	mavkhena
 מַבְרְגִים	mavrgim
 מַבְרִיק	mavrik
 מַבְרֵג	mavreg
@@ -16677,6 +16809,7 @@ see מלעיל	milel
 מַדְּעֵי הַמַּחְשֵׁב	madei hamakhshev
 מַדְאִיג	madig
 מַדְבִּיר	madbir
+מַדְגֵּשׁ	madgesh
 מַדְהִים	madhim
 מַדְחֵף	madchef
 מַדְחֹם	madhom
@@ -16709,6 +16842,7 @@ see מלעיל	milel
 מַה שְּׁמוֹ	ma shmo
 מַהְבִּיל	mahabil
 מַהְפְּכָן	mahapkhan
+מַהְפֵּכָה	mahpekha
 מַהְפֵּכָנִי	mahapkhani
 מַהְפָּךְ	mahapach
 מַהְפָּךְ	mahapakh
@@ -16749,6 +16883,7 @@ see מלעיל	milel
 מַחְלָקָה‎ f קָטֵגוֹרְיָה	makhlaka
 מַחְלֹקֶת	makhloket
 מַחְמִיר	makhmir
+מַחְמָד	makhmad
 מַחְמוּד	mahmud
 מַחְסָן	mahsan
 מַחְסָן	makhsan
@@ -16759,6 +16894,7 @@ see מלעיל	milel
 מַחְסוֹר	makhsor
 מַחְפִּיר	mahpir
 מַחְפֵּר	makhper
+מַחְרֵשָׁה	makhresha
 מַחְרוֹזֶת	mahrozet
 מַחְשְׁבוֹן	makhshevon
 מַחְשְׁבוֹן	makhshvon
@@ -16777,16 +16913,16 @@ see מלעיל	milel
 מַחֲנֵה הַשְׁמָדָה	makhane hashmada
 מַחֲנֵה קַיִץ	mahane qayitz
 מַחֲנֶה	mahane
+מַחֲנֶה	makhane
 מַחֲנַיִים \ מַחֲנַיִם	makhanayim
 מַחֲצִית	makhatsit
 מַחֲצֶלֶת	machtzelet
 מַחֲרָאָה	mahraa
 מַחֲרׂזֶת	mahrozet
 מַחֲשָׁבוֹת	makhshavot
+מַחַט	machat
 מַחַט	makhat
-מַחַט f [pattern: קֶטֶל]	machat
 מַחַק	makhak
-מַחַק m [pattern: קֶטֶל]	makhak
 מַחבֵּצָה	makhbetsah
 מַטְאֲטֵא	matate
 מַטְבֵּעַ	matbea
@@ -16794,6 +16930,7 @@ see מלעיל	milel
 מַטְבֵּעַ לָשׁוֹן	matbea lashon
 מַטְחֵנָה	matkhena
 מַטְמוֹן	matmon
+מַטְעֵן	maten
 מַטְקָה	matka
 מַטְקוֹת	matkot
 מַטְרִיוֹשְׁקָה	matriyoshka
@@ -16892,7 +17029,6 @@ see מלעיל	milel
 מַנגִינָה	mangina
 מַנדָרִין	mandarin
 מַס	mas
-מַס m [pattern: קֶטֶל]	mas
 מַס קְנִייָה	mas kniya
 מַסְבִּיר	masbir
 מַסְטִיק	mastik
@@ -16901,6 +17037,7 @@ see מלעיל	milel
 מַסְכִים	maskhim
 מַסְלוּל	maslul
 מַסְמֵר	masmer
+מַסְנֵן	masnen
 מַסְפִּיק	maspik
 מַסְרֵגָה	masrega
 מַסְרֵגוֹת	masregot
@@ -16912,6 +17049,7 @@ see מלעיל	milel
 מַסֵּכָה	masekha
 מַסֶּכְתָּא	masekhta
 מַסֶּכְתָּה	masekhta
+מַסֶּכֶת	masekhet
 מַסָּה	masa
 מַסָּע	masa
 מַסָּקָה	masakah
@@ -16928,6 +17066,7 @@ see מלעיל	milel
 מַעְיָן	mayan
 מַעֲבָּדָה	maabada
 מַעֲבָר	maavar
+מַעֲגַן סָכוּר	maagan sakhur
 מַעֲגָן	maagan
 מַעֲגָנָה	maagana
 מַעֲטֶה	maate
@@ -16946,6 +17085,7 @@ see מלעיל	milel
 מַעֲצָר	maatsar
 מַעֲקֶה	maake
 מַעֲקֶה הַיַּרְכָּתַיִם	maake hayarkatayim
+מַעֲקָב	maakav
 מַעֲרִיב	maariv
 מַעֲרֶכֶת	maarekhet
 מַעֲרֶכֶת הַשֶׁמֶשׁ	maarekhethashemesh
@@ -16974,13 +17114,14 @@ see מלעיל	milel
 מַעֲשֶׂה כֶּשֶׁל	maase keshel
 מַעַרְכוֹן	maarkhon
 מַעַשׂ	maas
-מַעַשׂ m [pattern: קֶטֶל]	maas
 מַפְגִּין	mafgin
+מַפְחִיד	mafkhid
 מַפְטִיר	maftir
 מַפְלִיא	mafli
 מַפְסִידָן	mafsidan
 מַפְסֶלֶת סְתִימָה	mafselet stima
 מַפְעֵם	mafem
+מַפְתֵּחַ	mafteakh
 מַפִּית	mapit
 מַפִיָה	mafiya
 מַפַּאי	mapai
@@ -16989,6 +17130,7 @@ see מלעיל	milel
 מַפַּת	mapat
 מַפָּה	mapa
 מַפָּה	mappa
+מַפָּל	mapal
 מַפָּלָה	mapala
 מַפּוֹת	mapot
 מַפּוּחִית פֶּה	mapukhit pe
@@ -17000,6 +17142,7 @@ see מלעיל	milel
 מַצְלֵמַת־אִינְטֶרְנֶט	matzlematinternet
 מַצְלֵמַת־רֶשֶׁת	matzlemat reshet
 מַצְלֵמָה	matslema
+מַצְלֵמָה	matzlema
 מַצְמֵד	matsmed
 מַצְנֵחַ	matsneakh
 מַצְנֵחַ זָהֹב	matsneakh zahov
@@ -17045,7 +17188,6 @@ see מלעיל	milel
 מַקָּשׁ	makash
 מַקּוֹר	makor
 מַר	mar
-מַר [pattern: קֶטֶל]	mar
 מַרְאִית עַיִן	marit ayin
 מַרְאֶה	mare
 מַרְאָה	mara
@@ -17067,6 +17209,7 @@ see מלעיל	milel
 מַרְצֵעַ	martzea
 מַרְקֶר	marqer
 מַרְשִׁים	marshim
+מַרְתֵּף	martef
 מַרַקַנַאסוֹ	maraqanaso
 מַשְׁאֵבַת חֹם	mashevat khom
 מַשְׁאֵבָה	masheva
@@ -17087,6 +17230,8 @@ see מלעיל	milel
 מַשְׁמָעוּתִי	mashmauti
 מַשְׁקֶה	mashke
 מַשְׁקֶה	mashqe
+מַשְׁקֶה קַל	mashke kal
+מַשְׁקָאוֹת קַלִּים	mashkaot kalim
 מַשְׁרוֹקִית	mashrokit
 מַשְׂכִּיל	maskil
 מַשֶּׁהוּ	mashehu
@@ -17112,6 +17257,7 @@ see מלעיל	milel
 מַתַּכְתִּי	matakhti
 מַתַּן תּוֹרָה	matan tora
 מַתָּי	matai
+מַתָּן	matan
 מַתָּנָה	matana
 מַתָּנוֹת לָאֶבְיֹנִים	matanot laevyonim
 מַתָּת	matat
@@ -17122,6 +17268,7 @@ see מלעיל	milel
 מָאמִי	mami
 מָאצָ׳ה	machah
 מָאתַיִם	matayim
+מָבוֹא	mavo
 מָבוֹךְ	mavokh
 מָג	mag
 מָגֵן	magen
@@ -17142,7 +17289,7 @@ see מלעיל	milel
 מָה לַעֲזָאזֵל	ma laazazel
 מָה פִּתְאוֹם	ma pitom
 מָהִי	mahi
-מָהִיר [pattern: קָטִיל]	mahir
+מָהִיר	mahir
 מָהֵם	mahem
 מָהֵן	mahen
 מָהוּ	mahu
@@ -17169,6 +17316,7 @@ see מלעיל	milel
 מָיוֹנֶז	mayonez
 מָכְרָה	machra
 מָכַר	makhar
+מָכוֹן	makhon
 מָכוּר	machur
 מָל	mal
 מָלִיחַ	maliah
@@ -17216,6 +17364,7 @@ see מלעיל	milel
 מָרְאָה	mara
 מָרְדְּכַי	mordchay
 מָרְדֳּכַי	mordochay
+מָרְתָא	marta
 מָרִיחוּאָנָה	marikhuana
 מָרִיר	marir
 מָרִית	marit
@@ -17232,7 +17381,6 @@ see מלעיל	milel
 מָרוּד	marud
 מָריִוֹ	mario
 מָשִׁיחַ	mashiakh
-מָשִׁיחַ [pattern: קָטִיל]	mashiakh
 מָשַׁח	mashakh
 מָשַׁךְ	mashakh
 מָשַׁל	mashal
@@ -17246,7 +17394,6 @@ see מלעיל	milel
 מָתַי	matai
 מָתַי	matay
 מָתוֹק	matok
-מָתוֹק [pattern: קָטוֹל]	matok
 מֹאזְנַיִם	moznaim
 מֹהַר	mohar
 מֹורַג	morag
@@ -17338,6 +17485,7 @@ see מלעיל	milel
 מאחורי	meakhorei
 מאחורינו	meakhoreinu
 מאחר	meaher
+מאחר	meuhar
 מאי	may
 מאי	mei
 מאין	meayin
@@ -17476,6 +17624,7 @@ see מלעיל	milel
 מגוון	migvan
 מגוון \ מְגַוֵּן	mgaven
 מגוון \ מְגֻוָּן	mguvan
+מגוון \ מִגְוָן	migvan
 מגוחך	megohah
 מגוחך	megukhakh
 מגולף	megulaf
@@ -17725,6 +17874,7 @@ see מלעיל	milel
 מוֹרֵד	mored
 מוֹרֶה	more
 מוֹרֶנָה	morena
+מוֹרָא	mora
 מוֹרָל	moral
 מוֹרָן	moran
 מוֹרָשָׁה	morasha
@@ -17732,6 +17882,7 @@ see מלעיל	milel
 מוֹשְכָה	moshkhah
 מוֹשִׁיעַ	moshia
 מוֹשֵׁל	moshel
+מוֹשָׁב	moshav
 מוֹשָׁבָה	moshava
 מוֹתָר	motar
 מוּאַזִּין	muazin
@@ -17934,6 +18085,8 @@ see מלעיל	milel
 מועצה	moatza
 מועצה אזורית	moatza azorit
 מועצה מקומית	moatza mekomit
+מופה	mupa
+מופה \ מֻפָּה	mupa
 מופע	mofa
 מופרע	mufra
 מופרע \ מֻפְרָע	mufra
@@ -17960,6 +18113,7 @@ see מלעיל	milel
 מוקש	mokesh
 מוקש	mukash
 מור	mor
+מור \ מֹר	mor
 מורא	mora
 מורד	mored
 מורה	more
@@ -17991,6 +18145,7 @@ see מלעיל	milel
 מותג \ מֻתַּג	mutag
 מותק	motek
 מותק	moteq
+מותק \ מֹתֶק	motek
 מותקן	mutkan
 מותקן \ מֻתְקָן	mutkan
 מותר	motar
@@ -18142,6 +18297,7 @@ see מלעיל	milel
 מחילה	mekhila
 מחילה	mkhila
 מחילה \ מְחִילָה	mkhila
+מחילה \ מְחִלָּה	mkhila
 מחיקה	mkhika
 מחיקון	mekhikon
 מחיר	mkhir
@@ -18303,6 +18459,7 @@ see מלעיל	milel
 מיזג	mizeg
 מיזג \ מִזֵּג	mizeg
 מיזוג	mizug
+מיזוג \ מִזּוּג	mizug
 מיזוג אוויר	mizug avir
 מיזוגיניה	mizoginya
 מיזורי	mizuri
@@ -18344,6 +18501,7 @@ see מלעיל	milel
 מייק	maik
 מיכאל	mikael
 מיכאל	mikhael
+מיכאל הקדוש	mikhael hakadosh
 מיכה	mikha
 מיכיה	mikayah
 מיכיהו	mikayahu
@@ -18387,6 +18545,7 @@ see מלעיל	milel
 מימון	mimun
 מימון \ מִמּוּן	mimun
 מימוש	mimush
+מימוש \ מִמּוּשׁ	mimush
 מימי	meme
 מימי	meymi
 מימן	meiman
@@ -18417,6 +18576,8 @@ see מלעיל	milel
 מיסתור	mistor
 מיסתור \ מִסְתּוֹר	mistor
 מיעוט	miut
+מיפה	mipa
+מיפה \ מִפָּה	mipa
 מיפקדה	mifkada
 מיפקדה \ מִפְקָדָה	mifkada
 מיץ	mits
@@ -18851,6 +19012,7 @@ see מלעיל	milel
 מספרי	mispari
 מספריים	misparaim
 מספריים	misparayim
+מספריים \ מִסְפָּרַיִם	misparayim
 מספרים	misparayim
 מספרים	misparim
 מסקנה	maskana
@@ -18979,6 +19141,7 @@ see מלעיל	milel
 מעשה עשוי	maase asuy
 מעשיה	maasiya
 מעשייה	maasiya
+מעשייה \ מַעֲשִׂיָּה	maasiya
 מעשר	maaser
 מעשר ראשון	maaser rishon
 מעשר שני	maaser sheni
@@ -19145,6 +19308,7 @@ see מלעיל	milel
 מקובל \ מְקֻבָּל	mkubal
 מקוה	mikve
 מקווה	mikve
+מקווה \ מִקְוֶה	mikve
 מקוטלג \ מְקֻטְלָג	mkutlag
 מקולל	mekulal
 מקולל	mequlal
@@ -19210,6 +19374,7 @@ see מלעיל	milel
 מראה	mareh
 מראות	marot
 מראית עין	marit ayin
+מראש	merosh
 מרב	merav
 מרבד	marvad
 מרבד קסמים	marvad ksamim
@@ -19447,6 +19612,7 @@ see מלעיל	milel
 משפט אזרחי	mishpat ezrakhi
 משפט זוטא	mishpat zuta
 משפט לגראנז'	mishpat lagranzh
+משפט מבוקע	mispat mevuka
 משפט מוות	mishpatmavet
 משפט מורכב	mishpat murkav
 משפט מחץ	mishpat makhatz
@@ -19459,7 +19625,6 @@ see מלעיל	milel
 משפטים	mishpatim
 משק	meshek
 משקה	mashke
-משקה	mashqe
 משקים	meshakim
 משקיע	mashkia
 משקיעה	mashkia
@@ -19470,6 +19635,7 @@ see מלעיל	milel
 משקף תנודות	mashkef tnudot
 משקפי־שמש	mishkafe shemesh
 משקפיים	mishkafayim
+משקפיים \ מִשְׁקָפַיִם	mishkafayim
 משרד	misrad
 משרד החינוך	misrad hakhinukh
 משרד המשפטים	mishpathamishpatim
@@ -19599,8 +19765,10 @@ see מלעיל	milel
 נְדוּדֵי שֵׁנָה	ndude shena
 נְדוּנְיָה	ndunya
 נְהִיגַת־	nhigat
+נְהִיגָה	nhiga
 נְהַר מִצְרַיִם	nhar mitsrayim
 נְזִילָה	nezila
+נְזִיפָה	nzifa
 נְחִיל	nehil
 נְחִיר	nekhir
 נְחִיר	nkhir
@@ -19610,6 +19778,7 @@ see מלעיל	milel
 נְחֹשֶׁת	nekhoshet
 נְטִיָּה	ntiya
 נְטִילַת יָדַיִים	ntilat yadayim
+נְטִילָה	ntilah
 נְיַר לֶטֶשׁ	nyar letesh
 נְיוּ דֶּלְהִי	nyu delhi
 נְיוּ זִילַנְד	niu ziland
@@ -19622,6 +19791,7 @@ see מלעיל	milel
 נְכֹאת	nekot
 נְכוֹנָה	nekhona
 נְמִיָּה	nemiya
+נְמֵרָה	nmera
 נְמַל פְּקִידָה	nemal pkida
 נְמָלָה	nemala
 נְמָלָה	nmala
@@ -19630,6 +19800,7 @@ see מלעיל	milel
 נְסִיכוּת אַנְדּוֹרָה	nesikut andora
 נְסִיכוּת לִיכְטֶנְשְׁטַיְן	nesikut lichenstein
 נְסִיכוּת מוֹנָקוֹ	nesichut monako
+נְסִיעָה	nsia
 נְעִימַת נוֹשֵׂא	neimat nose
 נְעִימָה	neima
 נְעִימוֹן	neimon
@@ -19639,8 +19810,10 @@ see מלעיל	milel
 נְעֹרֶת	neoret
 נְעוּרִים	neurim
 נְעוּרִים	nurim
+נְפִילָה	nfila
 נְפָשׁוֹת	nfashot
 נְצִיב	netsiv
+נְקֵבָה	nkeva
 נְקָמָה	nekama
 נְקָמָה	nkama
 נְקֻדַּת בִּקֹּרֶת	nkudat biqoret
@@ -19648,6 +19821,7 @@ see מלעיל	milel
 נְקֻדָּה	nequda
 נְקֻדָּה	nkuda
 נְקֻדּוֹת	nekudot
+נְשִׁיכָה	neshikha
 נְשִׁימָה	nshima
 נְשִׁיפָה	nshifa
 נְשִׁיקָה	neshika
@@ -19689,7 +19863,6 @@ see מלעיל	milel
 נִדְרַס	nidras
 נִדַּת	nidat
 נִדָּה	nida
-נִדָּה [pattern: קִטְלָה]	nida
 נִדּוֹת	nidot
 נִהְיָה	nihya
 נִהֵל	niheil
@@ -19717,6 +19890,7 @@ see מלעיל	milel
 נִיהִילִיסְט	nihilist
 נִיחוֹחַ	nihoah
 נִיטְשֶׁה	nitshe
+נִיכּוּר \ נִכּוּר	nikoor
 נִילוּס	nilus
 נִים	nim
 נִימוּס	nimus
@@ -19751,6 +19925,7 @@ see מלעיל	milel
 נִמְלַךְ	nimlakh
 נִמְנַע	nimna
 נִמְצָא	nimtsa
+נִמְרָשׁ	nimrash
 נִמְרוֹד	nimrod
 נִמְשַׁךְ	nimshach
 נִמְשַׁךְ	nimshakh
@@ -19776,6 +19951,7 @@ see מלעיל	milel
 נִפְשַׁט	nifshat
 נִפְתַּח	niftakh
 נִצְחִי	nitzhi
+נִצְרָה	nitsra
 נִצִּים	nitsim
 נִצֵּחַ	nitseakh
 נִצֵּי־	nitsei
@@ -19793,6 +19969,8 @@ see מלעיל	milel
 נִקְרָא	nikra
 נִקְרָה	nikra
 נִקְרוֹת	nikrot
+נִקָּה	nika
+נִקּוּב	nikuv
 נִרְאֶה	nire
 נִרְאָה	nira
 נִרְגַּע	nirga
@@ -19827,16 +20005,14 @@ see מלעיל	milel
 נִתְקַל	nitkal
 נִתּוּחַ שְׁקֵדִים	nituakh shakedim
 נֵאוֹ־נָאצִיזְם	neonatsizm
-נֵבֶל m [pattern: קֵטֶל]	nevel
+נֵבֶל	nevel
 נֵזֶר	nezer
-נֵזֶר m [pattern: קֵטֶל]	nezer
-נֵטֶל m [pattern: קֵטֶל]	netel
+נֵטֶל	netel
 נֵיטרוֹן	neitron
 נֵכָר	nekar
 נֵלְכָה	nelcha
 נֵס	nes
 נֵס	ness
-נֵס m [pattern: קֵטֶל]	nes
 נֵעוֹר	neor
 נֵפְט	neft
 נֵפְטְ	neft
@@ -19844,10 +20020,9 @@ see מלעיל	milel
 נֵץ	nets
 נֵץ	netz
 נֵץ חָלָב	netz halav
+נֵצֶר	netser
 נֵצֶר	netzer
-נֵצֶר m [pattern: קֵטֶל]	netser
 נֵצַח	netzakh
-נֵצַח [pattern: קֵטֶל]	netzakh
 נֵר	ner
 נֵר תָּמִיד	ner tamid
 נֵרְדְּ	nerd
@@ -19876,9 +20051,7 @@ see מלעיל	milel
 נֶבֶט	nevet
 נֶגְרוֹנִי	negroni
 נֶגֶב	negev
-נֶגֶב m [pattern: קֶטֶל]	negev
 נֶגֶד	neged
-נֶגֶד [pattern: קֶטֶל]	neged
 נֶדֶר	neder
 נֶהֱגָה	nehega
 נֶהֱדֶרֶת	nehederet
@@ -19904,31 +20077,27 @@ see מלעיל	milel
 נֶחָמָה	nekhama
 נֶחָת	nekhat
 נֶטַע	neta
+נֶכְדָּה	nekhda
 נֶכְדָּה	nekhdah
 נֶכֶד	nekhed
-נֶכֶד m [pattern: קֶטֶל]	nekhed
 נֶכֶס	nekhes
 נֶעֱלַם	neelam
 נֶעֱנַשׁ	neenash
 נֶעֱצַר	neetsar
 נֶפֶשׁ	nefesh
-נֶפֶשׁ f [pattern: קֶטֶל]	nefesh
 נֶפַח	nefakh
 נֶפָּאל	nepal
 נֶפּוֹטִיזְם	nepotizm
 נֶפטוּן	neptun
 נֶצַח	netzakh
-נֶצַח m [pattern: קֶטֶל]	netzakh
 נֶקֶב	nekev
 נֶשֶׁךְ	neshekh
 נֶשֶׁל	neshel
 נֶשֶׁף	neshef
 נֶשֶׁף מַסֵּכוֹת	neshef masekhot
 נֶשֶׁק	nesheq
-נֶשֶׁק m [pattern: קֶטֶל]	nesheq
 נֶשֶׁק גַּרְעִינִי	neshek garini
 נֶשֶׁר	nesher
-נֶשֶׁר m [pattern: קֶטֶל]	nesher
 נַ נַחְ	na nakh
 נַאפּוֹלִי	napoli
 נַבּוּט	nabut
@@ -19943,7 +20112,7 @@ see מלעיל	milel
 נַדְנֵדָה	nadneda
 נַהָג	nahag
 נַהָג	nehag
-נַוָּט	navvat
+נַוָּט \ נווט	navvat
 נַוָּטוּת	navatut
 נַזֶּלֶת	nazelet
 נַזַּלְתִּי	nazalti
@@ -19952,8 +20121,7 @@ see מלעיל	milel
 נַחֲלָה	nakhala
 נַחֶתֶת	nakhetet
 נַחַל	nakhal
-נַחַל m [pattern: קֶטֶל]	nakhal
-נַחַשׁ m [pattern: קֶטֶל]	nakhash
+נַחַשׁ	nakhash
 נַחַת	nakhat
 נַחַ״ל	nakhal
 נַחָת	nakhat
@@ -20019,7 +20187,6 @@ see מלעיל	milel
 נָגַע	naga
 נָדִיב	nadiv
 נָדִיר	nadir
-נָדִיר [pattern: קָטִיל]	nadir
 נָדַד	nadad
 נָדָל	nadal
 נָדָן	nadan
@@ -20027,6 +20194,7 @@ see מלעיל	milel
 נָהַר	nahar
 נָהָר	nahar
 נָהוּג	nahug
+נָזִיד	nazid
 נָזִיר	nazir
 נָזַף	nazaf
 נָח	nakh
@@ -20038,6 +20206,7 @@ see מלעיל	milel
 נָחָשׁ בָּרִיחַ	nahash bariah
 נָחוּץ	nahuts
 נָחוּת	nakhut
+נָטִיף	natif
 נָטַל	natal
 נָטַע	nata
 נָטַר	natar
@@ -20060,16 +20229,17 @@ see מלעיל	milel
 נָס	nas
 נָסִיךְ	nasich
 נָסִיךְ	nasik
+נָסִיךְ	nasikh
 נָסַע	nasa
 נָסוּךְ	nasukh
 נָע	na
 נָעֲלָה	naala
 נָעֳמִי	noomi
 נָעִים	naim
-נָעִים [pattern: קָטִיל]	naim
 נָעַל	naal
 נָעַם	naam
 נָעַר	naar
+נָפִיל	fallen one
 נָפִיל	nafil
 נָפַח	nafakh
 נָפַל	nafal
@@ -20108,7 +20278,7 @@ see מלעיל	milel
 נָתַן	natan
 נָתָן	natan
 נֹגְשָׂיו	nogsav
-נֹגַהּ m [pattern: קֹטֶל]	nogah
+נֹגַהּ	nogah
 נֹחַ	noakh
 נֹפֶךְ	nofech
 נֻבָּא	nuba
@@ -20176,6 +20346,7 @@ see מלעיל	milel
 נביאים	nviim
 נביחה	nevikha
 נבילה	nveila
+נבילה \ נְבֵלָה	nveila
 נבך	nebekh
 נבל	naval
 נבל	nevel
@@ -20381,6 +20552,7 @@ see מלעיל	milel
 נועזת	noezet
 נוף	nof
 נופש	nofesh
+נופש \ נֹפֶשׁ	nofesh
 נוצה	notsa
 נוצר	notsar
 נוצרי	notsri
@@ -20474,7 +20646,6 @@ see מלעיל	milel
 נטייה מינית	ntiya minit
 נטילה	ntilah
 נטילת ידיים	ntilat yadayim
-נטיף	netif
 נטישה	netisha
 נטל	natal
 נטל	netel
@@ -20501,10 +20672,13 @@ see מלעיל	milel
 ניבא \ נִבָּא	niba
 ניגוד	nigud
 ניגון	nigun
+ניגון \ נִגּוּן	nigun
 ניגן	nigen
 ניגן \ נִגֵּן	nigen
 ניגש	nigash
 ניגש \ נִגַּשׁ	nigash
+נידה	nida
+נידה \ נִדָּה	nida
 נידוי \ נִדּוּי	niduy
 נידון	nidon
 נידון \ נִדּוֹן	nidon
@@ -20579,6 +20753,7 @@ see מלעיל	milel
 ניסיוני	nisyoni
 ניסן	nisan
 ניסר	niser
+ניסר \ נִסֵּר	niser
 ניער	nier
 ניפה	nipa
 ניפה \ נִפָּה	nipa
@@ -20596,6 +20771,7 @@ see מלעיל	milel
 ניצול	nitsol
 ניצול	nitsul
 ניצול \ נִצּוֹל	nitsol
+ניצול \ נִצּוּל	nitsul
 ניצוץ	nitsots
 ניצח	nitseakh
 ניצח \ נִצֵּחַ	nitseakh
@@ -20990,6 +21166,7 @@ see מלעיל	milel
 סְטְרוֹנְצְיוּם	strontsiyum
 סְטִיבָדוֹר	stivador
 סְטִירַת	stirat
+סְטִירָה	stira
 סְטִירוֹת	stirot
 סְטֵפָה	stefa
 סְטֶנְדְּאָפּ	stendap
@@ -21021,6 +21198,7 @@ see מלעיל	milel
 סְלָאבִי	slavi
 סְלָח לִי	slah li
 סְלוֹבֶנְיָה	sloveniya
+סְלוֹבֶנִי	sloveni
 סְלוֹבַקְיָה	slovakiya
 סְלוֹבַקְיָה	slovakya
 סְלוֹגֶן	slogen
@@ -21028,6 +21206,7 @@ see מלעיל	milel
 סְמִיכָה	smikha
 סְמִיכוּת	smikhut
 סְמֵרְגוֹסְבּוּרְד	smergosburd
+סְמַרְטוּט	smartut
 סְמוֹל טוֹק	smol tok
 סְנִיף	snif
 סְנֶה	sne
@@ -21039,6 +21218,7 @@ see מלעיל	milel
 סְעִיף	seif
 סְעָרָה	sara
 סְעָרָה	seara
+סְעוּדָה	suda
 סְעוּדָה \ סְעֻדָּה	suda
 סְפְּרַיִּיט	sprayt
 סְפִּינֵקֶר	spineker
@@ -21053,6 +21233,7 @@ see מלעיל	milel
 סְפִינַת נָהָר	sfinat nahar
 סְפִינַת שַׁעֲשׁוּעִים	sfinat shaashuim
 סְפִינָה	sfina
+סְפִירָה	sfira
 סְפִירוֹת	sfirot
 סְפֵקוֹת	sfekot
 סְפֶּקְטְרוּם	spektrum
@@ -21080,6 +21261,7 @@ see מלעיל	milel
 סְקוֹפְּיֶה	skufyah
 סְרִי לַנְקָה	sri lanka
 סְרָק	srak
+סְתִירָה	stira
 סְתָו	stav
 סְתָם	stam
 סְתָם אֶחָד	stam ekhad
@@ -21092,6 +21274,7 @@ see מלעיל	milel
 סִּירֵנה	sirena
 סִבְּסֵד	sibsed
 סִבּוּבִים	sibuvim
+סִגְנוֹן	signon
 סִדְרַת	sidrat
 סִדְרָה	sidra
 סִוֵּג	sivveg
@@ -21183,26 +21366,22 @@ see מלעיל	milel
 סִפּוּן תּוֹתָחִים	sipun totakhim
 סִפּוּרֵי סָבְתָא	sippurey savta
 סִקְרֵן	sikren
+סִרְטֵן	sirten
 סִרְטוֹן	sirton
 סִתְוָנִית	sitvanit
 סֵבֶל	sevel
 סֵבֶר	sever
 סֵדֶר	seder
-סֵדֶר m [pattern: קֵטֶל]	seder
 סֵדֶר גֹּדֶל	seder godel
 סֵדֶר יוֹם	seder yom
 סֵדֶר־יוֹם	sederyom
 סֵמֶל	semel
-סֵמֶל m [pattern: קֵטֶל]	semel
 סֵמֶסְטֶר	semester
 סֵפֶל	sefel
-סֵפֶל f [pattern: קֵטֶל]	sefel
 סֵפֶר	sefer
-סֵפֶר m [pattern: קֵטֶל]	sefer
 סֵפֶר בְּרֵאשִׁית	sefer bereshit
 סֵפֶר כִּיס	sefer kis
 סֵפֶר לִמוּד	sefer limud
-סֵפֶר לִמוּד	seifer limud
 סֵפֶר קִינוֹת	sefer kinot
 סֵרֵק	serek
 סֵרֵק	sereq
@@ -21211,14 +21390,12 @@ see מלעיל	milel
 סֶגֶל	segel
 סֶגֶן	segen
 סֶגֶר	seger
-סֶגֶר m [pattern: קֶטֶל]	seger
 סֶגָה	sega
 סֶגּוֹל	segol
 סֶגוֹל	segol
 סֶדֶק	sedeq
-סֶכֶל m [pattern: קֶטֶל]	sekhel
+סֶכֶל	sekhel
 סֶכֶר	sekher
-סֶכֶר m [pattern: קֶטֶל]	sekher
 סֶלְפִי	selfi
 סֶלֶב	seleb
 סֶלֶק	selek
@@ -21232,18 +21409,16 @@ see מלעיל	milel
 סֶקְס	seks
 סֶקְסִי	seksi
 סֶקְסוּאָלִי	seksuali
-סֶקֶר m [pattern: קֶטֶל]	seker
+סֶקֶר	seker
 סֶרְבְּיָה	serbiya
 סֶרְבּוֹ־קְרוֹאָטִית	serbokroatit
 סֶרֶט	seret
-סֶרֶט m [pattern: קֶטֶל]	seret
 סֶרֶט דְּיוֹ	seret dyo
 סֶרֶט מַגְנֵטִי	seret magneti
 סֶרֶט־קוֹלְנוֹעַ	seretkolnoa
 סֶרֶן	seren
-סֶרֶן m [pattern: קֶטֶל]	seren
 סֶרֶנָדָה	serenada
-סֶתֶם m [pattern: קֶטֶל]	setem
+סֶתֶם	setem
 סַב	sav
 סַבְּרֶה	sabre
 סַבְיוֹן	savyon
@@ -21287,7 +21462,6 @@ see מלעיל	milel
 סַלְתָּנִית	saltanit
 סַלְתָּנִית	sultanit
 סַם	sam
-סַם m [pattern: קֶטֶל]	sam
 סַם פֶּלֶא	sam pele
 סַמְכוּת	samkhut
 סַמְכוּתִי	samkhuti
@@ -21304,7 +21478,6 @@ see מלעיל	milel
 סַנְקְצְיָה	sanktsya
 סַסְגּוֹנִי	sasgoni
 סַף	saf
-סַף m [pattern: קֶטֶל]	saf
 סַפְנָה	safnah
 סַפְסַל	safsal
 סַפְסָל	safsal
@@ -21385,7 +21558,7 @@ see מלעיל	milel
 סָס	sas
 סָעַד	saad
 סָעוּדְיָה	saudya
-סָפִיר [pattern: קָטִיל]	safir
+סָפִיר	safir
 סָפֵק	safek
 סָפֵק	safeq
 סָפַג	safag
@@ -21470,6 +21643,7 @@ see מלעיל	milel
 סגול \ סָגֹל	sagol
 סגולה	segulla
 סגולה	sgula
+סגולה \ סְגֻלָּה	segulla
 סגולה \ סְגֻלָּה	sgula
 סגוליות \ סְגֻלִּיּוּת	sguliyut
 סגור	sagur
@@ -21683,6 +21857,7 @@ see מלעיל	milel
 סופרסטאר	superstar
 סופרפוזיציה	superpozitsya
 סופש	sofas
+סופש	sofash
 סופ״ש	sofash
 סוציאל דמוקרט	sotsial demokrat
 סוציאליזם	sotsyalizm
@@ -21713,6 +21888,7 @@ see מלעיל	milel
 סחר	sakhar
 סחרוף	sakharof
 סחרחורת	skharkhoret
+סחרחורת \ סְחַרְחֹרֶת	skharkhoret
 סט	set
 סטאלין	stalin
 סטארבקס	starbaks
@@ -21771,6 +21947,7 @@ see מלעיל	milel
 סיגריה	sigarya
 סידור	sidoor
 סידור	sidur
+סידור \ סִדּוּר	sidur
 סידן	sidan
 סידר	saider
 סידר	sider
@@ -21804,6 +21981,7 @@ see מלעיל	milel
 סיכוי	sikui
 סיכוי \ סִכּוּי	sikui
 סיכוך	sikukh
+סיכוך \ סִכּוּךְ	sikukh
 סיכון	sikun
 סיכון \ סִכּוּן	sikun
 סיכך	sikekh
@@ -21811,6 +21989,7 @@ see מלעיל	milel
 סיכל	sikel
 סיכל \ סִכֵּל	sikel
 סיכם	sikem
+סיכם \ סִכֵּם	sikem
 סיכן	siken
 סיכן \ סִכֵּן	siken
 סיכר	siker
@@ -21864,6 +22043,7 @@ see מלעיל	milel
 סיעת	siat
 סיף	sayif
 סיפוח	sipuach
+סיפוח \ סִפּוּחַ	sipuach
 סיפוח \ סִפּוּחַ	sipuakh
 סיפון	sifon
 סיפור	sipur
@@ -21888,6 +22068,7 @@ see מלעיל	milel
 סירב \ סֵרֵב	serev
 סירה	sira
 סירוב	seruv
+סירוב \ סֵרוּב	seruv
 סירוס	sirus
 סירס	seres
 סירת פדלים	sirat pedalim
@@ -22273,6 +22454,11 @@ see מלעיל	milel
 עֲקִיבָא	akiva
 עֲקִיבָא	aqiba
 עֲקִימָה	aqima
+עֲקִיצָה	akitsa
+עֲרִיכַת דִּין	arikhat din
+עֲרִיכַת דִין	arikhat din
+עֲרִיכַת־דִין	arikhatdin
+עֲרִיכָה	arikha
 עֲרִיכוֹת	arikhot
 עֲרִיסָה	arisa
 עֲרִיקָה	ariqa
@@ -22353,22 +22539,19 @@ see מלעיל	milel
 עִתָּהּ	itah
 עִתּוֹנַאי	itonai
 עִתּוֹנָאִי	itonai
-עֵבֶר m [pattern: קֵטֶל]	ever
+עֵבֶר	ever
 עֵבֶר הַיַּרְדֵּן	ever hayarden
-עֵגֶל m [pattern: קֵטֶל]	egel
+עֵגֶל	egel
 עֵד	ed
 עֵד שְׁמִיעָה	edshmia
 עֵדִים	edim
 עֵדֶן	eden
 עֵדֶר	eder
-עֵדֶר m [pattern: קֵטֶל]	eder
 עֵדָה	eda
 עֵדוּת	edut
 עֵז	ez
-עֵז f [pattern: קֵטֶל]	ez
-עֵזֶר m [pattern: קֵטֶל]	ezer
+עֵזֶר	ezer
 עֵט	et
-עֵט m [pattern: קֵטֶל]	et
 עֵיטָם	eitam
 עֵיטָם	eytam
 עֵיטָם לְבֶן־גָּחוֹן	eitam lvengakhon
@@ -22381,7 +22564,6 @@ see מלעיל	milel
 עֵירוֹם	erom
 עֵלִי	eli
 עֵמֶק	emek
-עֵמֶק m [pattern: קֵטֶל]	emek
 עֵמֶק הַפּוֹ	emek hapo
 עֵנָב	enav
 עֵסֶק	esek
@@ -22394,22 +22576,20 @@ see מלעיל	milel
 עֵץ־אַגָּס	eitzagas
 עֵצִים	etsim
 עֵצָה	eitsa
-עֵקֶב [pattern: קֵטֶל]	ekev
+עֵקֶב	ekev
 עֵר	er
 עֵרֶב	erev
-עֵרֶב m [pattern: קֵטֶל]	erev
 עֵרֶך	erekh
-עֵרֶךְ m [pattern: קֵטֶל]	erekh
+עֵרֶךְ	erekh
+עֵרָבוֹן	eravon
 עֵרָנִי	erani
 עֵרוּב	eruv
 עֵשֶׂב	esev
-עֵשֶׂב m [pattern: קֵטֶל]	esev
 עֵשָׂו	esav
 עֵשָׂו	esaw
 עֵת	et
-עֵת f [pattern: קֵטֶל]	et
+עֶבְרָה	evra
 עֶבֶד	eved
-עֶבֶד m [pattern: קֶטֶל]	eved
 עֶדְנָה	edna
 עֶזְרָא	ezra
 עֶזְרָה	ezra
@@ -22418,21 +22598,18 @@ see מלעיל	milel
 עֶלְבּוֹן	elbon
 עֶלְיוֹן	elyon
 עֶלְיוֹנוּת	elyonut
-עֶלֶם m [pattern: קֶטֶל]	elem
+עֶלֶם	elem
 עֶמְדָּה	emda
 עֶנֶד	ened
 עֶפְרוֹנִי	efroni
 עֶפְרוֹנוֹת	efronot
 עֶצֶב	etsev
 עֶצֶם	etsem
-עֶצֶם m [pattern: קֶטֶל]	etsem
 עֶרְוָה	erva
 עֶרֶב	erev
-עֶרֶב m [pattern: קֶטֶל]	erev
 עֶרֶב טוֹב	erev tov
 עֶרֶב פֶּסַח	erev pesach
 עֶרֶשׂ	eres
-עֶרֶשׂ m [pattern: קֶטֶל]	eres
 עֶשְׂרִים	esrim
 עֶשְׂרֵה	esre
 עֶשֶׂר	eser
@@ -22454,14 +22631,12 @@ see מלעיל	milel
 עַד מָתַי	ad matay
 עַדְכָּנִי	adkani
 עַדֶּן	aden
-עַז [pattern: קֶטֶל]	az
+עַז	az
 עַזָּה	aza
 עַזָּתִי	azati
 עַיִט	ayit
-עַיִט m [pattern: קֶטֶל]	ayit
 עַיִט זָהוּב	ayit zahuv
 עַיִן	ayin
-עַיִן f [pattern: קֶטֶל]	ayin
 עַיִן הָרַע	ayin hara
 עַיִר	ayir
 עַיִשׁ	ayish
@@ -22481,6 +22656,7 @@ see מלעיל	milel
 עַכּוּז	akuz
 עַכּוּ״ם	akum
 עַל	al
+עַל גּוּפָתִי הַמֵתָה	al gufati hameta
 עַל יַד	al yad
 עַל יַד־	al yad
 עַל כֵּן	al ken
@@ -22498,7 +22674,6 @@ see מלעיל	milel
 עַל־פִּי	al pi
 עַל־פִּי	alpi
 עַם	am
-עַם m [pattern: קֶטֶל]	am
 עַם הָאָרֶץ	am haarets
 עַם יִשְׂרָאֵל	am yisrael
 עַמְבָּה	amba
@@ -22531,6 +22706,7 @@ see מלעיל	milel
 עַקָּב	aqav
 עַרְבִית	arvit
 עַרְבֵי	arve
+עַרְמוֹן	armon
 עַרְמוֹנִי	armoni
 עַרְס	ars
 עַרְסָל	arsal
@@ -22595,7 +22771,6 @@ see מלעיל	milel
 עָלוּל	alul
 עָמִיר	amir
 עָמִית	amit
-עָמִית [pattern: קָטִיל]	amit
 עָמַד	amad
 עָמַק	amak
 עָמָל	amal
@@ -22654,7 +22829,6 @@ see מלעיל	milel
 עָרוּץ	aruts
 עָשִׁים	ashim
 עָשִׁיר	ashir
-עָשִׁיר [pattern: קָטִיל]	ashir
 עָשָׁן	ashan
 עָשָׂה	asa
 עָשָׂה אֶת שֶׁלּוֹ	asa et shelo
@@ -22668,7 +22842,6 @@ see מלעיל	milel
 עָשׂוּ	asu
 עָשׂוּי	asuy
 עָתִיד	atid
-עָתִיד [pattern: קָטִיל]	atid
 עָתִיק	atiq
 עָתֵק	atek
 עֹבֶשׁ	ovesh
@@ -22680,8 +22853,8 @@ see מלעיל	milel
 עֹל	ol
 עֹלָם	olam
 עֹמֶר	omer
-עֹנִי m [pattern: קֹטֶל]	oni
-עֹנֶג m [pattern: קֹטֶל]	oneg
+עֹנִי	oni
+עֹנֶג	oneg
 עֹפֶר	ofer
 עֹקֶץ	oqetz
 עֹרֵב	orev
@@ -22739,6 +22912,7 @@ see מלעיל	milel
 עבות	avot
 עבות \ עָבֹת	avot
 עבירה	avera
+עבירה \ עֲבֵרָה	avera
 עבר	avar
 עבר	ever
 עבר	ubar
@@ -22820,6 +22994,7 @@ see מלעיל	milel
 עוֹף דּוֹרֵס	of dores
 עוֹף חוֹל	of hol
 עוֹף חוֹל	of khol
+עוֹף מוּזָר	of muzar
 עוֹפְפוּת	offut
 עוֹפֶרֶת	oferet
 עוֹפוֹת	ofot
@@ -22877,11 +23052,13 @@ see מלעיל	milel
 עוד מעט	od mat
 עודד	oded
 עודף	odef
+עודף \ עֹדֶף	odef
 עווית	avit
 עווית \ עֲוִית	avit
 עוון	avon
 עוון \ עָוֺן	avon
 עוז	oz
+עוז \ עֹז	oz
 עוזי	uzi
 עוזר	ozer
 עוזר בכיר	ozer bakhir
@@ -22904,20 +23081,22 @@ see מלעיל	milel
 עומק	omek
 עומק \ עֹמֶק	omek
 עומר	omer
+עומר \ עֹמֶר	omer
 עונג	oneg
 עונג \ עֹגֶג	oneg
 עונג \ עֹנֶג	oneg
 עונה	ona
 עונש	onesh
+עונש \ עֹנֶשׁ	onesh
 עונת המלפפונים	onat hamelafefonim
 עוף	of
 עוף	uf
-עוף \ עוֹף	of
 עוף דורס	of dores
 עוף חול	of khol
 עוף מפה	uf mipo
 עופות	ofot
 עופר	ofer
+עופר \ עֹפֶר	ofer
 עופרת	oferet
 עוץ	uts
 עוצמה	otsma
@@ -22955,6 +23134,7 @@ see מלעיל	milel
 עושר \ עֹשֶׁר	osher
 עות	ot
 עותק	otek
+עותק \ עֹתֶק	otek
 עז	az
 עז	ez
 עז	oz
@@ -22988,6 +23168,7 @@ see מלעיל	milel
 עיבוד	ibud
 עיבוי בוז-איינשטיין	ibuy bozainstain
 עיגול	igul
+עיגול \ עִגּוּל	igul
 עיגל	igel
 עיגל \ עִגֵּל	igel
 עיגל פינות	igel pinot
@@ -23050,6 +23231,7 @@ see מלעיל	milel
 עיצב \ עִצֵּב	itsev
 עיצוב	itsuv
 עיצוב	ytzuv
+עיצוב \ עִצּוּב	itsuv
 עיצום	itsum
 עיצור	itsur
 עיצור \ עִצּוּר	itsur
@@ -23367,15 +23549,16 @@ see מלעיל	milel
 ערוגה	aruga
 ערוה	erva
 ערווה	erva
+ערווה \ עֶרְוָה	erva
 ערוך	arukh
 ערוך בטבל	aron vtavel
 ערום	arom
 ערום	arum
 ערום \ עָרֹם	arom
 ערוץ	aruts
-ערוץ	arutz
 עריכה	arikha
 עריכות	arikhot
+עריכת דין	arikhatdin
 ערים	arim
 עריסה	arisa
 עריפה	arifa
@@ -23493,6 +23676,7 @@ see מלעיל	milel
 פְּלַטְפוֹרְמָה	platforma
 פְּלַסְטֶר	plaster
 פְּלָג	plag
+פְּלָדָה	plada
 פְּלָטַת שַׁבָּת	platat shabat
 פְּלָטָה	plata
 פְּלָסְטִיק	plastik
@@ -23523,6 +23707,8 @@ see מלעיל	milel
 פְּעִילָה	peila
 פְּעִילוֹת	pilot
 פְּעִילוּת	peilut
+פְּעִילוּת	pilut
+פְּעִימָה	peima
 פְּעַלְתָּן	paltan
 פְּעָלִים	pealim
 פְּצִיעָה	ptsia
@@ -23535,7 +23721,6 @@ see מלעיל	milel
 פְּקָקִים	pkakim
 פְּקֻדּה	pkuda
 פְּרִי	pri
-פְּרִי m [pattern: קֶטֶל]	pri
 פְּרִי הָדָר	pri hadar
 פְּרִי־אַגָּס	priagas
 פְּרִיבִילֶגְיָה	privilegya
@@ -23577,7 +23762,8 @@ see מלעיל	milel
 פְּרוּסָה	prusa
 פְּרוּשִׁי	prushi
 פְּשִׁיטַת־רֶגֶל	pshitatregel
-פְּשַׁט m [pattern: קְטָל]	pshat
+פְּשִׁיעָה	pshia
+פְּשַׁט	pshat
 פְּשָׁרָה	pshara
 פְּתִית	ptit
 פְּתֵכָה	ptekha
@@ -23617,10 +23803,12 @@ see מלעיל	milel
 פִּיגָ׳מָה	pijama
 פִּיהוּ	pihu
 פִּיו	piv
+פִּיחַ	piach
 פִּיךְ	pich
 פִּיךָ	picha
 פִּיל	pil
 פִּיל לָבָן	pil lavan
+פִּילֶגֶשׁ	pileges
 פִּילֶגֶשׁ	pilegesh
 פִּילַגְשִׁים	pilagshim
 פִּילַגְשׁוּת	pilagshut
@@ -23645,6 +23833,7 @@ see מלעיל	milel
 פִּירָטִיוּת	piratiyut
 פִּירָמִידָה	piramida
 פִּירוֹטֶכְנִיקָה	pirotekhnika
+פִּישּׁוּט \ פִּשּׁוּט	pishut
 פִּישׁוֹן	pishon
 פִּיתָה	pita
 פִּלְאִי	pili
@@ -23655,11 +23844,12 @@ see מלעיל	milel
 פִּלְפֵּל שָׁחֹר	pilpel shachor
 פִּלְפֵּל שָׁחֹר	pilpel shakhor
 פִּלְפֶּלֶת	pilpelet
-פִּלֶגֶשׁ	pileges
+פִּלְפּוּל	pilpul
 פִּנְקָס	pinkas
 פִּסְּחִים	piskhim
 פִּסְגָּה	pisga
 פִּסְקָא	piska
+פִּסְקָה	piska
 פִּסֵּחַ	piseakh
 פִּסֵּק	pisek
 פִּסּוּל	pisul
@@ -23685,6 +23875,7 @@ see מלעיל	milel
 פִּתְאוֹמִי	pitomi
 פִּתְגָּם	pitgam
 פִּתְחָה	pitkha
+פִּתְרוֹן	pitron
 פִּתֵּחַ	piteakh
 פִּתּוּחַ	pituakh
 פִֿיזִיקָה	fizika
@@ -23721,11 +23912,11 @@ see מלעיל	milel
 פֵּרוֹת	perot
 פֵּרוּ	peru
 פֵּרוּר	perur
-פֵּשֶׁר m [pattern: קֵטֶל]	pesher
+פֵּשֶׁר	pesher
 פֵיָה	feya
 פֵמִינָאצִית	feminatsit
 פֶּגֶר	peger
-פֶּגַע m [pattern: קֶטֶל]	pega
+פֶּגַע	pega
 פֶּדֶרַסְטְיָה	pederastya
 פֶּה	pe
 פֶּה אֶחָד	pe ekhad
@@ -23734,16 +23925,12 @@ see מלעיל	milel
 פֶּטְרַארְקָה	petrarka
 פֶּטְרוֹזִילְיָה	petrozilya
 פֶּטֶל	petel
-פֶּטֶל m [pattern: קֶטֶל]	petel
 פֶּטֶל אָדֹם	petel adom
 פֶּטֶל שָׁחֹר	petel shakhor
 פֶּטֶר	peter
 פֶּלֶא	pele
-פֶּלֶא m [pattern: קֶטֶל]	pele
 פֶּלֶאפוֹן	pelefon
 פֶּלֶג	peleg
-פֶּלֶג [pattern: קֶטֶל]	peleg
-פֶּלֶג m [pattern: קֶטֶל]	peleg
 פֶּלֶט	pelet
 פֶּלֶך	pelekh
 פֶּלֶךְ	pelech
@@ -23757,47 +23944,41 @@ see מלעיל	milel
 פֶּנִיצִילִין	penitsilin
 פֶּסְטוֹ	pesto
 פֶּסֶל	pesel
-פֶּסֶל m [pattern: קֶטֶל]	pesel
 פֶּסַח	pesah
 פֶּסַח	pesakh
-פֶּסַח m [pattern: קֶטֶל]	pesakh
 פֶּצַע	petsa
-פֶּצַע m [pattern: קֶטֶל]	petza
+פֶּצַע	petza
 פֶּצַע־לַחָץ	petzalakhatz
 פֶּקִינְג	peking
-פֶּקַח m [pattern: קֶטֶל]	pekach
+פֶּקַח	pekach
 פֶּרְסְפֶּקְטִיבָה	perspektiva
 פֶּרְפִּינְיָאן	perpinyan
 פֶּרְפֶקְצְיוֹנִיזְם	perfektzyonizem
 פֶּרִיגֵיאָה	perigea
 פֶּרֶא	pere
-פֶּרֶג m [pattern: קֶטֶל]	pereg
+פֶּרֶג	pereg
 פֶּרֶד	pered
 פֶּרֶס	peres
-פֶּרֶס [pattern: קֶטֶל]	peres
-פֶּרֶס m [pattern: קֶטֶל]	peres
 פֶּרֶסְטְרוֹיְקָה	perestroika
-פֶּרֶץ m [pattern: קֶטֶל]	perets
+פֶּרֶץ	perets
 פֶּרֶק	perek
-פֶּרֶק m [pattern: קֶטֶל]	perek
 פֶּרַח	perakh
-פֶּרַח m [pattern: קֶטֶל]	perakh
 פֶּרַח קְצִינִים	perakh ktsinim
 פֶּרַח קְצֻנָּה	perakh ktsuna
 פֶּרוּאָנִי	peroani
 פֶּרוּאָנִית	peroanit
 פֶּשַׁע	pesha
-פֶּשַׁע m [pattern: קֶטֶל]	pesha
-פֶּשַׂע m [pattern: קֶטֶל]	pesa
+פֶּשַׂע	pesa
 פֶּתִי	peti
 פֶּתֶק	petek
-פֶּתַח m [pattern: קֶטֶל]	petakh
+פֶּתַח	petakh
 פֶּתַח הָעֲבוֹתוֹת	petakh haavotot
 פֶבְּרוּאָר	februar
 פֶטָה	feta
 פֶלְדְמַרְשָׁל	feldmarshal
 פֶלוּקָה	feluka
 פֶמִינִיזְם	feminizm
+פֶמִינִיסְט	feminist
 פֶן	fen
 פֶנֶק	feneq
 פֶסטִיבָל	festival
@@ -23807,7 +23988,6 @@ see מלעיל	milel
 פַּגָּה	paga
 פַּדָּן	paddan
 פַּח	pakh
-פַּח m [pattern: קֶטֶל]	pakh
 פַּח אַשְׁפָּה	pakh ashpa
 פַּחְדָן	pahdan
 פַּחְזָנִית	pachzanit
@@ -23818,12 +23998,12 @@ see מלעיל	milel
 פַּחַד קָהָל	pakhad qahal
 פַּח־אַשְׁפָּה	pakhashpa
 פַּטְרִיוֹט	patriot
-פַּטְרִיוֹטִיּוּת	leumanut
+פַּטְרִיוֹטִיּוּת	patriyotiyut
 פַּטִּישׁ	patish
 פַּי	pay
 פַּיָּל	payal
 פַּיטָן \ פייטן	paytan
-פַּךְ m [pattern: קֶטֶל]	pakh
+פַּךְ	pakh
 פַּכְסַם מַלָּחִים	pakhsam malakhim
 פַּל קַל	palqal
 פַּלְצוּר	paltzur
@@ -23836,6 +24016,7 @@ see מלעיל	milel
 פַּס	pas
 פַּסְחָא	paskha
 פַּסְקָנוּת	paskaut
+פַּסֶּלֶת	paselet
 פַּסָּל	pasal
 פַּעֲמוֹן	paamon
 פַּעֲמוֹן רוּחַ	paamon ruakh
@@ -23851,6 +24032,7 @@ see מלעיל	milel
 פַּרְהֶסְיָה	parhesya
 פַּרְלָמֶנְט	parlament
 פַּרְמַשְׁתָּא	parmasta
+פַּרְנָסָה	parnasa
 פַּרְסִי	parsi
 פַּרְסִית	parsit
 פַּרְסָה	parsa
@@ -23883,7 +24065,7 @@ see מלעיל	milel
 פַשִׁיזְם	fashizm
 פַתְ״ח	fatkh
 פָּאבּ	pab
-פָּגִיעַ [pattern: קָטִיל]	pagia
+פָּגִיעַ	pagia
 פָּגַם	pgam
 פָּגַע	paga
 פָּגַשׁ	pagash
@@ -23891,7 +24073,7 @@ see מלעיל	milel
 פָּגָנִיּוּת	paganiut
 פָּגוֹשׁ	pagosh
 פָּדָה	pada
-פָּז m [pattern: קֶטֶל]	paz
+פָּז	paz
 פָּזַל	pazal
 פָּח	pah
 פָּחַד	pakhad
@@ -23928,7 +24110,6 @@ see מלעיל	milel
 פָּסוּל	pasul
 פָּסוּק	pasuk
 פָּעִיל	pail
-פָּעִיל [pattern: קָטִיל]	pail
 פָּעַל	paal
 פָּעַם	paam
 פָּעָה	paa
@@ -24009,6 +24190,7 @@ see מלעיל	milel
 פֻּנְדָק	pundaq
 פֻּסַּק	pusak
 פֻּעַל	pual
+פֻּצָּה	putsa
 פּוֹגְעָנִי	pogani
 פּוֹגְרוֹם	pogrom
 פּוֹדִיאָטֶר	podiater
@@ -24288,6 +24470,8 @@ see מלעיל	milel
 פיה	feja
 פיה	piya
 פיהו	pihu
+פיהק	pihek
+פיהק \ פִּהֵק	pihek
 פיו	fyu
 פיו	piv
 פיוט	piyut
@@ -24304,6 +24488,7 @@ see מלעיל	milel
 פיחד	pikhed
 פיחד \ פִּחֵד	pikhed
 פיטור	pitur
+פיטור \ פִּטּוּר	pitur
 פיטמות	pitmot
 פיטקרן	pitkern
 פיטר	piter
@@ -24343,6 +24528,7 @@ see מלעיל	milel
 פינה קולדה	pina kolada
 פינו נואר	pino nuar
 פינוי	pinui
+פינוי \ פִּנּוּי	pinui
 פינוי המוני	pinui hamoni
 פינים	pinim
 פיניקית	finiqit
@@ -24410,6 +24596,7 @@ see מלעיל	milel
 פישק	pisek
 פיתה	pita
 פיתוח	pituakh
+פיתוח \ פִּתּוּחַ	pituakh
 פיתוח גוף	pituakh guf
 פיתח	piteakh
 פיתח \ פִּתֵּחַ	piteakh
@@ -24480,6 +24667,7 @@ see מלעיל	milel
 פמוט	pamot
 פמיניזם	feminizm
 פמיניזם \ פֶמִינִיזְם	feminizm
+פמיניסטית	feministit
 פן	fen
 פן	pan
 פן	pen
@@ -24554,6 +24742,7 @@ see מלעיל	milel
 פעה	paa
 פעולה	peula
 פעולה	pula
+פעולה \ פְּעֻלָּה	pula
 פעולה \ פְּעֻלּה	pula
 פעולת עונשין	peulat onshin
 פעיה	peiya
@@ -24577,6 +24766,7 @@ see מלעיל	milel
 פפירוס	papirus
 פצה	patsa
 פצה	pitsa
+פצה	putsa
 פצח	patsakh
 פצים	petsim
 פציעה	ptsia
@@ -24646,6 +24836,7 @@ see מלעיל	milel
 פרווה	parva
 פרווה	parve
 פרווה \ פַּרְוֶה	parve
+פרווה \ פַּרְוָה	parva
 פרוור \ פַּרְוָר	parvar
 פרוזבול	prozbol
 פרוזדור	prozdor
@@ -24804,6 +24995,7 @@ see מלעיל	milel
 ץ	ts
 צ	ts
 צ'יוואווה	chivava
+צ'יזבט	chizbat
 צ'יליאני	chiliani
 צ'יליאנית	chilianit
 צ'ין	cin
@@ -24812,7 +25004,6 @@ see מלעיל	milel
 צ'כית \ צֶ׳כִית	chekhit
 צְאוּ	tsu
 צְבִי	tsvi
-צְבִי m [pattern: קֶטֶל]	tsvi
 צְבִי הסְלָעִים	tsvi selaim
 צְבִיָּה	tzviya
 צְבִיעוּת	tsviut
@@ -24881,6 +25072,7 @@ see מלעיל	milel
 צִיּוֹנִי	tsiyoni
 צִיּוֹנִית	tsiyonit
 צִיּוֹנוּת	tsiyonut
+צִיּוּן	tsiyun
 צִיּוּנִים	tziyunim
 צִיּוּץ	tsiyuts
 צִיּוּר	tsiyur
@@ -24888,6 +25080,7 @@ see מלעיל	milel
 צִיּוּרִי	tsiyuri
 צִיּוּרֵי־	tsiyurei
 צִיאָן	tsian
+צִידוֹן	tsidon
 צִיטָטָה	tsitata
 צִילֵּם	tsilem
 צִימֵר	tsimer
@@ -24908,6 +25101,7 @@ see מלעיל	milel
 צִיתָר	tsitar
 צִלְצֵל	silsel
 צִלְצֵל	tsiltsel
+צִלְצוּל	tsiltsul
 צִלְצוּלִים	tsiltsulim
 צִלּוֹן	tzilon
 צִמְחוֹנִי	tsimhoni
@@ -24928,6 +25122,7 @@ see מלעיל	milel
 צִפֹּרֶן	tzipporen
 צִפֹּרָה	tsipora
 צִרְעָה	tsirah
+צִרְעָה	tzirah
 צִרְצוּר	tzirtzur
 צִ׳יטָה	chita
 צִ׳ילֶה	chile
@@ -24935,8 +25130,8 @@ see מלעיל	milel
 צִ׳יק צָ׳ק	chikchak
 צֵיד לִוְיְתָנִים	tseyd livyetanim
 צֵירֵי	tseire
+צֵל	tsel
 צֵל	tzel
-צֵל m [pattern: קֵטֶל]	tsel
 צֵלׇע	tsela
 צֵרוּף מִקְרִים	zeruf miqriem
 צֵ׳ק	cheq
@@ -24945,23 +25140,18 @@ see מלעיל	milel
 צֶאֱצָא	tzeetza
 צֶבַע	tseva
 צֶבַע	tzeva
-צֶבַע m [pattern: קֶטֶל]	tseva
 צֶדֶף	tsedef
 צֶדֶף	tzedef
 צֶדֶק	tsedek
 צֶדֶק	tzedek
-צֶדֶק m [pattern: קֶטֶל]	tzedek
 צֶדֶק חֶבְרָתִי	tsedek khevrati
 צֶוֶת הִשְׁתַּלְּטוּת	tsevet hishtaltut
-צֶלֶם m [pattern: קֶטֶל]	tselem
+צֶלֶם	tselem
 צֶמֶד	semed
 צֶמֶד	tzemed
-צֶמֶד m [pattern: קֶטֶל]	semed
 צֶמֶר	tsemer
-צֶמֶר m [pattern: קֶטֶל]	tsemer
 צֶמֶר גֶּפֶן	tsemer gefen
 צֶמַח	tsemakh
-צֶמַח m [pattern: קֶטֶל]	tsemakh
 צֶנְזוּרָה	tsenzura
 צֶפֶת	tsefet
 צֶפֶת הַיַרְכָתַיִם	tsefet hayarkhatayim
@@ -24978,20 +25168,19 @@ see מלעיל	milel
 צַבָּע	tsaba
 צַבָּר	tsabar
 צַד	tsad
-צַד m [pattern: קֶטֶל]	tsad
 צַד הַגְלִי	tsad hagli
 צַדְקָן	tsadkan
 צַדְקָנִי	tsadkani
 צַדְקָנוּת	tsadkanut
 צַדִּיק	tsadik
+צַדֶּקֶת	tsadeket
 צַהֲרוֹן	tsaharon
 צַו	tsav
-צַו m [pattern: קֶטֶל]	tsav
 צַוָּאָה	tzavaa
 צַח	tsakh
 צַחֲנָה	tzachanah
 צַיְתָנוּת	tsaytanut
-צַיִד m [pattern: קֶטֶל]	tsayid
+צַיִד	tsayid
 צַיָּד	tsayad
 צַיָּדִים	tsayadim
 צַיָּדֵי	tsayadei
@@ -25001,6 +25190,7 @@ see מלעיל	milel
 צַלְמָוֵת	tsalmavet
 צַלְעִית‎ f)	tsalit
 צַלֶּקֶת	tzaleket
+צַלַּחַת	tsalachat
 צַלַּחַת	tsalakhat
 צַלָּם	tsalam
 צַלָּף	tsalaf
@@ -25008,6 +25198,7 @@ see מלעיל	milel
 צַמְדָּן	tsamdan
 צַמֶּרֶת	tsameret
 צַמָּד	tzamad
+צַמָּה	tsama
 צַמָּרוֹת	tsamarot
 צַנְעָא	tsana
 צַעֲצוּעַ	tsaatsua
@@ -25019,18 +25210,17 @@ see מלעיל	milel
 צַפַּחַת	tsapakhat
 צַפַּחַת	tzapahat
 צַפָּר	tzapar
-צַר [pattern: קֶטֶל]	tsar
-צַר m [pattern: קֶטֶל]	tsar
+צַר	tsar
 צַר עַיִן	tsar ayin
 צַרְכָן	tsarkhan
 צַרְכָן	tzarchan
 צַרְצוּר	tzartzur
 צַרִיחַ	tsriyakh
+צַתְרָה	tsatra
 צָּפוֹן	tsafon
 צָאר	tsar
 צָב	tsav
 צָב	tzav
-צָב m [pattern: קֶטֶל]	tsav
 צָבַע	tsava
 צָבַר	tsavar
 צָבָא	tsava
@@ -25044,7 +25234,7 @@ see מלעיל	milel
 צָהֳלָה	tsohola
 צָהֳרַיִם טוֹבִים	tsohorayim tovim
 צָהֳרָיִם	tsahorayim
-צָחִיחַ [pattern: קָטִיל]	tsakhiakh
+צָחִיחַ	tsakhiakh
 צָחַק	tsakhak
 צָחוֹר	tzakhor
 צָלִי	tsali
@@ -25068,7 +25258,7 @@ see מלעיל	milel
 צָנוּעַ	tsanua
 צָעִיף	sayf
 צָעִיף	tsaif
-צָעִיר [pattern: קָטִיל]	tzair
+צָעִיר	tzair
 צָעַד	tsaad
 צָעַן	tsaan
 צָעַק	tsaak
@@ -25077,7 +25267,6 @@ see מלעיל	milel
 צָפָה	tsafa
 צָפוֹן	tsafon
 צָפוּי	tsafui
-צָפוּי [pattern: קָטוּל]	tsafui
 צָפוּן	tsafun
 צָפוּף	tsafuf
 צָץ	tsats
@@ -25086,7 +25275,6 @@ see מלעיל	milel
 צָרְפָתִי	tsarfati
 צָרְפָתִית	tsarfatit
 צָרִיךְ	tsarikh
-צָרִיךְ [pattern: קָטִיל]	tsarikh
 צָרִים	tsarim
 צָרַח	tsarah
 צָרַח	tsarakh
@@ -25111,7 +25299,7 @@ see מלעיל	milel
 צאן	tson
 צאצא	tseetsa
 צאצא	tzeetza
-צארית	tzarit
+צארית	tsarit
 צב	tsav
 צב ים	tsavyam
 צבא	tsava
@@ -25172,6 +25360,7 @@ see מלעיל	milel
 צה״ל	tsahal
 צו	tsav
 צו הרחקה	tsavharkhaka
+צוֹאָה	tzoah
 צוֹדֵק	tsodek
 צוֹדֵק	tzodek
 צוֹלְלָן	tsolelan
@@ -25202,6 +25391,7 @@ see מלעיל	milel
 צוּר הַחַרְטוֹם	tsur hakhartom
 צוּר חַרְטוֹם	tsur khartom
 צוּרָה	tsura
+צואה	tzoah
 צוד	tsud
 צודק	tsodek
 צוה	tsiva
@@ -25216,6 +25406,7 @@ see מלעיל	milel
 צווחה	tsvaha
 צוות	tsevet
 צוות	tsivut
+צוות \ צֶוֶת	tsevet
 צוות הפיתוח	tsevethapituakh
 צוות עבודה	tsevetavoda
 צוטט	tsutat
@@ -25224,6 +25415,7 @@ see מלעיל	milel
 צום	tsom
 צומת	tsomet
 צומת	tzomet
+צומת \ צֹמֶת	tsomet
 צונאמי	tsunami
 צונזר	tsunzar
 צונזר \ צֻנְזַר	tsunzar
@@ -25302,6 +25494,7 @@ see מלעיל	milel
 ציידי	tsayadei
 ציידים	tsayadim
 ציידת	tsayedet
+ציידת \ צַיֶּדֶת	tsayedet
 צייטגייסט	tsaitgaist
 ציין	tsiyen
 ציין \ צִיֵּן	tsiyen
@@ -25314,6 +25507,7 @@ see מלעיל	milel
 צייתנות \ צַיְתָנוּת	tsaitanut
 צילום	tsilum
 צילום	tzilem
+צילום \ צִלּוּם	tsilum
 צילום רנטגן	tsilum rentgen
 צילם	tsilem
 צילם \ צִלֵּם	tsilem
@@ -25437,6 +25631,7 @@ see מלעיל	milel
 צמר גפן מתוק	tsemer geffen matok
 צמרות	tsamarot
 צמרמורת	tsmarmoret
+צמרמורת \ צְמַרְמֹרֶת	tsmarmoret
 צמרת	tsameret
 צמת	tsomet
 צנה	tsinah
@@ -25581,6 +25776,7 @@ see מלעיל	milel
 קְוַנְט	kvant
 קְוָאפְל	kvafl
 קְווִידִיץ׳	kwidich
+קְטִילָה	ktila
 קְטִינָה	ktina
 קְטִיפָה	ktifa
 קְטַנְטַן	ktantan
@@ -25618,10 +25814,12 @@ see מלעיל	milel
 קְעָרוֹת	qarot
 קְפִיץ	kfits
 קְצִיצַת	ktsitsat
+קְצִיצָה	ktsitsa
 קְצִיצָה	qtzitza
 קְצִיצוֹת	ktsitsot
 קְצִירָה	ktsira
 קְצֶפֶת	ktzefet
+קְצַרְצַר	ktsartsar
 קְצָת	ktsat
 קְרְדִיגָן	kardigan
 קְרִי	qri
@@ -25647,6 +25845,8 @@ see מלעיל	milel
 קְרָב	krav
 קְרָבַיִם	qravayim
 קְרוֹאַטְיָה	kroatya
+קְרוֹאָטִי	kroati
+קְרוֹאָטִית	kroatit
 קְרוֹבָה	krova
 קְרוֹבוֹת	krovot
 קְרוֹשֶׁה	kroshe
@@ -25660,6 +25860,7 @@ see מלעיל	milel
 קְשֵׁה עֹרֶף	qshe oref
 קְשֵׁה עֹרֶף	qsheoref
 קְשָׁתוֹת	kshatot
+קִבֵּעַ	kibea
 קִבֹּרֶת	qiboret
 קִבּוּץ	kibutz
 קִדְּשָׁנוּ	kidshanu
@@ -25668,6 +25869,7 @@ see מלעיל	milel
 קִדַּשְׁנוּ	kidashnu
 קִדּוּשׁ	kidush
 קִוָּה	kiva
+קִטְלֵג	kitleg
 קִטְנִית	kitnit
 קִטֵּל	kitel
 קִטֵּר	qiter
@@ -25679,6 +25881,7 @@ see מלעיל	milel
 קִיאַנְטִי	kianti
 קִיבֵּעַ \ קִבֵּעַ	kibea
 קִיבֶּרְנֶטִיקָה	kibernetika
+קִיבּוּצְנִיק	kibutsnik
 קִיבּוּצְנִיק	kibutznik
 קִיבּוּצִי \ קִבּוּצִי	kibutsi
 קִיטְבֶּג	kitbeg
@@ -25702,11 +25905,13 @@ see מלעיל	milel
 קִירְגִּיזְסְטָן	kirgizistan
 קִלְקֵל	kilkel
 קִלְקֵל	qilqel
+קִלְקוּל	kilkul
 קִלֵּל	kilel
 קִמְעוֹנָאִי	kimonai
 קִמְעוֹנָאִית	kimonait
 קִמְעוֹנָאוּת	kimonaut
 קִמְרוֹן	kamerun
+קִנְאָה	kina
 קִנְרֵס	kinres
 קִנְרֵס	qinres
 קִנְרָס	kinras
@@ -25720,6 +25925,7 @@ see מלעיל	milel
 קִצֵּרקִצֵּר	kitser
 קִקָיוֹן	qiqayon
 קִרְאֶן	kiren
+קִרְיָה	kirya
 קִרְיָה	qirya
 קִרְקֵר	qirqer
 קִרְקָס	kirkas
@@ -25738,25 +25944,22 @@ see מלעיל	milel
 קֵיצִים	keitsim
 קֵל	kel
 קֵן	ken
-קֵן m [pattern: קֵטֶל]	ken
+קֵץ	kets
 קֵץ	qes
-קֵץ m [pattern: קֵטֶל]	kets
 קֵרוֹסִין	kerosin
 קֵרוּב	qeruv
 קֵרוּי עֵרֶב	kerui erev
 קֶבֶר	kever
-קֶבֶר m [pattern: קֶטֶל]	kever
-קֶבַע m [pattern: קֶטֶל]	keva
+קֶבַע	keva
 קֶדֶם	kedem
 קֶדֶם	ketel
 קֶדֶם	qedem
-קֶדֶם m [pattern: קֶטֶל]	kedem
 קֶטְשׁוֹפּ	ketshop
-קֶטֶל m [pattern: קֶטֶל]	ketel
+קֶטֶל	ketel
 קֶטַע	keta
 קֶטַע	qeta
 קֶלֶט	kelet
-קֶלֶס m [pattern: קֶטֶל]	keles
+קֶלֶס	keles
 קֶלַח	qelah
 קֶלַע	kela
 קֶלַע אֶשְׁכּוֹל	kela eshkol
@@ -25766,23 +25969,21 @@ see מלעיל	milel
 קֶנְגּוּרוּ	kenguru
 קֶנְגּוּרוּאִים	kenguruim
 קֶנְדָמָה	kendama
+קֶנְטָאוּר	kentaur
 קֶנְיָה	kenya
 קֶנִיגְסְבֶּרְג	kenigsberg
 קֶסֶם	kesem
-קֶסֶם m [pattern: קֶטֶל]	kesem
 קֶסֶם אָפֵל	qesem afel
 קֶסֶת	keset
 קֶסֶת	qeset
 קֶפְּטֵן	kepten
 קֶצֶב	ketsev
 קֶצֶף	ketsef
-קֶצֶף m [pattern: קֶטֶל]	ketsef
 קֶצַח	qesah
 קֶרִי לַיְלָה	keri layla
 קֶרֶב	qerev
 קֶרֶן	keren
 קֶרֶן	qeren
-קֶרֶן f [pattern: קֶטֶל]	keren
 קֶרֶן אַנְגְּלִית	qeren angelit
 קֶרֶן רְחוֹב	keren rechov
 קֶרֶס	keres
@@ -25790,15 +25991,12 @@ see מלעיל	milel
 קֶרֶשׁ	qeresh
 קֶרֶת	qeret
 קֶרַח	kerakh
-קֶרַח m [pattern: קֶטֶל]	kerakh
 קֶרַח יָבֵשׁ	kerach yavesh
-קֶשֶׁב m [pattern: קֶטֶל]	keshev
+קֶשֶׁב	keshev
 קֶשֶׁר	kesher
-קֶשֶׁר m [pattern: קֶטֶל]	kesher
 קֶשֶׁר בֹּהֶן	kesher bohen
 קֶשֶׁר הַצָּלָה	kesher hatsalah
 קֶשֶׁת	keshet
-קֶשֶׁת f [pattern: קֶטֶל]	keshet
 קֶשֶׁת בְּעָנָן	keshet beanan
 קַ֔יִן	kayin
 קַב	kav
@@ -25827,14 +26025,13 @@ see מלעיל	milel
 קַהֲוָה	kahva
 קַו	kav
 קַו	qav
-קַו m [pattern: קֶטֶל]	kav
 קַו הַמַשׁוֶה	kavhamashveh
 קַח	qach
 קַח וָלֵךְ	kakh valekh
 קַטְלָנִי	katlani
 קַטְלָנִית	katlanit
 קַטְמַנְדּוּ	katmandu
-קַטְנוֹעַ	qatnoa
+קַטְנוֹעַ	katnoa
 קַטַּר דִּיזֶל	katar dizel
 קַטַּר קִיטוֹר	katar kitor
 קַטַר	qatar
@@ -25842,12 +26039,9 @@ see מלעיל	milel
 קַיְטָנָה	kaitana
 קַיְטָנָה	qaytana
 קַיִן	kayin
-קַיִן [pattern: קֶטֶל]	kayin
 קַיִץ	kayits
-קַיִץ m [pattern: קֶטֶל]	kayits
 קַיָּם	kayam
 קַל	kal
-קַל [pattern: קֶטֶל]	kal
 קַל וָחֹמֶר	qal vahomer
 קַל וָחוֹמֶר	qal vahomer
 קַל וָחוֹמֶר \ קַל וָחֹמֶר	kal vachomer
@@ -25855,6 +26049,7 @@ see מלעיל	milel
 קַל רַגְלַיִם	qal raglayim
 קַלְמָר	kalmar
 קַלְמָרִין	kalmarin
+קַלְנוֹעִית	kalnoit
 קַלְנוֹעִית	qalnoit
 קַלֶּטֶת	kaletet
 קַלָּה	kala
@@ -25892,7 +26087,6 @@ see מלעיל	milel
 קַקְטוּס	kaktus
 קַר	kar
 קַר	qar
-קַר [pattern: קֶטֶל]	kar
 קַר לִי	qar li
 קַרְחִי	karkhi
 קַרְחוֹן	karkhon
@@ -25914,12 +26108,12 @@ see מלעיל	milel
 קַשְׂקֶשֶׂת	kaskeset
 קַשִּׁית	qashit
 קַשָּׁב	kashav
-קַשָּׁר m [pattern: קַטָּל]	kashar
+קַשָּׁר	kashar
 קַשָּׁת	kashat
 קַשָּׁת	kashshat
 קַשָּׁת	qashat
+קַשׁ	kash
 קַשׁ	qash
-קַשׁ m [pattern: קֶטֶל]	kash
 קָארִי	kari
 קָבַע	kava
 קָבַר	kavar
@@ -25935,10 +26129,8 @@ see מלעיל	milel
 קָדַם	kadam
 קָדַם	paal
 קָדוֹשׁ	kadosh
-קָדוֹשׁ [pattern: קָטוֹל]	kadosh
 קָדוּם	kadum
 קָדוּם	qadum
-קָדוּם [pattern: קָטוּל]	kadum
 קָהִיר	kahir
 קָהָל	qahal
 קָהָל יָעַד	qahal yaad
@@ -26016,9 +26208,9 @@ see מלעיל	milel
 קָצָר	katsar
 קָצוּץ	katsuts
 קָקָאוֹ	qaqao
+קָרְבָּן \ קורבן	korban
 קָרְבָּנוֹת	korbanot
 קָרִיא	kari
-קָרִיא [pattern: קָטִיל]	kari
 קָרִיקָטוּרָה	karikatura
 קָרִיר	qaryr
 קָרַב	karav
@@ -26035,13 +26227,10 @@ see מלעיל	milel
 קָרָווָן	qaravan
 קָרָווָן \ קָרָוָן	qaravan
 קָרוֹב	karov
-קָרוֹב	qarov
-קָרוֹב [pattern: קָטוֹל]	karov
 קָרוֹן	karon
 קָרוּא	karu
 קָרוּסֶלָה	karusela
 קָשִׁיחַ	kashiakh
-קָשִׁיחַ [pattern: קָטִיל]	kashiakh
 קָשִׁישׁ	kashish
 קָשֶׁה	kashe
 קָשֶׁה	qashe
@@ -26061,7 +26250,9 @@ see מלעיל	milel
 קֺדֶם כָּל	kodem kol
 קֻבִּיָּה	kubia
 קֻבִּיָּה	qubiya
+קֻבַּע	kuba
 קֻבּוּץ	kubuts
+קֻטְלַג	kutlag
 קֻלְמוֹס	qulmus
 קֻלְקַל	kulkal
 קֻפָּה	kupa
@@ -26112,6 +26303,8 @@ see מלעיל	milel
 קבלת	kabalat
 קבע	kava
 קבע	keva
+קבע	kibea
+קבע	kuba
 קבץ	qabats
 קבצים	kvatsim
 קבצן	kabtzan
@@ -26356,6 +26549,8 @@ see מלעיל	milel
 קוט	kut
 קוטב	hakotev
 קוטב	kotev
+קוטב \ הַקֹּטֶב	hakotev
+קוטב \ קֹטֶב	kotev
 קוטבי	kotbi
 קוטבי \ קָטְבִּי	kotbi
 קוטג׳	kotej
@@ -26363,6 +26558,7 @@ see מלעיל	milel
 קוטר	koter
 קוטר	kuter
 קוטר	qoter
+קוטר \ קֹטֶר	koter
 קול	kol
 קול	kul
 קול צף	kol tsaf
@@ -26395,7 +26591,7 @@ see מלעיל	milel
 קומולוס	kumulus
 קומוניזם	komunizm
 קומוניסט	komunist
-קומוניסטית	komunistit
+קומוניסט \ קוֹמוּנִיסְט	komunist
 קומורו	qomoro
 קומזיץ	kumzits
 קומזיצים	kumzitzim
@@ -26465,6 +26661,7 @@ see מלעיל	milel
 קוצץ \ קֻצַּץ	kutsats
 קוצר	kotser
 קוצר	kutsar
+קוצר \ קֹצֶר	kotser
 קוצר \ קֻצַּר	kutsar
 קוצר רוח	kotser ruakh
 קוצר רוח \ קֹצֶר רוּחַ	kotser ruakh
@@ -26479,6 +26676,7 @@ see מלעיל	milel
 קור	kor
 קור	kur
 קור	qor
+קור \ קֹר	kor
 קור כלבים	kor klavim
 קור כלבים \ קֹר כְּלָבִים	kor klavim
 קורא	kore
@@ -26489,6 +26687,7 @@ see מלעיל	milel
 קורונה	korona
 קורות חיים	korot khayim
 קורח	korakh
+קורח \ קֹרַח	korakh
 קוריאה	korea
 קוריאה הדרומית	korea hadromit
 קוריאני	koreani
@@ -26500,6 +26699,7 @@ see מלעיל	milel
 קורפו	qurfu
 קושי	koshi
 קושי	qoshi
+קושי \ קֹשִׁי	koshi
 קותל חזיר	kotel hazzir
 קו״ף	kuf
 קזבלנקה	kazablanka
@@ -26527,8 +26727,6 @@ see מלעיל	milel
 קטלג	kitleg
 קטלג	kutlag
 קטלג	qitleg
-קטלג \ קִטְלֵג	kitleg
-קטלג \ קֻטְלַג	kutlag
 קטלוניה	qatalunia
 קטלני	katlani
 קטן	katan
@@ -26555,6 +26753,7 @@ see מלעיל	milel
 קיבה \ קֵבָה	keva
 קיבוץ	kibutz
 קיבוץ \ קִבּוּץ	kibuts
+קיבוץ \ קִבּוּץ	kibutz
 קיבוצי	kibutsi
 קיבוצי \ קִבּוּצִי	kibutsi
 קיבוצניק	kibutznik
@@ -26569,6 +26768,7 @@ see מלעיל	milel
 קיגאלי	kigali
 קידה	kida
 קידוש	kidush
+קידוש \ קִדּוּשׁ	kidush
 קידם \ קִדֵּם	kidem
 קידם \ קִדֵּם	piel
 קידש	kidesh
@@ -26625,8 +26825,10 @@ see מלעיל	milel
 קינא \ קִנֵּא	kine
 קינגסטון	kingston
 קינוח	kinuach
+קינוח \ קִנּוּחַ	kinuach
 קינוח \ קִנּוּחַ	kinuakh
 קינח	kineakh
+קינח \ קִנֵּחַ	kineakh
 קינטר	qinter
 קינטר \ קִנְטֵר	qinter
 קינים	kinim
@@ -26640,6 +26842,7 @@ see מלעיל	milel
 קיסם	kesam
 קיסר \ קֵיסָר	kesar keysar
 קיפאון	kipaon
+קיפאון \ קִפָּאוֹן	kipaon
 קיפוד	kipod
 קיפוד	qippod
 קיפוד \ קִפּוֹד	qippod
@@ -26655,6 +26858,7 @@ see מלעיל	milel
 קיצוץ	qitsuts
 קיצוץ \ קִצּוּץ	qitsuts
 קיצור	kitsur
+קיצור \ קִצּוּר	kitsur
 קיצור דרך	kitsurderekh
 קיצור דרך \ קִצּוּר־דֶּרֶךְ	kitsurderekh
 קיצים	keitsim
@@ -26735,6 +26939,7 @@ see מלעיל	milel
 קלע	kela
 קלף	kalaf
 קלף	klaf
+קלפט	kleft
 קלפטוקרטיה	kleptokratya
 קלפי	kalpae kalpi
 קלציום	qaltzium
@@ -26898,9 +27103,6 @@ see מלעיל	milel
 קרדמון	kardamon
 קרה	qara
 קרוא	karu
-קרואטי	kroati
-קרואטית	kroatit
-קרואטית	qroatit
 קרוב	karov
 קרובה	krova
 קרובות	krovot
@@ -27089,6 +27291,7 @@ see מלעיל	milel
 רִאשׁוֹן לְצִיּוֹן	rishon ltsiyon
 רִאשׁוֹנִי	rishoni
 רִאשׁוֹנָה	rishona
+רִבְעוֹן	rivon
 רִבְקָה	ribqah
 רִבְקָה	rivka
 רִבִּית	ribit
@@ -27121,6 +27324,7 @@ see מלעיל	milel
 רִמּוֹן	rimon
 רִמּוֹנִים	rimonim
 רִמּוֹנָדָה	rimonada
+רִצְפָּה	ritspa
 רִצְפָּה	ritzpa
 רִצָּה	ritsa
 רִקֵּעַ	rikea
@@ -27145,7 +27349,6 @@ see מלעיל	milel
 רֵישׁ	resh
 רֵעֲךָ	reacha
 רֵעַ	rea
-רֵעַ m [pattern: קֵטֶל]	rea
 רֵעָה	rea
 רֵעוּת	reut
 רֵפוֹרְמָה	reforma
@@ -27154,12 +27357,10 @@ see מלעיל	milel
 רֶבּוּס	rebus
 רֶבוֹלוּצְיוֹנֶר	revolutsioner
 רֶגֶל	regel
-רֶגֶל f [pattern: קֶטֶל]	regel
 רֶגֶשׁ	regesh
-רֶגֶשׁ m [pattern: קֶטֶל]	regesh
 רֶגַע	rega
-רֶגַע [pattern: קֶטֶל]	rega
 רֶגָטָה	regatta
+רֶוַח \ רווח	revakh
 רֶחֶם	rehem
 רֶחֶם \ רַחַם	rakham
 רֶחֶם \ רַחַם	rekhem
@@ -27172,12 +27373,11 @@ see מלעיל	milel
 רֶכֶס מֵיתָר	rekhes meytar
 רֶמִי	remi
 רֶמֶֶז	remez
-רֶמֶז m [pattern: קֶטֶל]	remez
+רֶמֶז	remez
 רֶמֶץ	remets
 רֶמֶשׂ	remes
 רֶסֶק	resek
 רֶפֶת	refet
-רֶפֶת f [pattern: קֶטֶל]	refet
 רֶפּוּבְּלִיקַת אֶסְטוֹנְיָה	republikat estonya
 רֶפּוּבְּלִיקַת אַלְבַּנְיָה	republikat albanya
 רֶפּוּבְּלִיקַת אוֹסְטְרִיָה	republikat ostriya
@@ -27193,19 +27393,16 @@ see מלעיל	milel
 רֶפּוּבְּלִיקָת קַפְרִיסִין	republikat kafrisin
 רֶפוֹרְמָה	reforma
 רֶצַח	retsakh
-רֶצַח m [pattern: קֶטֶל]	retzakh
+רֶצַח	retzakh
 רֶצַח עַם	retzakh am
 רֶצַח‎ m הִתְנַקְּשׁוּת	retzakh
 רֶקְטוּם	rektum
 רֶקַע	reka
-רֶקַע m [pattern: קֶטֶל]	reka
 רֶשֶׁף	reshef
 רֶשֶׁת	reshet
-רֶשֶׁת f [pattern: קֶטֶל]	reshet
 רֶשָׁע	resha
 רַאצְיָה	ratsya
 רַב	rav
-רַב m [pattern: קֶטֶל]	rav
 רַב חוֹבֵל	rav hovel
 רַב נַשָׁק	rav nashak
 רַב סַפָּן	rav sapan
@@ -27227,7 +27424,6 @@ see מלעיל	milel
 רַדְיוֹ	radyo
 רַדְיוּס	radyus
 רַהַב	rahav
-רַהַב m [pattern: קֶטֶל]	rahav
 רַוָּק	ravaq
 רַחְמָנוּת	rakhmanut
 רַחֲמִים	rahamim
@@ -27239,7 +27435,7 @@ see מלעיל	milel
 רַחוּם	rahum
 רַחוּם	rakhum
 רַך	rakh
-רַךְ [pattern: קֶטֶל]	rakh
+רַךְ	rakh
 רַכִּיכָה	rakicha
 רַכֶּבֶל	rakevel
 רַכֶּבֶת	rakevet
@@ -27258,8 +27454,6 @@ see מלעיל	milel
 רַמָּאוּת	ramaut
 רַן	ran
 רַע	ra
-רַע [pattern: קֶטֶל]	ra
-רַע m [pattern: קֶטֶל]	ra
 רַעְמְסֵס	ramses
 רַעֲיוֹן	raayon
 רַעֲנַנָּה	raanana
@@ -27277,6 +27471,7 @@ see מלעיל	milel
 רַק	rak
 רַקְדַן בַּלֶּט	rakdan balet
 רַקְדָן	rakdan
+רַקֶּפֶת	rakefet
 רַקֶּפֶת	raqefet
 רַשְׁבִּ״י	rashbi
 רַשִׁ״י	rashi
@@ -27298,7 +27493,7 @@ see מלעיל	milel
 רָבַץ	ravats
 רָבָה	rava
 רָגִיז	ragiz
-רָגִיל [pattern: קָטִיל]	ragil
+רָגִיל	ragil
 רָגִישׁ	ragish
 רָגָ׳ה	raja
 רָגוּעַ	ragua
@@ -27321,10 +27516,10 @@ see מלעיל	milel
 רָחָב	rakhav
 רָחָם	raham
 רָחוֹק	rakhok
-רָחוֹק [pattern: קָטוֹל]	rakhok
 רָחוּץ	rakhuts
 רָטוּב	ratuv
 רָיְנְלָנְד	raynland
+רָכִיל	rachil
 רָכַב	rakhav
 רָכַשׁ	rakhash
 רָם	ram
@@ -27353,13 +27548,13 @@ see מלעיל	milel
 רָצוֹן טוֹב	ratzon tov
 רָצוּי	ratsui
 רָצוּי	ratzui
+רָקִיעַ	raqia
 רָקֶטָה	raketa
 רָקַד	rakad
 רָקַד .	raqad
 רָקַע	raka
 רָקָב	raqav
 רָקוּב	rakuv
-רָקוּב [pattern: קָטוּל]	rakuv
 רָקוּן	raqun
 רָשַׁם	rasham
 רָשָׁע	rasha
@@ -27551,6 +27746,7 @@ see מלעיל	milel
 רוֹמָן	roman
 רוֹמָנִית	romanit
 רוֹן	ron
+רוֹן \ רֹן	ron
 רוֹעֶה	roe
 רוֹפְאָה	rofa
 רוֹפֵא	rofe
@@ -27608,6 +27804,7 @@ see מלעיל	milel
 רוגז	rogez
 רוגע	roga
 רוגע	rogea
+רוגע \ רֹגַע	roga
 רודוס	rodos
 רודיום	rodyum
 רודן	rodan
@@ -27663,7 +27860,7 @@ see מלעיל	milel
 רוכב אופניים	rokhev ofnaim
 רוכבת אופניים	rokhevet ofnaim
 רוכך	rukakh
-רוכך \ רֻכַּך	rukakh
+רוכך \ רֻכַּךְ	rukakh
 רוכסן	rokhsan
 רולדה	rulada
 רום	rom
@@ -27672,6 +27869,7 @@ see מלעיל	milel
 רומא	roma
 רומאי	romai
 רומח	romakh
+רומח \ רֹמַח	romakh
 רומם	romam
 רומם	romem
 רומן	roman
@@ -27784,6 +27982,7 @@ see מלעיל	milel
 ריאות \ רֵאוֹת	reat
 ריאות \ רֵאוֹת	reot
 ריאיון	reayon
+ריאיון \ רֵאָיוֹן	reayon
 ריאליזם	realis
 ריאליזם סוציאליסטי	realizm sotsialisti
 ריאליטי	realiti
@@ -27804,6 +28003,7 @@ see מלעיל	milel
 ריבית \ רִבִּית	ribit
 ריגול	rigol
 ריגול	rigul
+ריגול \ רִגּוּל	rigul
 ריגל	rigel
 ריגל \ רִגֵּל	rigel
 ריגש	rigesh
@@ -27829,6 +28029,7 @@ see מלעיל	milel
 רייבנקלו	reyvenklo
 רייקיאוויק	reikyavik
 ריכוז	rikuz
+ריכוז \ רִכּוּז	rikuz
 ריכז	rikez
 ריכז \ רִכֵּז	rikez
 רימה	rima
@@ -27848,6 +28049,7 @@ see מלעיל	milel
 ריפד	riped
 ריפד \ רִפֵּד	riped
 ריפוד	ripud
+ריפוד \ רִפּוּד	ripud
 ריפט	ripet
 ריצד	ritsed
 ריצד \ רִצֵּד	ritsed
@@ -27869,6 +28071,7 @@ see מלעיל	milel
 ריקע \ רִקֵּעַ	rikea
 רישום	rishum
 רישות	rishut
+רישות \ רִשּׁוּת	rishut
 רישיון	rishayon
 רישיון \ רִשָּׁיוֹן	rishayon
 רישת	rishet
@@ -27944,7 +28147,6 @@ see מלעיל	milel
 רעננה	raanana
 רעננות	raananut
 רעש	raash
-רעש אדמה	raash adama
 רעשן	raashan
 רעשני	raashani
 רף	raf
@@ -28098,10 +28300,12 @@ see מלעיל	milel
 שְׁוָרִים	shvarim
 שְׁזִיף	shzif
 שְׁחִיטָה	shhita
+שְׁחִיטָה	shkhita
 שְׁחִין	shkhin
 שְׁחִיתוּת	shkhitut
 שְׁחֵלֶת	sehelet
 שְׁחַמְחַם	shakhum
+שְׁחַמְחַם	shkhamkham
 שְׁחַרְחֶרֶת	shkharkheret
 שְׁחַרְחַר	shkharkhar
 שְׁחָקִים	shkhakim
@@ -28115,11 +28319,11 @@ see מלעיל	milel
 שְׁכִינָה	shkhina
 שְׁכֵנִים	shkheynim
 שְׁכֶם	shkhem
-שְׁכֶם m [pattern: קְטֶל]	shkhem
 שְׁכֶנְתָּהּ	shchentah
 שְׁכוּנָה	shkhuna
 שְׁלִיחָה	shlikha
 שְׁלִיחוּת	shlikhut
+שְׁלִיטָה	shlita
 שְׁלִילִי	shlili
 שְׁלִישִׁי	shlishi
 שְׁלִישִׁיָּה	shlishiya
@@ -28151,8 +28355,10 @@ see מלעיל	milel
 שְׁמִי	shmi
 שְׁמִיטָה	shmita
 שְׁמִינִי	shmini
+שְׁמִירְטוּף	shmirtuf
 שְׁמִירַת	shmira
 שְׁמִירַת הַלָּשׁוֹן	shmirat halashon
+שְׁמִירָה	shmira
 שְׁמִרְטֵף	shmirtef
 שְׁמֵי־	shmei
 שְׁמֵימִי	shmeimi
@@ -28220,11 +28426,13 @@ see מלעיל	milel
 שְׁפַת תִּכְנוּת	sfat tikhnut
 שְׁפּוֹנְדְרָה	shpondra
 שְׁפוֹפֶרֶת	shfoferet
+שְׁקִיעָה	shkia
 שְׁקִיפוּת	shkifut
 שְׁקֵדִיָּה	sqediya
 שְׁקָלִים	shkalim
 שְׁקָרִים	shkarim
 שְׁרִיקַת	shrikat
+שְׁרִיקָה	shrika
 שְׁרִיקוֹת	shrikot
 שְׁרִיר	shrir
 שְׁרִירִי	shriri
@@ -28345,6 +28553,7 @@ see מלעיל	milel
 שִׁלְגּוֹן	shilgon
 שִׁלְדָּה	shilda
 שִׁלְחוֹ	shilcho
+שִׁלְטוֹן	shilton
 שִׁלְטוֹנִי	shiltoni
 שִׁלְשׁוֹם	shilshom
 שִׁלְשׁוּל	shilshul
@@ -28380,6 +28589,7 @@ see מלעיל	milel
 שִׁפְשֵׁף	shifshef
 שִׁפּוּלַיִם	shipulayim
 שִׁקְמִים	shikmim
+שִׁקְמָה	siqma
 שִׁקְרִי	shikri
 שִׁקְרֵי	shikrei
 שִׁקֵּף	shikef
@@ -28403,7 +28613,6 @@ see מלעיל	milel
 שִׂים	sim
 שִׂמְחַת תּוֹרָה	simkhat tora
 שִׂמְחָה	simkha
-שִׂמְחָה [pattern: קִטְלָה]	simkha
 שִׂמְחָתֵנוּ	simchatenu
 שִׂמְחוֹת־	simkhot
 שִׂמְלַת	simlat
@@ -28411,10 +28620,10 @@ see מלעיל	milel
 שִׂמֵּחַ	simeakh
 שִׂנְאַת זָרִים	sinat zarim
 שִׂנְאַת חִנָּם	sinat hinam
+שִׂנְאָה	sina
 שִׂרְיוֹן	siryon
 שֵׁב	shev
 שֵׁבֶט	shevet
-שֵׁבֶט m [pattern: קֵטֶל]	shevet
 שֵׁגָל	shegal
 שֵׁד	shed
 שֵׁדִי	shedi
@@ -28440,10 +28649,8 @@ see מלעיל	milel
 שֵׁם תּוֹאַר	shem toar
 שֵׁמִי	shemi
 שֵׁמַע	shema
-שֵׁמַע m [pattern: קֵטֶל]	shema
 שֵׁמוֹת	shemot
 שֵׁן	shen
-שֵׁן f [pattern: קֵטֶל]	shen
 שֵׁן בִּינָה	shen bina
 שֵׁן חָלָב	shen khalav
 שֵׁן שׁוּם	shen shum
@@ -28459,23 +28666,20 @@ see מלעיל	milel
 שֵׁשׁ עֶשְׂרֵה	shesh esre
 שֵׁת	shet
 שֵׁתָר	setar
-שֵׂכֶל m [pattern: קֵטֶל]	sekhel
+שֵׂכֶל	sekhel
 שֵׂעִיר	seir
 שֵׂעָר	sear
 שֶׁ־	she
 שֶׁבִי	shevi
-שֶׁבֶר m [pattern: קֶטֶל]	shever
+שֶׁבֶר	shever
 שֶׁבֶת	shevet
 שֶׁבֶת רֵיחָנִי	shevet rekhani
-שֶׁבַח m [pattern: קֶטֶל]	shevakh
+שֶׁבַח	shevakh
 שֶׁבַע	sheva
-שֶׁבַע f [pattern: קֶטֶל]	sheva
 שֶׁדֶר	sheder
-שֶׁדֶר m [pattern: קֶטֶל]	sheder
 שֶׁזֶף	shezef
-שֶׁטֶף m [pattern: קֶטֶל]	shetef
+שֶׁטֶף	shetef
 שֶׁטַח	shetakh
-שֶׁטַח m [pattern: קֶטֶל]	shetakh
 שֶׁיִּהְיֶה	sheyyihye
 שֶׁכֶם	shechem
 שֶׁל	shel
@@ -28484,11 +28688,9 @@ see מלעיל	milel
 שֶׁלְךָ	shelkha
 שֶׁלִּי	sheli
 שֶׁלֶג	sheleg
-שֶׁלֶג m [pattern: קֶטֶל]	sheleg
 שֶׁלֶד	sheled
 שֶׁלֶט	shelet
-שֶׁלֶט m [pattern: קֶטֶל]	shelet
-שֶׁלַח m [pattern: קֶטֶל]	shelach
+שֶׁלַח	shelach
 שֶׁלָּהּ	shela
 שֶׁלָּהּ	shelah
 שֶׁלָּךְ	shelakh
@@ -28496,35 +28698,32 @@ see מלעיל	milel
 שֶׁלָח	shelakh
 שֶׁלּוֹ	shelo
 שֶׁמֶן	shemen
-שֶׁמֶן m [pattern: קֶטֶל]	shemen
 שֶׁמֶן סְעָרָה	shemen seara
-שֶׁמֶר m [pattern: קֶטֶל]	shemer
+שֶׁמֶר	shemer
 שֶׁמֶשׁ	shemesh
-שֶׁמֶשׁ f [pattern: קֶטֶל]	shemesh
 שֶׁמָּא	shema
 שֶׁנְהָב	shenhav
-שֶׁסֶק m [pattern: קֶטֶל]	shesek
+שֶׁסֶק	shesek
 שֶׁעָבַר	sheavar
+שֶׁעָן	shaan
 שֶׁף	shef
-שֶׁפַע m [pattern: קֶטֶל]	shefa
+שֶׁפַע	shefa
 שֶׁקֶט	shaket
 שֶׁקֶט	sheket
-שֶׁקֶט m [pattern: קֶטֶל]	sheket
 שֶׁקֶל	shekel
-שֶׁקֶל m [pattern: קֶטֶל]	shekel
 שֶׁקֶל חָדָשׁ	shekel khadash
 שֶׁקֶף	shekef
 שֶׁקֶץ	seqes
 שֶׁקֶץ	shekets
-שֶׁקֶר m [pattern: קֶטֶל]	sheker
+שֶׁקֶר	sheker
 שֶׁקַע	sheka
 שֶׁרִיף	serif
+שֶׁרֶץ	sherets
 שֶׁרֶץ	sheretz
-שֶׁרֶץ m [pattern: קֶטֶל]	sherets
 שֶׁתֶן	sheten
 שֶׂה	se
 שֶׂכְוִי	sechvi
-שֶׂכֶר m [pattern: קֶטֶל]	sekher
+שֶׂכֶר	sekher
 שַׁאנְג-חָאי	shangkhai
 שַׁאנְגחָאי	shangkhai
 שַׁבְּלוּל	shablul
@@ -28555,14 +28754,13 @@ see מלעיל	milel
 שַׁחֲרִית	shaharit
 שַׁחֲרִית	shakharit
 שַׁחֲרוּר	shakharur
+שַׁחֶפֶת	shakhefet
 שַׁחַל	shakhal
 שַׁחַף	shakhaf
 שַׁחַץ	shahatz
-שַׁחַר m [pattern: קֶטֶל]	shakhar
+שַׁחַר	shakhar
 שַׁחַת	shakhat
 שַׁי	shay
-שַׁי [pattern: קֶטֶל]	shay
-שַׁי m [pattern: קֶטֶל]	shay
 שַׁיִט	shayit
 שַׁיֶּטֶת	shayetet
 שַׁיָּט	shayat
@@ -28616,10 +28814,10 @@ see מלעיל	milel
 שַׂחְקָנִים	sakhkanim
 שַׂחְקָנִית	sakhkanit
 שַׂכִּין	sakin
+שַׂלְמָה	salma
 שַׂעֲרָה	saara
 שַׂק	sak
 שַׂק	shaq
-שַׂק m [pattern: קֶטֶל]	sak
 שַׂק אִגְרוּף	saq igruf
 שַׂק הָאֲשָׁכִים	sak haashakhim
 שַׂק חֲבָטוֹת	saq havatot
@@ -28629,13 +28827,11 @@ see מלעיל	milel
 שַׂקִּיק	sakik
 שַׂקִּית	sakit
 שַׂר	sar
-שַׂר m [pattern: קֶטֶל]	sar
 שָׁאַל	shaal
 שָׁאַל אֶת עַצְמוֹ	shaal et atsmo
 שָׁאַל‎)	shaal
 שָׁאַף	shaaf
 שָׁאוּל	shaul
-שָׁאוּל [pattern: קָטוּל]	shaul
 שָׁאח	shah
 שָׁאסִי	shasi
 שָׁב	shav
@@ -28737,7 +28933,6 @@ see מלעיל	milel
 שָׁקַע	shaka
 שָׁקוּל	shakul
 שָׁקוּף	shakuf
-שָׁקוּף [pattern: קָטוּל]	shakuf
 שָׁר	shar
 שָׁרִים	sharim
 שָׁרַץ	sharats
@@ -28745,7 +28940,6 @@ see מלעיל	milel
 שָׁרָב	sharav
 שָׁרָה	shara
 שָׁרָת	sharat
-שָׁרָת m [pattern: קַטָּל]	sharat
 שָׁשַׁר	shashar
 שָׁת	shat
 שָׁתַל	shatal
@@ -28775,7 +28969,6 @@ see מלעיל	milel
 שָׂנוּא	sanu
 שָׂנוּי	sanui
 שָׂעִיר	sair
-שָׂעִיר [pattern: קָטִיל]	sair
 שָׂפָה	safa
 שָׂפָה אֲחוֹרִית	safa akhorit
 שָׂפָה קִדְמִית	sapa kidmit
@@ -28802,7 +28995,7 @@ see מלעיל	milel
 שֹׁפַע	shofa
 שֹׁקַע	shoka
 שֹׁרֶשׁ	sores
-שֹׂבַע m [pattern: קֹטֶל]	sova
+שֹׂבַע	sova
 שֹׂנְאֵינוּ	sonenu
 שֻׁבִי	shuvi
 שֻׁבַּח	shubakh
@@ -28814,7 +29007,7 @@ see מלעיל	milel
 שֻׁמָּר	summar
 שֻׁעְמַם \ שועמם	shumam
 שֻׁקַּף	shukaf
-שֻׁתָּף	shutaf
+שֻׁתָּף \ שותף	shutaf
 שּׁוֹמְרוֹן	someron
 ש־	she
 ש־ב־ע	shv
@@ -29065,6 +29258,7 @@ see מלעיל	milel
 שוביניזם	shovinizm
 שובל	shoval
 שובל	shovel
+שובל \ שֹׁבֶל	shovel
 שוברת קרח	shoveret kerakh
 שוגון	shogun
 שוד	shod
@@ -29073,6 +29267,7 @@ see מלעיל	milel
 שודד ים	shoded yam
 שודרג \ שֻׁדְרַג	shudrag
 שוהם	shoham
+שוהם \ שֹׁהַם	shoham
 שווא	shav
 שווא	shva
 שווא \ שְׁוָא	shva
@@ -29091,6 +29286,7 @@ see מלעיל	milel
 שוורמה	shavarma
 שוחד	shokhad
 שוחד	shukhad
+שוחד \ שֹׁחַד	shokhad
 שוחד \ שֻׁחַד	shukhad
 שוחח	sokheakh
 שוחחתי איתו.	sokhakhti ito
@@ -29147,6 +29343,7 @@ see מלעיל	milel
 שונה מהרגיל	shone meharagil
 שונות	shonut
 שוני	shoni
+שוני \ שֹׁנִי	shoni
 שונמך \ שֻׁנְמַךְ	shunmakh
 שונרא	shunra
 שועל	shual
@@ -29179,6 +29376,7 @@ see מלעיל	milel
 שורש	shoresh
 שורש	soras
 שורש	sores
+שורש \ שֹׁרֶשׁ	sores
 שורש \ שֹׁרַשׁ	soras
 שורש ריבועי	shoresh ribui
 שורשי	shorshi
@@ -29284,6 +29482,7 @@ see מלעיל	milel
 שיגע	shigea
 שיגע \ שִׁגֵּעַ	shigea
 שיגעון	shigaon
+שיגעון \ שִׁגָּעוֹן	shigaon
 שיגר	shiger
 שיגר \ שִׁגֵּר	shiger
 שידוך	shidukh
@@ -29345,6 +29544,7 @@ see מלעיל	milel
 שילב	shilev
 שילה	shilo
 שילוב	shiluv
+שילוב \ שִׁלּוּב	shiluv
 שילוש	shilush
 שילח	shileach
 שילח \ שִׁלֵּחַ	shileach
@@ -29356,8 +29556,10 @@ see מלעיל	milel
 שים	shim
 שים	sim
 שימון	shimun
+שימון \ שִׁמּוּן	shimun
 שימוע	shimua
 שימור	shimur
+שימור \ שִׁמּוּר	shimur
 שימוש	shimush
 שימוש \ שִׁמּוּשׁ	shimush
 שימושי	shimushi
@@ -29376,6 +29578,7 @@ see מלעיל	milel
 שינה \ שִׁנָּה	shina
 שינה \ שֵׁנָה	sheina
 שינוי	shinui
+שינוי \ שִׁנּוּי	shinui
 שינטו	shinto
 שינמוך	shinmukh
 שינמוך \ שִׁנְמוּךְ	shinmukh
@@ -29387,6 +29590,7 @@ see מלעיל	milel
 שיסה	shisa
 שיעבוד	shibud
 שיעור	shiur
+שיעור \ שִׁעוּר	shiur
 שיעורים	shiurim
 שיעי	shii
 שיעמם	shimem
@@ -29402,6 +29606,7 @@ see מלעיל	milel
 שיפון	shifon
 שיפוע	shipua
 שיפור	shipur
+שיפור \ שִׁפּוּר	shipur
 שיפר	shiper
 שיפר \ שִׁפֵּר	shiper
 שיפר \ שִׁפֵּר	shipper
@@ -29439,6 +29644,7 @@ see מלעיל	milel
 שית	shayit
 שית	shit
 שיתוף	shituf
+שיתוף \ שִׁתּוּף	shituf
 שיתוף פעולה	shituf peula
 שיתופי \ שִׁתּוּפִי	shitufi
 שיתוק מוחי	shituk mokhi
@@ -29601,6 +29807,7 @@ see מלעיל	milel
 שם בן ארבע אותיות	shem ben arba otiot
 שם גוף	shem guf
 שם גנרי	shem generi
+שם הגוף	shem haguf
 שם המספר	shem hamispar
 שם המפורש	shem hamforash
 שם המפורש \ שֵׁם הַמְּפֹרָשׁ	shem hamforash
@@ -29787,6 +29994,7 @@ see מלעיל	milel
 שנתי	shnati
 שנתיים	shnatayim
 שנתיים	shnatiyim
+שנתיים \ שְׁנָתַיִם	shnatayim
 שסק	shesek
 שעבוד	shibud
 שעבר	sheavar
@@ -29803,7 +30011,6 @@ see מלעיל	milel
 שעמום	shiamum
 שעמם	shimem
 שעמם	shumam
-שען	shaan
 שענית	shaanit
 שער	sear
 שער	shaar
@@ -30003,6 +30210,7 @@ see מלעיל	milel
 ש״ץ	shats
 ת	t
 ת	yuroskepti
+תְּאֵנָה	teina
 תְּאֵנָה	tena
 תְּאַשּׁוּר	teassur
 תְּאוֹ	teo
@@ -30015,7 +30223,9 @@ see מלעיל	milel
 תְּאוֹמָה	toma
 תְּאוּנַת דְּרָכִים	tunat drachim
 תְּאוּנָה	tuna
+תְּאוּצָה	teutsa
 תְּבִיעָה	tvia
+תְּבוּסָה	tvusa
 תְּגוּבִית	tguvit
 תְּגוּבַת קָנִיזָרוֹ	teguvat kanizaro
 תְּגוּבַת שַׁרְשֶׁרֶת	tguvat sharsheret
@@ -30067,6 +30277,8 @@ see מלעיל	milel
 תְּעוּדָה	teuda
 תְּעוּדָה	tuda
 תְּעוּפָה	tufa
+תְּפִיסָה	tfisa
+תְּפִירָה	tfira
 תְּפִישָׂה	tfisa
 תְּפִלָּה	tfila
 תְּקִיעָה	tkia
@@ -30126,6 +30338,7 @@ see מלעיל	milel
 תִּמָּהוֹן	timahon
 תִּמָּלֵא	timale
 תִּנְשֶׁמֶת	tinshemet
+תִּסְכֵּל	tiskel
 תִּסְמוׄנֶת דָּאוּן	tismonet daun
 תִּעוּשׂ \ תיעוש	tius
 תִּפְאֶרֶת	tifara
@@ -30173,48 +30386,47 @@ see מלעיל	milel
 תֵּימָן	teiman
 תֵּיקוּ	teku
 תֵּל	tel
-תֵּל m [pattern: קֵטֶל]	tel
 תֵּל אָבִיב	tel aviv
 תֵּלְכוּ	telchu
 תֵּלֵכוּן	telechun
 תֵּל־אָבִיב	tel aviv
-תֵּמַהּ m [pattern: קֵטֶל]	temah
+תֵּמַהּ	temah
 תֵּן	ten
 תֵּעָשֶׂה	teaseh
 תֵּשַׁע	teisha
 תֵּשַׁע	tesha
 תֵּת	tet
-תֶּבֶל m [pattern: קֶטֶל]	tevel
+תֶּבֶל	tevel
 תֶּבֶן	teven
 תֶּזָה	teza
 תֶּכֶף	tekhef
 תֶּלִי	teli
 תֶּלִי	tli
-תֶּלֶם m [pattern: קֶטֶל]	telem
+תֶּלֶם	telem
 תֶּמֶד	temed
 תֶּמָה	tema
 תֶּנַע	tena
-תֶּפֶס m [pattern: קֶטֶל]	tefes
+תֶּפֶס	tefes
+תֶּקֶן	teken
 תֶּקֶן	teqen
-תֶּקֶן m [pattern: קֶטֶל]	teken
 תֶּקַע	teka
-תֶּקַע m [pattern: קֶטֶל]	teka
 תֶּרְמִידוֹר	termidor
 תֶּרֶד	tered
 תֶּרֶשׁ	teres
 תֶּרַח	terah
-תֶּרַח m [pattern: קֶטֶל]	terah
 תֶּשֶׁר	tesher
 תַּאֲגִיד	taagid
 תַּאֲרִיךְ	taarikh
 תַּאֲרִיךְ לֵדָה	taarikh leida
 תַּבְלִין	tavlin
 תַּבְנִית	tavnit
+תַּבְשִׁיל	tavshil
 תַּגְלִית	taglit
 תַּדְמִית	tadmit
 תַּדְמוֹר	tadmor
 תַּהֲלִיךְ	tahalikh
 תַּהֲלוּכָה	tahalukha
+תַּחְבִּיב	takhbiv
 תַּחְבִּיב	takhviv
 תַּחְבּוּלָה	tahbula
 תַּחְבּוּלָה	takhbula
@@ -30222,6 +30434,7 @@ see מלעיל	milel
 תַּחְדִּישׁ	takhdish
 תַּחְלוּאָה	takhlua
 תַּחְמֹשֶׁת	tahmoshet
+תַּחְפִּיף	takhpif
 תַּחְפֹּשֶׂת	tahposet
 תַּחְתִּית	takhtit
 תַּחְתּוֹן	takhton
@@ -30240,8 +30453,6 @@ see מלעיל	milel
 תַּחַשׁ	takhash
 תַּחַשׁ נְהָרוֹת	takhash neharot
 תַּחַת	takhat
-תַּחַת [pattern: קֶטֶל]	takhat
-תַּחַת m [pattern: קֶטֶל]	takhat
 תַּיְלַנְד	tailand
 תַּיְלַנְדִּי	tailandi
 תַּיְלַנְדִּית	tailandit
@@ -30271,7 +30482,6 @@ see מלעיל	milel
 תַּמָּה	tama
 תַּמּוּז	tamuz
 תַּן	tan
-תַּן m [pattern: קֶטֶל]	tan
 תַּנִּים	tanim
 תַּנִּין	tanin
 תַּנָּא	tana
@@ -30317,6 +30527,7 @@ see מלעיל	milel
 תַּקְצִיב	taktsiv
 תַּקְצִיבִי	taktsivi
 תַּקְרִב	takriv
+תַּקְרִיב	takriv
 תַּקְרִישׁ	takrish
 תַּקְרִית	taqrit
 תַּקְרֶאנָה	takrena
@@ -30377,20 +30588,20 @@ see מלעיל	milel
 תָּכְנִית	tokhnit
 תָּלָה	tala
 תָּלוּי	talui
-תָּם [pattern: קֶטֶל]	tam
+תָּם	tam
 תָּמִיד	tamid
-תָּמִיד [pattern: קָטִיל]	tamid
 תָּמִים	tamim
-תָּמִים [pattern: קָטִיל]	tamim
 תָּמֵהַּ	tameah
 תָּמַהּ	tamah
 תָּמַךְ	tamakh
 תָּמָר	tamar
 תָּנָ"כִי	tanachi
+תָּסִיל	tasil
 תָּפֵל	tafel
 תָּפַס	tafas
 תָּפַס טְרֶמְפּ	tafas tremp
 תָּפַר	tafar
+תָּפַשׂ	tafas
 תָּפוּס	tafus
 תָּקַע	taka
 תָּקַף	takaf
@@ -30453,6 +30664,7 @@ see מלעיל	milel
 תּוֹרָנִי	torani
 תּוֹרָשָׁה	torasha
 תּוֹרוֹת	torot
+תּוֹשֶׁבֶת \ תושבת	toshevet
 תּוֹשָׁב	toshav
 תּוֹתָח	totakh
 תּוּבַּל \ תֻּבַּל	tubal
@@ -30587,12 +30799,14 @@ see מלעיל	milel
 תודלק	tudlak
 תודעה	todaa
 תוהו	tohu
+תוהו \ תֹּהוּ	tohu
 תוהו ובוהו	tohu vavohu
 תווית	tavit
 תווית \ תָּוִית	tavit
 תווית יידוע	tavit yidua
 תווית סוף	tavit sof
 תווך	tavech
+תווך \ תָּוֶךְ	tavech
 תוחלת חיים	tohelet hayim
 תוחקר	tukhkar
 תוחקר \ תֻּחְקַר	tukhkar
@@ -30619,6 +30833,7 @@ see מלעיל	milel
 תוליום	tulyum
 תולעת ספרים	tolaat sfarym
 תום	tom
+תום \ תֹּם	tom
 תומי	tomi
 תומ״י	t umi
 תוניס	tunis
@@ -30671,6 +30886,7 @@ see מלעיל	milel
 תורת המשפט	torathamishpat
 תורת התורים	torat hatorim
 תושב	toshav
+תושב \ תּוֹשָׁב	toshav
 תושב טוקיו	toshav tokyo
 תות	tut
 תות שדה	tut sade
@@ -30687,6 +30903,7 @@ see מלעיל	milel
 תזכירו	tazkiru
 תזכירי	tazkiri
 תזמורת	tizmoret
+תזמורת \ תִּזְמֹרֶת	tizmoret
 תזמורת סימפונית	tizmoret simfonit
 תחבולה	takhbula
 תחבורה	takhbura
@@ -30715,6 +30932,7 @@ see מלעיל	milel
 תחם	takham
 תחמושת	takhmoshet
 תחמושת \ תַּחְמֹשֶׁת	tahmoshet
+תחמושת \ תַּחְמֹשֶׁת	takhmoshet
 תחמיץ	takhmits
 תחנה	takhana
 תחנת	tachanat
@@ -30726,16 +30944,19 @@ see מלעיל	milel
 תחנת רדיו	takhanatradyo
 תחנת רכבת	takhanat rakevet
 תחפושת	takhposet
+תחפושת \ תַּחְפֹּשֶׂת	takhposet
 תחפיף	takhpif
 תחרות	takharut
 תחרותי	takharuti
 תחש	takhash
+תחש \ תַּחַשׁ	takhash
 תחת	tahat
 תחת	takhat
 תחתון	takhton
 תחתונים	takhtonim
 תחתית	takhtit
 תיאבון	teavon
+תיאבון \ תֵּאָבוֹן	teavon
 תיאום	tium
 תיאור	teur
 תיאור \ תֵּאוּר	teur
@@ -30781,6 +31002,7 @@ see מלעיל	milel
 תיעב \ תִּעֵב	tiev
 תיעד \ תִּעֵד	tied
 תיעוד	tiud
+תיעוד \ תִּעוּד	tiud
 תיעודי	tiudy
 תיק	tik
 תיק	tyq
@@ -30916,11 +31138,14 @@ see מלעיל	milel
 תנ״כי	tanakhi
 תסיל	tasil
 תסכית	taskit
+תסכל	tiskel
 תסמונת	tismonet
+תסמונת \ תִּסְמֹנֶת	tismonet
 תסמונת גיאן-בארה	tismonet gilenbare
 תסמונת דאון	tismonet daun
 תסמין	tasmin
 תספורת	tisporet
+תספורת \ תִּסְפֹּרֶת	tisporet
 תסרוקת	tisroket
 תסרוקת \ תִּסְרֹקֶת	tisroket
 תסריט	tasrit
@@ -30993,6 +31218,7 @@ see מלעיל	milel
 תפרחת	tifrakhat
 תפריט	tafrit
 תפריט התחל	tafrit hatkhel
+תפש	tafas
 תצהיר	tatzhir
 תצוגה	tetsuga
 תצלום	tatslum
@@ -31002,6 +31228,7 @@ see מלעיל	milel
 תקדים	takdim
 תקוה	tikva
 תקווה	tikva
+תקווה \ תִּקְוָה	tikva
 תקופה	tkufa
 תקופות	tkufot
 תקופת	tkufat
@@ -31151,3 +31378,4 @@ see מלעיל	milel
 𐤉𐤓𐤅𐤔𐤋𐤉𐤌	yerusalayim
 𐤎𐤐𐤓	spr
 𐤔𐤓	sar
+𐤔𐤓	sr

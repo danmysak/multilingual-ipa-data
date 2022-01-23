@@ -112,7 +112,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అంగారకవారము	aṅgārakavāramu
 అంగారకుఁడు	aṅgārakuṅḍu
 అంగారకుడు	aṅgārakuḍu
-అంగారకుడుకుజుడు	kujuḍu
+అంగారకుడుor కుజుడు	kujuḍu
 అంగారము	aṅgāramu
 అంగాలు	aṅgālu
 అంగాస్త్రము	aṅgāstramu
@@ -482,6 +482,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అగ్నిజ్వాల	agnijvāla
 అగ్నిదీపనము	agnidīpanamu
 అగ్నినిరోధము	agninirōdhamu
+అగ్నిపర్వతం	agniparvataṃ
 అగ్నిపర్వతము	agniparvatamu
 అగ్నిపర్వతములు	agniparvatamulu
 అగ్నిప్రవేశము	agnipravēśamu
@@ -863,6 +864,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అధోముఖుడు	adhōmukhuḍu
 అధ్యక్షుడు	adhyakṣuḍu
 అధ్యక్షురాలు	adhyakṣurālu
+అధ్యయనము	adhyayanamu
 అధ్యాపకుఁడు	adhyāpakuṅḍu
 అధ్యాపకుడు	adhyāpakuḍu
 అధ్యాపకురాలు	adhyāpakurālu
@@ -1029,6 +1031,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అనుస్వారం	anusvāraṃ
 అనుస్వారము	anusvāramu
 అనూరుడు	anūruḍu
+అనూహ్యరీతి	anūhyarīti
 అనృతము	anr̥tamu
 అనే	anē
 అనేకం	anēkaṃ
@@ -1477,6 +1480,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అర్జెంటీనా	arjeṇṭīnā
 అర్ణము	arṇamu
 అర్ణవము	arṇavamu
+అర్థ జీవితకాలం	artha jīvitakālaṃ
 అర్థం	arthaṃ
 అర్థంలేని	arthaṃlēni
 అర్థదర్శిన్	arthadarśin
@@ -1625,6 +1629,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అవమానపడు	avamānapaḍu
 అవమానము	avamānamu
 అవమానించు	avamāniñcu
+అవయము	avayamu
 అవయవదాత	avayavadāta
 అవయవదానం	avayavadānaṃ
 అవయవము	avayavamu
@@ -1744,6 +1749,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 అసహ్యించుకొను	asahyiñcukonu
 అసాంఘిక	asāṅghika
 అసాక్షికము	asākṣikamu
+అసాధారణము	asādhāraṇamu
 అసాధ్యం	asādhyaṃ
 అసాధ్యము	asādhyamu
 అసి	asi
@@ -2269,6 +2275,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఆర్జించు	ārjinṭsu
 ఆర్జింౘు	ārjintsu
 ఆర్థిక	ārthika
+ఆర్థిక రికవరీ	ārthika rikavarī
 ఆర్థిక శాస్త్రము	ārthika śāstramu
 ఆర్థికము	ārthikamu
 ఆర్ద్రత	ārdrata
@@ -2592,6 +2599,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఇన్నూరు	innūru
 ఇన్నూఱు	innūṛu
 ఇన్మాఱు	inmāṛu
+ఇన్వెస్టర్	invesṭar
 ఇన్స్టగ్రమ్	insṭagram
 ఇన్స్పెక్టరు	inspekṭaru
 ఇపుడు	ipuḍu
@@ -2718,6 +2726,8 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఈఁదులాడు	īṅdulāḍu
 ఈక	īka
 ఈకలు	īkalu
+ఈక్విటీ	īkviṭī
+ఈక్విటీ మార్కెట్	īkviṭī mārkeṭ
 ఈగ	īga
 ఈగపులి	īgapuli
 ఈగపులులు	īgapululu
@@ -2755,6 +2765,8 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఈపు	īpu
 ఈఫిల్ టవర్	īphil ṭavar
 ఈమని	Īmani
+ఈమారు	īmāru
+ఈము	īmu
 ఈమె	īme
 ఈయన	īyana
 ఈరు	īru
@@ -3437,7 +3449,6 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఎర వేయు	era vēyu
 ఎరచి	eraci
 ఎరిగించు	erigiñcu
-ఎరిస్	eris
 ఎరుక	eruka
 ఎరుకు	eruku
 ఎరుకుల	erukula
@@ -3455,7 +3466,6 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఎర్ర జెండా	erra jeṇḍā
 ఎర్ర రక్తకణం	erra raktakaṇaṃ
 ఎర్ర సముద్రం	erra samudraṁ
-ఎర్ర సముద్రం	erra samudraṃ
 ఎర్రచీమ	erracīma
 ఎర్రతోలు	erratōlu
 ఎర్రదనం	erradanaṃ
@@ -3469,6 +3479,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఎఱుక	eṛuka
 ఎఱుపు	eṛupu
 ఎఱ్ఱ	eṛṛa
+ఎఱ్ఱ కడలి	eṛṛa kaḍali
 ఎఱ్ఱదీపము	eṛṛadīpamu
 ఎలకులు	elakulu
 ఎలా	elā
@@ -3562,6 +3573,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ఏడింతలు	ēḍintalu
 ఏడిపించు	ēḍipiñcu
 ఏడు	ēḍu
+ఏడుకొండలు	ēḍukoṇḍalu
 ఏడుగురు	ēḍuguru
 ఏడుచు	ēḍucu
 ఏడునొకటి	ēḍunokaṭi
@@ -4017,6 +4029,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 కట్టడము	kaṭṭaḍamu
 కట్టడములు	kaṭṭaḍamulu
 కట్టడాలు	kaṭṭaḍālu
+కట్టడి	kaṭṭaḍi
 కట్టప్ప	kaṭṭappa
 కట్టలు	kaṭṭalu
 కట్టవ	kaṭṭava
@@ -4094,6 +4107,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 కడుపులు	kaḍupulu
 కడ్డీ	kaḍḍī
 కణ	kaṇa
+కణ భౌతికశాస్త్రం	kaṇa bhautikaśāstraṃ
 కణం	kaṇaṃ
 కణజాలము	kaṇajālamu
 కణము	kaṇamu
@@ -5316,6 +5330,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 కృత్రిమమైన	kr̥trimamaina
 కృదంతం	kr̥dantaṃ
 కృదంతము	kr̥dantamu
+కృప	kr̥pa
 కృపాణము	kr̥pāṇamu
 కృశించు	kr̥śiñcu
 కృషి	kr̥ṣi
@@ -5815,6 +5830,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 క్రక్కు	krakku
 క్రమ పద్ధతి	krama paddhati
 క్రమం	kramaṃ
+క్రమక్రమముగా	kramakramamugā
 క్రమము	kramamu
 క్రమాంకము	kramāṅkamu
 క్రమించు	kramiñcu
@@ -6722,7 +6738,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 గురుకోణత్రిభుజము	gurukōṇatribhujamu
 గురుకోణము	gurukōṇamu
 గురుడు	guruḍu
-గురుడుబృహస్పతి	br̥haspati
+గురుడుor బృహస్పతి	br̥haspati
 గురుతు	gurutu
 గురుతుపట్టు	gurutupaṭṭu
 గురుతులు	gurutulu
@@ -7245,6 +7261,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 చంద్రిక	candrika
 చంద్రుండు	candruṇḍu
 చంద్రుడు	candruḍu
+చంద్రుడుor జాబిల్లి	jābilli
 చంద్రుని	candruni
 చంద్రుల	candrula
 చంద్రులు	candrulu
@@ -7545,6 +7562,8 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 చికిత్సకుఁడు	cikitsakuṅḍu
 చికిత్సకుడు	cikitsakuḍu
 చికిత్సచేయు	cikitsacēyu
+చికిత్సాలయం	cikitsālayaṃ
+చికిత్సాలయము	cikitsālayamu
 చికిత్సించు	cikitsiñcu
 చిక్కదనం	cikkadanaṃ
 చిక్కదనము	cikkadanamu
@@ -8451,6 +8470,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 జామీను	jāmīnu
 జాము	jāmu
 జాయ	jāya
+జాయసవాల	jāyasavāla
 జారజుడు	jārajuḍu
 జారత్వము	jāratvamu
 జారస్త్రీ	jārastrī
@@ -8473,6 +8493,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 జార్ఖండ్	jārkhaṇḍ
 జార్చు	jārcu
 జార్జియా	jārjiyā
+జార్జ్	jārj
 జాఱు	jāṛu
 జాల	jāla
 జాలం	jālaṃ
@@ -10127,6 +10148,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 దాక్షాయణి	dākṣāyaṇi
 దాక్షిణ్యం	dākṣiṇyaṃ
 దాక్షిణ్యము	dākṣiṇyamu
+దాఖలు	dākhalu
 దాగిలి	dāgili
 దాగు	dāgu
 దాగుట	dāguṭa
@@ -10606,6 +10628,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ద్రావణీయము	drāvaṇīyamu
 ద్రావిడ	drāviḍa
 ద్రావిడ భాషలు	drāviḍa bhāṣalu
+ద్రావిడము	drāviḍamu
 ద్రావిడులు	drāviḍulu
 ద్రుతప్రకృతి	drutaprakr̥ti
 ద్రుతప్రకృతికము	drutaprakr̥tikamu
@@ -11246,7 +11269,6 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 నవ్వులాట	navvulāṭa
 నవ్వులు	navvulu
 నశించు	naśiñcu
-నశించు	naśin̄cu
 నష్టం	naṣṭaṃ
 నష్టపరిహారము	naṣṭaparihāramu
 నష్టపెట్టు	naṣṭapeṭṭu
@@ -11848,7 +11870,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 నెత్తి	netti
 నెత్తురు	netturu
 నెదర్లాండ్	nedarlāṇḍ
-నెప్ట్యూన్ఇంద్రుడు	indruḍu
+నెప్ట్యూన్or ఇంద్రుడు	indruḍu
 నెప్త్యూన్	neptyūn
 నెమరు	nemaru
 నెమరువేయు	nemaruvēyu
@@ -12591,6 +12613,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 పరిశీలన	pariśīlana
 పరిశీలించు	pariśīliñcu
 పరిశోధన	pariśōdhana
+పరిశోధనము	pariśōdhanamu
 పరిశోధించు	pariśōdhiñcu
 పరిశ్రమ	pariśrama
 పరిశ్రమము	pariśramamu
@@ -12676,6 +12699,8 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 పల్లము	pallamu
 పల్లవుడు	pallavuḍu
 పల్లి	palli
+పల్లీ	pallī
+పల్లీకాయ	pallīkāya
 పల్లె	palle
 పల్లెకు పల్లె	ḍhillīki ḍhilli
 పల్లెకు పల్లె	palleku palle
@@ -13932,6 +13957,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ప్రజాస్వామ్యీకరణ	prajāsvāmyīkaraṇa
 ప్రజోత్పత్తి	prajōtpatti
 ప్రజోత్పత్తి అంగీరస	aṅgīrasa
+ప్రజోపయోగ పరిధి	prajōpayōga paridhi
 ప్రజ్ఞ	prajña
 ప్రణామము	praṇāmamu
 ప్రణాళిక	praṇāḷika
@@ -14026,6 +14052,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ప్రధానోపాధ్యాయుడు	pradhānōpādhyāyuḍu
 ప్రధానోపాధ్యాయురాలు	pradhānōpādhyāyurālu
 ప్రపంచ కవోష్ణత	prapañca kavōṣṇata
+ప్రపంచ బ్యాంకు	prapañca byāṅku
 ప్రపంచము	prapañcamu
 ప్రపంచవ్యాప్తంగా	prapañcavyāptaṅgā
 ప్రపదము	prapadamu
@@ -14313,8 +14340,8 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 ప్లీహము	plīhamu
 ప్లీహోదరుడు	plīhōdaruḍu
 ప్లూటో	plūṭō
+ప్లూటోor యముడు	yamuḍu
 ప్లూటోనియమ్	plūṭōniyam
-ప్లూటోయముడు	yamuḍu
 ప్లేటో	plēṭō
 ఫ	pha
 ఫం	phaṃ
@@ -15030,6 +15057,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 బొంత	bonta
 బొంతకాకి	bontakāki
 బొంతలు	bontalu
+బొంద	bonda
 బొంది	bondi
 బొంబాయి	bombāyi
 బొక్క	bokka
@@ -15878,6 +15906,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 మరువము	maruvamu
 మరుసటి	marusaṭi
 మరొకటి	marokaṭi
+మరోమారు	marōmāru
 మర్కటం	markaṭaṃ
 మర్కటకిశోరన్యాయము	markaṭakiśōranyāyamu
 మర్కటము	markaṭamu
@@ -16191,6 +16220,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 మారే	mārē
 మారేడు	mārēḍu
 మారేడుచెట్టు	mārēḍuceṭṭu
+మార్కెట్	mārkeṭ
 మార్క్స్	mārks
 మార్గం	mārgaṃ
 మార్గదర్శకుడు	mārgadarśakuḍu
@@ -17125,7 +17155,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 యుద్ధాలు	yuddhālu
 యునెస్కో	yuneskō
 యురేనస్	yurēnas
-యురేనస్వరుణుడు	varuṇuḍu
+యురేనస్or వరుణుడు	varuṇuḍu
 యురేనియం	yurēniyaṃ
 యురేనియము	yurēniyamu
 యురేనియమ్	yurēniyam
@@ -17186,6 +17216,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 యోర్క్	yōrk
 యోర్క్శిర్	yōrkśir
 యోవేలు	yōvēlu
+యోసేపు	yōsēpu
 యౌతకము	yautakamu
 యౌవతము	yauvatamu
 యౌవనం	yauvanaṃ
@@ -18526,7 +18557,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 వలలు	valalu
 వలస	valasa
 వలసదేశము	valasadēśamu
-వలసపోయిన వాఁడు	valasapōyina vāṅḍu
+వలసపోయిన వాఁడుi	valasapōyina vāṅḍu
 వలసపోవు	valasapōvu
 వలి	vali
 వలీముఖము	valīmukhamu
@@ -19555,11 +19586,13 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 వేయి	vēyi
 వేయించు	vēyiñcu
 వేయు	vēyu
+వేరియంట్‌	vēriyaṇṭ‌
 వేరు	vēru
 వేరు చేయు	vēru cēyu
 వేరు పడు	vēru paḍu
 వేరుపడు	vērupaḍu
 వేరుసెనగ	vērusenaga
+వేరుసెనగకాయ	vērusenagakāya
 వేరే	vērē
 వేర్పాటు	vērpāṭu
 వేర్లు	vērlu
@@ -19882,6 +19915,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 శవాసనం	śavāsanaṃ
 శవాసనము	śavāsanamu
 శశము	śaśamu
+శశాంకుడు	śaśāṅkuḍu
 శశి	śaśi
 శశికళ	śaśikaḷa
 శశికాంతము	śaśikāntamu
@@ -20847,6 +20881,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 సరము	saramu
 సరయు	sarayu
 సరళ	saraḷa
+సరళ యంత్రం	saraḷa yantraṃ
 సరళం	saraḷaṃ
 సరళంగా	saraḷaṅgā
 సరళము	saraḷamu
@@ -21205,8 +21240,13 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 సిద్ధించు	siddhin̄cu
 సిద్ధుడు	siddhuḍu
 సిద్ధురాలు	siddhurālu
+సినినటి	sininaṭi
+సినినటుడు	sininaṭuḍu
 సినిమా	sinimā
 సినిమాలు	sinimālu
+సినీనటి	sinīnaṭi
+సినీనటుడు	sinīnaṭuḍu
+సినీనటులు	sinīnaṭulu
 సిపాయి	sipāyi
 సిమ్లా	simlā
 సియోల్	siyōl
@@ -21468,6 +21508,7 @@ uయొళ్కార్-ఒలా	uyoḷkār-olā
 సెకండ్ సెటప్	sekaṇḍ seṭap
 సెకను	sekanu
 సెగవ్యాధి	segavyādhi
+సెనక్కాయ	senakkāya
 సెనగలు	senagalu
 సెప్టెంబరు	sepṭembaru
 సెప్టెంబర్	sepṭembar

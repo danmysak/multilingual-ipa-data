@@ -46,6 +46,7 @@ while回圈	while wui hyun
 一半	jat bun
 一吓	jat haa
 一啲	jat dit
+一心	jat sam
 一時嘅	jat si ge
 一月	jat jyut
 一样	yatyeung
@@ -178,6 +179,7 @@ while回圈	while wui hyun
 中国	zung gwok
 中国人	zung gwok jan
 中国城	zung gwok sing
+中天	zung tin
 中子	jung ji
 中山	zung saan
 中指	zung zi
@@ -444,6 +446,7 @@ while回圈	while wui hyun
 会	wui wui
 会合	wui hap
 会员	wui jyun
+会期	wui kei
 会计师	wui gai si
 会阴	wui jam
 传呼机	cyun fu gei
@@ -452,6 +455,7 @@ while回圈	while wui hyun
 传真机	cyun zan gei
 传统	cyun tung
 传译	tsyn jik
+传说	cyun syut
 传道书	cyun dou syu
 传道人	cyun dou jan
 伤害	soeng hoi
@@ -530,6 +534,7 @@ while回圈	while wui hyun
 俄梅戛	ngo mui gaat
 俄梅格	ngo mui gaak
 俄罗斯	ngo lo si
+俄語	ngoh yuh
 俄里	ngo lei
 保加利亚	bou gaa lei aa
 保守党	bou sau dong
@@ -581,6 +586,7 @@ while回圈	while wui hyun
 偷窺	tau kwai
 偷笑	tau siu
 偽-	ngai
+偽善	ngai sin
 偽裝	jongngai
 傢俬	gaa si
 储埋	cou maai
@@ -1160,7 +1166,6 @@ while回圈	while wui hyun
 史拨尼克	si but nei hak
 史诗	si si
 史高比耶	si gou bei je
-右	jau
 右手	jau sau
 叶理诺	jip lei nok
 号	hou
@@ -1340,6 +1345,7 @@ while回圈	while wui hyun
 哪里	naa leoi
 哭	huk
 哮喘	haau cyun
+哲學	zit hok
 唐人	tong jan
 唐人街	tong jan gaai
 唐吉訶德	tong gat ho dak
@@ -1496,6 +1502,7 @@ while回圈	while wui hyun
 固有	gu jau
 国会	gwok wui
 国家	gwok gaa
+国歌	gwok go
 国民党	gwok man dong
 国王	gwok wong
 国瑞历	gwok seoi lik
@@ -1718,6 +1725,7 @@ while回圈	while wui hyun
 大气层	daai hei cang
 大熊猫	daai hung maau
 大爆炸	daai baau zaa
+大猩猩	daaih sing sing
 大理石	daai lei sek
 大白鲨	daai baak saa
 大笨象	daai ban zoeng
@@ -1862,6 +1870,7 @@ while回圈	while wui hyun
 好少	hou siu
 好彩	hou coi
 好憎	hou zang
+好望角	hou mong gok
 好玩	hou waan
 好耐冇見	hou noi mou gin
 好过冇	hou gwo mou
@@ -2015,6 +2024,7 @@ while回圈	while wui hyun
 密西沙加	mat sai saa gaa
 富士山	fu si saan
 富豪	fu hou
+寒背	honbui
 察合台	caat hap toi
 察哈尔	caat haa ji
 察覺	caat kok
@@ -2087,6 +2097,7 @@ while回圈	while wui hyun
 层云	cangwan
 层积云	cangzikwan
 屄	bei hai
+居酒屋	geoi zau uk
 屈從	wat cong
 屈服	wat fuk
 屌	diu
@@ -2191,6 +2202,7 @@ while回圈	while wui hyun
 希臘文	hei lip man
 帕賽	paak coi
 帕赛	paak coi
+帝国	dai gwok
 带子	daai zi
 常熟	soeng suk
 幕	mok
@@ -2523,11 +2535,13 @@ while回圈	while wui hyun
 执事	zap si
 执仔婆	zap zai po
 执妈	zap maa
+执照	zap ziu
 扫把	sou baa
 扫把星	sou baa sing
 扫禄	sou luk
 扫罗	sou lo
 扬子江	joeng zi gong
+扬琴	joeng kam
 扯大缆	ce daai laam
 扯旗	ce kei
 扶手电梯	fu sau din tai
@@ -3035,7 +3049,9 @@ while回圈	while wui hyun
 机场	gei coeng
 机师	gei si
 机构	gei kau
+机械人	gei haai jan
 机械工	gei haai gung
+机票	gei piu
 杀	saat
 杀人	saat jan
 杀人犯	saat jan faan
@@ -3071,6 +3087,7 @@ while回圈	while wui hyun
 東番	dungfan
 松	sung
 松子	cung zi
+松鸦	cung aa
 松鼠	cung syu
 板球	baan kau
 枇杷	pei paa
@@ -3212,6 +3229,7 @@ while回圈	while wui hyun
 橡筋	zoeng gan
 橫坐標	waang zo biu
 橫波	waang bo
+橿鸟	goeng niu
 櫃	gwai
 櫈	dang
 櫻花	jing faa
@@ -3237,11 +3255,11 @@ while回圈	while wui hyun
 款	fun
 歇后语	hit hau jyu
 歌利亚	go lei aa
+歌劇	go kehk
 正	zeng
 正午	zing ng
 正常	zing soeng
 正弦	zing jin
-正确	zing kok
 此	chi
 此外	ci ngoi
 步他	bou taa
@@ -3702,6 +3720,7 @@ while回圈	while wui hyun
 火鸡	fo gai
 火龙果	fo lung gwo
 灯	dang
+灯塔	dang taap
 灯笼	dang lung
 灰	fui
 灰姑娘	fui gu noeng
@@ -3812,6 +3831,7 @@ while回圈	while wui hyun
 爆炸头	baau zaa tau
 爆炸装	baau zaa zong
 爆谷	baau guk
+爬虫	paa cung
 爬虫类	paa cung leoi
 爱	oi
 爱丁堡	oi ding bou
@@ -4629,6 +4649,7 @@ while回圈	while wui hyun
 罗马	lo maa
 罗马人	lo maa jan
 罗马尼亚	lo maa nei aa
+罚单	fat daan
 罚款	fat fun
 罚金	fat gam
 罚钱	fat cin
@@ -4768,6 +4789,7 @@ while回圈	while wui hyun
 肥婆	fei po
 肥皂劇	fei zou kek
 肥肝	fei gon
+肯德基	hang taap gei
 育空	juk hung
 肺	fai
 肺水腫	fai seoi zung
@@ -4803,6 +4825,7 @@ while回圈	while wui hyun
 胡椒喷雾	wu ziu pan mou
 胡椒粉	wu ziu fan
 胡萝卜	wu lo baak
+胡须	wu sou
 胩	kaa
 胲	haai
 胳肋底	gaak laak dai
@@ -4918,6 +4941,7 @@ while回圈	while wui hyun
 舵手	to sau
 船	syun
 船底座	syun dai zo
+船飞	syun fei
 艱巨	gaan geoi
 艱苦	gaan fu
 色士风	sik si fung
@@ -5353,7 +5377,6 @@ while回圈	while wui hyun
 說明	syutming
 課程	fo cing
 論文	leon man
-識講	sik gong
 警察	ging caat
 警棍	ging gwan
 警车	ging ce
@@ -5388,6 +5411,7 @@ while回圈	while wui hyun
 评论家	ping leon gaa
 诅咒	zo zau
 识得	sik dak
+识讲	sik gong
 诈傻	zaa so
 诉讼	sou zung
 词典	ci din
@@ -5410,6 +5434,7 @@ while回圈	while wui hyun
 诸圣节	zyu sing zit
 读	duk
 读者	duk ze
+课文	fo man
 课本	fo bun
 谁	seoi
 谁人	seoi jan
@@ -5442,7 +5467,6 @@ while回圈	while wui hyun
 賠償	pui soeng
 賣廣告	mai gwong gou
 贅述	zeoi seot
-贏	jeng
 贝鲁特	bui lou dak
 财富	coi fu
 责任	zaak jam
@@ -5460,6 +5484,7 @@ while回圈	while wui hyun
 贵阳	gwai joeng
 贸易	mau jik
 贼	caak
+贿赂	kui lou
 资料	zi liu
 资本主义	zi bun zyu ji
 资讯系统	zi seon hai tung
@@ -5539,6 +5564,7 @@ while回圈	while wui hyun
 车库	ce fu
 车房	ce fong
 车打芝士	ce daa zi si
+车票	ce fei
 车辆	ce loeng
 轩辕十四	hin jyun sap sei
 转	zyun
@@ -5553,6 +5579,7 @@ while回圈	while wui hyun
 轮軚	leon taai
 软雪糕	jyun syut gou
 软骨	jyun gwat
+输	syu
 输入	syu jap
 输入法	syu jap faat
 输出	syu ceot
@@ -5605,6 +5632,7 @@ while回圈	while wui hyun
 迪拜	dik baai
 迫力皮	bik lik pei
 迴響	wui hoeng
+迷宫	mai gung
 迷戀	mai lyun
 迷走神经	mai zau san ging
 迷迭香	mai dit hoeng
@@ -5656,6 +5684,7 @@ while回圈	while wui hyun
 選擇	syun zaak
 避孕套	bei jan tou
 邀請	jiu cing
+還擊	waan gik
 那	na
 那不勒斯	naa bat lak si
 那波利	naa bo lei
@@ -5812,6 +5841,7 @@ while回圈	while wui hyun
 锁	so
 锂	lei
 锈	sau
+锚	naau
 锡纸	sek zi
 锣	lo
 锥形瓶	zeoi jing ping
@@ -5868,7 +5898,6 @@ while回圈	while wui hyun
 防晒	fong saai
 防止	fong zi
 防毒	fong duk
-防疫	fong jik
 阳光	joeng gwong
 阳具	joeng geoi
 阳历	joeng lik
@@ -5954,7 +5983,6 @@ while回圈	while wui hyun
 雙簧管	seung wohng gun
 雜技	zaap gei
 雜音	zaap jam
-雞	gai
 雨	jyu
 雨层云	jyucangwan
 雨月	jyu jyut
@@ -6006,7 +6034,6 @@ while回圈	while wui hyun
 非洲	fei zau
 面	min
 面书	min syu
-面包	min baau
 面包屑	min baau sit
 面包糠	min baau hong
 面坚尼	bin gin nei
@@ -6063,6 +6090,7 @@ while回圈	while wui hyun
 颈渴	geng hot
 额头	ngaak tau
 风	fung
+风暴	fung bou
 风月	fung jyut
 风水	fung seoi
 风琴	fung kam
@@ -6072,6 +6100,7 @@ while回圈	while wui hyun
 风筝	fung zang
 风纪	fung gei
 飛快	fei faai
+飞	fei
 飞机	fei gei
 飞机场	fei gei coeng
 飞机师	fei gei si
@@ -6258,6 +6287,7 @@ while回圈	while wui hyun
 鵝鹅	ngo
 鸚鵡螺	jing mou lo
 鸟神星	niu san sing
+鸡	gai
 鸡乸	gai naa
 鸡公	gai gung
 鸡冠	gai gun

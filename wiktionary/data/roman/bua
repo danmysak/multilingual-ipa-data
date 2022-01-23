@@ -20,12 +20,17 @@
 Бээжэн	Beežen
 Википеэди	Vikipjeedi
 Горлог	Gorlog
+Доржиев	Doržijev
+Доржиева	Doržijeva
 Доржо	Doržo
 Европо	Jevropo
 Европын Холбоон	Jevropyn Xolboon
 Европын холбоо	Jevropyn xolboo
 Жибэн	Žiben
+Захаамин	Zaxaamin
+Захаамин хото	Zaxaamin xoto
 Зүлхэ	Zülxe
+Зүүн Сибирь	Züün Sibirʹ
 Иерусалим	Ijerusalim
 Ингушети	Ingušjeti
 Испани	Ispani
@@ -49,11 +54,9 @@
 Омскодо	Omskodo
 Ород	Orod
 Орос	Oros
-Орос Холбоото Улас	Oros Xolbooto Ulas
 Орос орон	Oros oron
 Орос улас	Oros ulas
 Оросой	Orosoj
-Оросой Холбоото Улас	Oros Xolbooto Ulas
 Оросой Холбоото Улас	Orosoj Xolbooto Ulas
 Оросой эзэнтэ гүрэн	Orosoj ezente güren
 Оросойнхи	Orosojnxi
@@ -61,6 +64,7 @@
 Росси	Rossi
 Россиин	Rossiin
 Россиин Федераци	Rossiin Fjedjeraci
+Сибирь	Sibirʹ
 Сэлэнгэ	Selenge
 Сэлэнгэ мүрэн	Selenge müren
 Теннесси	Tjennjessi
@@ -170,6 +174,7 @@
 биһалаг	bihalag
 бодисада	bodisada
 бодохо	bodoxo
+болбосорол	bolbosorol
 борбоосгой	borboosgoj
 борной	bornoj
 бороо	boroo
@@ -318,7 +323,13 @@
 миниихин	miniixin
 миһэрэл	miherel
 могой	mogoj
+могойто	mogojto
+могойтой	mogojtoj
 модон	modon
+модото	modoto
+модотой	modotoj
+модохон	modoxon
+модошон	modošon
 можо	možo
 монархи	monarxi
 монгол	mongol
@@ -390,12 +401,14 @@
 нюур	njuur
 нүхэр	nüxer
 нүүрһэн	nüürhen
+областьһоо	oblastʹhoo
 одон	odon
 ой	oj
 ойлгохо	ojlgoxo
 ойрад	ojrad
 ойрад хэлэн	ojrad xelen
 ойрад хүн	ojrad xün
+округһоо	okrughoo
 он	on
 онгосо	ongoso
 оркестр	orkjestr
@@ -415,6 +428,7 @@
 партида орохо	partida oroxo
 паспорт	pasport
 пивэ	pive
+пивэ ууха	pive uuxa
 политическэ	političjeske
 пятница	pjatnica
 пүн	pün
@@ -440,6 +454,7 @@
 сахилгаан	saxilgaan
 сая	saja
 симфони	simfoni
+симфоническа	simfoničjeska
 соёл	sojol
 соёлжохо	sojolžoxo
 соёлжоһон	sojolžohon
@@ -461,6 +476,7 @@
 табаг	tabag
 табадахи	tabadaxi
 табан	taban
+табангууд	tabanguud
 тамхи	tamxi
 тана	tana
 таниха	tanixa
@@ -667,6 +683,7 @@
 яармаг	jaarmag
 ябаха	jabaxa
 яблока	jabloka
+яблони	jabloni
 ягаан	jagaan
 ямаан	jamaan
 яхад хэлэн	jaxad xelen

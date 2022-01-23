@@ -1,11 +1,23 @@
-border:solid 1px rgb	ma
-border:solid 1px rgb	maka
-border:solid 1px rgb	maki
-border:solid 1px rgb	pa
-color:rgb	ma
-color:rgb	maka
-color:rgb	maki
-color:rgb	pa
+0%	ma
+0%	maka
+0%	maki
+0%	pa
+100%	ma
+100%	maka
+100%	maki
+100%	pa
+30%	ma
+30%	maka
+30%	maki
+30%	pa
+80%	ma
+80%	maka
+80%	maki
+80%	pa
+color:rgb 0%	ma
+color:rgb 0%	maka
+color:rgb 0%	maki
+color:rgb 0%	pa
 text-align:center	ma
 text-align:center	maka
 text-align:center	maki
@@ -13,6 +25,7 @@ text-align:center	pa
 ᜀ	a
 ᜀᜀ	aa
 ᜀᜀᜊᜈ᜔	aaban
+ᜀᜃ᜔ᜐᜒᜊᜎ᜔	aksibal
 ᜀᜄ	aga
 ᜀᜅ᜔ᜑᜒᜆ᜔	anghit
 ᜀᜇᜆᜒᜎᜒᜐ᜔	aratilis
@@ -54,6 +67,9 @@ text-align:center	pa
 ᜃ	ka
 ᜃᜇᜄᜆᜈ᜔	karagatan
 ᜃᜇᜌᜓᜋ᜔	karayum
+ᜃᜎᜓᜐᜓᜄᜈ᜔	kalusugan
+ᜃᜏᜎᜅ᜔ ᜃᜐᜌ᜔ᜐᜌᜈ᜔	kawalang kasaysayan
+ᜃᜐᜌ᜔ᜐᜌᜈ᜔	kasaysayan
 ᜄ	g
 ᜄᜇᜌ	garaya
 ᜅ	ng
@@ -68,7 +84,10 @@ text-align:center	pa
 ᜇ	da
 ᜇᜑ	daha
 ᜇᜒᜋᜐ᜔	dimas
+ᜇᜒᜎᜋ᜔ᜊᜓᜏᜌ	dilambuwaya
+ᜇᜒᜎᜒᜐ᜔	dilis
 ᜇᜓᜄᜓ	dugu
+ᜇᜓᜎᜒᜐ᜔	dulis
 ᜈ	na
 ᜈᜅ᜔	nang
 ᜈᜋᜒᜈ᜔	namin
@@ -78,9 +97,12 @@ text-align:center	pa
 ᜉᜄ᜔ᜁᜊᜒᜄ᜔	pagibig
 ᜉᜄ᜔ᜆᜆᜉᜓᜎᜂ	pagtatapulau
 ᜉᜄ᜔ᜆᜉᜓᜎᜂ	pagtapulau
+ᜉᜅ᜔ᜃᜎᜓᜐᜓᜄᜈ᜔	pangkalusugan
+ᜉᜅ᜔ᜃᜐᜌ᜔ᜐᜌᜈ᜔	pangkasaysayan
 ᜉᜏᜒᜃᜈ᜔	pawikan
 ᜉᜏᜒᜉᜏᜒᜃᜈ᜔	pawipawikan
 ᜉᜒᜎᜒᜉᜒᜈᜐ᜔	pilipinas
+ᜉᜓᜃᜒ	puki
 ᜉᜓᜏᜐ᜔	puwas
 ᜊ	ba
 ᜊᜃᜓᜈ	bakuna
@@ -94,6 +116,8 @@ text-align:center	pa
 ᜊᜓᜈ᜔ᜇᜓᜃ᜔ ᜆᜉᜓᜎᜂ	bunduk tapulau
 ᜊᜓᜈ᜔ᜐᜓ	bunsu
 ᜋ	ma
+ᜋᜁᜃ᜔ᜎᜒᜅ᜔ ᜃᜐᜌ᜔ᜐᜌᜈ᜔	maikling kasaysayan
+ᜋᜃᜐᜌ᜔ᜐᜌᜈ᜔	makasaysayan
 ᜋᜃᜑᜒᜌ	makahiya
 ᜋᜄ᜔ᜀᜀ	magaa
 ᜋᜌ᜔ᜈᜒᜎ	maynila
@@ -103,10 +127,16 @@ text-align:center	pa
 ᜎᜊᜐ᜔	labas
 ᜎᜌᜓᜈ	layuna
 ᜎᜓᜄ᜔ᜇᜓ	lugdu
+ᜎᜓᜐᜓᜄ᜔	lusug
 ᜏ	wa
+ᜏᜎᜅ᜔ᜃᜐᜌ᜔ᜐᜌᜈ᜔	walangkasaysayan
 ᜏᜒᜃ	wika
 ᜐ	sa
+ᜐᜈᜒᜇᜇ᜔	sanirad
+ᜐᜊᜒᜎ	sabila
 ᜐᜊᜓᜈᜈ᜔	sabunan
+ᜐᜌ᜔ᜐᜌ᜔	saysay
+ᜐᜎᜌ᜔ᜐᜌ᜔	salaysay
 ᜐᜑ	saha
 ᜑ	ha
 ᜑᜅᜇ᜔	hangad

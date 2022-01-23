@@ -91,6 +91,7 @@ speaker of پښتو	paxto
 استاذ	ostaz
 استازډله	astazdala
 استثنا	estesna
+استخدام	estexdam
 استراليا	astralya
 استراليائي	astraliayi
 استريا	asterya
@@ -138,13 +139,16 @@ speaker of پښتو	paxto
 اطريش	otris
 اطلاع	etla
 اظهارول	ezharawel
+اعتبار	etebar
 اعتراف	eteraf
 اعتصاب	etesab
 اعتقاد	eteqad
+اعتماد	etemad
 اعلان	ilan
 اغزی	agzai
 اغزی	agzay
 اغوستل	agustel
+اغوستل	agustelb
 اغوندم	agundem
 اغږل	aggel
 اغږم	agagem
@@ -345,6 +349,7 @@ speaker of پښتو	paxto
 ايالت	eyalat
 ايتاليا	italiya
 ايداد	idad
+ايديولوژي	idiolozi
 ايران	iran
 ايراني	irani
 ايرنۍ	iraney
@@ -361,14 +366,17 @@ speaker of پښتو	paxto
 ايټالوي	italawi
 ايټالي	itali
 ايټاليا	italya
+ايډيالوجي	idyaloji
 ايکټر	ektar
 ايڼ	in
 آ	alifmada
 آب وهوا	abohawa
+آب پاشِي	abpashi
 آبادانی	abadani
 آبخانە	abkhana
 آبده	abeda
 آبرو	abrav
+آبشار	absar
 آبکند	abkand
 آتشفشان	atesfesan
 آتن	atan
@@ -458,6 +466,7 @@ speaker of پښتو	paxto
 اېکوادور	ekwador
 ب	be
 بابا	baba
+باج	baj
 باختر	baxtar
 باختري اوښ	baxteri ux
 باد	bad
@@ -490,6 +499,7 @@ speaker of پښتو	paxto
 بانجڼ	bandzhan
 باندې	bande
 بانک	bank
+باور	bawar
 باور کارډ	bawar kard
 بايسکل	bayskel
 بايع	baye
@@ -550,6 +560,7 @@ speaker of پښتو	paxto
 بربر	barbar
 بربنډ	barband
 بربنډ	berbend
+بربړوک	barbaruk
 برتانيه	bartanya
 برج	borj
 برج	braj
@@ -804,6 +815,7 @@ speaker of پښتو	paxto
 تشکل	tasakol
 تصور	tasawor
 تصوير	taswir
+تعذيب	tazib
 تعريف	tarif
 تعطيل	tatil
 تعليمات	talimat
@@ -925,6 +937,7 @@ speaker of پښتو	paxto
 جبه	jeba
 جدول	jadwal
 جذر	jazr
+جراح	jarrah
 جرمانه	jormana
 جريده	jarida
 جرړه	jarra
@@ -1057,6 +1070,7 @@ speaker of پښتو	paxto
 خالي	xali
 خالي ورځ	xali wraj
 خام	xam
+خاندان	xanadan
 خانقا	xanaqa
 خاوره	khavra
 خاوند	xawand
@@ -1079,11 +1093,13 @@ speaker of پښتو	paxto
 خرافات	xerafat
 خرس	xers
 خرطوم	xartum
+خريد	xarid
 خريز	xriz
 خريطه	xarita
 خری	xeray
 خزان	xazan
 خزانه	xazana
+خزنده	xazenda
 خشالي	xasali
 خشونت	xosunat
 خشونت	xusonat
@@ -1335,6 +1351,7 @@ speaker of پښتو	paxto
 رخس	raxs
 رساله	resala
 رست	rost
+رستوران	rastoran
 رسنۍ	resenai
 رسول	rasul
 رعيت	rayat
@@ -1357,6 +1374,7 @@ speaker of پښتو	paxto
 رنګون	rangun
 رنګونه	ranguna
 رو	rav
+روايت	rawayat
 روح	roh
 روزنامه	roznama
 روزنامه نګاري	roznamanegari
@@ -1373,6 +1391,7 @@ speaker of پښتو	paxto
 روم	rom
 روما	roma
 رومال	romal
+رومان	roman
 رومان ليکوال	romanlikwal
 رومانیا	romaniya
 رومي	rumi
@@ -1401,6 +1420,7 @@ speaker of پښتو	paxto
 زاغچکه	zagcaka
 زامبه	zamba
 زامه	zama
+زاوه	zawa
 زاويه	zaweya
 زاير	zaer
 زاګرېب	zagreb
@@ -1426,6 +1446,7 @@ speaker of پښتو	paxto
 زعفران	zafaran
 زغره	zgara
 زغم	zgam
+زغونډى	zgunday
 زلیخا	zuleixa
 زما	zma
 زمان	zaman
@@ -1447,6 +1468,7 @@ speaker of پښتو	paxto
 زنګون	zangun
 زنګي	zangi
 زه	ze
+زهر	zahr
 زهره	zahra
 زهٔ	ze
 زوار	zawar
@@ -1480,6 +1502,7 @@ speaker of پښتو	paxto
 سا	sa
 سابون	sabun
 سابونونه	sabununah
+ساحر	saher
 ساده	sada
 سادو	sadu
 سازمان	sazman
@@ -1521,6 +1544,7 @@ speaker of پښتو	paxto
 سخوبی	sxobay
 سخی	sxay
 سر	sar
+سر	ser
 سراغي	soragi
 سراييوو	sarayewo
 سرباز	sarbaz
@@ -1719,6 +1743,7 @@ speaker of پښتو	paxto
 شراب	sarab
 شرابخانه	sarabxana
 شربت	sarbat
+شرشره	sarsara
 شرط	sart
 شرطنامه	sartnama
 شرق	sarq
@@ -1798,6 +1823,7 @@ speaker of پښتو	paxto
 شکايت	sekayat
 شکره	sakera
 شکرۍ	skrey
+شکنجه	skanja
 شګه	sega
 شېبه	seba
 ص	swad
@@ -1836,6 +1862,7 @@ speaker of پښتو	paxto
 ضرب	zarb
 ضرورت	zarurat
 ضروري	zaruri
+ضمانت	zamanat
 ضمه	zama
 ضمير	zamir
 ضيا	zeya
@@ -1867,6 +1894,7 @@ speaker of پښتو	paxto
 عالم	alam
 عالم	alim
 عالي	aeli
+عايله	ayela
 عائشه	aisha
 عبارت	ebarat
 عبدالله	abdullah
@@ -2004,6 +2032,7 @@ speaker of پښتو	paxto
 فاحشه	fahesa
 فادوڅ	faduc
 فاشيست	fasist
+فاميل	famil
 فبروري	februwari
 فتبال	fotbal
 فتح	fatha
@@ -2047,6 +2076,7 @@ speaker of پښتو	paxto
 فن	fan
 فنلېنډي	fenlendi
 فنلېنډی	fenlenday
+فواره	fawara
 فوټبال	fotbal
 فيصد	fisad
 فيلمرغ	filmorg
@@ -2057,6 +2087,7 @@ speaker of پښتو	paxto
 فېډرېشن	federesan
 ق	qaf
 قاب	qab
+قابله	qabela
 قاتل	qatel
 قاره	qara
 قازاقستان	qazaqstan
@@ -2169,6 +2200,7 @@ speaker of پښتو	paxto
 لمونځ	lmunz
 لندن	landan
 لنډ	land
+لنګر	langar
 له ياده ايستل	layadaistel
 له ياده وتل	layadawatel
 لهجه	lahja
@@ -2264,6 +2296,7 @@ speaker of پښتو	paxto
 ماشينګن	masingan
 ماغزه	magza
 مال	mal
+ماليات	malyat
 ماليه	malya
 مالټه	malta
 مالک	malik
@@ -2271,6 +2304,7 @@ speaker of پښتو	paxto
 مالکه	malika
 مالګه	malga
 مالیزیا	maleziya
+مالیه	malya
 مالې	male
 مالېزيا	maleziya
 مالېکول	malekul
@@ -2278,6 +2312,7 @@ speaker of پښتو	paxto
 ماناما	manama
 مانش	mans
 مانيلا	manila
+ماهر	maher
 ماهي	mahi
 ماهي ګير	mahigir
 ماهی	mahay
@@ -2291,6 +2326,7 @@ speaker of پښتو	paxto
 ماڼۍ	maney
 ماڼۍ	mannei
 متاع	mata
+متخصص	motaxases
 مترجم	motarajem
 متل	matal
 مثل	masal
@@ -2347,6 +2383,7 @@ speaker of پښتو	paxto
 مدرسه	madrasa
 مدينه	madina
 مدیر	mudir
+مذاکره	mozakera
 مذهب	mazhab
 مرامنامه	maramnama
 مراکش	marakes
@@ -2406,6 +2443,7 @@ speaker of پښتو	paxto
 مشارکت	mosarakat
 مشاور	mosawer
 مشرانوجرګه	meseranojarga
+مشروب	masrub
 مشق	masq
 مشکل	muskil
 مصدر	masdar
@@ -2496,6 +2534,7 @@ speaker of پښتو	paxto
 مهبل	mahbal
 مهر	mahr
 مهرباني	mehrabani
+مهمانخانه	mehmanxana
 مهميز	mahmiz
 مهندسي	muhandasi
 مهينه	mahina
@@ -2641,6 +2680,7 @@ speaker of پښتو	paxto
 نان	nan
 نانځکه	nanjeka
 ناهيد	nahid
+ناول	nawel
 ناولى	nawelay
 نايتروجن	naytrojan
 نايجېريا	nayjerya
@@ -2826,6 +2866,7 @@ speaker of پښتو	paxto
 هنګري	hangari
 هو	ho
 هوا	hawa
+هوانورد	hawanaward
 هواويجه	hawaweja
 هوايي ډګر	hawayi deger
 هوایی ډګر	hawayidagar
@@ -2929,7 +2970,9 @@ speaker of پښتو	paxto
 وزیرستان	waziristan
 وستون	wastun
 وسله	wasla
+وطن	watan
 وطنوال	watanwal
+وعده	wada
 وعظ	waz
 وفا	wafa
 وفادار	wafadar
@@ -3030,6 +3073,7 @@ speaker of پښتو	paxto
 يو	yaw
 يورپ	urop
 يوز	yuz
+يوغ	yog
 يوم	yum
 يونان	yunan
 يوناني	yunani
@@ -3078,6 +3122,7 @@ speaker of پښتو	paxto
 ټپټپی	taptapay
 ټکسي	taksi
 ټکنيشن	taknesan
+ټکټ	teket
 ټېل وهل	tel wahel
 ټېنس	tenes
 ټېپ ريکارډر	teprikardar
@@ -3097,6 +3142,7 @@ speaker of پښتو	paxto
 پانوس	panus
 پانګوالي	pangwali
 پايله	payla
+پايلوټ	paylot
 پايول	payawal
 پاپۍ	papai
 پاچاهي	pacahi
@@ -3228,11 +3274,14 @@ speaker of پښتو	paxto
 پوښتنه	postena
 پياده رو	pyadaraw
 پياله	pyala
+پيام	payam
 پيسې	paise
 پيسې	payse
 پيشو	piso
+پيغام	paygam
 پيل	pail
 پيل	pil
+پيلوټ	pilot
 پيمان	payman
 پيډل	paydal
 پيکنګ	peking
@@ -3348,6 +3397,7 @@ speaker of پښتو	paxto
 څپره	tsapera
 څپه	capa
 څپېړه	sapera
+څښاک	cxak
 څښاک	sxak
 څکل	skel
 څکه	seka
@@ -3494,7 +3544,9 @@ speaker of پښتو	paxto
 ژبې	zebe
 ژر	zar
 ژرنده	zranda
+ژغ	zag
 ژغورځی	zgorzay
+ژمنه	zmena
 ژمۍ	zamey
 ژور	zawar
 ژور	zewer
@@ -3708,6 +3760,7 @@ speaker of پښتو	paxto
 کوپېک	kopek
 کوڅه	kuca
 کوڅکه	kocaka
+کوچ	kauc
 کوچ	kuc
 کوچنی	kucnay
 کوچنۍ	kucney
@@ -3817,6 +3870,7 @@ speaker of پښتو	paxto
 ګيلاس	gilas
 ګيټۍ	gitei
 ګټل	gatal
+ګټل	gatel
 ګټه	geta
 ګډه	geda
 ګډون	gadun
@@ -3826,6 +3880,7 @@ speaker of پښتو	paxto
 ګړدود	gerdod
 ګړندی	gerenday
 ګړندۍ	garandey
+ګړونګه	garunga
 ګړيال	garyal
 ګړيستنه	geryastena
 ګړپوهنه	gerrohena

@@ -259,6 +259,7 @@
 ການເກິດ	kan koet
 ການເຄື່ອນໄຫວ	kan khuan wai
 ການເງິນ	kan ngoen
+ການເຈລະຈາ	kan che la cha
 ການເດີນທາງ	kan doen thang
 ການເມືອງ	kan muang
 ການເລືອກຕັ້ງ	kan luak tang
@@ -634,6 +635,7 @@
 ຄອນກີດ	khon kit
 ຄອນເສີດ	khon soet
 ຄອບຄົວ	khop khua
+ຄອມ	khom
 ຄອມພິວເຕີ	khom phiu toe
 ຄອມມູນິດ	khom mu nit
 ຄະດີ	kha di
@@ -719,7 +721,6 @@
 ຄື້ນ	khun
 ຄຸ	khu
 ຄຸກ	khuk
-ຄຸຍ	khui
 ຄຸຍ	khuy
 ຄຸຍໂຕ	khu nya to
 ຄຸຍໂຕ	khuy to
@@ -848,6 +849,7 @@
 ຈັກ	chak
 ຈັກກະ	chak ka
 ຈັກກະພັດ	chak ka phat
+ຈັກກະພັດດິນິ	chak ka phat di ni
 ຈັກກະພັດນິຍົມ	chak ka phat ni nyom
 ຈັກກະພົບໂຣມັນ	chak ka phop ro man
 ຈັກກະວັດ	chak ka wat
@@ -1063,6 +1065,7 @@
 ຊູຊິ	su si
 ຊູດານ	su dan
 ຊູດານໃຕ້	su dan tai
+ຊູນາມິ	su na mi
 ຊູຣີນາມ	su ri nam
 ຊູລີ	su li
 ຊູໂຈ	su cho
@@ -1154,6 +1157,7 @@
 ຍົມ	nyom
 ຍົມມະນາ	nyom ma na
 ຍ່ອງ	nyong
+ຍ່ອຍ	nyoi
 ຍ່າ	nya
 ຍ່າງ	nyang
 ຍ່ຽວ	nyiau
@@ -1311,6 +1315,7 @@
 ຕຳລາ	tam la
 ຕຳສົ້ມ	tam som
 ຕຳຫຼວດ	tam luat
+ຕຳແຍ	tam nyae
 ຕຳແໜ່ງ	tam naeng
 ຕຳໝາກຫຸ່ງ	tam mak hung
 ຕິ	ti
@@ -1722,6 +1727,7 @@
 ນິຣາພາດ	ni ra phat
 ນິຣາໄມ	ni ra mai
 ນິລະ	ni la
+ນິລະໂທດກຳ	ni la thot kam
 ນິລາພາດ	ni la phat
 ນິລາໄມ	ni la mai
 ນິວເດລີ	niu de li
@@ -2218,6 +2224,7 @@
 ຜູ້ຊົມ	phu som
 ຜູ້ຊົມໃຊ້	phu som sai
 ຜູ້ຊ່ວຍ	phu suai
+ຜູ້ຊ່ຽວຊານ	phu siau san
 ຜູ້ຍິງ	phu nying
 ຜູ້ຕາງຫນ້າ	phu tang na
 ຜູ້ທໍຣະຍົດ	phu tho ra nyot
@@ -2671,6 +2678,7 @@
 ມົງໂກ	mong ko
 ມົງໂກລີ	mong ko li
 ມົດ	mot
+ມົດຍອບ	mot nyop
 ມົດລູກ	mot luk
 ມົດສະກູ	mot sa ku
 ມົນ	mon
@@ -3159,6 +3167,7 @@
 ສະອາດ	sa at
 ສະອາບນ້ຳ	sa ap nam
 ສະເດັດຄືນ	sa det khun
+ສະເຕຟານີ	sa te fa ni
 ສະເຕັກ	sa tek
 ສະເປນ	sa pen
 ສະແດງ	sa daeng
@@ -3250,6 +3259,7 @@
 ສາທະນະ	sa tha na
 ສາທາລະນະລັດ	sa tha la na lat
 ສາທາລະນະລັດແຊັກ	sa tha la na lat saek
+ສາທາລະນະສົມບັດ	sa tha la na som bat
 ສານ	san
 ສານຫມູ	san mu
 ສານເຈົ້າ	san chao
@@ -3401,6 +3411,7 @@
 ສົງໂຄ	song kho
 ສົດ	sot
 ສົນ	son
+ສົນທະນາ	son tha na
 ສົນທິສັນຍາ	son thi san nya
 ສົບ	sop
 ສົມ	som
@@ -3505,6 +3516,7 @@
 ຫມູ	mu
 ຫມູ່	mu
 ຫມ້ຽງ	miang
+ຫມໍຕຳແຍ	mo tam nyae
 ຫມໍນວດ	mo nuat
 ຫມໍປົວແຂ້ວ	mo pua khaeu
 ຫມໍ້	mo
@@ -3847,6 +3859,7 @@
 ອິດໂຣເຊນ	it ro sen
 ອິດໂລເຊນ	it lo sen
 ອິຕາລີ	i ta li
+ອິນ	in
 ອິນດູຈີນ	in du chin
 ອິນທະວົງ	in tha wong
 ອິນທະວົງສ໌	in tha wong sa
@@ -3878,6 +3891,7 @@
 ອຸກກາບາດ	uk ka bat
 ອຸດຈາຣະ	ut cha ra
 ອຸດສາຫະກຳ	ut sa ha kam
+ອຸດົມການ	u dom kan
 ອຸດົມໄຊ	u dom sai
 ອຸທະກະໄພ	u tha ka phai
 ອຸທານ	u than
@@ -4422,6 +4436,7 @@
 ເມືອງ	muang
 ເມືອງລາວ	muang lao
 ເມືອງສີງ	muang sing
+ເມືອງແມ່	muang mae
 ເມືອງໄທ	muang thai
 ເມືີ່ອຽ	muai
 ເມື່ອ	mua
@@ -4642,6 +4657,7 @@
 ແກບຫລືເມັດ	kaep lu met
 ແກະ	kae
 ແກັດ	kaet
+ແກັສທຳມະຊາດ	kaet tham ma sat
 ແກ່	kae
 ແກ່ນ	kaen
 ແກ່ນອະມັນດ	kaen a man da
@@ -4760,6 +4776,7 @@
 ແພປູໂຕະ	phae pu to
 ແພມົນ	phae mon
 ແພັກ	phaek
+ແພ້	phae
 ແຟຊັ້ນ	fae san
 ແຟັງລັງ	faeng lang
 ແຟ້ມ	faem
@@ -4829,6 +4846,7 @@
 ແຫ້ງ	haeng
 ແຫ້ງ	ngae
 ແຫ້ງເປືອກ	ngae puak
+ແອກ	aek
 ແອນດູ	aen du
 ແອນ້ອຍ	aen a nya
 ແອບຢາ	aep ya

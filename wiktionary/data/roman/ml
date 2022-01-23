@@ -136,6 +136,7 @@ Synonyms: പത്മം	patmaṃ
 അതിസാരം	atisāraṃ
 അതിർത്തി	atirtti
 അത്	atŭ
+അത് പോലെ	atŭ pōle
 അത്താഴം	attāḻaṃ
 അത്തി	atti
 അത്തിപ്പഴം	attippaḻaṃ
@@ -442,6 +443,7 @@ Synonyms: പത്മം	patmaṃ
 അർത്ഥം	artthaṃ
 അർദ്ധരാത്രി	arddharātri
 അർദ്ധവിരാമം	arddhavirāmaṃ
+അർദ്ധായുസ്സ്	arddhāyussŭ
 അർബുദം	arbudaṃ
 അർമേനിയ	armēniya
 അർമ്മഗദോൻ	armmagadōn
@@ -664,6 +666,7 @@ Synonyms: പത്മം	patmaṃ
 ഇടുക	iṭuka
 ഇടുക്കി	iṭukki
 ഇടുങ്ങിയ	iṭuṅṅiya
+ഇടുപ്പ്	iṭuppŭ
 ഇട്ടി	iṭṭi
 ഇഡലി	iḍali
 ഇഡ്ഡലി	iḍḍali
@@ -1130,6 +1133,7 @@ Synonyms: പത്മം	patmaṃ
 ഔഷധ	auṣadha
 ഔഷധം	auṣadhaṃ
 ഔഷധശാസ്ത്രം	auṣadhaśāstraṃ
+ഔഷധാലയം	auṣadhālayaṃ
 ഔഷധി	auṣadhi
 ക	ka
 കംബോഡിയ	kambōḍiya
@@ -1183,6 +1187,7 @@ Synonyms: പത്മം	patmaṃ
 കണങ്കാൽ	kaṇaṅkāl
 കണവ	kaṇava
 കണിക	kaṇika
+കണികാഭൗതികം	kaṇikābhautikaṃ
 കണിക്കൊന്ന	kaṇikkonna
 കണ്ഠമാല	kaṇṭhamāla
 കണ്ണ	kaṇṇa
@@ -1410,6 +1415,7 @@ Synonyms: പത്മം	patmaṃ
 കാരാഗൃഹം	kārāgṛhaṃ
 കാര്	kārŭ
 കാര്യം	kāryaṃ
+കാര്യക്രമം	kāryakramaṃ
 കാര്യമായ	kāryamāya
 കാര്യാലയം	kāryālayaṃ
 കാരൻ	kāran
@@ -1417,6 +1423,7 @@ Synonyms: പത്മം	patmaṃ
 കാറ്റ്	kāṟṟŭ
 കാലം	kālaṃ
 കാലഗണനാരീതി	kālagaṇanārīti
+കാലദർശം	kāladarśaṃ
 കാലാവധി	kālāvadhi
 കാലാവസ്ഥ	kālāvastha
 കാലാവസ്ഥാവ്യതിയാനം	kālāvasthāvyatiyānaṃ
@@ -1435,10 +1442,12 @@ Synonyms: പത്മം	patmaṃ
 കാഹളം	kāhaḷaṃ
 കാർ	kār
 കാർഡ്ബോർഡ്	kārḍbōrḍŭ
+കാർവ്വലയം	kārvvalayaṃ
 കാൽ	kāl
 കാൽമുട്ട്	kālmuṭṭŭ
 കാൽവിരൽ	kālviral
 കാൽസ്യം ഹൈഡ്രോക്സൈഡ്	kālsyaṃ haiḍrōksaiḍŭ
+കിങ്കിര	kiṅkira
 കിങ്ങ് ആർതർ	kiṅṅ ārtar
 കിടക്കുക	kiṭakkuka
 കിടപ്പുമുറി	kiṭappumuṟi
@@ -1833,12 +1842,14 @@ Synonyms: പത്മം	patmaṃ
 ഗാന്ധി	gāndhi
 ഗാന്ധിനഗർ	gāndhinagar
 ഗായം	gāyaṃ
+ഗായകൻ	gāyakan
 ഗായത്രീ	gāyatrī
 ഗാസ	gāsa
 ഗാസ സ്ട്രിപ്പ്	gāsa sṭrippŭ
 ഗിരം	giraṃ
 ഗീതം	gītaṃ
 ഗീതകം	gītakaṃ
+ഗീവർഗീസ്	gīvargīsŭ
 ഗുജറാത്ത്	gujaṟāttŭ
 ഗുജറാത്ത്‌	gujaṟātt‌
 ഗുണം	guṇaṃ
@@ -1894,6 +1905,7 @@ Synonyms: പത്മം	patmaṃ
 ഗ്ലാസ	glāsa
 ഗ്ലാസ്ഗോ	glāsgō
 ഗ്ലൈഡർ	glaiḍar
+ഗ്ലൗ	glau
 ഗ്വാഡലഹാര	gvāḍalahāra
 ഗൗരവമുള്ള	gauravamuḷḷa
 ഗർഭം	garbhaṃ
@@ -2145,6 +2157,7 @@ Synonyms: പത്മം	patmaṃ
 ജഡം	jaḍaṃ
 ജഡത്വം	jaḍatvaṃ
 ജഡ്ജി	jaḍji
+ജനകൻ	janakan
 ജനനം	jananaṃ
 ജനനത്തീയതി	jananattīyati
 ജനനി	janani
@@ -2186,6 +2199,7 @@ Synonyms: പത്മം	patmaṃ
 ജാഫ്ന	jāphna
 ജാമ്യം	jāmyaṃ
 ജായര	jāyara
+ജായസവാല	jāyasavāla
 ജാലകം	jālakaṃ
 ജിജ്ഞാസ	jijñāsa
 ജിറാഫ്	jiṟāphŭ
@@ -2220,6 +2234,8 @@ Synonyms: പത്മം	patmaṃ
 ജോളി റോജർ	jōḷi ṟōjar
 ജോസഫ്	jōsaphŭ
 ജോൻ ഓഫ് ആർക്ക്	jōn ōph ārkkŭ
+ജോർജ്	jōrjŭ
+ജോർജ്ജ്‌	jōrjj‌
 ജൈനമതം	jainamataṃ
 ജൈവദീപ്തി	jaivadīpti
 ജൈവഭൂമിശാസ്ത്രം	jaivabhūmiśāstraṃ
@@ -2402,6 +2418,7 @@ Synonyms: പത്മം	patmaṃ
 താജിക്കിസ്ഥാന്‍	tājikkisthān‍
 താജ് മഹൽ	tājŭ mahal
 താടി	tāṭi
+താത	tāta
 താത്പര്യം	tātparyaṃ
 താത്പര്യവ്യത്യാസം	tātparyavyatyāsaṃ
 താതൻ	tātan
@@ -2734,6 +2751,7 @@ Synonyms: പത്മം	patmaṃ
 ധനം	dhanaṃ
 ധനഞ്ജയൻ	dhanañjayan
 ധനു	dhanu
+ധന്വം	dhanvaṃ
 ധമനികൾ	dhamanikaḷ
 ധര	dhara
 ധാക്ക	dhākka
@@ -3414,6 +3432,7 @@ Synonyms: പത്മം	patmaṃ
 പൊട്ടൻ	poṭṭan
 പൊണ്ണത്തടിയുള്ള	poṇṇattaṭiyuḷḷa
 പൊതി	poti
+പൊതുസഞ്ചയം	potusañcayaṃ
 പൊന്ന്	ponnŭ
 പൊന്മാൻ	ponmān
 പൊയ്ക	poyka
@@ -3447,6 +3466,7 @@ Synonyms: പത്മം	patmaṃ
 പോരടിക്കുക	pōraṭikkuka
 പോരാടുക	pōrāṭuka
 പോരായ്മ	pōrāyma
+പോരാളി	pōrāḷi
 പോരുക	pōruka
 പോര്	pōrŭ
 പോലീസ്	pōlīsŭ
@@ -3839,6 +3859,7 @@ Synonyms: പത്മം	patmaṃ
 മധുര നാരങ്ങ	madhura nāraṅṅa
 മധുരം	madhuraṃ
 മധുരക്കിഴങ്ങ്	madhurakkiḻaṅṅŭ
+മധ്യധരണ്യാഴി	madhyadharaṇyāḻi
 മധ്യപ്രദേശ്	madhyapradēśŭ
 മധ്യപ്രദേശ്‌	madhyapradēś‌
 മധ്യാഹ്നം	madhyāhnaṃ
@@ -4261,6 +4282,7 @@ Synonyms: പത്മം	patmaṃ
 രക്ഷിയ്ക്കുക	rakṣiykkuka
 രങ്കൂണ	raṅkūṇa
 രചന	racana
+രണം	raṇaṃ
 രണ്ടാം	raṇṭāṃ
 രണ്ടാമത്തെ	raṇṭāmatte
 രണ്ടിലൊന്ന്	raṇṭilonnŭ
@@ -4373,6 +4395,7 @@ Synonyms: പത്മം	patmaṃ
 ലക്ഷ്യം	lakṣyaṃ
 ലക്ഷ്യം വയ്ക്കുക	lakṣyaṃ vaykkuka
 ലഘുഭക്ഷണശാല	laghubhakṣaṇaśāla
+ലഘുയന്ത്രം	laghuyantraṃ
 ലങ്കാരി	laṅkāri
 ലജ്ജ	lajja
 ലണ്ടൻ	laṇṭan
@@ -4812,6 +4835,7 @@ Synonyms: പത്മം	patmaṃ
 വൻകുടൽ	vankuṭal
 വൻപയർ	vanpayar
 വർഗ്ഗം	varggaṃ
+വർഗ്ഗീസ്	varggīsŭ
 വർണ്ണവിവേചനം	varṇṇavivēcanaṃ
 വർണ്ണാന്ധത	varṇṇāndhata
 വർത്തമാനം	varttamānaṃ
@@ -5148,6 +5172,7 @@ Synonyms: പത്മം	patmaṃ
 സോഡിയം	sōḍiyaṃ
 സോപ്പ്	sōppŭ
 സോയ	sōya
+സോളാർ പാനൽ	sōḷār pānal
 സോവിയറ്റ് യൂണിയന്	sōviyaṟṟŭ yūṇiyanŭ
 സോഷം	sōṣaṃ
 സോഷ്യലിസം	sōṣyalisaṃ

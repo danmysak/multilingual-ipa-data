@@ -1051,6 +1051,7 @@ kалжың кылуу	kaljıñ qıluu
 Киев	Kiev
 Кипр	Kipr
 Кичи Азия	Kiçi Aziya
+Кичи Жетиген	Kiçi Jetigen
 Кишинёв	Kişinyov
 Кишинёвго	Kişinyovğo
 Кишинёвдо	Kişinyovdo
@@ -2199,9 +2200,11 @@ kалжың кылуу	kaljıñ qıluu
 Чехословакияңыздан	Çehoslovakiyañızdan
 Чехословакияңызды	Çehoslovakiyañızdı
 Чехословакияңыздын	Çehoslovakiyañızdın
+Чеченстан	Çeçenstan
 Чили	Çili
 Чогори	Çogori
 Чолпон	Çolpon
+Чоң Жетиген	Çoñ Jetigen
 Чыгыш Азия	Çığış Aziya
 Чыгыш Түркстан	Çığış Türkstan
 Чымкент	Çımkent
@@ -2615,6 +2618,7 @@ kалжың кылуу	kaljıñ qıluu
 адилеттик кылып	adilettik qılıp
 адилеттик менен	adilettik menen
 адилеттүүлүк	adilettüülük
+адис	adis
 адистешкен чоң чарба	adisteşken çoñ çarba
 адистештирүү	adisteştirüü
 администратор	administrator
@@ -2966,6 +2970,7 @@ kалжың кылуу	kaljıñ qıluu
 акула	aqula
 акун	aqun
 акупунктура	aqupunqtura
+акушерка	aquşerka
 акция	aqtsiya
 акча	aqça
 акчасыз	aqçasız
@@ -3225,6 +3230,7 @@ kалжың кылуу	kaljıñ qıluu
 америкалык	amerikalıq
 американец	amerikanets
 амидин	amidin
+амнистия	amnistiya
 амперметр	ampermetr
 ампула	ampula
 ампутация	amputatsiya
@@ -3281,6 +3287,7 @@ kалжың кылуу	kaljıñ qıluu
 ананасыңыздын	ananasıñızdın
 анар	anar
 анархия	anarhiya
+аначы	anaçı
 ангар	anğar
 англис	anğlis
 англис тили	anğlis tili
@@ -3490,7 +3497,6 @@ kалжың кылуу	kaljıñ qıluu
 асылуу	asıluu
 асылып туруу	asılıp turuu
 ат	at
-ат-	at-
 ата	ata
 ата мекен	ata meken
 ата-мекен	ata-meken
@@ -3560,6 +3566,7 @@ kалжың кылуу	kaljıñ qıluu
 атоочтук	atooçtuq
 атташ	attaş
 атташе	attaşe
+аттиш	attiş
 аттрактор	attraqtor
 аттракцион	attraqtsion
 атуу	atuu
@@ -3625,6 +3632,7 @@ kалжың кылуу	kaljıñ qıluu
 ацидоз	atsidoz
 ацикловир	atsiklovir
 ач	aç
+ач-	aç-
 ачкыч	açqıç
 ачкычка	açqıçqa
 ачкычта	açqıçta
@@ -3785,6 +3793,7 @@ kалжың кылуу	kaljıñ qıluu
 ашканаңызды	aşqanañızdı
 ашканаңыздын	aşqanañızdın
 ашпоз	aşpoz
+ашык	aşıq
 ашык болгон	aşıq bolğon
 ашык болуу	aşıq boluu
 аэропорт	aeroport
@@ -4503,6 +4512,7 @@ kалжың кылуу	kaljıñ qıluu
 беделдүүлүк	bedeldüülük
 бедуин	beduin
 без	bez
+безгек	bezgeq
 безгек	bezğek
 безетки	bezetki
 бейбаш	beybaş
@@ -4524,6 +4534,7 @@ kалжың кылуу	kaljıñ qıluu
 белги	belgi
 белгишам	belgişam
 белек	belek
+белен	belen
 белорус	belorus
 белорус тили	belorus tili
 белорусча	belorusça
@@ -4533,7 +4544,6 @@ kалжың кылуу	kaljıñ qıluu
 бензин	benzin
 бензозаправка	benzozapravqa
 бензоколонка	benzoqolonqa
-бер-	ber-
 беренжи	berenji
 берилгендик	berilgendik
 берилишбаза	berilişbaza
@@ -4619,6 +4629,7 @@ kалжың кылуу	kaljıñ qıluu
 билбейм	bilbeym
 билбестик	bilbestik
 билгич	bilgiç
+билдирүү	bildirüü
 билет	bilet
 билик	bilik
 билим	bilim
@@ -4678,7 +4689,9 @@ kалжың кылуу	kaljıñ qıluu
 блюз	blyuz
 боа	boa
 богуз	boğuz
+боё-	boyo-
 боёк	boyoq
+боёо	boyoo
 боёосун кетирүү	boyoosun ketirüü
 боек	boek
 боз	boz
@@ -4733,6 +4746,7 @@ kалжың кылуу	kaljıñ qıluu
 бозомтук	bozomtuq
 бойсунуучулук	boysunuuçuluq
 бокс	boqs
+бол-	bol-
 болбогон нерсе	bolboğon nerse
 болгар	bolğar
 болгон иш	bolğon iş
@@ -4776,18 +4790,20 @@ kалжың кылуу	kaljıñ qıluu
 бронепоезд	bronepoyezd
 бронялуу поезд	bronyaluu poyezd
 брошюра	broşyura
-бу-	bu-
 бугу	buğu
 будильник	budilʹnik
 бузук	buzuq
 бузулган	buzulğan
 буйвол	buyvol
 буйрук	buyruq
+буйруу	buyruu
 букет	buket
 бул	bul
 бул канча турат?	bul qança turat?
 булак	bulaq
 булбул	bulbul
+булга-	bulğa-
+булгоо	bulğoo
 булут	bulut
 булуң	buluñ
 булчуң	bulçuñ
@@ -4862,8 +4878,6 @@ kалжың кылуу	kaljıñ qıluu
 быйба	bıyba
 былжыр	bıljır
 бычак	bıçaq
-быш-	bış-
-быш- χ	bış-
 быштак	bıştaq
 бышуу	bışuu
 бышып жаткан	bışıp jatqan
@@ -4880,7 +4894,7 @@ kалжың кылуу	kaljıñ qıluu
 бүлүк	bülük
 бүлө	bülö
 бүргө	bürgö
-бүргөгө	bürğögö
+бүргөгө	bürgögö
 бүргөдө	bürgödö
 бүргөдөн	bürgödön
 бүргөлөр	bürgölör
@@ -4984,6 +4998,7 @@ kалжың кылуу	kaljıñ qıluu
 бөйрөкүңүздө	böyröküñüzdö
 бөйрөкүңүздөн	böyröküñüzdön
 бөйрөкүңө	böyröküñö
+бөкө	bökö
 бөкөн	bökön
 бөкөнгө	bököngö
 бөкөндү	bököndü
@@ -5246,6 +5261,7 @@ kалжың кылуу	kaljıñ qıluu
 глаголица	ğlağolitsa
 глаукома	ğlauqoma
 глобалдашуу	ğlobaldaşuu
+глобалдык жылуулук	ğlobaldıq jıluuluq
 глобализация	ğlobalizatsiya
 глобус	ğlobus
 глюкагон	ğlyuqağon
@@ -5271,6 +5287,8 @@ kалжың кылуу	kaljıñ qıluu
 графин	grafin
 грейпфрут	greypfrut
 грек	grek
+гривна	grivna
+гривня	grivnya
 григорий жылсанагы	grigoriy jılsanağı
 грим	grim
 грипп	gripp
@@ -5537,6 +5555,7 @@ kалжың кылуу	kaljıñ qıluu
 дем алуу	dem aluu
 дем алыш	dem alış
 дем тартуу	dem tartuu
+демалыш күндөрү	demalış kündörü
 демигүү	demigüü
 демократ	demoqrat
 демократия	demoqratiya
@@ -5717,6 +5736,7 @@ kалжың кылуу	kaljıñ qıluu
 дурус	durus
 духи	duhi
 душ	duş
+душман	duşman
 душмандык	duşmandıq
 дыйкан	dıyqan
 дыкат	dıqat
@@ -6848,6 +6868,7 @@ kалжың кылуу	kaljıñ qıluu
 жубай	jubay
 жудурук	juduruq
 жука	juqa
+жулуу	juluu
 жума	juma
 жумурият	jumuriyat
 жумуриятка	jumuriyatqa
@@ -7131,7 +7152,6 @@ kалжың кылуу	kaljıñ qıluu
 жүктөө	jüktöö
 жүлүк	jülük
 жүн	jün
-жүр-	jür-
 жүргүзүүчү	jürgüzüüçü
 жүргүнчү	jürgünçü
 жүрүм-турум	jürüm-turum
@@ -7258,12 +7278,14 @@ kалжың кылуу	kaljıñ qıluu
 йод	yod
 ибадаткана	ibadatqana
 иблис	iblis
+идеология	ideologiya
 идея	ideya
 идиома	idioma
 идиот	idiot
 идиш	idiş
 иен	iyen
 иероглиф	iyeroğlif
+из	iz
 изафет	izafet
 издөө	izdöö
 изилдөө	izildöö
@@ -7285,7 +7307,6 @@ kалжың кылуу	kaljıñ qıluu
 ийри-буйру	iyri-buyru
 икона	ikona
 икра	ikra
-ил-	il-
 илбирс	ilbirs
 илгич	ilgiç
 илгичче	ilgiççe
@@ -7353,6 +7374,8 @@ kалжың кылуу	kaljıñ qıluu
 иммиграция	immigratsiya
 иммунология	immunologiya
 император	imperator
+император аял	imperator ayal
+императрица	imperatritsa
 империализм	imperializm
 империя	imperiya
 импичмент	impiçment
@@ -7361,6 +7384,7 @@ kалжың кылуу	kaljıñ qıluu
 индивидуализм	individualizm
 индивидуум	individuum
 индиго	indigo
+индиялык	indiyalıq
 индол	indol
 индуизм	induizm
 индустрия	industriya
@@ -7399,7 +7423,6 @@ kалжың кылуу	kaljıñ qıluu
 италян	italyan
 ителги	itelgi
 ителгиге	itelgige
-ителгиге	itelğige
 ителгиде	itelgide
 ителгиден	itelgiden
 ителгилер	itelgiler
@@ -7500,7 +7523,6 @@ kалжың кылуу	kaljıñ qıluu
 ифтар	iftar
 ич	iç
 ич өтүү	iç ötüü
-ич-	iç-
 ичеги	içegi
 ичек	içek
 ичке	içke
@@ -7613,7 +7635,6 @@ kалжың кылуу	kaljıñ qıluu
 кажет	qajet
 кажыбас	qajıbas
 каз	qaz
-каз-	qaz-
 каза болуу	qaza boluu
 казак	qazaq
 казал	qazal
@@ -7624,6 +7645,7 @@ kалжың кылуу	kaljıñ qıluu
 казуу	qazuu
 казы	qazı
 казына	qazına
+казыначы	qazınaçı
 кайгы	qayğı
 кайгылуу	qayğıluu
 кайда	qayda
@@ -7819,6 +7841,7 @@ kалжың кылуу	kaljıñ qıluu
 канал	qanal
 канат	qanat
 канаттын бир талы	qanattın bir talı
+канбийке	qanbiyke
 канга боёлгон	qanğa boyolğon
 кандай	qanday
 кандай болсо да	qanday bolso da
@@ -8008,6 +8031,7 @@ kалжың кылуу	kaljıñ qıluu
 карышкыр	qarışqır
 карыя	qarıya
 кассета	qasseta
+кассир	qassir
 кастрюля	qastryulya
 кастык	qastıq
 кат	qat
@@ -8103,10 +8127,10 @@ kалжың кылуу	kaljıñ qıluu
 кедейлик	kedeylik
 кездеме	kezdeme
 кезек	kezek
-кек	qek
+кек	keq
 кекечтенүү	qekeçtenüü
 кекиртек	qekirtek
-кекээр	keqeer
+кекээр	qekeer
 келбет	kelbet
 келер чак	keler çaq
 келесоо	kelesoo
@@ -8119,6 +8143,7 @@ kалжың кылуу	kaljıñ qıluu
 келтекте	keltekte
 келүү	kelüü
 кеме	keme
+кемеге	kemege
 кемеге отур	kemege otur
 кемер	kemer
 кемиктин майы	kemiktin mayı
@@ -8595,6 +8620,8 @@ kалжың кылуу	kaljıñ qıluu
 коллективизация	qollektivizatsiya
 коло	qolo
 коло доору	qolo dooru
+колониализм	qolonializm
+колонизация	qolonizatsiya
 колония	qoloniya
 колонна	qolonna
 колтук	qoltuq
@@ -8641,6 +8668,7 @@ kалжың кылуу	kaljıñ qıluu
 конверт	qonvert
 конгресс	qongress
 кондиционер	qonditsioner
+конкур	qonqur
 конкуренция	qonqurentsiya
 конок	qonoq
 конокчу	qonoqçu
@@ -8746,6 +8774,7 @@ kалжың кылуу	kaljıñ qıluu
 короо	qoroo
 корпус	qorpus
 коррупция	qorruptsiya
+корт	qort
 корулдоо	qoruldoo
 коруучу	qoruuçu
 косметикалык ремонт	qosmetikalıq remont
@@ -9101,8 +9130,6 @@ kалжың кылуу	kaljıñ qıluu
 кураштыруу	quraştıruu
 курбака	qurbaqa
 курбу кыз	qurbu qız
-курга-	qurğa-
-кургаар	kurgaar
 кургакчылык	qurğaqçılıq
 кургоо	qurğoo
 курд	qurd
@@ -9130,6 +9157,7 @@ kалжың кылуу	kaljıñ qıluu
 куткаруу	qutqaruu
 кутмандуу таң	qutmanduu tañ
 кутпа	qutpa
+куттуктоо	quttuqtoo
 куту	qutu
 куулук	quuluq
 куурчак	quurçaq
@@ -9143,6 +9171,7 @@ kалжың кылуу	kaljıñ qıluu
 кушкана	quşqana
 куштарлык	quştarlıq
 куштун бир тал жүнү	quştun bir tal jünü
+куюлган тор	quyulğan tor
 куюн	quyun
 къат	qʺat
 кыжырланган	qıjırlanğan
@@ -9497,7 +9526,6 @@ kалжың кылуу	kaljıñ qıluu
 күйөөңө	küyööñö
 күкүм	küküm
 күкүрт	kükürt
-күкүрт	qükürt
 күкүрткө	kükürtkö
 күкүрткө	qükürtkö
 күкүрттү	kükürttü
@@ -9506,25 +9534,26 @@ kалжың кылуу	kaljıñ qıluu
 күкүрттүн	qükürttün
 күкүрттө	kükürttö
 күкүрттө	qükürttö
+күкүрттөн	kükürttön
 күкүрттөн	qükürttön
-күкүртүм	qükürtüm
-күкүртүмдү	qükürtümdü
-күкүртүмдүн	qükürtümdün
-күкүртүмдө	qükürtümdö
-күкүртүмдөн	qükürtümdön
-күкүртүмө	qükürtümö
-күкүртүң	qükürtüñ
-күкүртүңдү	qükürtüñdü
-күкүртүңдүн	qükürtüñdün
-күкүртүңдө	qükürtüñdö
-күкүртүңдөн	qükürtüñdön
-күкүртүңүз	qükürtüñüz
-күкүртүңүзгө	qükürtüñüzgö
-күкүртүңүздү	qükürtüñüzdü
-күкүртүңүздүн	qükürtüñüzdün
-күкүртүңүздө	qükürtüñüzdö
-күкүртүңүздөн	qükürtüñüzdön
-күкүртүңө	qükürtüñö
+күкүртүм	kükürtüm
+күкүртүмдү	kükürtümdü
+күкүртүмдүн	kükürtümdün
+күкүртүмдө	kükürtümdö
+күкүртүмдөн	kükürtümdön
+күкүртүмө	kükürtümö
+күкүртүң	kükürtüñ
+күкүртүңдү	kükürtüñdü
+күкүртүңдүн	kükürtüñdün
+күкүртүңдө	kükürtüñdö
+күкүртүңдөн	kükürtüñdön
+күкүртүңүз	kükürtüñüz
+күкүртүңүзгө	kükürtüñüzgö
+күкүртүңүздү	kükürtüñüzdü
+күкүртүңүздүн	kükürtüñüzdün
+күкүртүңүздө	kükürtüñüzdö
+күкүртүңүздөн	kükürtüñüzdön
+күкүртүңө	kükürtüñö
 күл	kül
 күлкү	külkü
 күлүмсүрөө	külümsüröö
@@ -9587,7 +9616,7 @@ kалжың кылуу	kaljıñ qıluu
 күнөөңүздөн	künööñüzdön
 күнөөңө	künööñö
 күрд	kürd
-күркүрөө	qürküröö
+күркүрөө	kürküröö
 күрп	kürp
 күрүч	kürüç
 күрөк	kürök
@@ -9603,7 +9632,6 @@ kалжың кылуу	kaljıñ qıluu
 көбүк	köbük
 көбөйүү	köböyüü
 көгүлтүр	kögültür
-көгүлтүр	qögültür
 көгүчкөн	qögüçkön
 көгүчкөнгө	qögüçköngö
 көгүчкөндү	qögüçköndü
@@ -9765,16 +9793,15 @@ kалжың кылуу	kaljıñ qıluu
 көйүткөн	köyütkön
 көк	köq
 көк	qök
-көк боор	qök boor
-көк дат	köq dat
+көк боор	köq boor
 көк дат	qök dat
-көк желе	köq jele
+көк желе	qök jele
 көк кан тамыры	köq qan tamırı
-көк кит	qök kit
-көк сыр	köq sır
+көк кит	köq kit
+көк сыр	qök sır
 көк-бөрү	qök-börü
-көкжал	qökjal
-көкүрөк	qökürök
+көкжал	köqjal
+көкүрөк	kökürök
 көл	köl
 көлмө	kölmö
 көлчүк	kölçük
@@ -9829,6 +9856,7 @@ kалжың кылуу	kaljıñ qıluu
 көлөм	kölöm
 көмүр	kömür
 көмүртек	kömürtek
+көмүү	kömüü
 көмөк	kömök
 көмөк берүү	kömök berüü
 көнгүч	köngüç
@@ -9843,7 +9871,6 @@ kалжың кылуу	kaljıñ qıluu
 көпөлөк	köpölök
 көпөлөк курту	köpölök qurtu
 көр	kör
-көр-	kör-
 көргөзмө	körgözmö
 көргөзүү	körgözüü
 көрк	körk
@@ -9942,6 +9969,7 @@ kалжың кылуу	kaljıñ qıluu
 латинизация	latinizatsiya
 латунь	latunʹ
 латыш	latış
+лётчик	lyotçik
 леггорн	leggorn
 легенда	legenda
 легендарлуу	legendarluu
@@ -10001,7 +10029,7 @@ kалжың кылуу	kaljıñ qıluu
 мадригал	madrigal
 мадыл	madıl
 маек	maek
-маектешүү	maekteşüü
+маектешүү	mayekteşüü
 мажилис	majilis
 мазар	mazar
 мазин	mazin
@@ -10897,7 +10925,6 @@ kалжың кылуу	kaljıñ qıluu
 ойготкуч	oyğotquç
 ойготкуч саат	oyğotquç saat
 ойготуу	oyğotuu
-ойло-	oylo-
 ойлоо	oyloo
 ойлуу	oyluu
 оймок	oymoq
@@ -10925,7 +10952,6 @@ kалжың кылуу	kaljıñ qıluu
 олигарх	oligarh
 олигархия	oligarhiya
 олимпиада	olimpiada
-олтур-	oltur-
 олтуруу	olturuu
 олуттуу	oluttuu
 омар	omar
@@ -11124,6 +11150,7 @@ kалжың кылуу	kaljıñ qıluu
 орок	oroq
 орок менен балка	oroq menen balqa
 оромол	oromol
+ороо	oroo
 орто	orto
 ортодокс чиркөөсү	ortodoqs çirköösü
 ортоклаз	ortoklaz
@@ -11178,7 +11205,6 @@ kалжың кылуу	kaljıñ qıluu
 отуз	otuz
 отузунчу	otuzunçu
 отун	otun
-отур-	otur-
 отургуч	oturğuç
 отуруу	oturuu
 отчёт	otçyot
@@ -11357,6 +11383,7 @@ kалжың кылуу	kaljıñ qıluu
 пальмаңызды	palʹmañızdı
 пальмаңыздын	palʹmañızdın
 пальто	palʹto
+памфлет	pamflet
 панар	panar
 пандемия	pandemiya
 пансион	pansion
@@ -11420,7 +11447,7 @@ kалжың кылуу	kaljıñ qıluu
 паша	paşa
 паяльник	payalʹnik
 пе	pe
-педагогика	pedağogiqa
+педагогика	pedagogika
 педаль	pedalʹ
 пемза	pemza
 пенал	penal
@@ -11444,6 +11471,7 @@ kалжың кылуу	kaljıñ qıluu
 пижама	pijama
 пикир	pikir
 пил	pil
+пилот	pilot
 пилюля	pilyulya
 пима	pima
 пингвин	pinğvin
@@ -11526,6 +11554,7 @@ kалжың кылуу	kaljıñ qıluu
 примат	primat
 принтер	printer
 принц	prints
+принцесса	printsessa
 принцип	printsip
 пристань	pristanʹ
 причёска	priçyosqa
@@ -11739,6 +11768,7 @@ kалжың кылуу	kaljıñ qıluu
 резервуар	rezervuar
 резина	rezina
 реклама	reklama
+репортёр	reportyor
 репрессия	repressiya
 рептилия	reptiliya
 репутация	reputatsiya
@@ -11839,6 +11869,7 @@ kалжың кылуу	kaljıñ qıluu
 романдарыңыздын	romandarıñızdın
 романды	romandı
 романдын	romandın
+романист	romanist
 романтизм	romantizm
 романым	romanım
 романыма	romanıma
@@ -11875,8 +11906,9 @@ kалжың кылуу	kaljıñ qıluu
 рычаг	rıçağ
 рюкзак	ryuqzaq
 саа	saa
-саа-	saa-
 саадак	saadaq
+саам	saam
+саамай	saamay
 саанчы	saançı
 саат	saat
 саатта	saatta
@@ -12038,7 +12070,6 @@ kалжың кылуу	kaljıñ qıluu
 сары май	sarı may
 сарымсак	sarımsaq
 сасык кашкулак	sasıq qaşqulaq
-сат-	sat-
 сателлит	satellit
 сатира	satira
 сатуу	satuu
@@ -12066,7 +12097,6 @@ kалжың кылуу	kaljıñ qıluu
 сегиз бут	segiz but
 сегизинчи	segizinçi
 седеп	sedep
-сез-	sez-
 сезим	sezim
 сезимин козгоо	sezimin qozğoo
 сезон	sezon
@@ -12103,7 +12133,9 @@ kалжың кылуу	kaljıñ qıluu
 сиз	siz
 сизден өтүнөм	sizden ötünöm
 сиздер	sizder
+сий-	siy-
 сийдик	siydik
+сийүү	siyüü
 силер	siler
 силикоз	silikoz
 символ	simvol
@@ -12232,6 +12264,7 @@ kалжың кылуу	kaljıñ qıluu
 соя	soya
 соңку	soñqu
 сперма	sperma
+специалист	spetsialist
 спираль	spiralʹ
 спирт	spirt
 спирт ичимдиги	spirt içimdigi
@@ -12408,7 +12441,6 @@ kалжың кылуу	kaljıñ qıluu
 сюрреализм	syurrealizm
 сүзгүч	süzgüç
 сүзгүч канат	süzgüç qanat
-сүйлө-	süylö-
 сүйлөбөө	süylöböö
 сүйлөм	süylöm
 сүйлөшүү	süylöşüü
@@ -12701,6 +12733,7 @@ kалжың кылуу	kaljıñ qıluu
 талиб	talib
 талиңке	taliñke
 талкаланган	talqalanğan
+талоо	taloo
 талоончу	taloonçu
 талуу	taluu
 талып калуу	talıp qaluu
@@ -12721,6 +12754,8 @@ kалжың кылуу	kaljıñ qıluu
 тамтыгы чыккан	tamtığı çıqqan
 тамтыгы чыккандык	tamtığı çıqqandıq
 тамчы	tamçı
+тамыз-	tamız-
+тамызуу	tamızuu
 тамыр	tamır
 тамыр аял	tamır ayal
 тандоо	tandoo
@@ -13192,12 +13227,14 @@ kалжың кылуу	kaljıñ qıluu
 теңтайлашуучу	teñtaylaşuuçu
 тигүү	tigüü
 тизе	tize
+тизме	tizme
 тий-	tiy-
 тийүү	tiyüü
 тик бурчтук	tik burçtuq
 тик-	tik-
 тикен	tiken
 тикмечи	tikmeçi
+тикүү	tiküü
 тил	til
 тил алгыч	til alğıç
 тил илими	til ilimi
@@ -13265,7 +13302,9 @@ kалжың кылуу	kaljıñ qıluu
 тимин	timin
 тинтүүлөр	tintüülör
 тип	tip
+тире-	tire-
 тиричилик	tiriçilik
+тирөө	tiröö
 тиш	tiş
 тиш пастасы	tiş pastası
 тиш щеткасы	tiş şçetqası
@@ -13347,6 +13386,7 @@ kалжың кылуу	kaljıñ qıluu
 толкунуңуздун	tolqunuñuzdun
 толмоч	tolmoç
 толуктооч	toluqtooç
+толуу	toluu
 тон	ton
 тонна	tonna
 тоо	too
@@ -13489,6 +13529,7 @@ kалжың кылуу	kaljıñ qıluu
 трепанация	trepanatsiya
 трест	trest
 триангуляция	trianğulyatsiya
+трибунал	tribunal
 триод	triod
 тритон	triton
 троллейбус	trolleybus
@@ -13830,9 +13871,8 @@ kалжың кылуу	kaljıñ qıluu
 төгүн	tögün
 төгүнсүз	tögünsüz
 төгөрөк	tögörök
-төлө-	tölö-
 төлөө	tölöö
-төмөн түш	tömön tüş
+төмөн түшүү	tömön tüşüü
 төмөндөө	tömöndöö
 төр ага	tör ağa
 төрт	tört
@@ -14047,6 +14087,7 @@ kалжың кылуу	kaljıñ qıluu
 укук	uquq
 укуу	uquu
 улак	ulaq
+улам	ulam
 уламыш	ulamış
 улантуу	ulantuu
 улу	ulu
@@ -14115,7 +14156,6 @@ kалжың кылуу	kaljıñ qıluu
 унутуу	unutuu
 унчукпоо	unçuqpoo
 упчу	upçu
-ур-	ur-
 ураан	uraan
 урбанизация	urbanizatsiya
 ургаачы	urğaaçı
@@ -14143,10 +14183,12 @@ kалжың кылуу	kaljıñ qıluu
 уурдоо	uurdoo
 ууру	uuru
 уурулук	uuruluq
+уч	uç
 уч-	uç-
 уча	uça
 учак	uçaq
 учкун	uçqun
+учкуч	uçquç
 учур	uçur
 учур чак	uçur çaq
 учурчу	uçurçu
@@ -14202,6 +14244,7 @@ kалжың кылуу	kaljıñ qıluu
 уюмуңузду	uyumuñuzdu
 уюмуңуздун	uyumuñuzdun
 уя	uya
+уялуу	uyaluu
 уят	uyat
 уятсыз	uyatsız
 фабрика	fabrika
@@ -14234,6 +14277,8 @@ kалжың кылуу	kaljıñ qıluu
 фейерверк	feyerverk
 фекалия	fekaliya
 фельдмаршал	felʹdmarşal
+феминизм	feminizm
+феминист	feminist
 фенилаланин	fenilalanin
 фенотип	fenotip
 ферзди	ferzdi
@@ -14303,6 +14348,7 @@ kалжың кылуу	kaljıñ qıluu
 химия	himiya
 химиялык байланыш	himiyalıq baylanış
 химиялык кошунду	himiyalıq qoşundu
+хирург	hirurğ
 хлор	hlor
 хлорат	hlorat
 хлорид	hlorid
@@ -14386,6 +14432,7 @@ kалжың кылуу	kaljıñ qıluu
 цистеин	tsistein
 циферблат	tsiferblat
 цоколь	tsoqolʹ
+цунами	tsunami
 чабак	çabaq
 чабуу	çabuu
 чабуул	çabuul
@@ -14508,6 +14555,7 @@ kалжың кылуу	kaljıñ qıluu
 чамасында	çamasında
 чана	çana
 чап	çap
+чапкы	çapqı
 чапчаңдык	çapçañdıq
 чарба	çarba
 чарбак	çarbaq
@@ -14521,7 +14569,9 @@ kалжың кылуу	kaljıñ qıluu
 чатак	çataq
 чатыр	çatır
 чач	çaç
+чач-	çaç-
 чачтарач	çaçtaraç
+чачуу	çaçuu
 чачык	çaçıq
 чаян	çayan
 чаң	çañ
@@ -14686,6 +14736,7 @@ kалжың кылуу	kaljıñ qıluu
 чымчым	çımçım
 чымын	çımın
 чымын-чиркей	çımın-çirkey
+чын	çın
 чындык	çındıq
 чынжыр	çınjır
 чынчыл	çınçıl
@@ -14745,6 +14796,7 @@ kалжың кылуу	kaljıñ qıluu
 чычырканакыңыздан	çıçırqanaqıñızdan
 чычырканакыңызды	çıçırqanaqıñızdı
 чычырканакыңыздын	çıçırqanaqıñızdın
+чүкө	çükö
 чүмбөт	çümböt
 чүпүрөк	çüpürök
 чүткөр	çütkör
@@ -14826,7 +14878,7 @@ kалжың кылуу	kaljıñ qıluu
 шайыр	şayır
 шак	şaq
 шакардуулук	şaqarduuluq
-шакек	şaqek
+шакек	şakeq
 шалбаа	şalbaa
 шалгам	şalğam
 шалдыраган	şaldırağan
@@ -14979,7 +15031,6 @@ kалжың кылуу	kaljıñ qıluu
 ызаратчы	ızaratçı
 ызылдак	ızıldaq
 ыйгарым укук	ıyğarım uquq
-ыйла-	ıyla-
 ыйлоо	ıyloo
 ыйман	ıyman
 ыйык	ıyıq
@@ -15214,6 +15265,7 @@ kалжың кылуу	kaljıñ qıluu
 эзелки	ezelki
 эзүү	ezüü
 эзүүчү	ezüüçü
+эйфория	eyforiya
 экватор	ekvator
 экзамен	ekzamen
 экзосфера	ekzosfera
@@ -15249,12 +15301,13 @@ kалжың кылуу	kaljıñ qıluu
 эксамендик	eksamendik
 экскаватор	eksqavator
 эксперимент	eksperiment
+эксперт	ekspert
 экстремизм	ekstremizm
 экстремисттик	ekstremisttik
 эл	el
 эл аралык	el aralıq
 эл каттоо	el qattoo
-элгек	elğek
+элгек	elgeq
 элек	elek
 электр	elektr
 электрик	elektrik
@@ -15277,9 +15330,9 @@ kалжың кылуу	kaljıñ qıluu
 эмболия	emboliya
 эмбриология	embriologiya
 эмбрион	embrion
-эмгек	emğek
+эмгек	emgeq
 эмгек акы	emğek aqı
-эмгекчил адам	emğekçil adam
+эмгекчил адам	emgeqçil adam
 эмерек	emerek
 эмес	emes
 эмигрант	emigrant
@@ -15911,11 +15964,10 @@ kалжың кылуу	kaljıñ qıluu
 өкүм	öküm
 өкүр	ökür
 өкүрүү	ökürüü
-өл-	öl-
 өлбөс	ölbös
 өлгөндөн кийин	ölgöndön kiyin
 өлкө	ölkö
-өлкөгө	ölkögö
+өлкөгө	ölqögö
 өлкөдө	ölködö
 өлкөдөн	ölködön
 өлкөлөр	ölkölör
@@ -15962,7 +16014,6 @@ kалжың кылуу	kaljıñ qıluu
 өлкөңүздө	ölköñüzdö
 өлкөңүздөн	ölköñüzdön
 өлкөңө	ölköñö
-өлтүр-	öltür-
 өлтүргүч	öltürgüç
 өлтүрүү	öltürüü
 өлтүрүүчү	öltürüüçü
@@ -15982,7 +16033,6 @@ kалжың кылуу	kaljıñ qıluu
 өнөр	önör
 өнөр жай	önör jay
 өпкө	öpkö
-өр-	ör-
 өрдөк	ördök
 өркөч	örköç
 өрт	ört
@@ -16040,7 +16090,6 @@ kалжың кылуу	kaljıñ qıluu
 өрүү	örüü
 өрөө	öröö
 өрөөн	öröön
-өс-	ös-
 өсүмдүк	ösümdük
 өсүмдүккө	ösümdükkö
 өсүмдүктү	ösümdüktü

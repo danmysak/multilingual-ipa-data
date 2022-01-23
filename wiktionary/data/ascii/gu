@@ -963,7 +963,7 @@ forms: તીરડું	tirdu
 ઓછું	ochu
 ઓછું પાણી	ochu pani
 ઓટાવા	otava
-ઓઠ	otha
+ઓઠ	oth
 ઓડકાર	odakar
 ઓણ	ona
 ઓણમ	onam
@@ -1686,6 +1686,7 @@ forms: તીરડું	tirdu
 ગામ	gam
 ગામડું	gamdu
 ગાય	gaya
+ગાયક	gayak
 ગાલ	gal
 ગાળક	galka
 ગાળવું	galvu
@@ -2374,6 +2375,7 @@ forms: તીરડું	tirdu
 જાપાન	japan
 જાફરાબાદી	japharabadi
 જાયફળ	jayaphal
+જાયસવાલ	jayasval
 જાળવવું	jalvavu
 જાળસ્થળ	jalsthal
 જાળે	jale
@@ -3442,7 +3444,6 @@ forms: તીરડું	tirdu
 નવું વર્ષ	navu vars
 નવે	nave
 નવો	navo
-નવો કિલ્લો	navo killo
 નશા	nasa
 નશાએ	nasae
 નશાઓ	nasao
@@ -3768,6 +3769,7 @@ forms: તીરડું	tirdu
 પપોપૈયે	papopaiye
 પપ્પા	pappa
 પફ પેસ્ટ્રી	paph pestri
+પબ્લિક ડોમેન	pablik domen
 પર	par
 પરંતુ	parantu
 પરંપરા	parampra
@@ -4557,7 +4559,6 @@ forms: તીરડું	tirdu
 બેઇજિંગ	beijing
 બેઠક ખંડ	bethak khand
 બેન	ben
-બેનાળી	benali
 બેભાષી	bebhasi
 બેરોજગારી	berojgari
 બેરોજગારી ભથ્થું	berojgari bhaththu
@@ -5452,6 +5453,7 @@ forms: તીરડું	tirdu
 લ forms: ઘોડલું	ghodlu
 લ forms: ઘોડલો	ghodlo
 લ forms: ડોકલી	dokli
+લંગગુર	langur
 લંગડું	langdu
 લંગર	langar
 લંડન	landan
@@ -5864,6 +5866,7 @@ forms: તીરડું	tirdu
 વિશ્વયુદ્ધ	visvayuddh
 વિશ્વવિદ્યાલય	visvavidyalya
 વિશ્વસનીય	visvasniya
+વિષ	vis
 વિષફળ	visphal
 વિષબિંદુ	visbindu
 વિષભક્ષણ	visbhaksan
@@ -6124,6 +6127,8 @@ forms: તીરડું	tirdu
 સંતરે	santre
 સંતોષ	santos
 સંદર્ભગ્રંથ	sandarbhagranth
+સંદેશ	sandes
+સંદેશો	sandeso
 સંધિ	sandhi
 સંધિપાદ	sandhipad
 સંધિવા	sandhiva

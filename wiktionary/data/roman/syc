@@ -5,6 +5,7 @@
 -ܝ	-y
 -ܢܢ	-nan
 Classical Syriac ܐܠܐ	ʾellā
+אורשלם	’Ūrišlem
 יֵשׁוּע	yēšûʿ
 סַנְיָא	sanyā
 עַרְטָנִיתָא	ʿarṭānīṯā
@@ -12,7 +13,7 @@ Classical Syriac ܐܠܐ	ʾellā
 קפלאון	qeppalleʾōn
 רקפתא	/*raqəp̄tā/
 ܐܐܪ	ʾāʾar
-ܐܒ	ʾoḇ
+ܐܒ	ʾāḇ
 ܐܒܐ	ʾabbāʾ
 ܐܒܐ	ʾăḇāʾ
 ܐܒܐ	ʾebbāʾ
@@ -1249,9 +1250,11 @@ Classical Syriac ܐܠܐ	ʾellā
 ܝܠܐ	yallā
 ܝܠܕܐ	yaldā
 ܝܠܕܐ	yaldē
-ܝܠܘܕܐ	yalūḏā
+ܝܠܘܕܐ	yallūḏā
+ܝܠܘܕܐ	yallūḏē
 ܝܠܘܕܐ	yālōḏā
-ܝܠܘܕܐ	yālūḏā
+ܝܠܘܕܐ	yālōḏē
+ܝܠܘܕܬܐ	yallūḏtā
 ܝܠܘܕܬܐ	yālōḏtā
 ܝܠܘܦܐ	yālōp̄ā
 ܝܠܘܦܐ	yālōp̄ē
@@ -1284,10 +1287,12 @@ Classical Syriac ܐܠܐ	ʾellā
 ܝܬܒ	ʼitev
 ܝܬܒ	ʾīṯeḇ
 ܝܬܡܐ	yaṯmāʾ
-ܝܰܠܽܘܕ݂ܳܐ	yalūḏā
+ܝܰܠܽܘܕ݂ܳܐ	yallūḏā
 ܝܲܒܼܪܘܼܚܵܐ	yaḇrūḥā
+ܝܲܠܘܼܕ݂ܵܐ	yallūḏā
 ܝܳܠܕܰܬ ܐܰܠܳܗܳܐ	Yoldath Aloho
-ܝܳܠܽܘܕ݂ܳܐ	yālūḏā
+ܝܳܠܽܘܕ݂ܳܐ	yālōḏā
+ܝܵܠܘܿܕ݂ܵܐ	yālōḏā
 ܝܶܫܽܘܥ	yešuʿ
 ܝܶܫܽܘܥ	ʾīšōʿ
 ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ	yešuʿ mšiḥo
@@ -1304,6 +1309,7 @@ Classical Syriac ܐܠܐ	ʾellā
 ܟܒܝܫ	kabbīš
 ܟܒܪܝܬܐ	kĕḇrīṯā
 ܟܒܫܐ	keḇšā
+ܟܒܳܒܳܐ	kəḇāḇā
 ܟܕܒܐ	kaddāḇā
 ܟܕܒܬܐ	kaddāḇtā
 ܟܘܐ	kawwē
@@ -1548,7 +1554,7 @@ Classical Syriac ܐܠܐ	ʾellā
 ܠܶܦܬܳܐ	lep̄tā
 ܠܹܠܝܵܐ	lēlyā
 ܡܐ	mā
-ܡܐܐ	mo
+ܡܐܐ	mʾa
 ܡܐܐ	m’ā’
 ܡܐܟܢܐ	mēkannē
 ܡܐܢܐ	mānā
@@ -1574,7 +1580,7 @@ Classical Syriac ܐܠܐ	ʾellā
 ܡܕܢܐ	maddānā
 ܡܕܢܐ	maddānē
 ܡܕܢܚܐ	maḏnəḥā
-ܡܕܪܫܬܐ	maḏreštoʾ
+ܡܕܪܫܬܐ	maḏreštaʾ
 ܡܕܳܟ݂ܬܴܐ	mḏāḵtā
 ܡܗܐ	məhā
 ܡܗܓܪܐ	mahgərā
@@ -1641,6 +1647,7 @@ Classical Syriac ܐܠܐ	ʾellā
 ܡܠܐܟܐ	malʾăḵā
 ܡܠܘܢܝܬܐ	mellōnīṯā
 ܡܠܚܐ	mallāḥā
+ܡܠܚܐ	mallāḥē
 ܡܠܚܐ	melḥā
 ܡܠܚܐ	milḥā
 ܡܠܚܐ	milḥē
@@ -1763,7 +1770,6 @@ Classical Syriac ܐܠܐ	ʾellā
 ܡܬܘܬܐ	māṯwāṯā
 ܡܬܬܐ	māṯāṯā
 ܡܰܝܫܳܐ	mayšā
-ܡܰܠܳܚܶܐ	mallāḥē
 ܡܰܥ̈ܙܶܐ	maʿəzē
 ܡܰܦ̮ܪܝܳܢܳܐ	map̄ryānā
 ܡܰܪܩܫܺܝܬܴܐ	marqəšīṯā
@@ -1851,7 +1857,7 @@ Classical Syriac ܐܠܐ	ʾellā
 ܢܦܛܐ	nep̄ṭā
 ܢܦܠ	npal
 ܢܦܫܐ	nap̄šā
-ܢܨܝܒܝܢ	Niṣībīn
+ܢܨܝܒܝܢ	Naṣībīn
 ܢܨܪܝܐ	Naṣrāyā
 ܢܨܪܝܐ	nāṣrāyā
 ܢܨܪܝܬܐ	Naṣrāytā
@@ -2697,6 +2703,7 @@ Classical Syriac ܐܠܐ	ʾellā
 ܫܠܝܡܘܢ	šlēmōn
 ܫܠܝܡܘܢ	šlēmūn
 ܫܠܝܼܚܵܐ	šlīḥā
+ܫܠܡ ܠܟܝ ܒܬܘܠܬܐ ܡܪܝܡ	ʾ
 ܫܠܡܐ	šalmā
 ܫܠܡܐ	šalmē
 ܫܠܡܐ	šālmā
@@ -2743,6 +2750,8 @@ Classical Syriac ܐܠܐ	ʾellā
 ܫܢܬܐ	šenəṯā
 ܫܥܐ	šʿa
 ܫܥܘܬܐ	šəʿōṯā, šāʿōṯā
+ܫܥܬܐ	šāʿṯāʾ
+ܫܥܬܐ	šʿāṯāʾ
 ܫܦܘܕܐ	šapūdā
 ܫܩܐ	šāqā
 ܫܩܐ	šāqē
@@ -2830,9 +2839,9 @@ Classical Syriac ܐܠܐ	ʾellā
 ܬܠܝܬܝܘܬܐ	tlīṯāyūṯā
 ܬܠܝܬܝܘܬܐ	tlīṯāywāṯā
 ܬܠܬ	tlāṯ
-ܬܠܬܐ	tlotho
-ܬܠܬ݂	tleth
-ܬܠܳܬ݂ܳܐ	tlotho
+ܬܠܬܐ	tlāṯa
+ܬܠܬ݂	tlāṯ
+ܬܠܳܬ݂ܳܐ	tlāṯa
 ܬܠܵܬ݂	tlāṯ
 ܬܠܵܬ݂ܵܐ	tlāṯa
 ܬܡܘܙ	tāmūz

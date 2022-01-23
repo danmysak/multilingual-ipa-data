@@ -1,53 +1,3 @@
-(H)ísus	H
-(H)rewH-	H
-(H)yeh₁-	H
-(h₂)moldus	h₂
-(me)mógʰe	me
-(s)h₁es-	s
-(s)kel-	s
-(s)kelH-	s
-(s)kelh₁-	s
-(s)keng-	s
-(s)ker-	s
-(s)kewH-	s
-(s)kewd-	s
-(s)kewh₁-	s
-(s)kérdʰh₁eti	s
-(s)kleh₂w-	s
-(s)kreybʰ-	s
-(s)kʷálos	s
-(s)ḱeh₁w-	s
-(s)ḱeh₁y-	s
-(s)ḱeh₃-	s
-(s)ḱeh₃ih₂	s
-(s)leh₃y-	s
-(s)mal-	s
-(s)meh₂-	s
-(s)mel-	s
-(s)meld-	s
-(s)mer-	s
-(s)merd-	s
-(s)mewk-	s
-(s)mey-	s
-(s)neh₁-	s
-(s)neh₂-	s
-(s)néHtr̥	s
-(s)néh₂ti	s
-(s)pend-	s
-(s)penh₁-	s
-(s)peyk-	s
-(s)poH(y)-	s
-(s)poH(y)-	y
-(s)rā́ps	s
-(s)teg-	s
-(s)telH-	s
-(s)tew-	s
-(s)tewd-	s
-(s)tewg-	s
-(s)tewk-	s
-(s)tewp-	s
-(s)teyg-	s
-(s)twerH-	s
 - -h₂	o
 - -ih₂	Ø
 - -ih₂es	Ø
@@ -92,26 +42,7 @@
 - sōh₂er	h₁
 - sōmosdʰh₂	h₁
 - sōwosdʰh₂	h₁
--(h₁)seti	é
--(h₁)seti	h₁
---éh₂	o
---h₂	é
---h₂	o
--dʰeti	é
--dʰeti	h₁
--dʰh₁eti	é
--dʰh₁eti	h₁
--eh₂yéti	o
--éh₁ti	Ø
--éh₁ye-	Ø
--éh₁yeti	Ø
--éh₂	o
--h₂	é
--h₂	o
--ih₂	é
 -mn̥ -ματ-	-mat-
--trih₂	é
--yéh₁-	Ø
 -δηκτός	-dēktós
 -εδρος	-edros
 -εδών	-edṓn
@@ -162,7 +93,6 @@
 -𐬐𐬁𐬙𐬀-	-kāta-
 -𐭩𐭪𐭩	-yky
 >	denominative
->? Armenian: աղամող	ałamoł
 >? Armenian: բուկ	buk
 >? Hittite: 𒍖𒈨𒄯	meḫur
 >? Old Armenian: թաղ	tʿał
@@ -187,6 +117,8 @@ Ancient Greek: τέχνη	tékhnē
 Armenian: բդկել	bdkel
 Avestan: 𐬰𐬭𐬁𐬛𐬀	zrāda
 Baluchi:گتک	gētk
+Bulgarian: проти	proti
+Bulgarian: против	protiv
 Cretan: θιός	thiós
 Ionic Greek: αὔρη	aúrē
 Ionic Greek: κᾰ́ρη	kárē
@@ -205,12 +137,14 @@ Old Armenian: բեղուն	bełun
 Old Armenian: բով	bov
 Old Armenian: գութ	gutʿ
 Old Armenian: զիստ	zist
+Old Armenian: թեզան	tʿezan
 Old Armenian: հայիմ	hayim
 Old Armenian: հաւտ	hawt
 Old Armenian: ձագար	jagar
 Old Armenian: մատաղ	matał
 Old Armenian: յեռում	yeṙum
 Old Armenian: որմ	orm
+Old Armenian: ստերջ	sterǰ
 Oscan: kaíla	acc.sg.
 Persian گیفر	geyfar
 Persian:بیختن	bīxtan
@@ -223,7 +157,9 @@ Sanskrit: सध	sadhá
 [Manichaean needed]	parbēs-/
 [Manichaean needed]	parbēsišn/
 [script needed]	3sg.
+[script needed]	haṃbujs
 [script needed]	nalī́
+[script needed]	nihujs
 albʰós	non-ablauting
 brьzgati	inchoative
 byštn'	bištan
@@ -235,20 +171,14 @@ bʰuH-yé-ti	ye-present
 bʰudʰtós	non-ablauting
 deyḱ- *déyḱ-s-n̥t	s-aorist
 dl̥h₁gʰós	non-ablauting
-dʰeh₁(y)-	y
-dʰeh₁-	y
 dʰubʰrós	non-ablauting
 gerh₂- գրեայ	greay
-gʰe	ʰ
 gʷih₃wós	non-ablauting
 gʷm̥-sḱé-ti	sḱe-present
 gʷm̥tós	non-ablauting
 gʷʰédʰ-ye-ti	ye-present
 ǵn̥h₁tós	non-ablauting
 ǵn̥h₃-sḱé-ti	sḱe-present
-g⁽ʷ⁾ew-	H
-g⁽ʷ⁾ew-	h₂
-h₁es-	s
 h₁ey- *h₁i-tn-és	r/n-stem
 h₁itós	non-ablauting
 h₁n̥dʰ-éri	innovative loc.sg.
@@ -260,42 +190,18 @@ h₂ḱrós	non-ablauting
 h₂lék-se-ti	se-present
 h₂ōwy-ó-m	vṛddhi-derivative
 h₃enh₂ostos	non-ablauting
-kelh₁-	s
-kewh₁-	s
-kérdʰh₁eti	s
-kleh₂w-	s
-kreybʰ-	s
 kruh₂rós	non-ablauting
-kʷálos	s
-kʷetwr̥-	e
 kʷóteros	non-ablauting
-kʷtru-	e
-kʷtur-	e
-kʷtwr̥-	e
 kʾlwʾn'	kārawān
-ḱeh₁w-	s
-ḱeh₁y-	s
-ḱeh₃-	s
-ḱeh₃ih₂	s
-leh₃y-	s
 légʰ-ye-ti	ye-present
-meh₂-	s
 mébʰi ~ *mey	moy
 médʰyos	non-ablauting
-mógʰe	me
-neh₁-	s
-neh₂-	s
-néh₂ti	s
 oустрабити	oustrabiti
-p(t)erH-	t
 peh₂- *ph₂-s-énti	s-present
-penh₁-	s
-péth₂eti	h₂
-pleh₃(w)-	w
-pleh₃-	w
 pl̥h₁nós	non-ablauting
 pl̥th₂enós	non-ablauting
 pr̥(ḱ)-sḱé-ti	sḱe-present
+pudē (3pl.)	i.e. budē
 sébʰi ~ *sey	soy
 séh₂g-ye-ti	ye-present
 stéh₂-ye-ti	ye-present
@@ -310,8 +216,6 @@ tʾb-	tāb-
 tʾht'	taxt
 weǵʰ- *wéǵʰ-s-n̥t	s-aorist
 weh₁ros	non-ablauting
-wek(ʷ)speros	ʷ
-yeh₁-	H
 ·𐌐𐌄𐌔𐌀𐌞·𐌌	opesaúom
 ·𐌐𐌔𐌞𐌕	opsút
 ɸare < *ɸari	-e is secondary
@@ -363,7 +267,6 @@ yeh₁-	H
 ἄκτωρ	áktōr
 ἄλη	álē
 ἄλιζα	áliza
-ἄμη	ámē
 ἄμητος	ámētos
 ἄνιπτος	ániptos
 ἄξων	áxōn
@@ -486,6 +389,7 @@ yeh₁-	H
 βαίνω	baínō
 βαλλίζω	ballízō
 βδέω	bdéō
+βέβαιος	bébaios
 βέλεμνον	bélemnon
 βέλος	bélos
 βέομαι	béomai
@@ -505,6 +409,7 @@ yeh₁-	H
 βλητός	blētós
 βόλος	bólos
 βόρος	bóros
+βογ-	bog-
 βολέω	boléō
 βολή	bolḗ
 βολίς	bolís
@@ -607,6 +512,7 @@ yeh₁-	H
 δίεμαι	díemai
 δίπλα	dípla
 δίχα	díkha
+δίω	díō
 δῑνέω	dīnéō
 δῑνεύω	dīneúō
 δῐπλοῦς	diploûs
@@ -661,7 +567,6 @@ yeh₁-	H
 ἔτεκον	étekon
 ἔτελον	ételon
 ἔφαγον	éphagon
-ἔφθῐτο	éphthito
 ἔφορος	éphoros
 ἔφυγον	éphugon
 ἔχω	ékhō
@@ -956,6 +861,7 @@ yeh₁-	H
 κυλίνδω	kulíndō
 κυλλός	kullós
 κυρτός	kurtós
+κω	kō
 κώπη	kṓpē
 κῶλον	kôlon
 κῶμος	kômos
@@ -967,12 +873,10 @@ yeh₁-	H
 λᾱρός	lārós
 λᾰ́λος	lálos
 λαφύσσω	laphússō
-λέπω	lépō
 λέχομαι	lékhomai
 λέχος	lékhos
 λείπω	leípō
 λεῖξαι	leîxai
-λεπτός	leptós
 λεύσσω	leússō
 λευκός	leukós
 λῆρος	lêros
@@ -1439,7 +1343,6 @@ yeh₁-	H
 στοᾱ́	stoā́
 στοιᾱ́	stoiā́
 στοιή	stoiḗ
-στολή	stolḗ
 στορέννῡμι	storénnūmi
 στραγγός	strangós
 στρώννῡμι	strṓnnūmi
@@ -1599,6 +1502,7 @@ yeh₁-	H
 φήμη	phḗmē
 φῆμις	phêmis
 φθίνω	phthínō
+φθίω	phthíō
 φθῐτός	phthitós
 φθινύθω	phthinúthō
 φιτρός	phitrós
@@ -1687,8 +1591,13 @@ yeh₁-	H
 бо́лозень	bólozenʹ
 бон	bon
 бонӯ	bonü
+бор	bor
+бӯр	bür
 буго́р	bugór
+бугъдӕг	buǧdæg
 бугі́р	buhír
+бур	bur
+быгъдӕг	byǧdæg
 бѣ́лый	bě́lyj
 вал	val
 валить	valitʹ
@@ -1699,6 +1608,8 @@ yeh₁-	H
 ве́тка	vétka
 вен	ven
 вено́к	venók
+верста́	verstá
+верства́	verstvá
 ветвь	vetvʹ
 владь	vladĭ
 власти	vlasti
@@ -1709,6 +1620,9 @@ yeh₁-	H
 врста	vrsta
 връст	vrǎst
 врьста	vrĭsta
+вур	vur
+вьрста	vĭrsta
+вярста́	vjarstá
 ві́льха	vílʹxa
 ві́твіна	vítvina
 вѣꙗ	věja
@@ -1724,7 +1638,6 @@ yeh₁-	H
 дра́жить	drážitʹ
 дром	drom
 дръ́мка	drǎ́mka
-дуга́	dugá
 елха́	elhá
 жа́ло	žálo
 жель	žel'
@@ -1747,13 +1660,16 @@ yeh₁-	H
 кын	kyn
 лапам	lapam
 лаяти	lajati
+леда	leda
 леди́на	ledína
 ледина	ledina
 лишать from *leykso-	lišatʹ
 ло́пать	lópatʹ
 ломать	lomatʹ
+луб	lub
 людиѥ	ljudije
 ляда	ljada
+лядина	ljadina
 лѹбъ	lubŭ
 менее	meneje
 меньше	menʹše
@@ -1850,6 +1766,7 @@ yeh₁-	H
 ազազիմ	azazim
 ալի	ali
 ածուխ	acux
+աղամող	ałamoł
 աղաւնի	aławni
 աղէտ	ałēt
 աղունք	ałunkʿ
@@ -2002,6 +1919,7 @@ yeh₁-	H
 թառամ	tʿaṙam
 թարմ	tʿarm
 թարշամ-	tʿaršam-
+թեքեմ	tʿekʿem
 թնդամ	tʿndam
 թողել	tʿołel
 թոռն	tʿoṙn
@@ -2022,13 +1940,10 @@ yeh₁-	H
 լնում	lnum
 լոգանամ	loganam
 լույս	luys
-լուռ	luṙ
 լուսան	lusan
 լուսն	lusn
-լուր	lur
 լուրթ	lurtʿ
 լուրջ	lurǰ
-լսեմ	lsem
 լվանալ	lvanal
 խայթ	xaytʿ
 խեթ	xetʿ
@@ -2067,7 +1982,7 @@ yeh₁-	H
 հանգչիմ	hangčʿim
 հասկ	hask
 հաստեայ	hasteay
-հարավ	harav
+հարաւ	haraw
 հարբել	harbel
 հարսն	harsn
 հարց	harcʿ
@@ -2171,7 +2086,7 @@ yeh₁-	H
 սպրդեմ	sprdem
 ստեղծանեմ	stełcanem
 ստեղն	stełn
-ստերջ	sterǰ
+ստերդ	sterd
 վեռ	veṙ
 տալ	tal
 տաւն	tawn
@@ -2240,6 +2155,8 @@ yeh₁-	H
 بانوو	banû
 بانگ	bánóg
 باژ	bāž
+بخت	buxr
+بختن	buxtan
 بخش	baxš
 بخشیدن	baxšidan
 برجی	barji
@@ -2250,8 +2167,15 @@ yeh₁-	H
 بها	bahâ
 بهیزه	behīze
 بوته	būte
+بوج-	bōǰ-
 بودن	budan
+بور	/bōr/
+بور	/būr/
+بوز-	bōz-
+بووژانەوە	bûjanewe /būžānawa/
+بووژێ-	bûjê- /būžē-/
 بووک	bûk
+بوگ	bōg
 بَنّھݨا	bannhṇā
 بۊر	bur
 بید	bīd
@@ -2409,6 +2333,7 @@ yeh₁-	H
 ورورک	varvarak
 وز	vaz
 وندی	wandai
+وور	vūr
 وی	vay
 ویی	viyi
 وەرک	werk
@@ -2449,6 +2374,7 @@ yeh₁-	H
 ککا	kakā
 ککه	kaká
 کیش	kêš
+گام	gám
 گام	gām
 گرد	gerd
 گرزین	gerzîn
@@ -2461,6 +2387,7 @@ yeh₁-	H
 ھێمە	hême
 ھەناسە	henase
 ہید	hed
+یۆد	yod
 ܐܣܦܐܣ	ʾspʾs
 ܒܐܡܢ	bʾmn
 ܕܒܐܡܢ	dbʾmn
@@ -2615,8 +2542,6 @@ yeh₁-	H
 ओह	óha
 कणति	kaṇati
 कनीन	kanī́na
-कन्या	kanyā́
-कपाल	kapāla
 करिकृत्	kárikṛt
 कर्त	kartá
 कर्तति	kartati
@@ -2647,6 +2572,7 @@ yeh₁-	H
 क्रुञ्चति	kruñcati
 क्रौञ्च	krauñca
 क्लन्दति	klandati
+क्षयति	kṣayati
 क्षायति	kṣā́yati
 क्षिणाति	kṣiṇā́ti
 क्षिणोति	kṣiṇóti
@@ -2989,7 +2915,6 @@ yeh₁-	H
 पृश्नि	pṛ́śni
 पृषत्	pṛ́ṣat
 पोत	pota
-प्रगामन्	pragā́man
 प्रतर	pratara
 प्रति	práti
 प्रतीक	prátīka
@@ -3098,8 +3023,6 @@ yeh₁-	H
 महस्	máhas
 महिष्ठ	máhiṣṭha
 माति	māti
-मात्र	mātra
-मात्रा	mā́trā
 मादयति	mādáyati
 माद्यति	mā́dyati
 मानयति	mānayati
@@ -3146,7 +3069,6 @@ yeh₁-	H
 युग्य	yugya
 युज्	yúj
 युज्य	yújya
-युद्ध	yuddhá
 युध्म	yudhmá
 युध्यति	yúdhyati
 युध्यते	yúdhyate
@@ -3260,6 +3182,7 @@ yeh₁-	H
 वाजयति	vājáyati
 वात	vā́ta
 वाह	vā́ha
+वितर	vitara
 वितर	vitará
 वितरम्	vitarám
 विद्या	vidyā́
@@ -3321,10 +3244,10 @@ yeh₁-	H
 शोष	śoṣa
 शोषयति	śoṣáyati
 श्याम	śyāmá
-श्रावयति	śrāváyati
 श्रुति	śrúti
 श्रोत्र	śrótra
 श्रोमत	śrómata
+श्रोषति	śroṣati
 श्विन्दते	śvindate
 षुप्ति	ṣupti
 सक्त	saktá
@@ -3474,6 +3397,8 @@ yeh₁-	H
 ବୁକା	buka
 తలము	talamu
 බඳිනවා	baⁿdinawā
+გზა	gza
+ზა	za
 ცხემლი	cxemli
 ცხუ	cxu
 ცხუ̂ი	cxûi
@@ -3487,20 +3412,18 @@ yeh₁-	H
 → Burmese: ဒွာရ	dwara.
 → Chechen: барз	barz
 → Ge'ez: ቀመር	ḳämär
-→ Georgian: არავი	aravi
 → Georgian: ბანდი	bandi
-→ Georgian: გზა	gza
 → Georgian: ფოსო	poso
 → Gujarati: દ્વાર	dvār
 → Hebrew: קָמַר / קֶמֶר	qemer, qāmar
+→ Hindi: -त्व	-tva
 → Hindi: अम्ल	amla
 → Hindi: अर्जुन	arjun
 → Hindi: कमर	kamar
 → Hindi: तल	tal
 → Hindi: द्वार	dvār
 → Hindi: फलक	phalak
-→ Laz: გზა	gza
-→ Mingrelian: ზა	za
+→ Hindi: मात्र	mātra
 → Old Armenian: ատր-	atr-
 → Old Armenian: բաժ	baž
 → Old Armenian: բանտ	bant
@@ -3556,10 +3479,12 @@ yeh₁-	H
 ⇒ Sanskrit: त्वरा	tvarā́
 ⇒ Sanskrit: दुष्तरीतु	duṣtárītu
 ⇒ Sanskrit: पुर	pura
+⇒ Sanskrit: प्रगामन्	pragā́man
 ⇒ Sanskrit: व्युष्टि	vyùṣṭi
 ⇒ Sanskrit: समृद्ध	sámṛddha
 ⇒ Sanskrit: हेमन्त	hemantá
 ⇒ πιττάκιον	pittákion
+⇒? Svan: ლი-ზ-ი	li-z-i
 ⱀⱏⱀⱑ	nŭně
 ⱃⰰⰸⰴⱃⰰⰶⰹⱅⰹ	razdražiti
 ⱅⱃⱆⰴⱏ	trudŭ
@@ -3739,6 +3664,11 @@ yeh₁-	H
 𐫀𐫀𐫘𐫗𐫀𐫏	ʾʾsnʾy
 𐫀𐫘𐫛𐫀𐫘	ʾspʾs
 𐫁𐫀𐫗𐫁𐫏𐫢𐫗	bʾnbyšn
+𐫁𐫇𐫉-	bwz-
+𐫁𐫇𐫋-	bwj-
+𐫁𐫇𐫟𐫤	bwxt
+𐫁𐫇𐫟𐫤𐫃	bwxtg
+𐫁𐫇𐫟𐫤𐫗	bwxtn
 𐫁𐫡𐫖𐫀𐫖	brmʾm, 1pl.pres.ind.
 𐫁𐫡𐫖𐫀𐫖	brmʾm, 1sg.pres.ind.
 𐫁𐫢𐫗	bšn /bašn/
@@ -3771,6 +3701,7 @@ yeh₁-	H
 𐬀𐬉𐬱𐬆𐬨𐬀	aēšəma
 𐬀𐬉𐬴𐬨𐬀	aēṣ̌ma
 𐬀𐬌𐬌𐬀𐬭𐬆	aiiarə
+𐬀𐬌𐬞𐬌𐬜𐬡𐬀𐬊𐬖𐬀	aipiδβaoγa
 𐬀𐬌𐬡𐬌-𐬬𐬀𐬭𐬆𐬱𐬙𐬀	aiβi-varəšta
 𐬀𐬌𐬥𐬌𐬐𐬀	ainika
 𐬀𐬎𐬎𐬁𐬨𐬍	auuāmī
@@ -3819,7 +3750,6 @@ yeh₁-	H
 𐬎𐬯𐬙𐬁𐬥𐬀𐬰𐬀𐬯𐬙𐬀	ustānazasta
 𐬐𐬀𐬌𐬌𐬁	kaiiā
 𐬐𐬀𐬌𐬥𐬌𐬥	kainin
-𐬐𐬀𐬌𐬥𐬍𐬐𐬁	kainīkā
 𐬐𐬀𐬨𐬀𐬭𐬁	kamarā
 𐬐𐬆𐬵𐬭𐬞𐬇𐬨	kəhrpə̄m, acc. sg.
 𐬐𐬎𐬛𐬁	kudā
@@ -3878,6 +3808,7 @@ yeh₁-	H
 𐬝𐬐𐬀𐬉𐬱𐬀	t̰kaēša
 𐬞𐬀𐬎𐬭𐬎𐬎𐬀𐬙𐬁	pauruuatā
 𐬞𐬀𐬎𐬭𐬬𐬀	paurva
+𐬞𐬀𐬗𐬙𐬀	pacta
 𐬞𐬀𐬙𐬀𐬭𐬆𐬙𐬀	patarəta
 𐬞𐬀𐬭𐬱𐬎𐬌𐬌𐬀	paršuiia
 𐬞𐬀𐬯𐬗𐬀	pasca
@@ -3975,6 +3906,7 @@ yeh₁-	H
 𐬬𐬌𐬟𐬭𐬀	vifra
 𐬬𐬌𐬥𐬀𐬯𐬙𐬌	vinasti
 𐬬𐬍𐬎𐬎𐬍𐬯𐬈	vīuuīse
+𐬬𐬍𐬙𐬀𐬭𐬀	vītara
 𐬬𐬍𐬙𐬀𐬭𐬆𐬨	vītarəm
 𐬬𐬍𐬛𐬀𐬝	vīdat̰
 𐬬𐬍𐬛𐬁𐬌𐬙𐬍	vīdāitī
@@ -4120,6 +4052,7 @@ yeh₁-	H
 𒈬𒍝	MU-za /witta/
 𒈭𒄩𒀀𒄑𒍣	túḫ-ḫa-a-iz-zi
 𒈭𒄩𒂊	tuḫḫae
+𒈭𒆠𒅖𒍣	tákkišzi
 𒉈𒆪𒈠𒀭𒍝	ne-ku-ma-an-za
 𒉺𒀊𒈦𒀸𒍣	pa-ap-pár-as-zi
 𒉺𒀠𒄭𒅖	pa-al-hi-is

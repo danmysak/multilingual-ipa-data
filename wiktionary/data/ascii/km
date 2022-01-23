@@ -56,7 +56,6 @@
 កញ្ចាស់	kaakancah
 កញ្ចុកបត្តសត្វ	kanco kabattasat
 កញ្ចែ	kaakancae
-កញ្ចែ	kanh jeh
 កញ្ឆា	kaakanchaa
 កញ្ឆា	kanchhaa
 កញ្ជនជៃ	kaakancoon ciy
@@ -176,6 +175,7 @@
 កម្ញី	kaamney
 កម្ពុជ	kaakampuc
 កម្ពុជា	kampucie
+កម្ពុជាក្រោម	kaampucie kraom
 កម្ពូល	kaakampuul
 កម្ពោជិក	kampoocik
 កម្ពោជិកា	kaampoocikaa
@@ -299,6 +299,7 @@
 ការងារ	kaa ngie
 ការងូតទឹក	kaanguuttik
 ការចង់	kaa cang
+ការចរចា	kaacaacaa
 ការចាប់ផ្ដើម	kaa cap phdaem
 ការច្នៃ	kaacnay
 ការជូនដំណឹង	kaacuundamneng
@@ -581,6 +582,7 @@
 កូរ៉េ	kourei
 កូរ៉េខាងជើង	kourei khaang ceeng
 កូរ៉េខាងត្បូង	kourei khaang tboung
+កូវីដ-១៩	kovid
 កូសាំងចិន	kousangcen
 កូសាំងស៊ីន	kousangsiin
 កូសូវ៉ូ	kousouvou
@@ -602,6 +604,7 @@
 កៀន	kien
 កៀប	kiep
 កៀហ្ស៊ីស៊ីស្ថាន	kieziisiisthaan
+កេតុ	keito
 កេតុ	ket
 កេនយ៉ា	keinyaa
 កេរ្តិ៍	kei
@@ -873,7 +876,7 @@
 ក្រមុំ	kraamum
 ក្រមួន	kraamuen
 ក្រមួន	kramuen
-ក្រមួនឃ្មុំ	kror moun khmom
+ក្រមួនឃ្មុំ	kraamuen khmum
 ក្រយ៉ៅ	kraayaw
 ក្រលុក	kraaluk
 ក្រលៀន	kraalien
@@ -1221,6 +1224,7 @@
 ខ្មែរ	khmae
 ខ្មែរ	kmae
 ខ្មែរក្រហម	khmae kraahaam
+ខ្មែរក្រោម	khmae kraom
 ខ្មោច	khmaoc
 ខ្មោច	kmaoch
 ខ្មោចលោកសុខ	khmaoc look sok
@@ -1686,7 +1690,6 @@
 ចក្រពត្តិ	cakkrapoet
 ចក្រពត្តិនិយម	cakkrapoet niyum
 ចក្រភព	cakkraphup
-ចក្រភព	chak phup
 ចក្រភពផ្វាស៊ី	jak phop fasi
 ចក្រភពពែរ្ស	jak phop pers
 ចក្រភពអាល្លឺម៉ង់	cak phup aalleimang
@@ -2112,6 +2115,7 @@
 ឆ្នំ	chnam
 ឆ្ពោះ	chpueh
 ឆ្មក់	chmak
+ឆ្មប	chmaap
 ឆ្មា	chmaa
 ឆ្មាតូច	chmaatouc
 ឆ្មាបា	chmaabaa
@@ -2172,8 +2176,6 @@
 ជនបទ	cuenneebat
 ជនបរទេស	cuen baareeteeh
 ជនភៀសខ្លួន	cuen phieh khluen
-ជនរងគ្រោះ	chawn rawng kruek
-ជនរងគ្រោះ	choon roong kruek
 ជនរងគ្រោះ	cuen roong krueh
 ជនលេនីននិយម	chuen lenin niyum
 ជនស្តាលីននិយម	chuen staaliin niyum
@@ -2210,19 +2212,20 @@
 ជាខ្លាំង	cie khlang
 ជាខ្លាំង	cie klang
 ជាង	cieng
+ជាងកាត់សក់	cieng kat sak
 ជាងគេ	cieng kee
 ជាងគេបំផុត	cieng kee bamphot
 ជាងគំនូរ	cieng kumnuu
 ជាងឈើ	chieng chee
 ជាងដុតនំ	ciengdotnum
 ជាងដែក	cieng daek
-ជាងធ្វើសក់	chieng tvee sak
 ជាងភ្លើង	cieng phleeng
 ជាងមាស	cieng mieh
 ជាងម៉ាស៊ីន	cieng maasin
 ជាងលាប	cieng liep
 ជាងសោ	cieng sao
 ជាងអគ្គីសនី	cieng akkisanii
+ជាងអ៊ុតសក់	cieng ut sak
 ជាច្រើន	cie craen
 ជាជាង	cie cieng
 ជាញ	cien
@@ -2421,6 +2424,7 @@
 ជំនឿ	cumnie
 ជំនឿបាហៃ	cumniebaahay
 ជំនែង	cumneeng
+ជំនោរ	cumnoo
 ជំនះ	cumneeh
 ជំពាក់	cumpeek
 ជំពាក់​	cumpeek
@@ -2742,6 +2746,7 @@
 ដើរហើរ	dae hae
 ដៀប	diep
 ដៀល	diel
+ដៀវ	diew
 ដេក	deik
 ដេកមួយល្បក់	deek muey lbak
 ដេកលក់	deek luek
@@ -3514,7 +3519,6 @@
 ទី-	tii
 ទីកន្លែង	tii kaakanleeng
 ទីក្រុង	tii krong
-ទីក្រុងតូក្យូ	tii krong toukyou
 ទីក្រុងទាំងមូល	tii krong teeng muul
 ទីក្រុងព្រែកឫស្សី	tikrongprekroessei
 ទីក្រុងមេ	tii krong mei
@@ -3579,7 +3583,7 @@
 ទឹកក្រាម	tik kraam
 ទឹកក្រូច	tik krouc
 ទឹកក្អេក	tik keik
-ទឹកខនិជ	tik khanic
+ទឹកខនិជ	tik khaakhanic
 ទឹកខ្មេះ	tik khmeh
 ទឹកខ្មៅ	tik khmaw
 ទឹកខ្មៅ	tik kmav
@@ -3776,7 +3780,6 @@
 ទំរង់	tootumrueng
 ទំរង់ស័ក្តិ	tumrueng sak
 ទំរេត	tumreet
-ទំរេត	tumreit
 ទំលាក់	tumleek
 ទំលាប់	tumloap
 ទំលាប់	tumloep
@@ -4004,8 +4007,9 @@
 នាយ	niey
 នាយក	nieyuek
 នាយកដ្ឋាន	nieyuekkatthaan
+នាយករដ្ឋមន្ត្រី	tha
 នាយកវិទ្យាល័យ	nieyuek vittyielay
-នាយតម្រួត	niey tamruet
+នាយតម្រួត	niey taatamruet
 នាយឧត្តមនាវី	neayottamoneavi
 នារ	nie
 នារទព្រហ្មជាតក	neartopromacheatka
@@ -4041,6 +4045,7 @@
 និជ្ជជនភាព	nicceecuenphiep
 និទាន	nitien
 និទានកថា	nitien kathaa
+និទ្ទោសកម្ម	nittoosakam
 និបាត	nibaat
 និបាតសព្ទ	nibaatasap
 និបាទសព្ទ	nibatspot
@@ -4615,7 +4620,7 @@
 បួនដប់	buen dap
 បួនដប់	buondab
 បួនពាន់	buen poan
-បួរដី	bue dey
+បួរដី	buedey
 បួស	bueh
 បើ	bae
 បើក	baek
@@ -4675,8 +4680,8 @@
 បោះបង់ចោល	bah bang caol
 បោះបង់ចោល	baohbangchaol
 បោះពុម្ព	bah pum
-បោះពុម្ព	bahpumpoo
 បោះមេ	bah mee
+បោះសំណាញ់	baoh saamnanh
 បំ	bam
 បំ-	bam
 បំណង	bamnaang
@@ -5266,6 +5271,7 @@
 ផ្ទួន	phtuen
 ផ្ទៃ	phtiy
 ផ្ទះ	phteeh
+ផ្ទះកាត់សក់	phteeh kat sak
 ផ្ទះខ្ញុំ	phteeh khnom
 ផ្ទះចាប់ហួយ	phteeh caphuey
 ផ្ទះទីទៃ	phteeh tiitiy
@@ -5722,7 +5728,7 @@
 ព្រួយបារម្ភ	pruey baaram
 ព្រើល	preel
 ព្រេង	preeng
-ព្រេងនិទាន	preing nitien
+ព្រេងនិទាន	preeng nitien
 ព្រែ	pree
 ព្រែកជីក	preekciik
 ព្រៃ	priy
@@ -5909,6 +5915,7 @@
 ភាសាអាល្លឺម៉ង់	phiesaa aalleimang
 ភាសាអាហ្វ្រីក	phiasa afrik
 ភាសា​ម៉ាស៊ីន	phiesaa maasin
+ភាស៊ី	phiesii
 ភិក្ខុ	phikkho
 ភីកអាប់	phiikap
 ភីលៀង	phiilieng
@@ -5980,7 +5987,7 @@
 ភ្ញៀវ	phniew
 ភ្នាក់	phneek
 ភ្នាក់ងារ	phneek ngie
-ភ្នាក់ងារប៉ូលិស	pneak ngie poolih
+ភ្នាក់ងារប៉ូលិស	phneek ngie poulih
 ភ្នាក់ដៃ	phneek day
 ភ្នាល់	phnoel
 ភ្នាល់	pnoal
@@ -6075,7 +6082,6 @@
 មនុស្សកុហក	monuh kohak
 មនុស្សកុះករ	monuh koh kaa
 មនុស្សគ្រាស	meenuhsakrieh
-មនុស្សចេះឆ	monuh ceh chaa
 មនុស្សជាតិ	meenuhsaciet
 មនុស្សដទៃ	moonussaattiy
 មនុស្សតឿ	monuh tie
@@ -6084,14 +6090,16 @@
 មនុស្សភក្ខ	monuhsa pheek
 មនុស្សភក្ស	monuhsa pheek
 មនុស្សភរ	monuh phoo
-មនុស្សយន្ត	mo nus yon
+មនុស្សយន្ត	monuh yuen
 មនុស្សរញ៉ាំរញ៉ូវ	monuh ronamronev
 មនុស្សល្ងីល្ងើ	monuh lngii
 មនុស្សល្ងីល្ងើ	monuh lngiilngee
 មនុស្សសាស្ត្រ	monuh saah
 មនុស្សហ្សួង	monuh zueng
 មនុស្សឱបឪទឹន	monuh aop ev tin
-មនោគមវិជ្ជា	meanoo koom vicchie
+មនោ	meenoo
+មនោគម	meenoo koom
+មនោគមវិជ្ជា	meenoo koom viccie
 មន្ត	muen
 មន្ត្រ	muen
 មន្ត្រី	muentrey
@@ -6349,7 +6357,7 @@
 មេសា	meesaa
 មេសូប៉ូតាមី	meisoopootaamii
 មេអណ្ដើក	mee aaandaek
-មេអាន	meeaan
+មេអាន	mee aan
 មេអាប	mee aap
 មេអំបៅ	mee ambaw
 មែក	maek
@@ -6367,6 +6375,7 @@
 មំសៈ	meengsa
 ម៉	maa
 ម៉ងកាណែស	maangkaanaeh
+ម៉ប	maap
 ម៉ាក	maak
 ម៉ាកាវ	maakaaw
 ម៉ាកេម៉ាកេ	mar kei mar kei
@@ -6431,7 +6440,6 @@
 ម៉ូណាកូ	mounaakou
 ម៉ូណូប៉ូលី	mo no po li
 ម៉ូត	mout
-ម៉ូតូ	mootoo
 ម៉ូតូ	moutou
 ម៉ូតូឌុប	moutou dup
 ម៉ូតែល	moutael
@@ -6534,6 +6542,7 @@
 យ	yoo
 យក	yook
 យក...មក	yook  mook
+យកការណ៍	yoo kaa kaa
 យកចិត្តទុកដាក់	yook cet tuk dak
 យកចិត្ត​ទុកដាក់​	yokachetttuk dak
 យកចេញ	yook cen
@@ -6571,11 +6580,13 @@
 យានដ្ឋាន	yienathaan
 យានយន្ត	yien yuen
 យានអវកាស	yien aveekaah
+យានិក	yienik
 យាម	yiem
 យាមនង្គ័ល	yeamnongkol
 យាយ	yiey
 យាយចិញ្ចឹម	yieycencem
 យាយតា	yeay tar
+យាយម៉ប	yiey maap
 យីហោ	yii hao
 យីហោ	yiihao
 យឹត	yit
@@ -6590,7 +6601,6 @@
 យុគលៈ	yukeelee
 យុត្តិ	yutte
 យុត្តិធម៌	yuttethoe
-យុថ្កា	yut tkaa
 យុថ្កា	yutthkaa
 យុទ្ធ	yut
 យុទ្ធការ	yutthookaa
@@ -6692,7 +6702,7 @@
 រង្វង់មូល	rooruengvueng muul
 រង្វាន់	rooruengvoen
 រង្វាន់ណូបែល	roongvoennoubael
-រង្វាស់	ruengvoah
+រង្វាស់	rooruengvoeh
 រង្វះ	rooruengveeh
 រង្សីវិទ្យា	reangsey vityie
 រចនា	racanaa
@@ -6706,7 +6716,6 @@
 រដូវ	roorodew
 រដូវភ្លៀង	roorodew phlieng
 រដោះ	roorodah
-រដ្ឋ	roat
 រដ្ឋ	roet
 រដ្ឋការ	roattha kaa
 រដ្ឋក្រហម	roat krahaam
@@ -6777,7 +6786,7 @@
 រនះ	roneah
 រនះ	rooroneeh
 រន្ឋ	ruen
-រន្ឋគវេសី	ruentheakeaveisey
+រន្ឋគវេសី	ruentheekeeveesey
 រន្ឋច្រមុះ	roonthaacraamuh
 រន្ឋច្រមុះ	ruen cramoh
 រន្ទះ	rooruenteeh
@@ -6874,7 +6883,6 @@
 រហូត	roorohout
 រហូតដល់	roorohout dal
 រហើរ	roorohae
-រហែ	rohae
 រហែ	roorohae
 រហែល	roorohael
 រហ័ស	roorohah
@@ -7022,7 +7030,7 @@
 រើម	reem
 រើស	reeh
 រឿង	rieng
-រឿងខ្លី	roeung khley
+រឿងខ្លី	rieng khley
 រឿងដំណាល	rieng damnaal
 រឿងតំណាល	rieng tamnaal
 រឿងព្រេង	rieng preeng
@@ -7778,7 +7786,7 @@
 សតវត្សរ៍	satavoet
 សតិ	sate
 សត្តឃាតដ្ឋាន	saattaakhietdthaan
-សត្តាហៈ	saattaaha
+សត្តាហៈ	sattaaha
 សត្រី	sattrey
 សត្រូវ	sattrew
 សត្វ	sat
@@ -7892,7 +7900,7 @@
 សមុទ្រអុកហុតស្គ៍	samot okhot
 សម័យ	samay
 សម័យថ្មី	samay tmey
-សម័យប្រជុំ	samay pracum
+សម័យប្រជុំ	samay praacum
 សម្គាល់	saasamkoel
 សម្ងាត់	samngat
 សម្ងួត	saasamnguet
@@ -8356,7 +8364,8 @@
 សៀវភៅ	siew phiw
 សៀវភៅកន្សោម	siewphiwknsaom
 សៀវភៅផែនទី	siev phiv phaen tii
-សៀវភៅសិក្សា	siev phiv seksaa
+សៀវភៅមើល	siew phiw meel
+សៀវភៅសិក្សា	siew phiw seksaa
 សេក	seik
 សេក្ខ	seik
 សេង	seeng
@@ -8412,6 +8421,7 @@
 សេអ៊ូល	seiuul
 សេះ	seh
 សេះបង្កង់	seh bangkang
+សេះស្នែងមួយ	sehsnaengmuey
 សែក	saek
 សែង	saeng
 សែន	saen
@@ -8464,7 +8474,6 @@
 សំណាងអាក្រក់	samnaangaakrak
 សំណុំ	samnom
 សំណុំបែបបទ	samnom baep bat
-សំណូក	samnook
 សំណូក	samnouk
 សំណូម	samnoum
 សំណួរ	samnue
@@ -8561,6 +8570,7 @@
 ស៊ុលតង់	sultang
 ស៊ូ	suu
 ស៊ូដង់	suudang
+ស៊ូណាមិ	suunaami
 ស៊ូទ្រាំ	suutroem
 ស៊ូវ៉ា	suuvaa
 ស៊ូស៊ី	suusii
@@ -8630,6 +8640,7 @@
 ស្តាលីននិយម	staalin niyum
 ស្តុកខុល	stokkhol
 ស្តុតិ	stote
+ស្តូបនីយដ្ឋាន	stobniydthan
 ស្តូបនីយដ្ឋាន	stoupniiydthaan
 ស្ត្រប៊េរី	sdaabeerii
 ស្ត្រី	strey
@@ -9336,8 +9347,7 @@
 អធិដ្ឋាន	athithaan
 អធិបតេយ្យ	athippatay
 អធិរាជ	athiriec
-អធិរាជាណាចក្រ	athiriechie naa chak
-អធិរាជិនី	athiriechinii
+អធិរាជិនី	athiriecinii
 អធ្រាត្រ	atthriet
 អនត្ថ	anattha
 អនត្ថការ	anatthakaa
@@ -9526,6 +9536,7 @@
 អាកាសបាតុភូត	aakaah paatophuut
 អាកាសបាតុភូត	aakaasapaatophuut
 អាកាសយានដ្ឋាន	aakaasayienathaan
+អាកាសយានិក	aakaah yienik
 អាកាសវិទ្យា	aakaah vityie
 អាកុង	aakong
 អាកុល	aakol
@@ -9573,12 +9584,12 @@
 អាណត្តិទេព្ដា	aanat teip da
 អាណា	aanaa
 អាណាខេត្ត	aa naa khaet
-អាណាចក្រ	aa naa chak
 អាណាចក្រ	aanaacak
 អាណាចក្រ	ak na jak
 អាណាចក្រអាល្លឺម៉ង់	aa naa cak aalleimang
 អាណានិគម	aanaanikum
-អាណានិគមនិយម	aa naa nikum niyum
+អាណានិគមកិច្ច	aanaanikumkec
+អាណានិគមនិយម	aanaanikumniyum
 អាណាប័ណ្ណ	aanaa ban
 អាណាព្យាបាល	aa naa pyiebaal
 អាណាភិបាល	aa naa phibaaley
@@ -9960,9 +9971,8 @@
 អ្នកបង	nakabngo
 អ្នកបច្ចេកទេស	neek pacceikateeh
 អ្នកបដិវត្ត	neek padevoet
-អ្នកបួស	neak bueh
 អ្នកបួស	neek bueh
-អ្នកបើកយន្តហោះ	neak baek yuen hah
+អ្នកបើកយន្តហោះ	neek baek yuen hah
 អ្នកបើកឡាន	neek baek laan
 អ្នកបោះឆ្នោត	neek bah chnaot
 អ្នកបំរើ	neek bamrae
@@ -9983,9 +9993,10 @@
 អ្នកមានរោគស្រា	neak mien rook sraa
 អ្នកមានរោគស្រា	neek mien rook sraa
 អ្នកមើលក្មេង	neak merl khmeng
-អ្នកយកការណ៍	neak yoo kaa kaa
+អ្នកយកការណ៍	neek yoo kaa kaa
 អ្នករងគ្រោះ	nakarngokruoh
 អ្នករចនា	neek racanaa
+អ្នករាយការណ៍	neek riey kaa
 អ្នករាំ	neek roem
 អ្នករុករក	neek ruk rook
 អ្នកលក់	neak luek
@@ -10013,13 +10024,14 @@
 អ្នកស្រី	neek srey
 អ្នកស្រុក	neek srok
 អ្នកស្រែ	neek srae
-អ្នកអង្គម្ចាស់	nakangkomchas
 អ្នកអង្គម្ចាស់	neak ong mjas
+អ្នកអង្គម្ចាស់	neek ang mcah
 អ្នកអត្តពល	neek attapoel
 អ្នកអភិបាល	neak aphi baal
 អ្នកអាន	neek aan
 អ្នកឧកញ៉ា	neak ok nha
 អ្នកឧកញ៉ា	neek oknaa
+អ្នកឯកទេស	neek aekteeh
 អ្វី	avey
 អ្វី	vey
 អ្វីៗ	avey avey
@@ -10041,6 +10053,7 @@
 ឥតបង់ថ្លៃ	et bang thlay
 ឥតបង់ថ្លៃ	et bang tlay
 ឥតមានមួយសោះ	et mien muey sah
+ឥតិហាស	etehaah
 ឥត្ថីលិង្គ	etthejleng
 ឥទ្ធិ	etthi
 ឥទ្ធិពល	etthipuel
@@ -10064,6 +10077,7 @@
 ឥឡូវហ្នឹង	eylew neng
 ឥឡូវហ្នឹង	ilev ning
 ឦ	ey
+ឦតិហាស	etehaah
 ឦស	iisa
 ឦសាន	eysaan
 ឧ	o
@@ -10170,6 +10184,7 @@
 ឯកខ្លែង	ekakhleng
 ឯកង៉ាវ	aek ngaaw
 ឯកជន	aekacuen
+ឯកទេស	aekteeh
 ឯកភាព	aekaphiep
 ឯករាជ	aekariec
 ឯករាជ្យ	aekariec

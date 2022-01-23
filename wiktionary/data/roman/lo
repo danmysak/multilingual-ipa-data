@@ -260,6 +260,7 @@
 ການເກິດ	kān kœt
 ການເຄື່ອນໄຫວ	kān khư̄an wai
 ການເງິນ	kān ngœn
+ການເຈລະຈາ	kān chē la chā
 ການເດີນທາງ	kān dœ̄n thāng
 ການເມືອງ	kān mư̄ang
 ການເລືອກຕັ້ງ	kān lư̄ak tang
@@ -635,6 +636,7 @@
 ຄອນກີດ	khǭn kīt
 ຄອນເສີດ	khǭn sœ̄t
 ຄອບຄົວ	khǭp khūa
+ຄອມ	khǭm
 ຄອມພິວເຕີ	khǭm phiu tœ̄
 ຄອມມູນິດ	khǭm mū nit
 ຄະດີ	kha dī
@@ -720,7 +722,6 @@
 ຄື້ນ	khư̄n
 ຄຸ	khu
 ຄຸກ	khuk
-ຄຸຍ	khui
 ຄຸຍ	khuy
 ຄຸຍໂຕ	khu nya tō
 ຄຸຍໂຕ	khuy tō
@@ -849,6 +850,7 @@
 ຈັກ	chak
 ຈັກກະ	chak ka
 ຈັກກະພັດ	chak ka phat
+ຈັກກະພັດດິນິ	chak ka phat di ni
 ຈັກກະພັດນິຍົມ	chak ka phat ni nyom
 ຈັກກະພົບໂຣມັນ	chak ka phop rō man
 ຈັກກະວັດ	chak ka wat
@@ -1064,6 +1066,7 @@
 ຊູຊິ	sū si
 ຊູດານ	sū dān
 ຊູດານໃຕ້	sū dān tai
+ຊູນາມິ	sū nā mi
 ຊູຣີນາມ	sū rī nām
 ຊູລີ	sū lī
 ຊູໂຈ	sū chō
@@ -1155,6 +1158,7 @@
 ຍົມ	nyom
 ຍົມມະນາ	nyom ma nā
 ຍ່ອງ	nyǭng
+ຍ່ອຍ	nyǭi
 ຍ່າ	nyā
 ຍ່າງ	nyāng
 ຍ່ຽວ	nyiāu
@@ -1312,6 +1316,7 @@
 ຕຳລາ	tam lā
 ຕຳສົ້ມ	tam som
 ຕຳຫຼວດ	tam lūat
+ຕຳແຍ	tam nyǣ
 ຕຳແໜ່ງ	tam nǣng
 ຕຳໝາກຫຸ່ງ	tam māk hung
 ຕິ	ti
@@ -1723,6 +1728,7 @@
 ນິຣາພາດ	ni rā phāt
 ນິຣາໄມ	ni rā mai
 ນິລະ	ni la
+ນິລະໂທດກຳ	ni la thōt kam
 ນິລາພາດ	ni lā phāt
 ນິລາໄມ	ni lā mai
 ນິວເດລີ	niu dē lī
@@ -2219,6 +2225,7 @@
 ຜູ້ຊົມ	phū som
 ຜູ້ຊົມໃຊ້	phū som sai
 ຜູ້ຊ່ວຍ	phū suāi
+ຜູ້ຊ່ຽວຊານ	phū siāu sān
 ຜູ້ຍິງ	phū nying
 ຜູ້ຕາງຫນ້າ	phū tāng nā
 ຜູ້ທໍຣະຍົດ	phū thǭ ra nyot
@@ -2672,6 +2679,7 @@
 ມົງໂກ	mong kō
 ມົງໂກລີ	mong kō lī
 ມົດ	mot
+ມົດຍອບ	mot nyǭp
 ມົດລູກ	mot lūk
 ມົດສະກູ	mot sa kū
 ມົນ	mon
@@ -3160,6 +3168,7 @@
 ສະອາດ	sa ʼāt
 ສະອາບນ້ຳ	sa ʼāp nam
 ສະເດັດຄືນ	sa det khư̄n
+ສະເຕຟານີ	sa tē fā nī
 ສະເຕັກ	sa tek
 ສະເປນ	sa pēn
 ສະແດງ	sa dǣng
@@ -3251,6 +3260,7 @@
 ສາທະນະ	sā tha na
 ສາທາລະນະລັດ	sā thā la na lat
 ສາທາລະນະລັດແຊັກ	sā thā la na lat sæk
+ສາທາລະນະສົມບັດ	sā thā la na som bat
 ສານ	sān
 ສານຫມູ	sān mū
 ສານເຈົ້າ	sān chao
@@ -3402,6 +3412,7 @@
 ສົງໂຄ	song khō
 ສົດ	sot
 ສົນ	son
+ສົນທະນາ	son tha nā
 ສົນທິສັນຍາ	son thi san nyā
 ສົບ	sop
 ສົມ	som
@@ -3506,6 +3517,7 @@
 ຫມູ	mū
 ຫມູ່	mū
 ຫມ້ຽງ	mīang
+ຫມໍຕຳແຍ	mǭ tam nyǣ
 ຫມໍນວດ	mǭ nūat
 ຫມໍປົວແຂ້ວ	mǭ pūa khǣu
 ຫມໍ້	mǭ
@@ -3849,6 +3861,7 @@
 ອິດໂຣເຊນ	ʼit rō sēn
 ອິດໂລເຊນ	ʼit lō sēn
 ອິຕາລີ	ʼi tā lī
+ອິນ	ʼin
 ອິນດູຈີນ	ʼin dū chīn
 ອິນທະວົງ	ʼin tha wong
 ອິນທະວົງສ໌	ʼin tha wong sa
@@ -3880,6 +3893,7 @@
 ອຸກກາບາດ	ʼuk kā bāt
 ອຸດຈາຣະ	ʼut chā ra
 ອຸດສາຫະກຳ	ʼut sā ha kam
+ອຸດົມການ	ʼu dom kān
 ອຸດົມໄຊ	ʼu dom sai
 ອຸທະກະໄພ	ʼu tha ka phai
 ອຸທານ	ʼu thān
@@ -4426,6 +4440,7 @@
 ເມືອງ	mư̄ang
 ເມືອງລາວ	mư̄ang lāo
 ເມືອງສີງ	mư̄ang sīng
+ເມືອງແມ່	mư̄ang mǣ
 ເມືອງໄທ	mư̄ang thai
 ເມືີ່ອຽ	mư̄ai
 ເມື່ອ	mư̄a
@@ -4646,6 +4661,7 @@
 ແກບຫລືເມັດ	kǣp lư̄ met
 ແກະ	kæ
 ແກັດ	kæt
+ແກັສທຳມະຊາດ	kæt tham ma sāt
 ແກ່	kǣ
 ແກ່ນ	kǣn
 ແກ່ນອະມັນດ	kǣn ʼa man da
@@ -4764,6 +4780,7 @@
 ແພປູໂຕະ	phǣ pū to
 ແພມົນ	phǣ mon
 ແພັກ	phæk
+ແພ້	phǣ
 ແຟຊັ້ນ	fǣ san
 ແຟັງລັງ	fæng lang
 ແຟ້ມ	fǣm
@@ -4833,6 +4850,7 @@
 ແຫ້ງ	hǣng
 ແຫ້ງ	ngǣ
 ແຫ້ງເປືອກ	ngǣ pư̄ak
+ແອກ	ʼǣk
 ແອນດູ	ʼǣn dū
 ແອນ້ອຍ	ʼǣn ʼa nya
 ແອບຢາ	ʼǣp yā

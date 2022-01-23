@@ -286,6 +286,7 @@ Synonym: အင်း	ang:
 ကိုဆိုဗို	kuihcuibui
 ကိုပင်ဟေဂင်	kuipanghegang
 ကိုပင်ဟေဂင်မြို့	kuipanghegangmrui.
+ကိုဗစ်-၁၉	kuibac-19
 ကိုဘော့	kuibhau.
 ကိုမိုရို	kuimuirui
 ကိုမိုရိုနိုင်ငံ	kuimuiruinuingngam
@@ -494,6 +495,7 @@ Synonym: အင်း	ang:
 ကျ	kya.
 ကျက်စား	kyakca:
 ကျက်သရေ	kyaksa.re
+ကျင်	kyang
 ကျင်ကြီး	kyangkri:
 ကျင်ကြီးစွန့်	kyangkri:cwan.
 ကျင်ချောင်း	kyanghkyaung:
@@ -653,6 +655,8 @@ Synonym: အင်း	ang:
 ကျွန်းကလေး	kywan:ka.le:
 ကျွန်းဆွယ်	kywan:hcwai
 ကျွန်းသစ်	kywan:sac
+ကျွမ်း	kywam:
+ကျွမ်းကျင်သူ	kywam:kyangsu
 ကျွဲ	kywai:
 ကျွဲကော	kywai:kau:
 ကျွဲကောပင်	kywai:kau:pang
@@ -1734,9 +1738,11 @@ Synonym: အင်း	ang:
 စိမ့်	cim.
 စိမ်း	cim:
 စိမ်းစားဥ	cim:ca:u.
+စိမ်းပုပ်	cim:pup
 စိမ်းပြာ	cim:pra
 စိမ်းပြာနက်	cim:pranak
 စိမ်းပြာရောင်	cim:praraung
+စိမ်းဖန့်ဖန့်	cim:hpan.hpan.
 စိမ်းဝါ	cim:wa
 စို	cui
 စိုက်	cuik
@@ -1807,6 +1813,7 @@ Synonym: အင်း	ang:
 စောပြာ	cau:pra
 စော်ဘွား	caubhwa:
 စေ့စပ်	ce.cap
+စေ့စပ်ရေး	ce.cap-re:
 စေးမခန်း	ce:ma.hkan:
 စဲ	cai:
 စံကား	camka:
@@ -1871,6 +1878,7 @@ Synonym: အင်း	ang:
 ဆဌဂံ	hca.hta.gam
 ဆဌမ	hca.hta.ma.
 ဆတိုးကိန်း	hca.tui:kin:
+ဆတ္တာသည်	hcattasany
 ဆတ်ကလေး	hcatka.le:
 ဆတ်ခလောက်	hcathka.lauk
 ဆန့်ကျင်	hcan.kyang
@@ -2062,6 +2070,7 @@ Synonym: အင်း	ang:
 ဆူ	hcu
 ဆူဒန်	hcudan
 ဆူဒန်နိုင်ငံ	hcudannuingngam
+ဆူနာမီ	hcunami
 ဆူမားရီးယန်းခေတ်	hcuma:ri:yan:hket
 ဆူမို	hcumui
 ဆူရာနမ်	hcuranam
@@ -2385,11 +2394,13 @@ Synonym: အင်း	ang:
 တစ်ဆယ်	tachcai
 တစ်ထောင်	tachtaung
 တစ်နေ့က	tacne.ka.
+တစ်ပတ်	tacpat
 တစ်ရာ	tacra
 တစ်ရှန်	tachran
 တစ်လ	tacla.
 တစ်လကိုးသီတင်း	tacla.kui:sitang:
 တစ်ဝက်	per STEDT
+တစ်သဝေမတိမ်း	tacsa.wema.tim:
 တစ်သိန်း	tacsin:
 တစ်သီးပုဂ္ဂလ	tacsi:pugga.la.
 တစ်သောင်း	tacsaung:
@@ -2734,6 +2745,7 @@ Synonym: အင်း	ang:
 တွက်ကိန်း	twakkin:
 တွင်	twang
 တွင်း	twang:
+တွင်းထွက်ရေ	twang:htwak-re
 တွတ်	twat
 တွန်း	twan:
 တွပ်	twap
@@ -2779,7 +2791,9 @@ Synonym: အင်း	ang:
 ထမနဲ	hta.ma.nai:
 ထမိန်	hta.min
 ထမီ	hta.mi
+ထမ်း	htam:
 ထမ်းစင်	htam:cang
+ထမ်းပိုး	htam:pui:
 ထယ်	htai
 ထယ်ထိုး	htaihtui:
 ထရန့်	hta.ran.
@@ -3124,6 +3138,7 @@ Synonym: အင်း	ang:
 ဓာတ်ရထား	dhatra.hta:
 ဓာတ်လှေကား	dhathleka:
 ဓာတ်သတ္တု	dhatsattu.
+ဓာတ်သတ္တုရေ	dhatsattu.re
 ဓာတ်သွား	dhatswa:
 ဓာတ်အို	dhat-ui
 ဓာတ်အိုး	dhat-ui
@@ -3345,6 +3360,7 @@ Synonym: အင်း	ang:
 နိပ်	nip
 နိဗ္ဗာန်	nibban
 နိဗ္ဗာန်ယာဉ်	nibban-yany
+နိမိတ်ကြီးလေးပါး	ni.mitkri:le:pa:
 နိမ့်	nim.
 နိမ့်သေ	nim.se
 နိမ္မာနရတိ	nimmana.ra.ti.
@@ -3574,6 +3590,7 @@ Synonym: အင်း	ang:
 ပကတိ	pa.ka.ti.
 ပကတိကံ	pa.ka.ti.kam
 ပကောဋိ	pa.kau:ti.
+ပက်	pak
 ပက်ကျိ	pakkyi.
 ပခုက္ကူ	pa.hkukku
 ပခုံး	pa.hkum:
@@ -3648,6 +3665,7 @@ Synonym: အင်း	ang:
 ပဋိဇီဝဆေး	pa.ti.jiwa.hce:
 ပဋိပက္ခ	pa.ti.pakhka.
 ပဋိပက္ခဒေသ	pa.ti.pakhka.desa.
+ပဋိသန္ဒါရစကား	pa.ti.sandara.ca.ka:
 ပဋိသန္ဓေ	pa.ti.sandhe
 ပဌမ	pa.hta.ma.
 ပဏ္ဍိတ	pandi.ta.
@@ -3816,6 +3834,7 @@ Synonym: အင်း	ang:
 ပါတီ	pati
 ပါပူအာနယူးဂီနီ	papuana.yu:gini
 ပါမောက္ခ	pamaukhka.
+ပါရဂူ	para.gu
 ပါရဂူဘွဲ့	para.gubhwai.
 ပါရမီ	para.mi
 ပါရမီဆယ်ပါး	para.mihcaipa:
@@ -4057,6 +4076,7 @@ Synonym: အင်း	ang:
 ပဲလှော်	pai:hlau
 ပဲ့ကိုင်ဘီး	pai.kuingbhi:
 ပဲ့တင်သံ	pai.tangsam
+ပျက်	pyak
 ပျင်းရိခြင်း	pyang:ri.hkrang:
 ပျစ်	pyac
 ပျဉ်	pyany
@@ -5225,6 +5245,7 @@ Synonym: အင်း	ang:
 မုန်း	mun:
 မုန်းတီးမိနျးမ	mun:ti:mi.nya:ma.
 မုယော	mu.yau:
+မုရန်	mu.ran
 မုရား	mu.ra:
 မုရားကြီး	mu.ra:kri:
 မုရားသိမ်	mu.ra:sim
@@ -5577,6 +5598,7 @@ Synonym: အင်း	ang:
 မွေးနေ့	mwe:ne.
 မွေးနေ့မင်္ဂလာပါ	mwe:ne.mangga.lapa
 မွေးရပ်	mwe:rap
+မွေးရပ်မြေ	mwe:rapmre
 မွဲ	mwai:
 မွှား	hmwa:
 မွှေး	hmwe:
@@ -6166,6 +6188,7 @@ Synonym: အင်း	ang:
 ရှီလောင်	hrilaung
 ရှုခင်း	hru.hkang:
 ရှုမျှော်ခင်း	hru.hmyauhkang:
+ရှုံး	hrum:
 ရှူ	hru
 ရှူဆေး	hruhce:
 ရှူတင်	hrutang
@@ -6204,6 +6227,7 @@ Synonym: အင်း	ang:
 လက္ခဏာတော်ငယ်	lakhka.natau-ngai
 လက္ခဏာပါးရှား	lakhka.napa:hra:
 လက္ခဏာဖတ်	lakhka.nahpat
+လက္ခဏာဗေဒ	lakhka.nabeda.
 လက္ခဏာရေးသုံးပါး	lakhka.nare:sum:pa:
 လက်	lak
 လက်ကိုင်ပဝါ	lakkuingpa.wa
@@ -6531,8 +6555,8 @@ Synonym: အင်း	ang:
 လေယာဉ်	leyany
 လေယာဉ်ပျံ	leyanypyam
 လေယာဉ်မယ်	leyanymai
-လေယာဉ်မူး	leyanymu:
 လေယာဉ်မောင်	leyanymaung
+လေယာဉ်မှူး	leyanyhmu:
 လေရဟတ်	lera.hat
 လေရောဂါ	lerau:ga
 လေလည်	lelany
@@ -6987,6 +7011,7 @@ Synonym: အင်း	ang:
 သတင်းစာစက္ကူ	sa.tang:cacakku
 သတင်းစာဆရာ	sa.tang:cahca.ra
 သတင်းစာပညာ	sa.tang:capa.nya
+သတင်းထောက်	sa.tang:htauk
 သတင်းပို့	sa.tang:pui.
 သတင်းပေး	sa.tang:pe:
 သတိ	sa.ti.
@@ -8474,6 +8499,7 @@ Synonym: အင်း	ang:
 အားနာ	a:na
 အားနာပါးနာ	a:napa:na
 အားနာမှု	a:nahmu.
+အားလပ်	a:lap
 အားလပ်ရက်	a:lap-rak
 အားလုံး	a:lum:
 အိတ်	it

@@ -544,6 +544,7 @@ aṙoganelով	aroganelov
 Աղուանք	aluank
 Ամիրներսեհ	amirnerseh
 Այծեմնիկ	aycemnik
+Այրուկ	ayruk
 Անակ	anak
 Անակայ	anakay
 Անակաւ	anakaw
@@ -994,6 +995,7 @@ aṙoganelով	aroganelov
 Եմպեդոկլեայ	empedokleay
 Եմպեդոկլեաւ	empedokleaw
 Եմպեդոկլէս	empedokles
+Են նորա երկու որդիք։	en nora erku ordik
 Եպիկուրեայ	epikureay
 Եպիկուրեաւ	epikureaw
 Եպիկուրեէ	epikuree
@@ -1070,6 +1072,7 @@ aṙoganelով	aroganelov
 Եփրեմի	epremi
 Եփրեմիւ	epremiw
 Զաբուղոն	zabulon
+Զարմայր	zarmayr
 Զարուհեայ	zaruheay
 Զարուհեաւ	zaruheaw
 Զարուհի	zaruhi
@@ -1137,6 +1140,9 @@ aṙoganelով	aroganelov
 Թուլիս	tulis
 Թուկիդիդէս	tukidides
 Թումաս	tumas
+Իշխան	isxan
+Իշխանակ	isxanak
+Իշխանիկ	isxanik
 Իպոկրատէս	ipokrates
 Իսայի	isayi
 Իսայիաս	isayias
@@ -1323,6 +1329,7 @@ aṙoganelով	aroganelov
 Կովկասաւ	kovkasaw
 Կովկասէ	kovkase
 Կովկասու	kovkasu
+Կորայր	korayr
 Կորեամբ	koreamb
 Կորեան	korean
 Կորենէ	korene
@@ -1704,6 +1711,7 @@ aṙoganelով	aroganelov
 Յուսկամբ	yuskamb
 Յուսկան	yuskan
 Յուսկանէ	yuskane
+Յուտել եմ։	yutel em
 Յռիսթագ	yristag
 Յօհան	yohan
 Նաբուկոդրոսոր	nabukodrosor
@@ -1733,6 +1741,7 @@ aṙoganelով	aroganelov
 Նիկիոյ	nikioy
 Նիկիով	nikiov
 Նոյն	noyn
+Նորայր	norayr
 Նուարդ	nuard
 Նունեայ	nuneay
 Նունեաւ	nuneaw
@@ -1796,6 +1805,10 @@ aṙoganelով	aroganelov
 Ուխտանիսի	uxtanisi
 Ուխտիկ	uxtik
 Ուռհայ	urhay
+Ուռնայր	urnayr
+Ուռնայրէ	urnayre
+Ուռնայրի	urnayri
+Ուռնայրիւ	urnayriw
 Ուռուստակէս	urustakes
 Ուտիք	utik
 Ուրբաթայրք	urbatayrk
@@ -2097,6 +2110,7 @@ aṙoganelով	aroganelov
 Տիմօթէոս	timoteos
 Տիսբոն	tisbon
 Տիր	tir
+Տիրայր	tirayr
 Տիրան	tiran
 Տիրանայ	tiranay
 Տիրանաւ	tiranaw
@@ -7568,6 +7582,7 @@ aṙoganelով	aroganelov
 անգայթագղ	angaytagl
 անգայթագղելի	angaytagleli
 անգայթակղ	angaytakl
+անգայռագեղ	angayragel
 անգայց	angayc
 անգայք	angayk
 անգան	angan
@@ -7608,6 +7623,7 @@ aṙoganelով	aroganelov
 անգանիցիք	anganicik
 անգանիւր	anganer anganiwr
 անգանիք	anganik
+անգառագեղ	angaragel
 անգար	angar
 անգարշ	angars
 անգարո՛ւք	angaruk
@@ -24511,6 +24527,11 @@ aṙoganelով	aroganelov
 գայլք	gaylk
 գայղ	gayl
 գայռ	gayr
+գայռագեղ	gayragel
+գայռագիղ	gayragil
+գայռագիղս	gayragils
+գայռագիղք	gayragilk
+գայռագիւղ	gayragiwl
 գայռալիր	gayralir
 գայռանոց	gayranoc
 գայռեմ	gayrem
@@ -24578,6 +24599,12 @@ aṙoganelով	aroganelov
 գանձանակ	ganjanak
 գանձաշատ	ganjasat
 գանձապահ	ganjapah
+գանձապահաց	ganjapahac
+գանձապահաւ	ganjapahaw
+գանձապահէ	ganjapahe
+գանձապահի	ganjapahi
+գանձապահս	ganjapahs
+գանձապահք	ganjapahk
 գանձապետութիւն	ganjapetutiwn
 գանձասէր	ganjaser
 գանձատուն	ganjatun
@@ -24611,7 +24638,21 @@ aṙoganelով	aroganelov
 գանս	gans
 գանք	gank
 գառ	gar
+գառագեղ	garagel
+գառագեղեմ	garagelem
+գառագիղ	garagil
+գառագիղս	garagils
+գառագիղք	garagilk
+գառագիռ	garagir
+գառագիւղ	garagiwl
 գառագղանման	garaglanman
+գառագղաց	garaglac
+գառագղաւ	garaglaw
+գառագղէ	garagle
+գառագղի	garagli
+գառագղից	garaglic
+գառագղիւ	garagliw
+գառագղիւք	garagliwk
 գառամբ	garamb
 գառամբք	garambk
 գառանց	garanc
@@ -33150,7 +33191,6 @@ aṙoganelով	aroganelov
 եմք	emk
 եյեղ	yel eyel
 են	en
-են նորա երկու որդիք	en nora erku ordik
 եներկ	enerk
 ենթ-	ent
 ենթա-	enta
@@ -33503,7 +33543,6 @@ aṙoganelով	aroganelov
 եռօրեայ	eroreay
 ես	es
 ես եմ	es em
-ես եմ Աստուած՝ որ Էն	es em astuac or en
 ես ետու տանել զուլդ	es etu tanel zuld
 ես ինձէն աչօք տեսի	es injen acok tesi
 ես ինքն	es inkn
@@ -40047,7 +40086,6 @@ aṙoganelով	aroganelov
 ընդ ծառով	end carov
 ընդ ծիրս եզերաց	end cirs ezerac
 ընդ ծուխ գալ	end cux gal
-ընդ կառափն հանել	end karapn hanel
 ընդ կարծեօք լինել	end karceok linel
 ընդ կարճոյ գնալ	end karcoy gnal
 ընդ կեանս եւ ընդ մահ	end keans ew end mah
@@ -41479,7 +41517,6 @@ aṙoganelով	aroganelov
 թագ եպիսկոպոսական	tag episkoposakan
 թագ ի գլուխ	tag i glux
 թագ ոսկի	tag oski
-թագ պապական	tag papakan
 թագագանգուր	tagagangur
 թագագլուխ	tagaglux
 թագագործ	tagagorc
@@ -41513,7 +41550,6 @@ aṙoganelով	aroganelov
 թագաւոր	tagawor
 թագաւոր առնել	tagawor arnel
 թագաւոր բարձանց	tagawor barjanc
-թագաւոր թագաւորաց	tagawor tagaworac
 թագաւոր թռչնոց	tagawor trcnoc
 թագաւոր ծաղկանց	tagawor calkanc
 թագաւոր կենդանեաց	tagawor kendaneac
@@ -42700,6 +42736,7 @@ aṙoganelով	aroganelov
 թաքստիւ	takstiw
 թեատրասէր	teatraser
 թեատրոն	teatron
+թեբեկ	tebek
 թեզան	tezan
 թեզանատ	tezanat
 թեզանաց	tezanac
@@ -42774,6 +42811,8 @@ aṙoganelով	aroganelov
 թեղւոյ	telwoy
 թեղօշ	telos
 թեոփելաս	teopelas
+թեպեկ	hapax
+թեպեկ	tepek
 թեր	ter
 թերաբայութիւն	terabayutiwn
 թերաբան	teraban
@@ -54513,7 +54552,6 @@ aṙoganelով	aroganelov
 ծեծելով	cecelov
 ծեծեղայ	cecelay
 ծեծեմ	cecem
-ծեծեմ զկուրծս	cecem zkurcs
 ծեծեմք	cecemk
 ծեծեն	cecen
 ծեծես	ceces
@@ -61273,7 +61311,6 @@ aṙoganelով	aroganelov
 կոփածոյք	kopacoyk
 կոփածու	kopacu
 կոփահարեմ	kopaharem
-կոփիւն ուռանց	kopiwn uranc
 կոփուածոյ	kopuacoy
 կպեր	kper
 կպերբ	kperb
@@ -65661,7 +65698,6 @@ aṙoganelով	aroganelov
 հարուած թրոյ	haruac troy
 հարուած կարկտի	haruac karkti
 հարուած նիզակի	haruac nizaki
-հարուած ուռան	haruac uran
 հարուածաբեկ	haruacabek
 հարուածական	haruacakan
 հարուածեմ	haruacem
@@ -81498,6 +81534,14 @@ aṙoganelով	aroganelov
 մուրս	murs
 մուրտ	murt
 մուրտաստան	murtastan
+մուրտաստանաց	murtastanac
+մուրտաստանաւ	murtastanaw
+մուրտաստանէ	murtastane
+մուրտաստանի	murtastani
+մուրտաստանս	murtastans
+մուրտաստանք	murtastank
+մուրտս	murts
+մուրտք	murtk
 մուրց	murc
 մուրցացի	murcaci
 մուրք	murk
@@ -82341,6 +82385,12 @@ aṙoganelով	aroganelov
 մրջնառիւծ	mrjnariwc
 մրջունառեւծ	mrjunarewc
 մրջունառիւծ	mrjunariwc
+մրտենի	mrteni
+մրտի	mrti
+մրտոյ	mrtoy
+մրտով	mrtov
+մրտովք	mrtovk
+մրտոց	mrtoc
 մրրախառն	mrraxarn
 մրրական	mrrakan
 մրրատեսակ	mrratesak
@@ -86558,7 +86608,6 @@ aṙoganelով	aroganelov
 յուսովք	yusovk
 յուսոց	yusoc
 յուսում	yusum
-յուտել եմ	yutel em
 յուրաստ լինել, կալ	yurast linel kal
 յոփի	yopi
 յոփինընթաց	yopinentac
@@ -88796,7 +88845,13 @@ aṙoganelով	aroganelov
 նիզակ ումեք ուղղել	nizak umek ullel
 նիզակաբեկորք	nizakabekork
 նիզակաբեկք	nizakabekk
+նիզակաբնաց	nizakabnac
+նիզակաբնաւ	nizakabnaw
+նիզակաբնէ	nizakabne
+նիզակաբնի	nizakabni
 նիզակաբուն	nizakabun
+նիզակաբունս	nizakabuns
+նիզակաբունք	nizakabunk
 նիզակագերանդի	nizakagerandi
 նիզակախուռն	nizakaxurn
 նիզակակից	nizakakic
@@ -90396,7 +90451,6 @@ aṙoganelով	aroganelov
 նրանէ	nrane
 նրանի	nrani
 նրանս	nrans
-նրանք	nrank
 նրբաբայեմ	nrbabayem
 նրբալեզու	nrbalezu
 նրբախնդիր	nrbaxndir
@@ -96281,15 +96335,6 @@ aṙoganelով	aroganelov
 ուռճալիր	urcalir
 ուռճալրացեալ	urcalraceal
 ուռն	urn
-ուռն ատամնաւոր	urn atamnawor
-ուռն դարբնոցի	urn darbnoci
-ուռն ժայռահերձ	urn zayraherj
-ուռն հարկանել	urn harkanel
-ուռն ձեռաց	urn jerac
-ուռն ճակատաւոր	urn cakatawor
-ուռն ճօճան	urn cocan
-ուռն շոգեշարժական	urn sogesarzakan
-ուռն վերացման	urn veracman
 ուռնած	urnac
 ուռնաձեւ	urnajew
 ուռնացեալ	urnaceal
@@ -114681,7 +114726,6 @@ aṙoganelով	aroganelov
 փախուսջի՛ք	paxusjik
 փախուսջիք	paxusjik
 փախուստ	paxust
-փախուստ զօրաց	paxust zorac
 փախուսցեն	paxuscen
 փախուսցես	paxusces
 փախուսցէ	paxusce

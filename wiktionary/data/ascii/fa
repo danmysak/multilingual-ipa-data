@@ -6,6 +6,7 @@
 ... لازم دارم	 lazem daram
 ... هستم	 hastam
 QR کد	qr kod
+Synonyms: تارنما	tarnama
 X قرص	qorse x
 _دار	dar
 _ه	e
@@ -151,6 +152,7 @@ with سه تا	se ta
 اتراق	otraq
 اتراق کردن	otraq kardan
 اتراق کن	otraq kon
+اتراک	atrak
 اتریش	otris
 اتریش-مجارستان	otrismajarestan
 اتریشی	otrisi
@@ -283,6 +285,7 @@ with سه تا	se ta
 احمق‌تَر	ahmaqtar
 احمق‌تَرین	ahmaqtarin
 احمق‌ها	ahmaqha
+احوال‌پرسی	ahvalporsi
 احیاناً	ehyanan
 اخ	ax
 اخاذی	axxazi
@@ -744,6 +747,7 @@ with سه تا	se ta
 استحمام کردن	estehmam kardan
 استحکامات	estehkamat
 استخاره کردن	estexare kardan
+استخدام	estexdam
 استخر	estaxr
 استخراج	estexraj
 استخراج کردن	estexraj kardan
@@ -1605,7 +1609,7 @@ with سه تا	se ta
 امان‌پور	amanpur
 اماکن	amaken
 امبرو	ambaru
-امبرو	ambarut
+امبروت	ambarut
 امبرود	ambarud
 امت	ommat
 امتحان	emtehan
@@ -1761,7 +1765,8 @@ with سه تا	se ta
 انباشتن	anbastan
 انباشتگر	anbastgar
 انبر	ambor
-انبرک	anborak
+انبردست	ambordast
+انبرک	amborak
 انبساط	enbesat
 انبه	anbe
 انبه‌ها	anbeha
@@ -1855,6 +1860,7 @@ with سه تا	se ta
 اندرون	andarun
 اندرونه	andarune
 اندرونی	andaruni
+اندروید	androyed
 اندرکنش بنیادی	andarkonese bonyadi
 اندرکنش قوی	andarkonese qavi
 اندری	andari
@@ -1986,6 +1992,7 @@ with سه تا	se ta
 انگشتانه	angostane
 انگشتر	angostar
 انگشترها	angostarha
+انگشتری	angostari
 انگشتِ پا	angoste pa
 انگشد	angosd
 انگل	angal
@@ -2609,6 +2616,7 @@ with سه تا	se ta
 آرایش دادن	arayes dadan
 آرایش کردن	arayes kardan
 آرایشگاه	arayesgah
+آرایشگاه‌ها	arayesgahha
 آرایشگر	arayesgar
 آرایه	araye
 آرایهٔ ادبی	arayeye adabi
@@ -2633,6 +2641,7 @@ with سه تا	se ta
 آرزومندتَرین	arezumandtarin
 آرزومندی	arezumandi
 آرزوها	arezuha
+آرزوی خام	arezuye xam
 آرس	aris
 آرسنال	arsenal
 آرسنیک	arsenik
@@ -3072,6 +3081,7 @@ with سه تا	se ta
 آمپرسنج	ampersanj
 آمپول	ampul
 آمپول‌ها	ampulha
+آمیتیست	amitist
 آمیختن	amextan
 آمیختن	amixtan
 آمیخته	amixta
@@ -3257,6 +3267,7 @@ with سه تا	se ta
 آپارتی	aparti
 آپاستروف	apastruf
 آپاستروف‌ها	apastrufha
+آپالاش	apalas
 آپاندیس	apandis
 آپدیت	apdeyt
 آپدیت‌ها	apdeytha
@@ -3385,6 +3396,7 @@ with سه تا	se ta
 اچ.آی.وی	ecayvi
 اچ‌آی‌وی	ecayvi
 اچ‌تی‌ام‌ال	ectiemel
+اژادر	azador
 اژادر	azhador
 اژدر	azdar
 اژدرها	azdarha
@@ -3716,11 +3728,14 @@ with سه تا	se ta
 بادبانی	badbani
 بادبان‌ها	badbanha
 بادبزن	badbezan
+بادبیزان	badbizan
 بادبیزن	badbizan
 بادرم	badrom
 بادرنگ	badrang
 بادرنگبویه	badrangbuye
 بادرنگ‌بویه	badrangbuye
+بادزن	badzan
+بادزنه	badzane
 بادشاه	badesah
 بادغیس	badgis
 بادلجان	badeljan
@@ -4357,6 +4372,9 @@ with سه تا	se ta
 بدنشان	badnesan
 بدنما	badnama
 بدنه	badane
+بدنهور	badnohur
+بدنهورتَر	badnohurtar
+بدنهورتَرین	badnohurtarin
 بدنی	badani
 بدن‌ها	badanha
 بدهکار بودن	bedehkar budan
@@ -4712,6 +4730,7 @@ with سه تا	se ta
 بریتانیا	beritaniya
 بریتانیای کبیر	beritaniyaye kabir
 بریتانیایی	beritaniyayi
+بریتانیکا	beritanika
 بریجن	berijan
 بریدن	boridan
 بریز	beriz
@@ -4967,8 +4986,7 @@ with سه تا	se ta
 بلوند	blond
 بلوچ	boluc
 بلوچستان	balucestan
-بلوچستان	balucistan
-بلوچستانی	balucistani
+بلوچستانی	balucestani
 بلوچی	baluci
 بلوک	blok
 بلژی	bolzi
@@ -5131,6 +5149,8 @@ with سه تا	se ta
 به خواب رفتن	be xab raftan
 به خودی خود	be xodie xod
 به خودی خود	be xodiye xod
+به دام افتادن	be dam oftadan
+به دام انداختن	be dam andaxtan
 به دست آوردن	be dast avardan
 به دندان گرفتن	be dandan gereftan
 به دنیا آمدن	be donya amadan
@@ -5312,7 +5332,10 @@ with سه تا	se ta
 بوران‌ها	buranha
 بورد	bord
 بورس	burs
+بوره	bura
 بوره	bure
+بوره or	bura
+بوره or	bure
 بوروندی	burundi
 بوروکراسی	burokrasi
 بورک	burak
@@ -5410,6 +5433,7 @@ with سه تا	se ta
 بَختاوَر	baxtavar
 بَختیار	baxtyar
 بَدبَخت	badbaxt
+بَدنُهور	badnohur
 بَرابَر	barabar
 بَراهِمه	baraheme
 بَرجَستِه	barjaste
@@ -6501,7 +6525,7 @@ with سه تا	se ta
 ترنج	toronj
 ترنجان	toronjan
 ترنجیدن	toronjidan
-ترنسنیستریا	transnistriya
+ترنسنیستریا	toransnistriya
 ترنه	torne
 تره	tarre
 تره‌تیزک، ترتیزک	taretizak tartizak
@@ -6524,6 +6548,7 @@ with سه تا	se ta
 ترک	tarak
 ترک	tarak terek
 ترک	tark
+ترک	terek
 ترک	tork
 ترک خورده	tarakxorde
 ترک دادن	tark dadan
@@ -6694,6 +6719,7 @@ with سه تا	se ta
 تعداد	tedad
 تعداد کردن	tedad kardan
 تعدد زوجات	taaddode zowjat
+تعذیب	tazib
 تعرفه	taarafe
 تعرفه	tarefe
 تعرفه‌ها	tarefeha
@@ -6844,6 +6870,7 @@ with سه تا	se ta
 تلمود بابلی	talmude babeli
 تلمودی	talmudi
 تلمیح	talmih
+تلمیذ	telmiz
 تلنگر	talangor
 تله	tale
 تله‌سی‌یژ	telesiyez
@@ -7329,6 +7356,8 @@ with سه تا	se ta
 تَکَلُّم شُدَن	takallom sodan
 تُخم	toxm
 تُرک	tork
+تُرکان	torkan
+تُرک‌ها	torkha
 تُوسِعه	towsee
 تُوضیح	towzih
 تُوضیح دادَن	towzih dadan
@@ -7921,6 +7950,7 @@ with سه تا	se ta
 جلد	jeld
 جلدها	jeldha
 جلدی	jaldi
+جلدی بیا!	jaldi biya
 جلسه	jalase
 جلسه عمومی	jalaseye omumi
 جلفی	jelfi
@@ -8031,7 +8061,9 @@ with سه تا	se ta
 جن	jenn jen
 جن	jinn
 جناب	jenab
+جناب آقای	e
 جناب آقای	jenabe aghaye
+جناب عالی	e
 جناب عالی	jenabe ali
 جنابعالی	jenabali
 جنات	jennat
@@ -8180,6 +8212,7 @@ with سه تا	se ta
 جواب‌ها	javabha
 جواری	jovari
 جواسیس	javasis
+جوال	juval
 جوامع	javame
 جوان	javan
 جوانان	javanan
@@ -8307,6 +8340,7 @@ with سه تا	se ta
 جگر	jegar
 جگر چرب	jegar carb
 جگرآکند	jegarakand
+جگردارو	jegardaru
 جگرگوشه	jegarguse
 جگرگون	jegargun
 جگری	jegari
@@ -8821,6 +8855,8 @@ with سه تا	se ta
 خالکوبی کردن	xalkubi kardan
 خالی	xali
 خالی از توهّم	xali az tavahhom
+خالی بستن	xali bastan
+خالی بندی	xali bandi
 خالی کردن	xali kardan
 خال‌کوب	xalkub
 خال‌کوبی	xalkubi
@@ -9021,6 +9057,7 @@ with سه تا	se ta
 خرابکار	xarabkar
 خرابکاری	xarabkari
 خرابی	xarabi
+خراج	haraj
 خراد	xarad
 خراسان	xorasan
 خراسانی	xorasani
@@ -9466,6 +9503,7 @@ with سه تا	se ta
 خوابگاه‌ها	xabgahha
 خوابیدن	xabidan
 خوابیده	xabide
+خواب‌آلودی	xwabaludi
 خواب‌آور	xabavar
 خواب‌آورها	xabavarha
 خواتین و حضرات	xawatinohazrat
@@ -9692,7 +9730,6 @@ with سه تا	se ta
 خوشگل‌ترین	xosgeltarin
 خوشگل‌تَر	xosgeltar
 خوشگل‌تَرین	xosgeltarin
-خوشی	khosi
 خوشی	xosi
 خوش‌اندام	xosandam
 خوش‌بینی	xosbini
@@ -9777,6 +9814,7 @@ with سه تا	se ta
 خویشاوند	xisavand
 خویشاوندان	xisavandan
 خویشاوندان نزدیک	xisavandane nazdik
+خویشاوندی	xisavandi
 خویشتنداری	xistandari
 خَاطِر	xater
 خَاموش	xamus
@@ -9849,7 +9887,6 @@ with سه تا	se ta
 خیری	xiri
 خیریه	xeyriye
 خیریه	xeyriyye
-خیز	xez
 خیز	xiz
 خیزاب	xizab
 خیزان	xezan
@@ -10126,6 +10163,8 @@ with سه تا	se ta
 دایگرم	dayegram
 دایگی	dayegi
 دایی	dayi
+دب اصغر	dobbe asgar
+دب اکبر	dobbe akbar
 دباغ خانه	dabbagxane
 دباغی	dabbagi
 دباوند	dobavand
@@ -10356,6 +10395,7 @@ with سه تا	se ta
 درشته	daroste
 درشت‌اندام	dorostandam
 درشمایی	darsamayi
+درشوریدن	darsuridan
 درشکه	doroske
 درشکه‌ها	doroskeha
 درصد	darsad
@@ -10679,6 +10719,9 @@ with سه تا	se ta
 دشن	dasn
 دشنام	dosnam
 دشنام دادن	dosnam dadan
+دشنام گفتن	dosnam goftan
+دشنام‌ها	dosnamha
+دشنام‌گویی	dosnamguyi
 دشنه	dasne
 دشنه	desne
 دشنه	desne dasne
@@ -10731,6 +10774,7 @@ with سه تا	se ta
 دفن کردن	dafn kardan
 دفن کن	dafn kon
 دفنوک	dafnuk
+دفیله	defile
 دقائق	daqaeq
 دقت	deqqat
 دقت کردن	deqqat kardan
@@ -11095,7 +11139,6 @@ with سه تا	se ta
 دوزخی	duzaxi
 دوزیست	duzist
 دوست	dost
-دوست	dust
 دوست دار	dust dar
 دوست دار	dustdar
 دوست داشتن	dost dastan
@@ -11539,6 +11582,7 @@ with سه تا	se ta
 ذمه‌دار	zemmedar
 ذن	zen
 ذهن	zehn
+ذهن	zihn
 ذهنی	zehni
 ذهنیت	zehniyyat
 ذهین	zehin
@@ -11902,6 +11946,7 @@ with سه تا	se ta
 رشد نمایی	rosde namayi
 رشد کردن	rosd kardan
 رشوه	resve
+رشوه دادن	resve dadan
 رشک	rask
 رشک	resk
 رشک ورزیدن	rask varzidan
@@ -12121,6 +12166,7 @@ with سه تا	se ta
 روان‌کاو	ravankavi
 روان‌کاوی	ravankavi
 روان‌گسیختگی	ravangosikhtegi
+روایت	revayat
 روب	rub
 روبات	robat
 روبان	ruban
@@ -12348,6 +12394,7 @@ with سه تا	se ta
 رویه	ruye
 رویکرد	ruykard
 رویکردها	ruykardha
+رویگر	ruygar
 روییدن	ruyidan
 رئیس	rais
 رئیس جلسه	raise jalaseh
@@ -13174,6 +13221,7 @@ with سه تا	se ta
 زیرزَمین	zirzamin
 زیرساخت	zirsaxt
 زیرسیگاری	zirsigari
+زیرسیگاری‌ها	zirsigariha
 زیرشلوار	zirsalvar
 زیرشلواری	zirsalvari
 زیرصفحه	zirsafhe
@@ -13751,6 +13799,7 @@ with سه تا	se ta
 سرخس	saraxs
 سرخواجه	sarxaje
 سرخوش	sarxos
+سرخوشی	sarxosi
 سرخوش‌تر	sarxostar
 سرخوش‌ترین	sarxostarin
 سرخوش‌تَر	sarxostar
@@ -13793,6 +13842,7 @@ with سه تا	se ta
 سرزنده‌تَر	sarzendetar
 سرزنده‌تَرین	sarzendetarin
 سرزنش	sarzanes
+سرزنش کردن	sarzanes kardan
 سرس	seres
 سرسات	sursat
 سرسام	sarsam
@@ -13939,6 +13989,7 @@ with سه تا	se ta
 سرک	sarak
 سرکا	serka
 سرکار	sarkar
+سرکار خانم	e
 سرکار خانم	sarkar xanom
 سرکارها	sarkarha
 سرکارگر	sarkargar
@@ -14125,6 +14176,7 @@ with سه تا	se ta
 سلام دادن	salam dadan
 سلام دنیا	salam donya
 سلام رساندن	salam resandan
+سلام علیکم	on
 سلام علیکم	salam aleykom
 سلام علیکم	salamo alaykom
 سلام علیکم!	salam aleykom
@@ -14330,6 +14382,7 @@ with سه تا	se ta
 سنگ آهک	sang ahak
 سنگ جادو	sange jadu
 سنگ خارا	sange xara
+سنگ خام	sange xam
 سنگ رسوبی	sange rosubi
 سنگ رشید	sange rasid
 سنگ فلاسفه	sange falasefe
@@ -14450,6 +14503,7 @@ with سه تا	se ta
 سوت	sut
 سوت زدن	sut zadan
 سوتام	sutam
+سوتی دادن	suti dadan
 سوتین	sutiyan
 سوخ	sox
 سوخاری	soxari
@@ -14583,6 +14637,7 @@ with سه تا	se ta
 سولاخ	sulax
 سولفورو اسید	sulfuro asid
 سولون	solon
+سولیانکا	solyanka
 سولیتون	soliton
 سوم	sevvom
 سومالی	sumali
@@ -14612,6 +14667,7 @@ with سه تا	se ta
 سوپ	sup
 سوپاری	supari
 سوپرمارکت	supermarket
+سوپرمدل	supermodel
 سوچی	soci
 سوژه	suze
 سوکراتس	sukraatis
@@ -14995,6 +15051,7 @@ with سه تا	se ta
 سیمرغ	simorg
 سیمرغ	simorgh
 سیمفروپول	simferopol
+سیمگر	simgar
 سیمگون	simgoon
 سیمگون	simgun
 سیمین	simin
@@ -15336,7 +15393,7 @@ with سه تا	se ta
 شخانه	saxane
 شخشیدن	saxsidan
 شخص	saxs
-شخص حقوقی	shakhse hoghooghi
+شخص حقوقی	saxse hoquqi
 شخص حقیقی	shakhse haghighi
 شخصا	saxsan
 شخصان	saxsan
@@ -15781,6 +15838,8 @@ with سه تا	se ta
 شورباه	surba
 شورت	sort
 شورش	sures
+شورشگر	suresgar
+شورشگری	suresgari
 شورشی	suresi
 شورشیان	suresian
 شورشی‌ها	suresiha
@@ -15793,6 +15852,7 @@ with سه تا	se ta
 شوری	suri
 شوریدن	suridan
 شوریده	suride
+شوریدَن	suridan
 شوریکن	suriken
 شوسه	sose
 شوش	sus
@@ -16517,6 +16577,7 @@ with سه تا	se ta
 طرف	taraf
 طرف صحبت	tarafe sohbat
 طرفان	torfan
+طرفدار	tarafdaar
 طرفدار	tarafdar
 طرفدار آمریکا	tarafdare amrika
 طرفداری کردن	tarafdari kardan
@@ -17872,7 +17933,6 @@ with سه تا	se ta
 فروشگاه‌ها	forusgahha
 فروشی	forushi
 فروغ	forug
-فروغ	frug
 فروم	forom
 فرومایه	forumaye
 فرومون	ferumun
@@ -18324,6 +18384,7 @@ with سه تا	se ta
 قابل نداشت	qabel nadast
 قابلمه	qablame
 قابلمه	qablmae
+قابله	qabele
 قابلی ندارد	qabeli nadarad
 قابلی نداره	qabeli nadare
 قابلی نداشت	qabeli nadast
@@ -18507,9 +18568,11 @@ with سه تا	se ta
 قرار ملاقات	qarare molaqat
 قرار گذاشتن	qarar gozastan
 قرار گرفتن	qarar gereftan
+قرارات	qararat
 قرارداد	qarardad
 قرارداد	qerardad
 قراردادها	qarardadha
+قراضه	qoraze
 قرامطه	qaramate
 قرائت	qeraat
 قرآن	qoran
@@ -18645,9 +18708,13 @@ with سه تا	se ta
 قطب‌نما	qotbnama
 قطر	qatar
 قطر	qotr
+قطرات	qatrat
 قطران	qatran
 قطران زغال‌سنگ	qatrane zogalsang
 قطره	qatre
+قطره آب	qatreye ab
+قطره چشم	qatreye cesm
+قطره چکان	qatre cekan
 قطرها	qotrha
 قطری	qatari
 قطرۀ باربن	qatreye baran
@@ -18820,7 +18887,6 @@ with سه تا	se ta
 قوقولی‌قوقو کردن	ququliququ kardan
 قول	qol
 قول	qowl
-قول دادن	qoul dadan
 قول دادن	qowl dadan
 قول گرفتن	qowl gereftan
 قولنج	qolenj
@@ -18893,11 +18959,6 @@ with سه تا	se ta
 كاشان	kashan
 كرم	kerem
 كمانچه آلتو	kamanceye alto
-كمخا	kamxa
-كمخا	kemxa
-كمخاب	kamxab
-كمخاب	kamxab kemxab
-كمخاب	kemxab
 كمكهاى	komakhai
 كنج	konj
 كَردَن	kardan
@@ -18908,6 +18969,7 @@ with سه تا	se ta
 لابد	labod
 لابراتوار	labratovar
 لابه	labe
+لابیدن	labidan
 لات	lat
 لاتاری	latari
 لاتزیو	latziyo
@@ -18946,6 +19008,7 @@ with سه تا	se ta
 لازِم‌تَر	lazemtar
 لازِم‌تَرین	lazemtarin
 لاستیک	lastik
+لاستیک خام	lastike xam
 لاستیکی	lastiki
 لاسکوی	laskovi
 لاسی	lasi
@@ -18990,6 +19053,7 @@ with سه تا	se ta
 لاهور	lahowr
 لاواند	lavand
 لاوروف	lavrof
+لاوه	lave
 لاوک	lavak
 لائوس	laos
 لائوسی	laosi
@@ -19226,6 +19290,7 @@ with سه تا	se ta
 لوتی	luti
 لوت‌ها	lutha
 لوث	lows
+لوج	luj
 لوح	lovh
 لوحه	lawhe
 لوخن	luxan
@@ -19251,6 +19316,7 @@ with سه تا	se ta
 لوسی	lusi
 لوسین	lusin
 لوسیون	losyon
+لوش	lus
 لوط	lut
 لوظ	lavz
 لوغیدن	lugidan
@@ -19311,6 +19377,7 @@ with سه تا	se ta
 لژها	lozha
 لژیون	lezion
 لک	lak
+لک	laka
 لکا	laka
 لکانه	lakane
 لکانک	lakanak
@@ -19998,7 +20065,6 @@ with سه تا	se ta
 محال‌تَر	mohaltar
 محال‌تَرین	mohaltarin
 محاکمه	mohakeme
-محاکمه	mohkeme
 محاکمه کردن	mohakeme kardan
 محبت	mahabbat
 محبت	mohabbat
@@ -20441,6 +20507,8 @@ with سه تا	se ta
 مزرعه	mazrae
 مزرعه‌دار	mazraedar
 مزرعه‌ها	mazraeha
+مزل طوب	mazal tob
+مزل طوو	mazal tov
 مزلنگ	mezleng
 مزلنگ‌ها	mezlengha
 مزمن	mozmen
@@ -20539,6 +20607,7 @@ with سه تا	se ta
 مسکو	mosko
 مسکویه	maskuya
 مسکین	meskin
+مسگر	mesgar
 مسی	mesi
 مسیح	masih
 مسیحا	masiha
@@ -20643,6 +20712,7 @@ with سه تا	se ta
 مصادره کردن	mosaderekardan
 مصادره‌ای	mosaderei
 مصالحه	mosalehe
+مصب	masabb
 مصباح	mesbah
 مصدر	masdar
 مصدرها	masdarha
@@ -21359,6 +21429,7 @@ with سه تا	se ta
 مور	mor
 مور	mur
 مورانه	murane
+مورت	murt
 مورجانه	murjane
 مورخ	movarrax
 مورد	moured
@@ -21424,6 +21495,7 @@ with سه تا	se ta
 موش	mus
 موش بزرگ	muse bozorg
 موش شبگرد	muse sabgard
+موشاو	moshav
 موشواره	mosvara
 موشک	musak
 موشک بالیستیک	musake balestik
@@ -21654,8 +21726,10 @@ with سه تا	se ta
 مِه‌مانگ	mehmang
 مچ	moc
 مچ دست	moce dast
+مچ شلوار	moce salvar
 مچ پا	moce pa
 مچ پا	moche pa
+مچ پیراهن	moce pirahan
 مچاله کردن	mochale kardan
 مچد	macced
 مچرگ	macarg
@@ -21806,6 +21880,7 @@ with سه تا	se ta
 میده	mide
 میدون	meydun
 میر	mir
+میرا	mira
 میراث	miras
 میراث‌ها	mirasha
 میرزا	mirza
@@ -22727,11 +22802,13 @@ with سه تا	se ta
 نسک‌ها	naskha
 نسیان	nesyan
 نسیم	nasim
+نسیم بهاری	nasime bahari
 نشادر	nesader
 نشادر	nesador
 نشادر	nosader
 نشادر	nosador
 نشاسته	nesaste
+نشاط	nesat
 نشان	nesan
 نشان دادن	nesan dadan
 نشان دادن	neshaan daadan
@@ -22901,6 +22978,7 @@ with سه تا	se ta
 نقره‌ای	noqrayi
 نقره‌ای	noqrei
 نقره‌فام	noqrefam
+نقره‌گر	noqregar
 نقش	naqs
 نقش ابری	baqse abri
 نقش بر آب شدن	naqse bar ab sodan
@@ -22913,6 +22991,7 @@ with سه تا	se ta
 نقطه	noqte
 نقطه	nuqte
 نقطه لاگرانژی	noqteye lagranzi
+نقطه‌نظر	noqtenazar
 نقطه‌ویرگول	noqtevirgul
 نقطه‌ی ذوب	noqteye zob
 نقطی	noqti
@@ -23156,7 +23235,7 @@ with سه تا	se ta
 نوشابه	nusabe
 نوشابه انرژی زا	nusabeye enerziza
 نوشابه انرژی‌زا	nusabeye enerziza
-نوشابه گازدار	nusabee gazdar
+نوشابه گازدار	nusabeye gazdar
 نوشابه‌ها	nusabeha
 نوشادر	nusador
 نوشاپور	nowsapur
@@ -24034,6 +24113,7 @@ with سه تا	se ta
 هواسیدن	hovasidan
 هواشناسی	havasenasi
 هواناو	havanav
+هوانورد	havanavard
 هوانوردی	havanavardi
 هواوی	hoawai
 هواپخش	havapaxs
@@ -25162,6 +25242,7 @@ with سه تا	se ta
 پای‌بست‌ها	paybastha
 پای‌بند	payband
 پای‌جامه	payjame
+پای‌رود	payrod
 پای‌وند	payband
 پبدنی	pebdani
 پت	pat
@@ -25281,6 +25362,9 @@ with سه تا	se ta
 پراگندن	paragandan
 پرباران	porbaran
 پرت	part
+پرت	pert
+پرت کردن	partab kardan
+پرتاب	partab
 پرتاب کردن	partab kardan
 پرتره	portre
 پرتغال	portogal
@@ -25301,6 +25385,7 @@ with سه تا	se ta
 پرتوقع	portavaqqo
 پرتونگاری	partownegari
 پرتوی ایکس	partouye iks
+پرتِ حرارتی	perte hararati
 پرتکال	portokal
 پرتکاپو	portakapu
 پرتگال	portegal
@@ -25415,7 +25500,6 @@ with سه تا	se ta
 پرو	perov
 پرو	peru
 پرو	porov
-پرو	pro
 پرو	prov
 پرو کردن	prov kardan
 پروا	parva
@@ -26184,6 +26268,7 @@ with سه تا	se ta
 پیاله	piyale
 پیاله‌ها	piyaleha
 پیام	payam
+پیام	payam piyam
 پیام	piyam
 پیام توییتری	payame tuiteri
 پیامبر	payambar
@@ -26362,6 +26447,7 @@ with سه تا	se ta
 پیلاطس	pilatos
 پیلسته	piloste
 پیله	pile
+پیلوت	pilot
 پیلگوش	pilgus
 پیما	peyma
 پیمان	peyman
@@ -26502,8 +26588,8 @@ with سه تا	se ta
 چالیک	calik
 چامه	came
 چامه‌سرا	camesora
+چامه‌سرایی	camesarayi
 چامه‌سرایی	camesorayi
-چامه‌سرایی	chamesarayi
 چامه‌گو	camegu
 چانه	cane
 چانه زدن	cane zadan
@@ -27125,7 +27211,7 @@ with سه تا	se ta
 ژوکوف	zukov
 ژئو	zeo
 ژئودزی	zeodezi
-ژئوفیزیک	zheofizik
+ژئوفیزیک	zeofizik
 ژَرف	zarf
 ژَرفا	zarfa
 ژَرفی	zarfi
@@ -28049,6 +28135,7 @@ with سه تا	se ta
 کفاشان	kaffasan
 کفاش‌ها	kaffasha
 کفال	kafal
+کفالت	kafalat
 کفایت کردن	kefayat kardan
 کفتار	kaftar
 کفتاران	kaftaran
@@ -28143,6 +28230,7 @@ with سه تا	se ta
 کلاچ	kelac
 کلاچه	kalace
 کلاژ	kolaz
+کلاژه	kalaze
 کلاکسون	kelakson
 کلاگیس	kolagis
 کلب	kalab
@@ -28318,7 +28406,12 @@ with سه تا	se ta
 کمبیزه	kombize
 کمتر	kamtar
 کمترین	kamtarin
+کمخا	kamxa
 کمخا	kamxa kemxa
+کمخا	kemxa
+کمخاب	kamxab
+کمخاب	kamxab kemxab
+کمخاب	kemxab
 کمد	komod
 کمدی	komedi
 کمدین	komedian
@@ -28751,6 +28844,7 @@ with سه تا	se ta
 کوپک	kopek
 کوپید	kupid
 کوپیدو	kupido
+کوچ	kauc
 کوچ	kuc
 کوچ کردن	kuc kardan
 کوچه	kuce
@@ -28973,6 +29067,7 @@ with سه تا	se ta
 کیله	kile
 کیلو	kilu
 کیلومتر	kilometr
+کیلومتر مربع	kilometre morabba
 کیلومترها	kilometrha
 کیلومترها	kilumetrha
 کیلوگرم	kilogram
@@ -29050,6 +29145,7 @@ with سه تا	se ta
 گاتا	gata
 گاتاها	gataha
 گادن	gadan
+گارانتی	garanti
 گاراژ	garaz
 گارسون	garson
 گارفیلد	garfild
@@ -29238,7 +29334,6 @@ with سه تا	se ta
 گرازهای دریایی	gorazhaye daryayi
 گرازیدن	gerazidan
 گراس	geras
-گراس	gerass
 گراف	geraf
 گراف	graf geraf
 گرافن	gerafen
@@ -29286,6 +29381,7 @@ with سه تا	se ta
 گربگان	gorbegan
 گربۀ ایرانی	gorbeye irani
 گربۀ پشمالو	gorbeye pasmalu
+گرته‌برداری	gertebardari
 گرج	gorj
 گرجستان	gorjestan
 گرجستانی	gorjestani
@@ -29829,9 +29925,12 @@ with سه تا	se ta
 گوازه‌ها	gavazaha
 گواسه	govase
 گواشتن	govastan
+گوال	guval
 گوالیدن	govalidan
 گوانگ‌ژو	gwangzu
 گواه	govah
+گواه آوردن	govah avardan
+گواه گرفتن	govah gereftan
 گواهان	govahan
 گواهی	govahi
 گواهی	govahi gavahi
@@ -29921,6 +30020,7 @@ with سه تا	se ta
 گوش کن	gus kon
 گوشت	gost gust
 گوشت	gust
+گوشت خام	guste xam
 گوشت خوک	guste xuk
 گوشت گاو	guste gav
 گوشتخوار	gustxar
@@ -30204,6 +30304,7 @@ with سه تا	se ta
 یافتن	yaftan
 یافته	yafte
 یاقوت	yaqut
+یاقوت ارغوانی	yaqute argavani
 یاقوت سرخ	yaqute sorx
 یاقوت کبود	yaqute kabud
 یاقوت کبود	yaqutekabud
@@ -30354,6 +30455,7 @@ with سه تا	se ta
 یوسف	yusof yusef
 یوسفی	yusefi
 یوسه	yuse
+یوسه‌ها	yuseha
 یوشع	yusa
 یوغ	yug
 یوغ‌ها	yugha

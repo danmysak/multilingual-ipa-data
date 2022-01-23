@@ -31,6 +31,7 @@
 ϕ-𐎐𐎊	ny
 𐎀	ả
 𐎀𐎁	ảb
+𐎀𐎁𐎄	ảbd
 𐎀𐎁𐎊𐎐	ảbyn
 𐎀𐎁𐎐	ảbn
 𐎀𐎂𐎐	ảgn
@@ -41,6 +42,7 @@
 𐎀𐎃𐎚	ảḫt
 𐎀𐎃𐎚	ʾaḫātu
 𐎀𐎄𐎎	ảdm
+𐎀𐎅𐎁	ảhb
 𐎀𐎅𐎁𐎚	ảhbt
 𐎀𐎅𐎍	ảhl
 𐎀𐎅𐎍	ʾahlu
@@ -64,6 +66,8 @@
 𐎀𐎍𐎘𐎊	ảlṯy
 𐎀𐎍𐎚	ảlt
 𐎀𐎎𐎄	ảmd
+𐎀𐎎𐎗	ảmr
+𐎀𐎎𐎗	ʾamara
 𐎀𐎎𐎗𐎗	ảmrr
 𐎀𐎎𐎚	ảmt
 𐎀𐎐	ản
@@ -108,26 +112,37 @@
 𐎀𐎚𐎎-𐎋𐎎	km
 𐎁	b
 𐎁𐎄	bd
+𐎁𐎅𐎍	bhl
 𐎁𐎅𐎎𐎚	bhmt
 𐎁𐎅𐎘	bhṯ
 𐎁𐎊𐎄	byd
 𐎁𐎊𐎐𐎚	bynt
 𐎁𐎋𐎊	bky
 𐎁𐎋𐎊𐎚	bkyt
+𐎁𐎋𐎗	bikāru
 𐎁𐎋𐎗	bkr
+𐎁𐎌𐎍	bšl
 𐎁𐎍𐎄	bld
 𐎁𐎎	bm
 𐎁𐎎𐎚	bmt
+𐎁𐎐	bēna
+𐎁𐎐	binu
 𐎁𐎐	bn
+𐎁𐎐𐎊	bny
 𐎁𐎐𐎚	banātu
 𐎁𐎐𐎚	bnt
+𐎁𐎓𐎄	bʿd
+𐎁𐎓𐎍	baʿlu
 𐎁𐎓𐎍	bʿl
 𐎁𐎓𐎍𐎚	bʿlt
+𐎁𐎖𐎍	bql
 𐎁𐎗𐎋	birku
 𐎁𐎗𐎋	brk
 𐎁𐎗𐎋𐎐	brkn
 𐎁𐎗𐎋𐎚	brkt
 𐎁𐎗𐎖	brq
+𐎁𐎗𐎗	barūru
+𐎁𐎗𐎗	brr
 𐎁𐎘𐎐	bṯn
 𐎁𐎙𐎊	bġy
 𐎁𐎚	bētu
@@ -135,33 +150,53 @@
 𐎁𐎚	bt
 𐎁𐎚𐎊	bty
 𐎁𐎚𐎋	btk
+𐎁𐎚𐎍𐎚	batūlatu
 𐎁𐎚𐎍𐎚	btlt
 𐎁𐎛𐎗	bỉr
 𐎂	g
+𐎂	gū
 𐎂𐎀𐎐	gản
 𐎂𐎁	gb
 𐎂𐎁𐎍	gbl
+𐎂𐎁𐎓	gabʿu
 𐎂𐎁𐎓	gbʿ
+𐎂𐎂	gaggu
 𐎂𐎂	gg
 𐎂𐎂𐎗𐎌	ggrš
+𐎂𐎃𐎚	gḫt
 𐎂𐎄	gd
+𐎂𐎄	giddu
 𐎂𐎄𐎗𐎚	gdrt
+𐎂𐎌𐎎	gišmu
 𐎂𐎌𐎎	gšm
 𐎂𐎍𐎘	glṯ
 𐎂𐎎𐎗	gmr
 𐎂𐎐	gn
 𐎂𐎓𐎗	gʿr
+𐎂𐎔𐎐	gapnu
 𐎂𐎔𐎐	gpn
+𐎂𐎗𐎂𐎎𐎌	gargamiš
+𐎂𐎗𐎂𐎎𐎌	grgmš
 𐎂𐎗𐎌	grš
 𐎂𐎗𐎐	grn
+𐎂𐎗𐎐	gurnu
 𐎂𐎚	gt
 𐎃	ḫ
+𐎃𐎉	ḫṭ
+𐎃𐎉𐎀	ḫṭả
 𐎃𐎉𐎁	ḫṭb
 𐎃𐎊𐎎	ḫym
+𐎃𐎊𐎗	ḫiyyāru
+𐎃𐎊𐎗	ḫyr
 𐎃𐎋𐎗	ḫkr
 𐎃𐎌𐎚	ḫšt
+𐎃𐎍𐎁	ḫalbu
+𐎃𐎍𐎁	ḫlb
+𐎃𐎍𐎕	ḫlṣ
+𐎃𐎎𐎀𐎚	ḫimʾatu
 𐎃𐎎𐎀𐎚	ḫmảt
 𐎃𐎎𐎌	ḫamišu
+𐎃𐎎𐎌	ḫamīšu
 𐎃𐎎𐎌	ḫmš
 𐎃𐎎𐎌𐎚	ḫamišatu
 𐎃𐎎𐎌𐎚	ḫamšatu
@@ -188,9 +223,12 @@
 𐎄𐎁	db
 𐎄𐎁𐎀𐎚	dbảt
 𐎄𐎁𐎈	dbḥ
+𐎄𐎁𐎍𐎚	dblt
 𐎄𐎁𐎗	dbr
 𐎄𐎂	dg
+𐎄𐎂𐎐	dgn
 𐎄𐎄	dd
+𐎄𐎄𐎎𐎌	ddmš
 𐎄𐎈𐎍	dḥl
 𐎄𐎊𐎐	dāna
 𐎄𐎊𐎐	dyn
@@ -219,6 +257,8 @@
 𐎄𐎚	dt /dūti/
 𐎄𐎚	dt /dūtu/
 𐎅	h
+𐎅𐎁𐎐	hbn
+𐎅𐎁𐎗	hbr
 𐎅𐎄	hd
 𐎅𐎄𐎆	hdw
 𐎅𐎄𐎎	hdm
@@ -263,6 +303,7 @@
 𐎇𐎎𐎗	zmr
 𐎇𐎚	zt
 𐎈	ḥ
+𐎈𐎁𐎌	ḥbš
 𐎈𐎁𐎍	ḥbl
 𐎈𐎁𐎖	ḥbq
 𐎈𐎁𐎗	ḥbr
@@ -272,6 +313,7 @@
 𐎈𐎄𐎘	ḥdṯ
 𐎈𐎄𐎘	ḥudṯu
 𐎈𐎆𐎚	ḥwt
+𐎈𐎉𐎁	ḥṭb
 𐎈𐎉𐎚	ḥṭt
 𐎈𐎊𐎚	ḥyt
 𐎈𐎋𐎎	ḥkm
@@ -288,10 +330,12 @@
 𐎈𐎑𐎗	ḥẓr
 𐎈𐎑𐎚	ḥẓt
 𐎈𐎒𐎐	ḥsn
+𐎈𐎔𐎐	ḥpn
 𐎈𐎖𐎋𐎔𐎚	ḥqkpt
 𐎈𐎗𐎁	ḥrb
 𐎈𐎗𐎌	ḥrš
 𐎈𐎗𐎌	ḥrš /ḥarrāšu/
+𐎈𐎗𐎐	ḥrn
 𐎈𐎗𐎐𐎖	ḥrnq
 𐎈𐎗𐎘	ḥrṯ
 𐎈𐎚𐎍	ḥtl
@@ -302,6 +346,7 @@
 𐎉𐎈𐎍	ṭḥl
 𐎉𐎈𐎐	ṭḥn
 𐎉𐎍	ṭl
+𐎉𐎍𐎊	ṭly
 𐎊	y
 𐎊𐎁𐎍	ybl
 𐎊𐎁𐎍𐎚	yblt
@@ -322,6 +367,8 @@
 𐎊𐎐𐎖	ynq
 𐎊𐎐𐎚	ynt
 𐎊𐎒𐎄	ysd
+𐎊𐎒𐎎	ysm
+𐎊𐎓𐎁𐎄𐎗	yʿbdr
 𐎊𐎓𐎍	yʿl
 𐎊𐎓𐎗	yʿr
 𐎊𐎔𐎈	ypḥ
@@ -340,6 +387,7 @@
 𐎋𐎁𐎄	kabidu
 𐎋𐎁𐎄	kbd
 𐎋𐎁𐎋𐎁	kbkb
+𐎋𐎁𐎍	kbl
 𐎋𐎁𐎒	kbs
 𐎋𐎄	kd
 𐎋𐎅𐎐	kāhinu
@@ -366,11 +414,13 @@
 𐎋𐎒𐎜	kussīʾu
 𐎋𐎔	kp
 𐎋𐎔𐎗	kpr
+𐎋𐎔𐎚𐎗	kptr
 𐎋𐎗𐎊	kry
 𐎋𐎗𐎋𐎗	krkr
 𐎋𐎗𐎎	krm
 𐎋𐎗𐎒	krs
 𐎋𐎘𐎗𐎆𐎃𐎒𐎒	kṯrwḫss
+𐎋𐎘𐎗𐎚	kṯrt
 𐎋𐎚𐎁	kataba
 𐎋𐎚𐎁	ktb
 𐎋𐎚𐎐	ktn
@@ -406,6 +456,7 @@
 𐎌𐎎𐎐	šamnu
 𐎌𐎎𐎓	šamiʿa
 𐎌𐎎𐎓	šmʿ
+𐎌𐎎𐎚	šmt
 𐎌𐎐	šn
 𐎌𐎐𐎀	šnả
 𐎌𐎐𐎔𐎚	šnpt
@@ -447,12 +498,14 @@
 𐎍𐎅𐎎	lhm
 𐎍𐎈𐎎	laḥmu
 𐎍𐎈𐎎	lḥm
+𐎍𐎈𐎚	lḥt
 𐎍𐎌𐎐	lašānu
 𐎍𐎌𐎐	lšn
 𐎍𐎍	ll
 𐎍𐎎	lm
 𐎍𐎎𐎄	lmd
 𐎍𐎎𐎚	lmt
+𐎍𐎐	ln
 𐎍𐎔𐎐	lipanī
 𐎍𐎔𐎐	lpn
 𐎍𐎖𐎈	lqḥ
@@ -480,6 +533,7 @@
 𐎎𐎅𐎗	mhr
 𐎎𐎇𐎐𐎎	mznm
 𐎎𐎈	mḥ
+𐎎𐎈𐎚𐎗𐎚	mḥtrt
 𐎎𐎉	mṭ
 𐎎𐎉𐎃	mṭḫ
 𐎎𐎉𐎓𐎚	mṭʿt
@@ -488,7 +542,9 @@
 𐎎𐎉𐎚	mṭt
 𐎎𐎊	my
 𐎎𐎋	mk
+𐎎𐎋𐎋	mkk
 𐎎𐎋𐎐𐎚	mknt
+𐎎𐎋𐎒	mks
 𐎎𐎋𐎗𐎎	mkrm
 𐎎𐎌𐎈	mšḥ
 𐎎𐎌𐎋𐎁	mškb
@@ -510,9 +566,11 @@
 𐎎𐎍𐎋	mulku
 𐎎𐎍𐎋𐎚	mlkt
 𐎎𐎍𐎚𐎈	mltḥ
+𐎎𐎏𐎗	mḏr
 𐎎𐎏𐎗𐎐	mḏrn
 𐎎𐎐	mn
 𐎎𐎐𐎄𐎓	mndʿ
+𐎎𐎐𐎄𐎙	mndġ
 𐎎𐎐𐎋	mnk
 𐎎𐎐𐎎	mnm
 𐎎𐎐𐎗𐎚	mnrt
@@ -529,6 +587,7 @@
 𐎎𐎕𐎗𐎔	mṣrp
 𐎎𐎗	marru
 𐎎𐎗	mr
+𐎎𐎗𐎁𐎄	mrbd
 𐎎𐎗𐎈	mrḥ
 𐎎𐎗𐎊𐎐	mryn
 𐎎𐎗𐎋𐎁𐎚	mrkbt
@@ -536,6 +595,7 @@
 𐎎𐎗𐎖𐎄	mrqd
 𐎎𐎘𐎉	mṯṭ
 𐎎𐎘𐎊𐎐	mṯyn
+𐎎𐎘𐎗	mṯr
 𐎎𐎙𐎊	mġy
 𐎎𐎙𐎎𐎙	mġmġ
 𐎎𐎙𐎗𐎚	mġrt
@@ -557,6 +617,7 @@
 𐎐𐎁𐎚	nbt
 𐎐𐎂𐎈	ngḥ
 𐎐𐎂𐎌	ngš
+𐎐𐎃	nḫ
 𐎐𐎃𐎍	nḫl
 𐎐𐎃𐎚	nḫt
 𐎐𐎄𐎗	ndr
@@ -564,6 +625,7 @@
 𐎐𐎅𐎗	nhr
 𐎐𐎈𐎌	nḥš
 𐎐𐎈𐎍	nḥl
+𐎐𐎈𐎚	nḥt
 𐎐𐎋𐎍	nkl
 𐎐𐎋𐎗	nkr
 𐎐𐎌𐎀	nšả
@@ -574,9 +636,13 @@
 𐎐𐎒𐎋	nsk /nāsiku/
 𐎐𐎓𐎎𐎚	nʿmt
 𐎐𐎓𐎗	nʿr
+𐎐𐎔𐎋	npk
 𐎐𐎔𐎌	napšu
 𐎐𐎔𐎌	npš
 𐎐𐎔𐎍	npl
+𐎐𐎕𐎔	nṣp
+𐎐𐎖𐎎𐎄	nqmd
+𐎐𐎖𐎎𐎔𐎓	nqmpʿ
 𐎐𐎘𐎋	nṯk
 𐎐𐎙𐎗	nġr
 𐎐𐎚𐎁	natību
@@ -591,6 +657,7 @@
 𐎒𐎁𐎁𐎊𐎐	sbbyn
 𐎒𐎂𐎗	sgr
 𐎒𐎂𐎗𐎚	sgrt
+𐎒𐎋	sk
 𐎒𐎋𐎐	skn
 𐎒𐎐𐎐𐎚	snnt
 𐎒𐎒𐎆	ssw
@@ -605,11 +672,14 @@
 𐎓𐎁𐎄	ʿbd
 𐎓𐎂𐎍	ʿgl
 𐎓𐎄	ʿd
+𐎓𐎇	ʿazzu
+𐎓𐎇	ʿizzu
 𐎓𐎇	ʿuzzu
 𐎓𐎇	ʿz
 𐎓𐎊𐎍	ʿyl
 𐎓𐎊𐎍𐎚	ʿylt
 𐎓𐎊𐎐	ʿyn
+𐎓𐎋𐎊	ʿky
 𐎓𐎌𐎊	ʿšy
 𐎓𐎌𐎗	ʿašaru
 𐎓𐎌𐎗	ʿšr
@@ -629,6 +699,8 @@
 𐎓𐎎𐎄	ʿmd
 𐎓𐎎𐎒𐎐	ʿmsn
 𐎓𐎎𐎖	ʿmq
+𐎓𐎎𐎗𐎔𐎛	ʿmrpỉ
+𐎓𐎎𐎘𐎚𐎎𐎗	ʿmṯtmr
 𐎓𐎏𐎗	ʿḏr
 𐎓𐎏𐎗𐎚	ʿḏrt
 𐎓𐎐	ʿn
@@ -638,18 +710,28 @@
 𐎓𐎑𐎎	ʿẓm
 𐎓𐎔	ʿp
 𐎓𐎔𐎓𐎔	ʿpʿp
+𐎓𐎔𐎗	ʿaparu
 𐎓𐎔𐎗	ʿpr
+𐎓𐎔𐎗𐎚	ʿprt
+𐎓𐎔𐎝	ʿps̀
+𐎓𐎕	ʿiṣu
 𐎓𐎕	ʿṣ
 𐎓𐎕𐎗	ʿṣr
+𐎓𐎕𐎗	ʿuṣṣūru
 𐎓𐎖𐎁	ʿqb
+𐎓𐎖𐎗𐎁	ʿaqrabu
 𐎓𐎖𐎗𐎁	ʿqrb
+𐎓𐎗	ʿīru
 𐎓𐎗	ʿr
 𐎓𐎗𐎂𐎇	ʿrgz
 𐎓𐎗𐎃	ʿrḫ
 𐎓𐎗𐎋	ʿrk
 𐎓𐎗𐎌	ʿrš
+𐎓𐎗𐎓𐎗	ʿarʿaru
 𐎓𐎗𐎓𐎗	ʿrʿr
 𐎓𐎗𐎔𐎚	ʿrpt
+𐎓𐎗𐎔𐎚	ʿurpatu
+𐎓𐎘𐎚𐎗	ʿṯtr
 𐎓𐎘𐎚𐎗𐎚	ʿṯtrt
 𐎓𐎚	ʿt
 𐎔	p
@@ -657,6 +739,8 @@
 𐎔	pû
 𐎔𐎂𐎗	pgr
 𐎔𐎃𐎗	pḫr
+𐎔𐎃𐎗	puḫru
+𐎔𐎄𐎗𐎊	pdry
 𐎔𐎆𐎚	pwt
 𐎔𐎈𐎍	paḥlu
 𐎔𐎈𐎍	pḥl
@@ -667,9 +751,11 @@
 𐎔𐎍𐎋	plk
 𐎔𐎐	pn
 𐎔𐎒𐎍	psl
+𐎔𐎓𐎐	paʿnu
 𐎔𐎓𐎐	pʿn
 𐎔𐎗	pirû
 𐎔𐎗	pr
+𐎔𐎗𐎄	pirdu
 𐎔𐎗𐎄	prd
 𐎔𐎗𐎝	prs̀
 𐎔𐎘𐎚	pṯt
@@ -688,6 +774,7 @@
 𐎕𐎍𐎓	ṣlʿ
 𐎕𐎍𐎚	ṣlt
 𐎕𐎎𐎄	ṣmd
+𐎕𐎎𐎍𐎍	ṣmll
 𐎕𐎎𐎖	ṣmq
 𐎕𐎎𐎖𐎎	ṣmqm
 𐎕𐎎𐎚	ṣmt
@@ -703,7 +790,9 @@
 𐎖𐎁𐎗	qbr
 𐎖𐎄𐎌	qdš
 𐎖𐎄𐎎	qdm
+𐎖𐎄𐎎	qidmu
 𐎖𐎄𐎖𐎄	qdqd
+𐎖𐎄𐎖𐎄	qudqudu
 𐎖𐎉	qṭ
 𐎖𐎉𐎗	qṭr
 𐎖𐎌𐎚	qšt
@@ -730,6 +819,7 @@
 𐎖𐎗𐎊	qry
 𐎖𐎗𐎊𐎚	qryt
 𐎖𐎗𐎌	qrš
+𐎖𐎗𐎐	qarnu
 𐎖𐎗𐎐	qrn
 𐎖𐎗𐎕	qrṣ
 𐎖𐎗𐎚	qrt
@@ -753,6 +843,7 @@
 𐎗𐎋𐎒	rks
 𐎗𐎌𐎔	Ršp
 𐎗𐎌𐎔	ršp
+𐎗𐎎𐎊	rmy
 𐎗𐎓	rʿ
 𐎗𐎓𐎊	rʿy
 𐎗𐎓𐎌	rʿš
@@ -773,11 +864,16 @@
 𐎘𐎁	ṯb
 𐎘𐎁𐎗	ṯbr
 𐎘𐎄	ṯd
+𐎘𐎄𐎘	ṯdṯ
+𐎘𐎋𐎍	ṯkl
 𐎘𐎋𐎎	ṯkm
 𐎘𐎍	ṯl
 𐎘𐎍𐎁	ṯlb
 𐎘𐎍𐎈𐎐	ṯlḥn
+𐎘𐎍𐎈𐎐	ṯulḥanu
 𐎘𐎍𐎘	ṯalāṯu
+𐎘𐎍𐎘	ṯalīṯu
+𐎘𐎍𐎘	ṯalṯu
 𐎘𐎍𐎘	ṯlṯ
 𐎘𐎍𐎘	ṯlṯ /ṯalāṯu/
 𐎘𐎍𐎘𐎚	ṯalāṯatu
@@ -795,16 +891,20 @@
 𐎘𐎐	ṯinē
 𐎘𐎐	ṯn
 𐎘𐎐𐎙𐎗𐎐	ṯnġrn /sanḡarana/
+𐎘𐎐𐎚	ṯēnātu
 𐎘𐎐𐎚	ṯnt
 𐎘𐎔𐎉	ṯpṭ
 𐎘𐎖𐎄	ṯqd
 𐎘𐎖𐎍	ṯql
+𐎘𐎗	ṯōru
 𐎘𐎗	ṯr
 𐎘𐎗𐎊𐎐	ṯryn
 𐎘𐎘	ṯīṯṯu
 𐎘𐎘	ṯṯ
 𐎘𐎘𐎚	ṯīṯṯatu
 𐎘𐎘𐎚	ṯṯt
+𐎘𐎙𐎗	ṯaġru
+𐎘𐎙𐎗	ṯāġiru
 𐎘𐎙𐎗	ṯġr
 𐎘𐎚	ṯittā
 𐎘𐎚	ṯittē
@@ -814,6 +914,7 @@
 𐎙	ġ
 𐎙𐎊𐎗	ġyr
 𐎙𐎍	ġl
+𐎙𐎍𐎎	ġlm
 𐎙𐎍𐎎𐎚	ġlmt
 𐎙𐎍𐎔	ġlp
 𐎙𐎐𐎁	ġinabu
@@ -824,8 +925,11 @@
 𐎙𐎗	ġūru
 𐎚	t
 𐎚𐎁𐎓	tbʿ
+𐎚𐎂	tg
+𐎚𐎂𐎎𐎗	tagmaru
 𐎚𐎂𐎎𐎗	tgmr
 𐎚𐎅𐎎	thm
+𐎚𐎈𐎎	taḥmu
 𐎚𐎈𐎎	tḥm
 𐎚𐎈𐎚	taḥta
 𐎚𐎈𐎚	tḥt
@@ -848,10 +952,12 @@
 𐎚𐎗𐎃	trḫ
 𐎚𐎗𐎐	trn
 𐎚𐎗𐎙𐎇𐎇	trġzz
+𐎚𐎙𐎔𐎘	tġpṯ
 𐎚𐎛𐎌𐎗	tỉšr
 𐎛	ỉ
 𐎛𐎁	ỉb
 𐎛𐎁𐎒𐎐	ỉbsn
+𐎛𐎁𐎓𐎍𐎚	ỉbʿlt
 𐎛𐎄𐎊	ỉdy
 𐎛𐎊	ỉy
 𐎛𐎋	ỉk
@@ -864,6 +970,7 @@
 𐎛𐎍𐎎	ỉlm
 𐎛𐎍𐎎	ʾilūma
 𐎛𐎍𐎚	ỉlt
+𐎛𐎍𐎛𐎁	ỉlỉb
 𐎛𐎎	ỉm
 𐎛𐎎𐎗	ỉmr
 𐎛𐎎𐎗	ʾimmaru
@@ -875,6 +982,7 @@
 𐎛𐎖𐎐𐎜	ỉqnủ
 𐎛𐎗𐎁𐎊	ỉrby
 𐎛𐎗𐎌𐎚	ỉršt
+𐎛𐎗𐎙𐎐	ỉrġn
 𐎛𐎗𐎚	ỉrt
 𐎛𐎚𐎎𐎍	ỉtml
 𐎜	ủ
@@ -884,6 +992,8 @@
 𐎜𐎂𐎗	ủgr
 𐎜𐎂𐎗𐎚	ủgrt
 𐎜𐎂𐎗𐎚	ʾugarītu
+𐎜𐎃𐎗𐎊	ủḫry
+𐎜𐎃𐎗𐎊	ʾuḫrāyu
 𐎜𐎄𐎐	ủdn
 𐎜𐎄𐎗	ủdr
 𐎜𐎇	ủz
@@ -892,7 +1002,10 @@
 𐎜𐎋	ủk
 𐎜𐎌𐎋	ủšk
 𐎜𐎌𐎐	ủšn
+𐎜𐎌𐎔𐎙𐎚	ủšpġt
 𐎜𐎌𐎗	ủšr
+𐎜𐎌𐎗	ʾušaru
+𐎜𐎍𐎎𐎐	ủlmn
 𐎜𐎎	ủm
 𐎜𐎎𐎚	umt
 𐎜𐎎𐎚	ủmt

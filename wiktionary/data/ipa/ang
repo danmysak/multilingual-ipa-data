@@ -2,6 +2,7 @@
 -an	/ɑn/
 -as	/ɑs/
 -aþ	/ɑθ/
+-blede	/ˈbleː.de/
 -bora	/bo.rɑ/
 -bære	/ˈbæː.re/
 -ca	/kɑ/
@@ -80,7 +81,7 @@
 -linga	[liŋ.ɡɑ]
 -læcan	/læː.t͡ʃɑn/
 -mod	/moːd/
--mælum	/ˌmæː.lum/
+-mælum	/ˈmæː.lum/
 -nes	/nes/
 -ness	/ness/
 -ness	[nes]
@@ -146,10 +147,9 @@
 Abraham	/ˈɑb.rɑ.xɑm/
 Abraham	[ˈɑb.rɑ.hɑm]
 Affrica	/ˈɑf.fri.kɑ/
-Africanisc	/ˈɑf.ri.kɑ.niʃ/
-Africanisc	[ˈɑv.ri.kɑ.niʃ]
-Afrisc	/ˈɑf.riʃ/
-Afrisc	[ˈɑv.riʃ]
+Africanisc	/ˈɑːf.riˌkɑː.niʃ/
+Africanisc	[ˈɑːv.riˌkɑː.niʃ]
+Afrisc	/ˈɑːˌfriʃ/
 Alda	/ˈɑl.dɑ/
 Alda	[ˈɑɫ.dɑ]
 Aldwine	/ˈɑldˌwi.ne/
@@ -172,8 +172,8 @@ Angolseaxan	/ˈɑn.ɡolˌsæ͜ɑk.sɑn/
 Angolseaxan	[ˈɑŋ.ɡolˌsæ͜ɑk.sɑn]
 Anlaf	/ˈɑnˌlɑf/
 Antecrist	/ˈɑn.teˌkrist/
-Arabia	/ɑˈrɑ.bi.ɑ/
-Arabisc	/ɑˈrɑ.biʃ/
+Arabia	/ˈɑˌrɑ.bi.ɑ/
+Arabisc	/ˈɑˌrɑ.biʃ/
 Arwald	/ˈɑrˌwɑld/
 Arwald	[ˈɑrˌwɑɫd]
 Augustus	/ˈɑ.u.ɡus.tus/
@@ -212,7 +212,7 @@ Ciricburh	[ˈt͡ʃi.rit͡ʃˌburˠx]
 Cornweal	/ˈkornˌwæ͜ɑl/
 Cornweal	[ˈkorˠnˌwæ͜ɑl]
 Crecas	/ˈkreː.kɑs/
-Crecisc	/ˈkreː.kiʃ/
+Crecisc	/ˈkreː.t͡ʃiʃ/
 Crist	/krist/
 Cristes mæsse	/ˈkris.tes ˌmæs.se/
 Cristesmæsse	/ˈkris.tesˌmæs.se/
@@ -297,7 +297,9 @@ Fearr	/fæ͜ɑrr/
 Fearr	[fæ͜ɑrˠ]
 Finn	/finn/
 Finn	[fin]
+Finna	/ˈfin.nɑ/
 Finna land	/ˈfin.nɑ ˌlɑnd/
+Finnas	/ˈfin.nɑs/
 Franca	/ˈfrɑn.kɑ/
 Franca	[ˈfrɑŋ.kɑ]
 Francland	/ˈfrɑnkˌlɑnd/
@@ -350,8 +352,14 @@ Hroþgares	/ˈxroːθ.ɡɑː.res/
 Hroþgares	[ˈr̥oːð.ɣɑː.res]
 Hunbeorht	/ˈxunˌbe͜orxt/
 Hunbeorht	[ˈhunˌbe͜orˠxt]
+Hungerie	/ˈxun.ɡri.e/
+Hungerie	[ˈhuŋ.ɡri.e]
+Hungerland	/ˈxun.ɡerˌlɑnd/
+Hungerland	[ˈhuŋ.ɡerˌlɑnd]
 Hælend	/ˈxæː.lend/
 Hælend	[ˈhæː.lend]
+Indisc	/ˈin.diʃ/
+Ing	/ɪŋ/
 Ingeld	/ˈin.ɡeld/
 Ingeld	[ˈiŋ.ɡeɫd]
 Ingelde	/ˈinˌɡel.de/
@@ -362,8 +370,8 @@ Iraland	/ˈiː.rɑˌlɑnd/
 Iringes weg	/ˈi.rin.ɡes wej/
 Iringes weg	[ˈi.riŋ.ɡes wej]
 Irland	/ˈiːrˌlɑnd/
-Ispania	/ˈis.pɑː.ni.ɑ/
-Ispanisc	/ˈis.pɑː.niʃ/
+Ispania	/ˈiˌspɑː.ni.ɑ/
+Ispanisc	/ˈiˌspɑː.niʃ/
 Israhel	/ˈis.rɑ.xel/
 Israhel	[ˈiz.rɑ.hel]
 Italia	/ˈi.tɑ.li.ɑ/
@@ -374,6 +382,10 @@ Langa-Frigedæg	/ˈlɑn.ɡɑˌfri.jeˌdæj/
 Langa-Frigedæg	[ˈlɑŋ.ɡɑˌfri.jeˌdæj]
 Langaland	/ˈlɑn.ɡɑˌlɑnd/
 Langaland	[ˈlɑŋ.ɡɑˌlɑnd]
+Langbeardas	/ˈlɑnɡˌbæ͜ɑr.dɑs/
+Langbeardas	[ˈlɑŋɡˌbæ͜ɑrˠ.dɑs]
+Langbeardisc	/ˈlɑnɡˌbæ͜ɑr.diʃ/
+Langbeardisc	[ˈlɑŋɡˌbæ͜ɑrˠ.diʃ]
 Lucas	/ˈlu.kɑs/
 Lunden	/ˈlun.den/
 Læden	/ˈlæː.den/
@@ -384,6 +396,8 @@ Mierce	/ˈmi͜yr.t͡ʃe/
 Mierce	[ˈmi͜yrˠ.t͡ʃe]
 Mimming	/ˈmim.minɡ/
 Mimming	[ˈmim.miŋɡ]
+Mæcedonie	/ˈmæ.keˌdo.ni.e/
+Mæcedonisc	/ˈmæ.keˌdo.niʃ/
 Mædmonaþ	/ˈmæːdˌmoː.nɑθ/
 Mægelan	/ˈmæ.je.lɑn/
 Nazarenisc	/ˈnɑt.sɑ.re.niʃ/
@@ -429,9 +443,9 @@ Portesmuþa	/ˈpor.tesˌmuː.θɑ/
 Portesmuþa	[ˈporˠ.tezˌmuː.ðɑ]
 Rin	/riːn/
 Rom	/roːm/
-Romana rice	/roːˈmɑː.nɑ ˈriː.t͡ʃe/
-Romane	/roːˈmɑː.ne/
-Romanisc	/roːˈmɑː.niʃ/
+Romana rice	/ˈroːˌmɑː.nɑ ˈriː.t͡ʃe/
+Romane	/ˈroːˌmɑː.ne/
+Romanisc	/ˈroːˌmɑː.niʃ/
 Rome burg	/ˈroː.me burɡ/
 Rome burg	[ˈroː.me burˠɣ]
 Romeburh	/ˈroː.me burx/
@@ -463,6 +477,7 @@ Seaxneat	/ˈsæ͜ɑksˌnæ͜ɑːt/
 Seaxneating	/ˈsæ͜ɑks.næ͜ɑː.tinɡ/
 Seaxneating	[ˈsæ͜ɑks.næ͜ɑː.tiŋɡ]
 Sexred	/ˈseksˌreːd/
+Sigel	/ˈsɪ.jel/
 Sigelhearwa	/ˈsi.jelˌxæ͜ɑr.wɑ/
 Sigelhearwa	[ˈsi.jelˌhæ͜ɑrˠ.wɑ]
 Snotingaham	/ˈsno.tin.ɡɑˌxɑːm/
@@ -485,6 +500,10 @@ Sæward	/ˈsæːˌwɑrd/
 Sæward	[ˈsæːˌwɑrˠd]
 Tiw	/tiːw/
 UU	/w/
+Ungerland	/ˈun.ɡerˌlɑnd/
+Ungerland	[ˈuŋ.ɡerˌlɑnd]
+Ungrie	/ˈun.ɡri.e/
+Ungrie	[ˈuŋ.ɡri.e]
 Waldhere	/ˈwɑldˌxe.re/
 Waldhere	[ˈwɑɫdˌhe.re]
 Wan	/wɑn/
@@ -515,6 +534,8 @@ Wihtwara	/ˈwix.twɑ.rɑ/
 Wihtwara	[ˈwiç.twɑ.rɑ]
 Wihtware	/ˈwixtˌwɑ.re/
 Wihtware	[ˈwiçtˌwɑ.re]
+Wined	/ˈwi.ned/
+Wineda land	/ˈwi.ne.dɑ ˌlɑnd/
 Wisle	/ˈwiːs.le/
 Wisle	[ˈwiːz.le]
 Wisleland	/ˈwiːs.leˌlɑnd/
@@ -775,7 +796,7 @@ an and hundteontig	[ɑːn ɑnd ˈhund.te͜oːn.tij]
 an and twentig	/ɑːn ɑnd ˈtweːn.tij/
 an and twentigoþa	/ɑːn ɑnd ˈtweːn.ti.ɡo.θɑ/
 an and twentigoþa	[ɑːn ɑnd ˈtweːn.ti.ɣo.θɑ]
-an-	/ˈɑːn/
+an-	/ɑːn/
 anad	/ˈɑːˌnɑd/
 anbugan	/ɑnˈbuː.ɡɑn/
 anbugan	[ɑnˈbuː.ɣɑn]
@@ -1380,6 +1401,8 @@ beon	/be͜oːn/
 beonde	/ˈbe͜oːn.de/
 beor	/be͜oːr/
 beoran	/ˈbe͜o.rɑn/
+beorc	/be͜ork/
+beorc	[be͜orˠk]
 beorcan	/ˈbe͜or.kɑn/
 beorcan	[ˈbe͜orˠ.kɑn]
 beorg	/be͜orɡ/
@@ -1544,6 +1567,7 @@ bewitan	/beˈwi.tɑn/
 bewlatian	/beˈwlɑː.ti.ɑn/
 bewlitan	/beˈwliː.tɑn/
 bewrecan	/beˈwre.kɑn/
+bewreon	/beˈwre͜oːn/
 bewritan	/beˈwriː.tɑn/
 bewyrcan	/beˈwyr.t͡ʃɑn/
 bewyrcan	[beˈwyrˠ.t͡ʃɑn]
@@ -1667,9 +1691,14 @@ biword	[ˈbiːˌworˠd]
 biwrecan	/biˈwre.kɑn/
 biþ	/biθ/
 blac	/blɑːk/
+blacan	/ˈblɑ.kɑn/
+blace	/ˈblɑ.ke/
+blacena	/ˈblɑ.ke.nɑ/
 blacern	/ˈblɑːkˌern/
 blacern	[ˈblɑːkˌerˠn]
 blacian	/ˈblɑː.ki.ɑn/
+blacu	/ˈblɑ.ku/
+blacum	/ˈblɑ.kum/
 blanc	/blɑnk/
 blanc	[blɑŋk]
 blanca	/ˈblɑn.kɑ/
@@ -1731,6 +1760,7 @@ blowan	/ˈbloː.wɑn/
 blæc	/blæk/
 blæcan	/ˈblæː.t͡ʃɑn/
 blæced	/ˈblæː.t͡ʃed/
+blæcne	/ˈblæk.ne/
 blæd	/blæd/
 blæd	/blæːd/
 blædnes	/ˈblæːd.nes/
@@ -1971,6 +2001,8 @@ burne	/ˈbur.ne/
 burne	[ˈburˠ.ne]
 butan	/ˈbuː.tɑn/
 butere	/ˈbu.te.re/
+buterfleoge	/ˈbu.terˌfle͜oː.ɡe/
+buterfleoge	[ˈbu.terˌfle͜oː.ɣe]
 buton	/ˈbuː.ton/
 buttorfleoge	/ˈbut.torˌfle͜oː.ɡe/
 buttorfleoge	[ˈbut.torˌfle͜oː.ɣe]
@@ -2261,6 +2293,7 @@ ciefese	[ˈt͡ʃi͜y.ve.se]
 ciegan	/ˈt͡ʃi͜yː.jɑn/
 ciele	/ˈt͡ʃi͜y.le/
 ciepe	/ˈt͡ʃi͜y.pe/
+ciepe	/ˈt͡ʃi͜yː.pe/
 ciern	/t͡ʃi͜yrn/
 ciern	[t͡ʃi͜yrˠn]
 cierr	/t͡ʃi͜yrr/
@@ -2419,6 +2452,8 @@ cliþa	/ˈkliː.θɑ/
 cliþa	[ˈkliː.ðɑ]
 clucge	/ˈkluɡ.ɡe/
 clud	/kluːd/
+clufu	/ˈklu.fu/
+clufu	[ˈklu.vu]
 clus	/kluːs/
 clut	/kluːt/
 clyccan	/ˈklyt.t͡ʃɑn/
@@ -2708,7 +2743,7 @@ cynegierd	/ˈky.neˌji͜yrd/
 cynegierd	[ˈky.neˌji͜yrˠd]
 cynehelm	/ˈky.neˌxelm/
 cynehelm	[ˈky.neˌheɫm]
-cynelic	/ˈky.ne.liːt͡ʃ/
+cynelic	/ˈky.neˌliːt͡ʃ/
 cynerice	/ˈky.neˌriː.t͡ʃe/
 cynesetl	/ˈky.neˌsetl/
 cyneþrym	/ˈky.neˌθrym/
@@ -2788,10 +2823,30 @@ dalc	[dɑɫk]
 daroþ	/ˈdɑ.roθ/
 daru	/ˈdɑ.ru/
 dead	/dæ͜ɑːd/
+deada	/ˈdæ͜ɑː.dɑ/
+deadan	/ˈdæ͜ɑː.dɑn/
 deadboren	/ˈdæ͜ɑːdˌbo.ren/
 deadlic	/ˈdæ͜ɑːd.liːt͡ʃ/
 deadlicnes	/ˈdæ͜ɑːd.liːk.nes/
+deadne	/ˈdæ͜ɑːd.ne/
+deadra	/ˈdæ͜ɑːd.rɑ/
+deadre	/ˈdæ͜ɑːd.re/
+deadum	/ˈdæ͜ɑː.dum/
 deaf	/dæ͜ɑːf/
+deafa	/ˈdæ͜ɑː.fɑ/
+deafa	[ˈdæ͜ɑː.vɑ]
+deafan	/ˈdæ͜ɑː.fɑn/
+deafan	[ˈdæ͜ɑː.vɑn]
+deafe	/ˈdæ͜ɑː.fe/
+deafe	[ˈdæ͜ɑː.ve]
+deafne	/ˈdæ͜ɑːf.ne/
+deafne	[ˈdæ͜ɑːv.ne]
+deafra	/ˈdæ͜ɑːf.rɑ/
+deafra	[ˈdæ͜ɑːv.rɑ]
+deafre	/ˈdæ͜ɑːf.re/
+deafre	[ˈdæ͜ɑːv.re]
+deafum	/ˈdæ͜ɑː.fum/
+deafum	[ˈdæ͜ɑː.vum]
 deag	/dæ͜ɑːɡ/
 deag	[dæ͜ɑːɣ]
 deagol	/ˈdæ͜ɑː.ɡol/
@@ -2799,14 +2854,24 @@ deagol	[ˈdæ͜ɑː.ɣol]
 deagolnes	/ˈdæ͜ɑː.ɡol.nes/
 deagolnes	[ˈdæ͜ɑː.ɣol.nes]
 deah	/dæ͜ɑːx/
+dealf	/dæ͜ɑlf/
+dealf	[dæ͜ɑɫf]
 deaw	/dæ͜ɑːw/
+deawe	/ˈdæ͜ɑː.we/
+deawes	/ˈdæ͜ɑː.wes/
 deaþ	/dæ͜ɑːθ/
+deaþas	/ˈdæ͜ɑː.θɑs/
+deaþas	[ˈdæ͜ɑː.ðɑs]
 deaþbed	/ˈdæ͜ɑːθˌbed/
 deaþbed	[ˈdæ͜ɑːðˌbed]
 deaþbedd	/ˈdæ͜ɑːθˌbedd/
 deaþbedd	[ˈdæ͜ɑːðˌbed]
 deaþdæg	/ˈdæ͜ɑːθˌdæj/
 deaþdæg	[ˈdæ͜ɑːðˌdæj]
+deaþe	/ˈdæ͜ɑː.θe/
+deaþe	[ˈdæ͜ɑː.ðe]
+deaþes	/ˈdæ͜ɑː.θes/
+deaþes	[ˈdæ͜ɑː.ðes]
 deaþes ege	/ˈdæ͜ɑː.θes ˌe.je/
 deaþes ege	[ˈdæ͜ɑː.ðes ˌe.je]
 deaþlic	/ˈdæ͜ɑːθ.liːt͡ʃ/
@@ -2833,6 +2898,8 @@ delf	/delf/
 delf	[deɫf]
 delfan	/ˈdel.fɑn/
 delfan	[ˈdeɫ.vɑn]
+delfaþ	/ˈdel.fɑθ/
+delfaþ	[ˈdeɫ.vɑθ]
 delfere	/ˈdel.fe.re/
 delfere	[ˈdeɫ.ve.re]
 delfing	/ˈdel.finɡ/
@@ -3056,6 +3123,10 @@ dugan	/ˈdu.ɡɑn/
 dugan	[ˈdu.ɣɑn]
 duguþ	/ˈdu.ɡuθ/
 duguþ	[ˈdu.ɣuθ]
+dulfe	/ˈdul.fe/
+dulfe	[ˈduɫ.ve]
+dulfon	/ˈdul.fon/
+dulfon	[ˈduɫ.von]
 dumb	/dumb/
 dumbnes	/ˈdumb.nes/
 dun	/duːn/
@@ -3516,6 +3587,8 @@ eglan	/ˈej.lɑn/
 egland	/ˈeːjˌlɑnd/
 egle	/ˈej.le/
 egsian	/ˈej.si.ɑn/
+eh	/ex/
+eh	[eç]
 ehta	/ˈex.tɑ/
 ehta	[ˈeç.tɑ]
 ehtan	/ˈeːx.tɑn/
@@ -3699,8 +3772,8 @@ eþelleas	/ˈeː.θelˌlæ͜ɑːs/
 eþelleas	[ˈeː.ðelˌlæ͜ɑːs]
 eþelmearc	/ˈeː.θel.mæ͜ɑrk/
 eþelmearc	[ˈeː.ðeɫ.mæ͜ɑrˠk]
-eþelrice	/ˈeː.θel.riː.t͡ʃe/
-eþelrice	[ˈeː.ðeɫ.riː.t͡ʃe]
+eþelrice	/ˈeː.θelˌriː.t͡ʃe/
+eþelrice	[ˈeː.ðelˌriː.t͡ʃe]
 eþelriht	/ˈeː.θel.rixt/
 eþelriht	[ˈeː.ðeɫ.riçt]
 eþelstaþol	/ˈeː.θel.stɑ.θol/
@@ -4626,6 +4699,7 @@ frofor	/ˈfroː.for/
 frofor	[ˈfroː.vor]
 froforgast	/ˈfroː.forˌɡɑːst/
 froforgast	[ˈfroː.vorˌɡɑːst]
+frogga	/ˈfroɡ.ɡɑ/
 from	/from/
 from-	/from/
 from-	/ˈfrom/
@@ -4636,6 +4710,7 @@ fromcyrran	[fromˈt͡ʃyrˠ.rˠɑn]
 fromhweorfan	/ˈfrom.xwe͜or.fɑn/
 fromhweorfan	[ˈfrom.ʍe͜orˠ.vɑn]
 frosc	/froʃ/
+froscas	/ˈfros.kɑs/
 frowe	/ˈfroː.we/
 frox	/froks/
 fruma	/ˈfru.mɑ/
@@ -4739,6 +4814,8 @@ fyrenþearf	[ˈfy.renˌθæ͜ɑrˠf]
 fyrest	/ˈfy.rest/
 fyrgengat	/ˈfyr.jenˌɡɑːt/
 fyrgengat	[ˈfyrˠ.jenˌɡɑːt]
+fyrh	/fyrx/
+fyrh	[fyrˠx]
 fyrhtu	/ˈfyrx.tu/
 fyrhtu	[ˈfyrˠx.tu]
 fyrhus	/ˈfyːrˌxuːs/
@@ -4917,7 +4994,8 @@ geador	/ˈjæ͜ɑ.dor/
 geador	/ˈɡæ͜ɑ.dor/
 geafon	/ˈjæ͜ɑː.fon/
 geafon	[ˈjæ͜ɑː.von]
-geagnian	/je.ɑːˈɡni.ɑn/
+geagnian	/jeˈɑːɡ.ni.ɑn/
+geagnian	[jeˈɑːɣ.ni.ɑn]
 geagniendlic	/ˈjɑːɡ.ni͜ynd.liːt͡ʃ/
 geagniendlic	[ˈjɑːɣ.ni͜ynd.liːt͡ʃ]
 geagnigendlic	/ˈjɑːɡ.ni.jend.liːt͡ʃ/
@@ -4942,6 +5020,7 @@ geanhweorfan	[ˌjæ͜ɑːnˈʍe͜orˠ.vɑn]
 geanian	/jeˈɑː.ni.ɑn/
 geanlæcan	/jeˈɑːnˌlæː.t͡ʃɑn/
 geap	/jæ͜ɑːp/
+geaplic	/ˈjæ͜ɑːp.liːt͡ʃ/
 gear	/jæ͜ɑːr/
 geara	/ˈjɑː.rɑ/
 gearcian	/ˈjæ͜ɑr.ki.ɑn/
@@ -4961,7 +5040,7 @@ gearwe	/ˈjæ͜ɑr.we/
 gearwe	[ˈjæ͜ɑrˠ.we]
 gearwian	/ˈjæ͜ɑr.wi.ɑn/
 gearwian	[ˈjæ͜ɑrˠ.wi.ɑn]
-geascian	/je.ɑːˈski.ɑn/
+geascian	/jeˈɑːs.ki.ɑn/
 geat	/jæ͜ɑt/
 geatan	/ˈjæ͜ɑː.tɑn/
 geatolic	/ˈjæ͜ɑ.to.liːt͡ʃ/
@@ -5108,8 +5187,8 @@ gedwomer	/jeˈdwo.mer/
 gedæfte	/jeˈdæf.te/
 gedælan	/jeˈdæː.lɑn/
 gee	/jeː/
-geealdian	/ˈjeˌæ͜ɑl.di.ɑn/
-geealdian	[ˈjeˌæ͜ɑɫ.di.ɑn]
+geealdian	/jeˈæ͜ɑl.di.ɑn/
+geealdian	[jeˈæ͜ɑɫ.di.ɑn]
 geeardian	/jeˈæ͜ɑr.di.ɑn/
 geeardian	[jeˈæ͜ɑrˠ.di.ɑn]
 geeaþmedan	/jeˈæ͜ɑːθ.meː.dɑn/
@@ -5296,10 +5375,10 @@ gehðu	[ˈjeç.θu]
 geiecan	/jeˈi͜yː.t͡ʃɑn/
 geiecendlic	/jeˈi͜yː.t͡ʃend.liːt͡ʃ/
 geiewan	/jeˈi͜yː.wɑn/
-geimpian	/ˈjeˌim.pi.ɑn/
+geimpian	/jeˈim.pi.ɑn/
 geinlagian	/je.inˈlɑ.ɡi.ɑn/
 geinlagian	[je.inˈlɑ.ɣi.ɑn]
-geinnian	/je.inˈni.ɑn/
+geinnian	/jeˈin.ni.ɑn/
 gelafian	/jeˈlɑ.fi.ɑn/
 gelafian	[jeˈlɑ.vi.ɑn]
 gelanda	/jeˈlɑn.dɑ/
@@ -5465,8 +5544,8 @@ geoc	/je͜oːk/
 geoc	/jok/
 geofon	/ˈje͜o.fon/
 geofon	[ˈje͜o.von]
-geofonyþ	/ˈje͜o.fo.nyːθ/
-geofonyþ	[ˈje͜o.vo.nyːθ]
+geofonyþ	/ˈje͜o.fonˌyːθ/
+geofonyþ	[ˈje͜o.vonˌyːθ]
 geogolere	/ˈje͜oː.ɡo.le.re/
 geogolere	[ˈje͜oː.ɣo.le.re]
 geogoþ	/ˈju.ɡoθ/
@@ -5481,6 +5560,8 @@ geolo	/ˈje͜o.lo/
 geoloca	/ˈje͜o.lo.kɑ/
 geolu	/ˈje͜o.lu/
 geoluread	/ˈje͜o.luˌræ͜ɑːd/
+geolwian	/ˈje͜ol.wi.ɑn/
+geolwian	[ˈje͜oɫ.wi.ɑn]
 geomor	/ˈje͜oː.mor/
 geomor	/ˈjoː.mor/
 geomrian	/ˈjoːm.ri.ɑn/
@@ -5545,6 +5626,8 @@ geonre	/ˈje͜on.re/
 geonre	/ˈjon.re/
 georn	/je͜orn/
 georn	[je͜orˠn]
+geornan	/ˈje͜or.nɑn/
+geornan	[ˈje͜orˠ.nɑn]
 georne	/ˈje͜or.ne/
 georne	[ˈje͜orˠ.ne]
 geornlice	/ˈje͜ornˌliː.t͡ʃe/
@@ -6398,6 +6481,8 @@ handcræft	/ˈxɑndˌkræft/
 handcræft	[ˈhɑndˌkræft]
 handcræftig	/ˈxɑndˌkræf.tij/
 handcræftig	[ˈhɑndˌkræf.tij]
+handfull	/ˈxɑnd.full/
+handfull	[ˈhɑnd.fuɫ]
 handgang	/ˈxɑndˌɡɑnɡ/
 handgang	[ˈhɑndˌɡɑŋɡ]
 handgeweorc	/ˈxɑnd.jeˌwe͜ork/
@@ -6684,8 +6769,8 @@ heofon	/ˈxe͜o.fon/
 heofon	[ˈhe͜o.von]
 heofonisc	/ˈxe͜o.fo.niʃ/
 heofonisc	[ˈhe͜o.vo.niʃ]
-heofonlic	/ˈxe͜o.fon.liːt͡ʃ/
-heofonlic	[ˈhe͜o.von.liːt͡ʃ]
+heofonlic	/ˈxe͜o.fonˌliːt͡ʃ/
+heofonlic	[ˈhe͜o.vonˌliːt͡ʃ]
 heofonrice	/ˈxe͜o.fonˌriː.t͡ʃe/
 heofonrice	[ˈhe͜o.vonˌriː.t͡ʃe]
 heofonum	/ˈxe͜o.fo.num/
@@ -6861,6 +6946,8 @@ hiwcuþlice	/ˈxiːw.kuːθˌliː.t͡ʃe/
 hiwcuþlice	[ˈhiːw.kuːðˌliː.t͡ʃe]
 hiwcuþnes	/ˈxiːw.kuːθ.nes/
 hiwcuþnes	[ˈhiːw.kuːð.nes]
+hiwcuþost	/ˈxiːwˌkuː.θost/
+hiwcuþost	[ˈhiːwˌkuː.ðost]
 hiwen	/ˈxiː.wen/
 hiwen	[ˈhiː.wen]
 hiwfæst	/ˈxiːwˌfæst/
@@ -6883,8 +6970,8 @@ hlaforddom	/ˈxlɑː.fordˌdoːm/
 hlaforddom	[ˈl̥ɑː.vorˠdˌdoːm]
 hlafordleas	/ˈxlɑː.fordˌlæ͜ɑːs/
 hlafordleas	[ˈl̥ɑː.vorˠdˌlæ͜ɑːs]
-hlafordlic	/ˈxlɑː.ford.liːt͡ʃ/
-hlafordlic	[ˈl̥ɑː.vorˠd.liːt͡ʃ]
+hlafordlic	/ˈxlɑː.fordˌliːt͡ʃ/
+hlafordlic	[ˈl̥ɑː.vorˠdˌliːt͡ʃ]
 hlafweard	/ˈxlɑːfˌwæ͜ɑrd/
 hlafweard	[ˈl̥ɑːvˌwæ͜ɑrˠd]
 hlafæta	/ˈxlɑːfˌæː.tɑ/
@@ -8172,7 +8259,6 @@ leohtberend	/ˈle͜oːxt.beˌrend/
 leohtbrædnes	/ˈle͜oːxtˌbræːd.nes/
 leohtbære	/ˈle͜oːxtˌbæː.re/
 leohtfæt	/ˈle͜oːxtˌfæt/
-leohtleap	/ˈle͜oxtˌlæ͜ɑːp/
 leohtleas	/ˈle͜oːxtˌlæ͜ɑːs/
 leohtlic	/ˈle͜oːxt.liːt͡ʃ/
 leohtlice	/ˈle͜oːxtˌliː.t͡ʃe/
@@ -8406,6 +8492,8 @@ lytel finger	/ˈlyː.tel ˈfin.ɡer/
 lytel finger	[ˈlyː.tel ˈfiŋ.ɡer]
 lythwon	/ˈlyːtˌxwoːn/
 lythwon	[ˈlyːtˌʍoːn]
+lytling	/ˈlyːt.linɡ/
+lytling	[ˈlyːt.liŋɡ]
 læcan	/ˈlæː.t͡ʃɑn/
 læcas	/ˈlæː.t͡ʃɑs/
 læccan	/ˈlæt.t͡ʃɑn/
@@ -8449,7 +8537,12 @@ læwan	/ˈlæː.wɑn/
 læwed	/ˈlæː.wed/
 læwede	/ˈlæː.we.de/
 ma	/mɑː/
+macaþ	/ˈmɑ.kɑθ/
 macian	/ˈmɑ.ki.ɑn/
+maciaþ	/ˈmɑ.ki.ɑθ/
+macige	/ˈmɑ.ki.je/
+macode	/ˈmɑ.ko.de/
+macodon	/ˈmɑ.ko.don/
 maga	/ˈmɑ.ɡɑ/
 maga	/ˈmɑː.ɡɑ/
 maga	[ˈmɑ.ɣɑ]
@@ -8638,7 +8731,7 @@ menigeo	/ˈme.ni.jo/
 menigu	/ˈme.ni.ju/
 mennisc	/ˈmen.niʃ/
 mennisclic	/ˈmen.niʃ.liːt͡ʃ/
-mennisclicnes	/ˈmen.niʃ.liːk.nes/
+mennisclicnes	/ˈmen.niʃˌliːk.nes/
 menniscnes	/ˈmen.niʃ.nes/
 menniscu	/ˈmen.nis.ku/
 meolc	/me͜olk/
@@ -8850,7 +8943,7 @@ modiglic	/ˈmoː.dij.liːt͡ʃ/
 modignes	/ˈmoː.dij.nes/
 modor	/ˈmoː.dor/
 modorleas	/ˈmoː.dorˌlæ͜ɑːs/
-modorlic	/ˈmoː.dor.liːt͡ʃ/
+modorlic	/ˈmoː.dorˌliːt͡ʃ/
 modrige	/ˈmoːd.ri.je/
 modsefa	/ˈmoːdˌse.fɑ/
 modsefa	[ˈmoːdˌse.vɑ]
@@ -8931,8 +9024,14 @@ mundian	/ˈmun.di.ɑn/
 munec	/ˈmu.nek/
 munt	/munt/
 munuc	/ˈmu.nuk/
+murn	/murn/
+murn	[murˠn]
 murnan	/ˈmur.nɑn/
 murnan	[ˈmurˠ.nɑn]
+murnaþ	/ˈmur.nɑθ/
+murnaþ	[ˈmurˠ.nɑθ]
+murnþ	/murnθ/
+murnþ	[murˠnθ]
 mus	/muːs/
 muscelle	/ˈmus.kel.le/
 muscelle	[ˈmus.keɫ.ɫe]
@@ -8981,6 +9080,8 @@ myrgen	[ˈmyrˠ.jen]
 myrgþ	/myrjθ/
 myrgþ	[myrˠjθ]
 myrige	/ˈmy.ri.je/
+myrnst	/myrnst/
+myrnst	[myrˠnst]
 myrþra	/ˈmyr.θrɑ/
 myrþra	[ˈmyrˠ.ðrɑ]
 myrþrian	/ˈmyr.θri.ɑn/
@@ -9019,10 +9120,10 @@ mægþblæd	/ˈmæjθˌblæd/
 mægþblæd	[ˈmæjðˌblæd]
 mægþe	/ˈmæj.θe/
 mægþe	[ˈmæj.ðe]
-mægþhad	/ˈmæjθˌxɑːd/
-mægþhad	/ˈmæːjθˌxɑːd/
-mægþhad	[ˈmæjθˌhɑːd]
-mægþhad	[ˈmæːjθˌhɑːd]
+mægþhad	/ˈmæjθ.xɑːd/
+mægþhad	/ˈmæːjθ.xɑːd/
+mægþhad	[ˈmæjθ.hɑːd]
+mægþhad	[ˈmæːjθ.hɑːd]
 mæl	/mæːl/
 mælan	/ˈmæː.lɑn/
 mænan	/ˈmæː.nɑn/
@@ -9167,14 +9268,18 @@ nesan	[ˈne.zɑn]
 nese	/ˈne.se/
 nese	[ˈne.ze]
 nest	/nest/
+netele	/ˈne.te.le/
 nett	/net/
 neþan	/ˈneː.θɑn/
 neþan	[ˈneː.ðɑn]
 ni-	/niː/
 nibacen	/ˈniːˌbɑ.ken/
+nic	/nik/
 nic	/nit͡ʃ/
 nicc	/nitt͡ʃ/
 nicc	[nit͡ʃ]
+niccan	/ˈnik.kɑn/
+niccan	/ˈnit.t͡ʃɑn/
 nicenned	/ˈniːˌken.ned/
 nicor	/ˈni.kor/
 nied	/ni͜yːd/
@@ -9219,6 +9324,8 @@ nihtes	/ˈnix.tes/
 nihtes	[ˈniç.tes]
 nihtgenga	/ˈnixtˌɡen.jɑ/
 nihtgenga	[ˈniçtˌɡen.d͡ʒɑ]
+nihtgengan	/ˈnixtˌɡen.jɑn/
+nihtgengan	[ˈniçtˌɡen.d͡ʒɑn]
 nihtgenge	/ˈnixtˌɡen.je/
 nihtgenge	[ˈniçtˌɡen.d͡ʒe]
 nihthræfn	/ˈnixtˌxræfn/
@@ -9242,6 +9349,9 @@ nihtsumnes	[ˈniçt.sum.nes]
 nillan	/ˈnil.lɑn/
 nillan	[ˈniɫ.ɫɑn]
 niman	/ˈni.mɑn/
+nimaþ	/ˈni.mɑθ/
+nimeþ	/ˈni.meθ/
+nimþ	/nimθ/
 nioðan	/ˈni͜u.θɑn/
 nioðan	[ˈni͜u.ðɑn]
 nioþan	/ˈni͜u.θɑn/
@@ -10016,15 +10126,20 @@ regnboga	/ˈrejnˌbo.ɡɑ/
 regnboga	[ˈrejnˌbo.ɣɑ]
 regndropa	/ˈrejnˌdro.pɑ/
 regnian	/ˈrej.ni.ɑn/
+regnig	/ˈrej.nij/
+regnscur	/ˈrejnˌʃuːr/
 regnwyrm	/ˈrejnˌwyrm/
 regnwyrm	[ˈrejnˌwyrˠm]
+regnwæter	/ˈrejnˌwæ.ter/
 regol	/ˈre.ɡol/
 regol	[ˈre.ɣol]
 regolsticca	/ˈre.ɡolˌstik.kɑ/
 regolsticca	[ˈre.ɣolˌstik.kɑ]
 reht	/rext/
 reht	[reçt]
+renig	/ˈreː.nij/
 renscur	/ˈreːnˌʃuːr/
+renwæter	/ˈreːnˌwæ.ter/
 reoc	/re͜oːk/
 reocan	/ˈre͜oː.kɑn/
 reod	/re͜oːd/
@@ -10374,13 +10489,14 @@ scene	/ˈʃeː.ne/
 sceo	/ʃe͜oː/
 sceogan	/ˈʃoː.jɑn/
 sceoh	/ʃe͜oːx/
+sceoh	/ʃoːx/
 sceolde	/ˈʃolde/
 sceolh	/ʃe͜olx/
 sceolh	[ʃe͜oɫx]
 sceolhiege	/ˈʃe͜olxˌi͜yː.je/
 sceolhiege	[ˈʃe͜oɫxˌi͜yː.je]
 sceoliege	/ˈʃe͜oːlˌi͜yː.je/
-sceolu	/ˈʃe͜o.lu/
+sceolu	/ˈʃo.lu/
 sceomfull	/ˈʃe͜om.full/
 sceomfull	[ˈʃe͜om.fuɫ]
 sceon	/ʃe͜oːn/
@@ -10779,7 +10895,7 @@ simbel	/ˈsim.bel/
 simble	/ˈsim.ble/
 simle	/ˈsim.le/
 sin	/siːn/
-sin-	/ˈsin/
+sin-	/sin/
 sinc	/sink/
 sinc	[siŋk]
 sincan	/ˈsin.kɑn/
@@ -10810,6 +10926,8 @@ sinhweorfan	[ˈsinˌʍe͜orˠ.vɑn]
 sinnan	/ˈsin.nɑn/
 sinniht	/ˈsinˌnixt/
 sinniht	[ˈsinˌniçt]
+sinnihte	/ˈsinˌnix.te/
+sinnihte	[ˈsinˌniç.te]
 sinu	/ˈsi.nu/
 sinwealt	/ˈsinˌwæ͜ɑlt/
 sinwealt	[ˈsinˌwæ͜ɑɫt]
@@ -10896,6 +11014,7 @@ slæpleast	/ˈslæːpˌlæ͜ɑːst/
 slæwþ	/slæːwθ/
 smalan	/ˈsmɑ.lɑn/
 smales	/ˈsmɑ.les/
+smalo	/ˈsmɑ.lo/
 smalum	/ˈsmɑ.lum/
 smeag	/smæ͜ɑːɡ/
 smeag	[smæ͜ɑːɣ]
@@ -10933,6 +11052,8 @@ smugan	/ˈsmuː.ɡɑn/
 smugan	[ˈsmuː.ɣɑn]
 smæccan	/ˈsmæt.t͡ʃɑn/
 smæl	/smæl/
+smælra	/ˈsmæl.rɑ/
+smælra	[ˈsmæɫ.rɑ]
 snaca	/ˈsnɑ.kɑ/
 snaw	/snɑːw/
 snawhwit	/ˈsnɑːwˌxwiːt/
@@ -11178,6 +11299,8 @@ steopmodor	/ˈste͜oːpˌmoː.dor/
 steopsunu	/ˈste͜oːpˌsu.nu/
 steor	/ste͜oːr/
 steoran	/ˈste͜oː.rɑn/
+steorbord	/ˈste͜oːrˌbord/
+steorbord	[ˈste͜oːrˌborˠd]
 steore	/ˈste͜oː.re/
 steorend	/ˈste͜oː.rend/
 steorfa	/ˈste͜or.fɑ/
@@ -11284,6 +11407,7 @@ stræl	/stræːl/
 stræt	/stræːt/
 stubb	/stubb/
 stubb	[stub]
+studa	/ˈstu.dɑ/
 studu	/ˈstu.du/
 stulor	/ˈstu.lor/
 stund	/stund/
@@ -11295,11 +11419,15 @@ stybb	/stybb/
 stybb	[styb]
 stycce	/ˈstyt.t͡ʃe/
 styccemælum	/ˈstyt.t͡ʃeˌmæː.lum/
+styde	/ˈsty.de/
 styntan	/ˈstyn.tɑn/
 styran	/ˈstyː.rɑn/
+styredon	/ˈsty.re.don/
+styreþ	/ˈsty.reθ/
 styria	/ˈsty.ri.ɑ/
 styrian	/ˈstyr.jɑn/
 styrian	[ˈstyrˠ.jɑn]
+styriaþ	/ˈsty.ri.ɑθ/
 styric	/ˈsty.rik/
 styriende	/ˈstyr.jen.de/
 styriende	[ˈstyrˠ.jen.de]
@@ -11435,6 +11563,8 @@ swan	/swɑːn/
 swapan	/ˈswɑː.pɑn/
 swaru	/ˈswɑ.ru/
 swat	/swɑːt/
+swateg	/ˈswɑː.tej/
+swatig	/ˈswɑː.tij/
 swatþyrel	/ˈswɑːtˌθyː.rel/
 swaþrian	/ˈswɑθ.ri.ɑn/
 swaþrian	[ˈswɑð.ri.ɑn]
@@ -11509,8 +11639,10 @@ sweostor	/ˈswe͜os.tor/
 sweostorsunu	/ˈswe͜os.torˌsu.nu/
 sweota	/ˈswe͜oː.tɑ/
 sweotol	/ˈswe͜o.tol/
+swereþ	/ˈswe.reθ/
 swerian	/ˈswer.jɑn/
 swerian	[ˈswerˠ.jɑn]
+sweriaþ	/ˈswe.ri.ɑθ/
 swete	/ˈsweː.te/
 swetlice	/ˈsweːtˌliː.t͡ʃe/
 swetnes	/ˈsweːt.nes/
@@ -11574,6 +11706,7 @@ swolgettan	/ˈswol.ɡet.tɑn/
 swolgettan	[ˈswoɫ.ɣet.tɑn]
 sword	/sword/
 sword	[sworˠd]
+sworon	/ˈswoː.ron/
 swote	/ˈswoː.te/
 swurd	/swurd/
 swurd	[swurˠd]
@@ -11944,8 +12077,8 @@ toworpennes	/toːˈwor.pen.nes/
 toworpennes	[toːˈworˠ.pen.nes]
 towrecan	/toːˈwre.kɑn/
 towritan	/toːˈwriː.tɑn/
-toætiecan	/ˈtoː.ætˌi͜yː.t͡ʃɑn/
-toætiecnes	/ˈtoː.ætˌi͜yːt͡ʃ.nes/
+toætiecan	/toː.ætˈi͜yː.t͡ʃɑn/
+toætiecnes	/toː.ætˈi͜yːt͡ʃ.nes/
 toþ	/toːθ/
 toþece	/ˈtoːθˌe.t͡ʃe/
 toþece	[ˈtoːðˌe.t͡ʃe]
@@ -11975,6 +12108,8 @@ treowwyrm	/ˈtre͜oːwˌwyrm/
 treowwyrm	[ˈtre͜oːwˌwyrˠm]
 triewe	/ˈtri͜yː.we/
 triewen	/ˈtri͜y.wen/
+trifet	/ˈtri.fet/
+trifet	[ˈtri.vet]
 trig	/trij/
 triwen	/ˈtri.wen/
 trog	/troɡ/
@@ -12173,6 +12308,7 @@ unc	[uŋk]
 uncamprof	/ˈunˌkɑmpˌroːf/
 uncer	/ˈun.ker/
 uncer	[ˈuŋ.ker]
+unciepe	/ˈunˌt͡ʃi͜yː.pe/
 uncit	/ˈuŋkit/
 unclæne	/ˈunˌklæː.ne/
 uncnyttan	/unˈknyt.tɑn/
@@ -13354,6 +13490,7 @@ wund	/wund/
 wundian	/ˈwun.di.ɑn/
 wundor	/ˈwun.dor/
 wundorful	/ˈwun.dor.ful/
+wundorlic	/ˈwun.dorˌliːk/
 wundorlic	/ˈwun.dorˌliːt͡ʃ/
 wundorlice	/ˈwun.dorˌliː.t͡ʃe/
 wundortacen	/ˈwun.dorˌtɑː.ken/
@@ -14251,6 +14388,7 @@ yþworiende	[ˈyːð.woː.ri.en.de]
 þritigfeald	/ˈθriː.tijˌfæ͜ɑld/
 þritigfeald	[ˈθriː.tijˌfæ͜ɑɫd]
 þriwintre	/ˈθriˌwin.tre/
+þroh	/θroːx/
 þroht	/θroxt/
 þrop	/θrop/
 þrostle	/ˈθrost.le/

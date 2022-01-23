@@ -6,6 +6,7 @@
 'nen	/nən/
 'ner	/nɐ/
 'türlich	/ˈtyːɐ̯lɪç/
+'türlich	[ˈt(ʰ)ʏlɪç]
 'türlich	[ˈtʰyːɐ̯lɪç]
 -'sch	/ʃ/
 -'sch	[ʃ]
@@ -59,6 +60,7 @@
 -erweise	/ɐˌvaɪ̯zə/
 -es	/əs/
 -es	/ɛs/
+-ese	[ˈeː.zə]
 -esk	/-ˈɛsk/
 -eur	/ˈøːr/
 -eur	[ˈøːɐ̯]
@@ -72,17 +74,20 @@
 -förmig	/ˈfœʁmɪç/
 -förmig	/ˈfœʁmɪk/
 -frei	/fʁaɪ̯/
+-freudig	/ˈfʁɔʏ̯dɪç/
+-freudig	/ˈfʁɔʏ̯dɪk/
 -gate	[ɡeɪt]
 -gate	[ɡeːt]
 -gen	/ɡeːn/
 -gen	/ɡən/
 -gramm	/ɡʁam/
 -haft	/-haft/
+-haft	[haft]
 -haftig	/-ˌhaftɪç/
 -haltig	/ˈhaltɪç/
 -haltig	/ˈhaltɪk/
--heit	/-ˌhaɪ̯t/
--heit	[ˌhaɪ̯t]
+-heit	/-haɪ̯t/
+-heit	[haɪ̯t]
 -i	[i]
 -iatrie	/i̯aˈtʁiː/
 -ien	/i̯ən/
@@ -279,7 +284,8 @@ Aar	/aːɐ̯/
 Aare	[ˈaːʀə]
 Aargau	/ˈaːɐ̯ˌɡaʊ̯/
 Aargauer	/ˈaːɐ̯ˌɡaʊ̯ɐ/
-Aaron	/ˈʔaːʀɔn/
+Aaron	[ˈaːʁɔn]
+Aaron	[ˈʔaːʀɔn]
 Aas	/aːs/
 Aase	/aːzə/
 Aaser	/ˈaːzɐ/
@@ -775,6 +781,8 @@ Agape	/aˈɡaːpə/
 Agathe	[aˈɡaːtə]
 Agenda	/aˈɡɛnda/
 Agens	/ˈaːɡɛns/
+Agent Provocateur	/aˈʒɔ̃ː pʁoˌvokaˈtœʁ/
+Agent Provocateur	[ˈtœɐ̯]
 Agentin	[aˈɡɛntɪn]
 Agentinnen	[aˈɡɛntɪnən]
 Agentur	/aɡɛnˈtuːɐ̯/
@@ -847,6 +855,8 @@ Aktivieren	/aktiˈviːʁən/
 Aktivist	/aktiˈvɪst/
 Aktivität	/aktiviˈteːt/
 Aktivität	/aktiviˈtɛːt/
+Aktualität	/aktualiˈtɛːt/
+Aktualitäten	/aktualiˈtɛːtn̩/
 Akut	/aˈkuːt/
 Aküfi	/ˈakʏfi/
 Akzent	/akˈt͡sɛnt/
@@ -874,6 +884,7 @@ Albdruck	/ˈalpˌdʁʊk/
 Albe	/ˈalbə/
 Albino	/alˈbiːno/
 Albtraum	/ˈalptʁaʊ̯m/
+Albumin	/albuˈmiːn/
 Alchemie	/alçeˈmiː/
 Alchemist	/alçeˈmɪst/
 Alchimie	/alçiˈmiː/
@@ -907,6 +918,7 @@ Alimente	/aliˈmɛntə/
 Alina	[aˈliːna]
 Alinea	/aˈlinea/
 Alk	/alk/
+Alki	/ˈalki/
 Alkohol	/al.koˈhoːl/
 Alkohol	/ˈal.koˌhoːl/
 Alkohol	/ˈalˌkoːl/
@@ -961,6 +973,7 @@ Alltag	[ˈʔaltʰaχ]
 Alltagsrassismus	/ˈaltaːksʁaˌsɪsmʊs/
 Alltagstrott	[ˈʔaltaːksˌtʁɔt]
 Alm	[ʔalm]
+Alma Mater	/ˈalma ˈmaːtɐ/
 Almanach	/ˈalmaˌnax/
 Almanach	/ˈalmaˌnaːx/
 Almanach	[ˈalmaˌnaχ]
@@ -977,7 +990,7 @@ Alpdrücken	/ˈalpˌdʁʏkn̩/
 Alpen	/ˈʔalpən/
 Alpen	[ˈʔalpm̩]
 Alpenrhein	/ˈalpn̩ˌʁaɪ̯n/
-Alpenstrandläufer	/ˈʔalpənʃtrantˌlɔɪ̯fɐ/
+Alpenstrandläufer	/ˈalpənʃtrantˌlɔɪ̯fɐ/
 Alpenveilchen	/ˈʔalpm̩ˌfaɪ̯lçn̩/
 Alpenveilchen	/ˈʔalpənˌfaɪ̯lçən/
 Alpenverein	[ˈʔalpm̩fɛɐ̯ˌʔaɪ̯n]
@@ -1078,6 +1091,7 @@ Amateurkünstlers	/amaˈtøːɐ̯ˌkʏnstlɐs/
 Amateurmusiker	[amaˈtøːɐ̯ˌmuːzɪkɐ]
 Amateurmusikerin	/amaˈtøːɐ̯ˌmuːzɪkəʁɪn/
 Amateurmusikerinnen	/amaˈtøːɐ̯ˌmuːzɪkəʁɪnən/
+Amazonas	/amaˈt͡soːnas/
 Ambiguität	/ambiɡuiˈtɛːt/
 Ambivalenz	[ˌambivaˈlɛnts]
 Amblyopie	[amblyoˈpiː]
@@ -1769,11 +1783,12 @@ Artist	/aʁˈtɪst/
 Arznei	/aʁt͡sˈnaɪ̯/
 Arznei	/aːɐ̯t͡sˈnaɪ̯/
 Arzneibuch	/aːɐ̯t͡sˈnaɪ̯buːx/
-Arzt	/aːts(t)/
-Arzt	/aːɐ̯tst/
+Arzt	[aʁt͡st]
+Arzt	[aːts(t)]
+Arzt	[aːɐ̯tst]
 Arztkittel	[ˈaːɐ̯t͡stˌkɪtl̩]
 Asbest	/asˈbɛst/
-Asche	/ˈaʃə/
+Asche	[ˈaʃə]
 Aschen	/ʔaʃn̩/
 Aschen	/ʔaʃən/
 Aschenbecher	/ˈaʃənˌbɛçər/
@@ -1794,6 +1809,7 @@ Aserbaidschanisch	/ˌazɐbaɪ̯ˈdʒaːnɪʃ/
 Asexualität	/ˈazɛksu̯aliˌtɛːt/
 Asi	/ˈazi/
 Asiate	[aˈzi̯aːtə]
+Asien	[ˈaːzi̯ən]
 Askese	/aˈskeːzə/
 Asoziale	[ˈazoˌt͡si̯aːlə]
 Asozialer	[ˈazoˌt͡si̯aːlɐ]
@@ -1900,6 +1916,7 @@ Atomtheorie	/aˈtoːmteoˌʁiː/
 Atomuhr	/aˈtoːmˌʔu(ː)ɐ̯/
 Atomzeitalter	/aˈtoːmt͡saɪ̯tˌʔaltɐ/
 Atrazin	/ˌatʁaˈt͡siːn/
+Atrium	/ˈaːtʀiʊm/
 Atriumhaus	/ˈaːtʁiʊmˌhaʊ̯s/
 Atrophie	/atʁoˈfiː/
 Attacke	/aˈtakə/
@@ -2097,6 +2114,7 @@ Augenweide	/ˈaʊ̯ɡŋ̩ˌvaɪ̯də/
 Augenwinkel	[ˈaʊ̯ɡn̩ˌvɪŋkl̩]
 Augenzwinkern	/ˈaʊ̯ɡn̩ˌt͡svɪŋkɐn/
 Augiasstall	/ˈaʊ̯ɡi̯asˌʃtal/
+Augur	/aʊ̯ˈɡuːɐ̯/
 August	/aʊ̯ˈɡʊst/
 August	/ˈaʊ̯ɡʊst/
 Aula	[ˈʔaʊ̯la]
@@ -2187,6 +2205,7 @@ Ausländerin	/ˈaʊ̯sˌlɛndəʁɪn/
 Ausländerin	[ˈʔaʊ̯sˌlɛndəʁɪn]
 Ausläufer	[ˈaʊ̯sˌlɔɪ̯fɐ]
 Ausleger	/ˈaʊ̯sˌleːɡɐ/
+Auslöser	/ˈaʊ̯sˌløːzɐ/
 Auslösung	/ˈʔaʊ̯sløːzʊŋ/
 Auslösungen	[ˈʔaʊ̯sløːzʊŋən]
 Ausmaß	/ˈaʊ̯smaːs/
@@ -2347,6 +2366,7 @@ Autoschlange	/ˈaʊ̯toˌʃlaŋə/
 Autoschlüssel	/ˈaʊ̯toˌʃlʏsl̩/
 Autoschlüssel	/ˈaʊ̯toˌʃlʏsəl/
 Autosemantikum	/aʊ̯tozeˈmantɪkʊm/
+Autostunde	/ˈaʊ̯toˌʃtʊndə/
 Autotelefon	/ˈaʊ̯toteleˌfoːn/
 Autotelefon	/ˈaʊ̯toˌteːləfoːn/
 Autotelefone	/ˈaʊ̯toteleˌfoːnə/
@@ -2405,8 +2425,9 @@ Axolotl	/aksoˈloːtl/
 Axt	/akst/
 Azalee	/at͡saˈleːə/
 Azeton	/atsəˈtoːn/
+Azimut	[a.t͡si.ˈmuːt]
 Azubi	/aˈt͡suːbi/
-Azubi	/ˈaːt͡suːbi/
+Azubi	/ˈaːt͡suˌbiː/
 Azubine	/at͡suˈbiːnə/
 Azurblau	/aˈt͡suːɐ̯ˌblaʊ̯/
 Ä	/ɛ/
@@ -2734,6 +2755,8 @@ Baptist	/bapˈtɪst/
 Bar	[baːɐ]
 Barbadier	/baʁˈbaːdiɐ/
 Barbar	/baʁˈbaːɐ̯/
+Barbara	/ˈbarbara/
+Barbara	[ˈbaʁ.bɐ.ʁa]
 Barbarei	/baʁbaˈʁaɪ̯/
 Barbier	/baʁˈbiːɐ̯/
 Barceloner	[baʁseˈloːnɐ]
@@ -2856,7 +2879,10 @@ Bauarbeiter	/ˈbaʊ̯ʔaʁˌbaɪ̯tɐ/
 Bauch	/baʊ̯x/
 Bauch	[baʊ̯x]
 Bauch	[baʊ̯χ]
+Bauchfell	/ˈbaʊ̯xfɛl/
+Bauchfellentzündung	[ˈbaʊ̯xfɛlʔɛntˌt͡sʏndʊŋ]
 Bauchfett	/ˈbaʊ̯xˌfɛt/
+Bauchhöhle	/ˈbaʊ̯xˌhøːlə/
 Bauchkrampf	[ˈbaʊ̯xˌkʁamp͡f]
 Bauchlandung	/ˈbaʊ̯χˌlandʊŋ/
 Bauchredner	/ˈbaʊ̯χˌʁeːdnɐ/
@@ -2972,8 +2998,10 @@ Bär	[bɛɐ̯]
 Bär	[bɛːɐ̯]
 Bärchen	/bɛːrçən/
 Bärchen	[bɛːɐ̯.çən]
-Bären	/beːɐ̯n/
-Bären	/ˈbeːʁən/
+Bären	/bɛːʁən/
+Bären	[beːɐ̯n]
+Bären	[beːʁən]
+Bären	[bɛːɐ̯n]
 Bärendienst	/ˈbeːrənˌdiːnst/
 Bärendienst	/ˈbeːɐ̯nˌdiːnst/
 Bärendienst	/ˈbɛːrənˌdiːnst/
@@ -3017,6 +3045,9 @@ Bearbeitungsdauer	/bəˈʔaʁbaɪ̯tʊŋsˌdaʊ̯ɐ/
 Beat	/biːt/
 Beatmung	/bəˈʔaːtmʊŋ/
 Beatnik	/ˈbiːtnɪk/
+Beben	/ˈbeːbən/
+Beben	[ˈbeːbm̩]
+Beben	[ˈbeːbən]
 Bebung	/ˈbeːbʊŋ/
 Becher	/ˈbɛçɐ/
 Becken	/ˈbɛkən/
@@ -3216,6 +3247,8 @@ Beiruter	[ˌbaɪ̯ˈʀuːtɐ]
 Beisammensein	/baɪˈzamənˌzaɪn/
 Beisatz	/ˈbaɪ̯ˌzat͡s/
 Beisein	/ˈbaɪ̯zaɪ̯n/
+Beisl	/ˈbaɪ̯zl̩/
+Beisl	/ˈb̥aɪsl̩/
 Beispiel	/ˈbaɪ̯ʃpiːl/
 Beispielsatz	/ˈbaɪ̯ʃpiːlˌzat͡s/
 Beistand	[ˈbaɪ̯ʃtant]
@@ -3237,6 +3270,7 @@ Bekannten	[bəˈkantən]
 Bekannter	[bəˈkantɐ]
 Bekanntheit	/bəˈkanthaɪ̯t/
 Bekanntschaft	/bəˈkantʃaft/
+Bekassine	/bekaˈsiːnə/
 Bekämpfung	/bəˈkɛmpfʊŋ/
 Bekehrung	/bəˈkeːʁʊŋ/
 Bekenntnis	/bəˈkɛntnɪs/
@@ -3370,6 +3404,8 @@ Bermudas	/bɛʁˈmuːdaːs/
 Bermuder	/bɛʁˈmuːdɐ/
 Bermuderin	/bɛʁˈmuːdəʁɪn/
 Bern	[bɛʁn]
+Bernd	[bɛɐ̯nt]
+Bernd	[bɛʁnt]
 Berner	/ˈbɛʁnɐ/
 Bernstein	/ˈbɛrnˌʃtaɪ̯n/
 Bernstein	[ˈbɛɐ̯nˌʃtaɪ̯n]
@@ -3571,6 +3607,8 @@ Bettlägerigkeit	/ˈbɛtlɛːɡəʁɪçkaɪ̯t/
 Bettler	/ˈbɛtlɐ/
 Betts	/bɛts/
 Betttuch	/ˈbɛ(t)ˌtuːx/
+Bettuch	/ˈbeːtˌtuːx/
+Bettuch	/ˈbɛtˌtuːx/
 Bettwäsche	/ˈbɛtˌvɛʃə/
 Bettzeug	/ˈbɛtˌt͡sɔɪ̯k/
 Beuel	/bɔʏ̯l/
@@ -3754,7 +3792,7 @@ Bildteppich	[ˈbɪltˌtɛpɪç]
 Bildung	/ˈbɪldʊŋ/
 Bildungseinrichtung	/ˈbɪldʊŋsˌʔaɪ̯nʁɪçtʊŋ/
 Bildungsministerium	[ˈbɪldʊŋsminɪsˌteːʀiʊm]
-Bildungsroman	[ˈbɪl.dʊŋs.ʀoˈmaːn]
+Bildungsroman	[ˈbɪldʊŋsʁoˌmaːn]
 Bildungssprache	[ˈbɪldʊŋsˌʃpʀaːχə]
 Bildunterschrift	/ˈbɪltʔʊntɐʃʁɪft/
 Bildwörterbuch	/ˈbɪltˌvœʁtɐbuːx/
@@ -4109,6 +4147,7 @@ Blütenstängel	/ˈblyːtənˈʃtɛŋəl/
 Blütenstiel	/ˈblyːtənˈʃtiːl/
 Blütezeit	/ˈblyːtəˌt͡saɪ̯t/
 Boa	/ˈboːa/
+Boas	/ˈboːas/
 Bocher	[ˈbɔxɐ]
 Bock	[bɔk]
 Bockkäfer	/ˈbɔkˌkeːfɐ/
@@ -4212,6 +4251,7 @@ Bolzenschneiders	/ˈbɔlt͡sn̩ˌʃnaɪ̯dɐs/
 Bolzenschuß	[ˈbɔlt͡sn̩ˌʃʊs]
 Bolzplatz	[ˈbɔltsplats]
 Bombardierung	/bɔmbaʁˈdiːʁʊŋ/
+Bombast	/bɔmˈbast/
 Bombe	/ˈbɔmbə/
 Bombenleger	/ˈbɔmbn̩ˌleːɡɐ/
 Bomber	[ˈbɔmbɐ]
@@ -4346,7 +4386,7 @@ Boxen	/ˈbɔksn̩/
 Boxer	/ˈbɔksɐ/
 Boxershorts	/ˈbɔksərˌʃɔrts/
 Boxhandschuh	/ˈbɔkshantˌʃuː/
-Boykott	/bɔɪˈkɔt/
+Boykott	[ˌbɔɪ̯ˈkɔt]
 Bozen	/ˈboːt͡sn̩/
 Bö	/bøː/
 Böcke	/ˈbœkə/
@@ -4532,6 +4572,8 @@ Bretagne	/bʁəˈtaɲə/
 Brett	/bʁɛt/
 Brettchen	/ˈbʁɛtçən/
 Brettchens	/ˈbʁɛtçəns/
+Brettspiel	/ˈbrɛtˌʃpiːl/
+Brettspiel	/ˈbʁɛtˌʃpiːl/
 Breve	/bʁeːvə/
 Brexit	/ˈbrɛksɪt/
 Brezel	/ˈbreːtsəl/
@@ -4638,6 +4680,7 @@ Brummer	/ˈbʁʊmɐ/
 Brummi	/ˈbʁʊmi/
 Brunch	/bʁant͡ʃ/
 Brunch	/bʁanʃ/
+Brunei	[ˈbʁuːnaɪ̯]
 Bruneier	/bʁuːˈnaɪ̯ɐ/
 Brunnen	/ˈbʁʊnən/
 Brunnen	[ˈbʁʊ.nn̩]
@@ -4649,7 +4692,7 @@ Bruststern	[ˈbʁʊstˌʃtɛʁn]
 Brusttasche	/ˈbʁʊstˌtaʃə/
 Brusttaschen	/ˈbʁʊstˌtaʃn̩/
 Brusttaschen	/ˈbʁʊstˌtaʃən/
-Brustwarze	/ˈbrʊstˌvartsə/
+Brustwarze	[ˈbʁʊstˌvaʁt͡sə]
 Brutalität	/bʁutaliˈtɛːt/
 Brutalitäten	/bʁutaliˈtɛːtn̩/
 Brutalitäten	/bʁutaliˈtɛːtən/
@@ -4800,6 +4843,8 @@ Bundesversammlung	/ˈbʊndəsfɛɐ̯ˌzamlʊŋ/
 Bundeswahlausschuss	/ˌbʊndəsˈvaːlˌ.aʊ̯sʃʊs/
 Bundeswahlleiter	/ˌbʊndəsˈvaːllaɪ̯tɐ/
 Bundeswehr	/ˈbʊndəsˌveːɐ̯/
+Bungalow	/ˈbaŋɡaloː/
+Bungalow	/ˈbʊŋɡaloː/
 Bungeespringen	/ˈband͡ʒiˌʃpʁɪŋən/
 Bunker	/ˈbʊŋkɐ/
 Buntgrad	/ˈbʊntˌɡʁaːt/
@@ -4833,6 +4878,7 @@ Busfahrer	/ˈbʊsˌfaːʁɐ/
 Busfahrkarte	/ˈbʊsfaːɐ̯ˌkaʁtə/
 Busfahrt	/ˈbʊsfaːɐ̯t/
 Bushaltestelle	[ˈbʊshaltəˌʃtɛlə]
+Bussard	/ˈbʊsaʁt/
 Busse	/ˈbuːsə/
 Busse	/ˈbʊsə/
 Bussen	/ˈbuːsn̩/
@@ -4867,6 +4913,7 @@ Büchelchen	[ˈbyːçl̩çən]
 Bücher	/ˈbyːçɐ/
 Bücherei	/ˌbyːçəˈʁaɪ̯/
 Büchern	/ˈbyːçɐn/
+Büchersammlung	/ˈbyːçɐˌzamlʊŋ/
 Bücherschrank	/ˈbyːçɐˌʃʁaŋk/
 Bücherschrankes	/ˈbyːçɐˌʃʁaŋkəs/
 Bücherschranks	/ˈbyːçɐˌʃʁaŋks/
@@ -4958,6 +5005,8 @@ Büttel	/ˈbʏtəl/
 Büttel	[ˈbʏtl̩]
 Bütterken	/ˈbʏtɐkən/
 Büttner	/ˈbʏtnɐ/
+Büßer	/ˈbyːsɐ/
+Büßerhemd	/ˈbyːsɐˌhɛmt/
 Bypass	/ˈbaɪ̯ˌpas/
 Byzanz	/byˈtsan(t)s/
 C	/tseː/
@@ -4992,6 +5041,7 @@ Campus	/ˈkampʊs/
 Canadier	/kaˈnaːdiɐ/
 Canaille	/kaˈnajə/
 Canaille	/kaˈnaljə/
+Candystorm	/ˈkɛndistoːɐ̯m/
 Canyon	/ˈkɛnjən/
 Cappuccino	/ˌkapuˈtʃiːno/
 Caprice	/kaˈpʁis/
@@ -5014,6 +5064,7 @@ Catarina	[kataˈʀiːna]
 Catcher	/ˈkɛtʃɐ/
 Catcherin	/ˈkɛtʃəʁɪn/
 Catharina	[kataˈʀiːna]
+Cayenne	/kaˈjɛn/
 Cäcilia	/ˈt͡sɛˈt͡siːli̯a/
 Cäcilie	/ˈt͡sɛˈt͡siːli̯ə/
 Cäsar	/ˈtsɛːzar/
@@ -5021,6 +5072,7 @@ Cedille	/seˈdiːjə/
 Cello	/ˈt͡ʃɛlo/
 Cello	/ˈʃɛlo/
 Celsius	/ˈt͡sɛlzi̯ʊs/
+Cembalo	/ˈt͡ʃɛmbaloː/
 Cent	/(t)sɛnt/
 Chabo	/ˈt͡ʃaːbo/
 Chaiselongue	/ˌʃɛ(ː)zəˈlɔŋ/
@@ -5088,6 +5140,7 @@ Charme	[ʃaʁm]
 Charme	[ʃaːm]
 Charta	/ˈkaʁta/
 Chat	/tʃɛt/
+Chatroom	/ˈt͡ʃɛtˌʀuːm/
 Chauffeurin	/ʃɔˈføːʁɪn/
 Chauffeurin	[ʃɔˈføːʁɪn]
 Chauvi	/ˈʃoːvi/
@@ -5118,6 +5171,8 @@ Chemikerin	/ˈçeːmikɐʁɪn/
 Cheminée	/ʃəmiˈneː/
 Cheminée	/ˈʃmineː/
 Chemnitz	/ˈkɛmnɪts/
+Chemo	/ˈçeːmo/
+Chemo	/ˈkemo/
 Chemotherapie	/ˈçemoteʁapiː/
 Chemotherapie	/ˈkemoteʁapiː/
 Cherimoya	/t͡ʃeʁiˈmoːja/
@@ -5262,6 +5317,7 @@ Comiczeichner	/ˈkɔmɪkˌtsaɪ̯çnɐ/
 Commit	/kɔˈmɪt/
 Community	/kɔˈmjuːnɪti/
 Computer	/kɔmˈpjuːtɐ/
+Computerisierung	/kɔmpjuːtəʁiˈziːʁʊŋ/
 Computerlinguistik	/kɔmˈpjuːtɐlɪŋɡʊ̯ɪstɪk/
 Computerspiel	/kɔmˈpjuːtɐˌʃpiːl/
 Concealer	/kɔnˈsiːlɐ/
@@ -5273,6 +5329,7 @@ Containers	/ˌkɔnˈtɛɪnɐs/
 Contenance	/kõtəˈnɑ̃ːs/
 Contenance	/kõtəˈnɑ̃ːsə/
 Contergan	/ˌkɔntɐˈɡaːn/
+Cookie	/ˈkʊki/
 Copernicium	/kopɐˈniːt͡si̯ʊm/
 Coronaviren	[koˈʁoːnaˌviːʁən]
 Coronavirus	/koˈʁoːnaˌviːʁʊs/
@@ -5496,10 +5553,12 @@ Dauerfrost	/ˈdaʊ̯ɐˌfrɔst/
 Dauerlauf	/ˈdaʊ̯ɐˌlaʊ̯f/
 Dauerlösung	/ˈdaʊ̯ɐˌløːzʊŋ/
 Dauerlutscher	/ˈdaʊ̯ɐˌlʊt͡ʃɐ/
+Dauerschach	/ˈdaʊ̯ɐˌʃax/
 Dauerwelle	/ˈdaʊ̯ɐvɛlə/
 Dauerwirkung	/ˈdaʊ̯ɐvɪʁkʊŋ/
 Dauerzustand	/ˈdaʊ̯ɐˌt͡suːʃtant/
 Daumen	/ˈdaʊ̯mən/
+Daumenregel	[ˈdaʊ̯mənˌʁeːɡl̩]
 Daune	/ˈdaʊ̯nə/
 Daus	/daʊ̯s/
 David	/ˈdaːvɪt/
@@ -5620,6 +5679,7 @@ Departementsrat	[deːpartəˈmɛntsˌʁaːt]
 Department	[diˈpaːɐ̯tmənt]
 Departments	[diˈpaːɐ̯tmənts]
 Depesche	/deˈpɛ.ʃə/
+Depot	[deˈpoː]
 Depp	/dɛp/
 Deppenapostroph	/ˈdɛpənʔapoˌstʁoːf/
 Deppenapostrophe	/ˈdɛpənʔapoˌstʁoːfə/
@@ -5683,6 +5743,7 @@ Dezillion	/det͡sɪˈli̯oːn/
 Dezimalstelle	/detsiˈmaːlˌʃtɛlə/
 Dezimalstellen	/detsiˈmaːlˌʃtɛlən/
 Dezimalsystem	[det͡siˈmaːlzʏsˌteːm]
+Déjà-vu	/ˌdeʒa ˈvyː/
 Dia	/ˈdiː.a/
 Diabetes	/diaˈbeːtəs/
 Diabetiker	/diaˈbeːtɪkɐ/
@@ -5779,6 +5840,7 @@ Dingenskirchen	/ˈdɪŋənsˌkɪʁçən/
 Dings	/dɪŋs/
 Dingsbums	/ˈdɪŋsbʊms/
 Dingsda	/ˈdɪŋs.da/
+Diorama	/diːoˈʀaːma/
 Diözese	/ˌdiːoˈt͡seːzə/
 Diözese	/ˌdiːoˈt͡søːzə/
 Diözese	/ˌdiːøˈt͡seːzə/
@@ -5812,6 +5874,10 @@ Diskothek	/dɪskoˈteːk/
 Diskrepanz	/ˌdɪskʁeˈpant͡s/
 Diskurs	/dɪsˈkʊʁs/
 Diskursanalyse	/dɪsˈkʊʁs.a.naˌlyː.zə/
+Diskursmarker	/dɪsˈkʊʁsˌmaʁkɐ/
+Diskursmarkers	/dɪsˈkʊʁsˌmaʁkɐs/
+Diskurspartikel	/dɪsˈkʊʁspaʁˌtikl̩/
+Diskurspartikels	/dɪsˈkʊʁspaʁˌtikl̩s/
 Diskus	/ˈdɪskʊs/
 Diskussion	/dɪskuˈzjoːn/
 Diskussion	/dɪskʊˈsjoːn/
@@ -6044,6 +6110,7 @@ Drahtsieb	[ˈdʁaːtziːp]
 Drahtzaun	/ˈdʁaːtˌtsaʊ̯n/
 Dramaturg	[dʁamaˈtʊʁk]
 Dramaturgen	[dʁamaˈtʊʁɡn̩]
+Dramaturgie	[ˌdʁamatʊʁˈɡiː]
 Dramaturgin	/dʁamaˈtʊʁɡɪn/
 Drang	/dʁaŋ/
 Drangsal	[ˈdʁaŋzaːl]
@@ -6104,6 +6171,7 @@ Dreiunddreißigstels	/ˈdʁaɪ̯ʊntˌdʁaɪ̯sɪçstəls/
 Dreiundzwanzig	/ˌdʁaɪ̯ʊntˈt͡svant͡sɪç/
 Dreiundzwanzigstel	/ˌdʁaɪ̯ʊntˈt͡svant͡sɪçstəl/
 Dreiundzwanzigstels	/ˌdʁaɪ̯ʊntˈt͡svant͡sɪçstəls/
+Dreizack	/ˈdʁaɪ̯ˌt͡sak/
 Dreizehenmöwe	/dʁaɪ̯ˈt͡seːənˌmøːvə/
 Dreizehn	/ˈdʁaɪ̯t͡seːn/
 Dreizehneck	/ˈdʁaɪ̯tseːnˌ.ɛk/
@@ -6250,6 +6318,7 @@ Dummkopfs	/ˈdʊmkɔpfs/
 Dummköpfe	/ˈdʊmkœpfə/
 Dummy	/ˈdami/
 Dumpfheit	[ˈdʊmpfhaɪ̯t]
+Dumpingpreis	/ˈdampɪŋˌpʁaɪ̯s/
 Dung	/dʊŋ/
 Dunkel	/ˈdʊŋkl̩/
 Dunkelblau	/ˈdʊŋkl̩ˌblaʊ̯/
@@ -6647,6 +6716,7 @@ Einführung	/ˈaɪ̯nˌfyːʀʊŋ/
 Einführung	[ˈʔaɪ̯nˌfyːʁʊŋ]
 Einfüßigkeit	/ˈaɪ̯nfyːsɪçˌkaɪ̯t/
 Eingang	/ˈʔaɪ̯nˌɡaŋ/
+Eingangshalle	/ˈaɪ̯nɡaŋsˌhalə/
 Eingangstür	/ˈaɪ̯nɡaŋsˌtyːɐ̯/
 Eingeborene	/ˈaɪ̯nɡəˌboːʁənə/
 Eingeborener	/ˈaɪ̯nɡəˌboːʁənɐ/
@@ -6668,7 +6738,10 @@ Einheitensystem	/ˈʔaɪ̯nhaɪ̯tn̩zʏsˌteːm/
 Einheitlichkeit	/ˈʔaɪ̯nhaɪ̯tlɪçkaɪ̯t/
 Einheitsbrei	/ˈaɪ̯nhaɪ̯t͡sˌbʁaɪ̯/
 Einheitspartei	/ˈaɪ̯nhaɪ̯tspaʁˌtaɪ̯/
-Einhorn	/ˈʔaɪ̯nhɔʁn/
+Einhorn	/ˈaɪ̯nˌhɔrn/
+Einhorn	[ˈʔaɪ̯nˌhɔʁn]
+Einhörner	/ˈaɪ̯nˌhœrnər/
+Einhörner	[ˈʔaɪ̯nˌhœʁ.nɐ]
 Einkauf	[ˈʔaɪ̯nkaʊ̯f]
 Einkaufsbeutel	/ˈaɪ̯nkaʊ̯fsˌbɔɪ̯tl̩/
 Einkaufsbummel	[ˈʔaɪ̯nkaʊ̯fsˌbʊml̩]
@@ -6706,6 +6779,7 @@ Einmachglas	/ˈaɪ̯nmaxˌɡlaːs/
 Einmachglases	/ˈaɪ̯nmaxˌɡlaːzəs/
 Einmachgläser	/ˈaɪ̯nmaxˌɡlɛːzɐ/
 Einmaleins	/ˈaɪ̯(n).ma(ː)lˈaɪ̯ns/
+Einmannpackung	/ˈaɪ̯nmanˌpakʊŋ/
 Einmischung	/ˈaɪnmɪʃʊŋ/
 Einöde	/ˈaɪ̯nˌ(ʔ)øːdə/
 Einraumwohnung	/ˈaɪ̯nʁaʊ̯mˌvoːnʊŋ/
@@ -6963,6 +7037,8 @@ Elastizitätsmodul	/elastit͡siˈtɛːt͡smoˌduːl/
 Elativ	/ˈeːlaˌtiːf/
 Elb	/ɛlp/
 Elbe	/ˈɛlbə/
+Elbsegler	/ˈɛlpzeːçlɐ/
+Elbsegler	/ˈɛlpzeːɡlɐ/
 Elch	/ɛlç/
 Electronic Card	/ɪlɛkˈtrɔnɪk ˈkɑːd/
 Elefant	/eleˈfant/
@@ -6982,6 +7058,7 @@ Elektrizitätswerke	/elɛktʁit͡siˈtɛːt͡sˌvɛʁkə/
 Elektrizitätswerkes	/elɛktʁit͡siˈtɛːt͡sˌvɛʁkəs/
 Elektrode	/elɛkˈtʁoːdə/
 Elektrokardiogramm	/eˌlɛktʁokaʁdi̯oˌɡʁam/
+Elektroladen	/eːˈlɛk.tʁoˌlaː.dən/
 Elektrolokomotive	/eˈlɛktʁolokomoˌtiːvə/
 Elektrolokomotiven	/eˈlɛktʁolokomoˌtiːvn̩/
 Elektrolyse	/elɛktʁoˈlyːzə/
@@ -7020,7 +7097,8 @@ Elftels	[ˈʔɛlftl̩s]
 Elias	[eˈliːas]
 Elimination	/ˌeliminaˈt͡si̯oːn/
 Elisa	/ʔeˈliːza/
-Elisabeth	/ʔeˈliːzabɛt/
+Elisabeth	/eˈliːzabɛt/
+Elisabeth	/eˈliːzaˌbeːt/
 Elise	/ʔeˈliːzə/
 Elixier	/elɪˈksiːɐ̯/
 Elke	/ɛl.kə/
@@ -7124,6 +7202,9 @@ Energiezufuhr	[ʔenɛɐ̯ˈɡiːˌtsuːfuːɐ̯]
 Energiezufuhr	[ʔenɛʁˈɡiːˌtsuːfuːɐ̯]
 Engagement	/ãɡaʒ(ə)ˈmãː/
 Engel	/ˈɛŋl̩/
+Engelbert	/ˈɛŋl.bɛrt/
+Engelbert	[ˈɛŋl̩.bɛɐ̯t]
+Engelbrecht	/ˈɛŋl.bʁɛçt/
 Engelland	/ˈɛŋəlˌlant/
 Engelszunge	[ˈɛŋl̩sˌt͡sʊŋə]
 Engen	/ˈɛŋən/
@@ -7422,6 +7503,7 @@ Erinnerung	/ɛɐˈʁɪnəʁʊŋ/
 Erinnerung	/ɛɐˈʔɪnəʁʊŋ/
 Erinnerungslücke	[ɛɐ̯ˈʔinəʁʊŋsˌlʏkə]
 Erinnerungsstück	[ɛɐ̯ˈʔɪnəʀʊŋsˌʃtʏk]
+Erinnerungsvermögen	/ɛɐ̯ˈʔɪnəʁʊŋsfɛɐ̯ˌmøːɡn̩/
 Eritrea	/eʁiˈtʁeː.a/
 Erkennbarkeit	/ɛɐ̯ˈkɛnbaːɐ̯ˌkaɪt/
 Erkenntlichkeit	[ɛɐ̯ˈkɛntlɪçkaɪ̯t]
@@ -7653,8 +7735,10 @@ Etikettenschwindel	[etiˈkɛtn̩ˌʃvɪndl̩]
 Etsch	[ɛtʃ]
 Etter	/ˈɛtɐ/
 Etter	[ˈɛtʰɐ]
-Etui	[eˈty̆iː]
-Etui	[ɛtˈviː]
+Etui	/eˈtu̯iː/
+Etui	/eˈty̯iː/
+Etui	[e.tuˈiː]
+Etui	[e.tyˈiː]
 Etwas	/ˈɛtvas/
 Etymologe	/etymoˈloːɡə/
 Etymologie	[ˌetymoloˈɡiː]
@@ -7673,7 +7757,8 @@ Eulen nach Athen tragen	/ˈɔɪ̯ln̩ naːχ aˈteːn ˈtʁaːɡn̩/
 Eulen nach Athen tragen	/ˈɔɪ̯lən naːχ aˈteːn ˈtʁaːɡən/
 Eumel	/ˈɔɪ̯ml̩/
 Eunuch	/ɔʏ̯ˈnuːx/
-Euphonie	/ɔɪ̯foˈniː/
+Euphonie	/ɔʏ̯foˈniː/
+Euphonien	/ɔɪ̯ˈfoːni̯ən/
 Euphorie	/ɔɪ̯foˈʁiː/
 Euphrat	/ˈɔʏ̯fʁa(ː)t/
 Euro	/ˈɔʏ̯ro/
@@ -7760,6 +7845,7 @@ Exzesse	/ʔɛksˈtsɛsə/
 Exzesses	/ʔɛksˈtsɛsəs/
 Étang	[eˈtɑ̃]
 F	[ʔɛf]
+FBI	/ɛfbiːˈʔaɪ̯/
 FH	[ʔɛfˈhaː]
 FKK	/ˌɛfkaˑˈkaː/
 FOC	/fɔk/
@@ -8015,6 +8101,7 @@ Fatwa	/ˈfatva/
 Faulenzer	/ˈfaʊ̯lɛnt͡sɐ/
 Fausthandschuh	/ˈfaʊ̯stˌhantʃuː/
 Faustkampf	/ˈfaʊ̯stˌkamp͡f/
+Faustregel	[ˈfaʊ̯stˌʁeːɡl̩]
 Faustschlag	/ˈfaʊ̯stˌʃlaːk/
 Fauteuil	/foˈtœl/
 Fauteuil	/foˈtœlç/
@@ -8103,6 +8190,7 @@ Fee	/feː/
 Feed	/fiːd/
 Feed	/fiːt/
 Feedback	/ˈfiːdbɛk/
+Feeling	/ˈfiːlɪŋ/
 Fegefeuer	/ˈfeːɡəˌfɔʏ̯ɐ/
 Feh	/feː/
 Fehde	/ˈfeːdə/
@@ -8262,6 +8350,7 @@ Fernsehsender	/ˈfɛʁnzeːˌzɛndɐ/
 Fernsehsendung	[ˈfɛʁnzeːˌzɛndʊŋ]
 Fernsehturm	[fɛʁnzeːˌtʊʁm]
 Fernsehtürme	[ˈfɛʁnzeːˌtʏʁmə]
+Fernsprechapparat	/ˈfɛʁnʃpʁɛçʔapaˌʁaːt/
 Fernuniversität	/ˈfɛʁnʔunivɛʁziˌtɛːt/
 Fernunterricht	/ˈfɛʁn.ˌʊntɐʁɪçt/
 Fernweh	/ˈfɛʁnveː/
@@ -8313,7 +8402,7 @@ Fettnäpfchen	/ˈfɛtˌnɛpf.çən/
 Fetts	[fɛts]
 Fettsack	[ˈfɛtˌzak]
 Fettsäure	/ˈfɛtzɔɪ̯ʁə/
-Fettsucht	[ˈfɛtˌzʊxt]
+Fettsucht	/ˈfɛtˌzʊxt/
 Fettwanst	/ˈfɛtˌvanst/
 Fetus	/ˈfeːtʊs/
 Feuchtigkeit	/ˈfɔʏçtɪçkaɪ̯t/
@@ -8508,6 +8597,7 @@ Fitis	/ˈfiːtɪs/
 Fitness	/ˈfɪtnɛs/
 Fitnessstudio	/ˈfɪt.nəsˌʃtuː.di.o/
 Fitnesstraining	/ˈfɪtnɛsˌtʁɛːnɪŋ/
+Fittich	/ˈfɪtɪç/
 Fjord	/fjɔʁt/
 Flachbildfernseher	/ˈflaxbɪltˌfɛʁnzeːɐ/
 Flachbildschirm	/ˈflaxbɪltˌʃɪʁm/
@@ -8734,6 +8824,7 @@ Flüchtigkeitsfehler	[ˈflʏçtɪçkaɪ̯tsˌfeːlɐ]
 Flüchtling	[ˈflʏçtlɪŋ]
 Flüchtlingscamp	/ˈflʏçtlɪŋsˌkɛmp/
 Flüchtlingskrise	/ˈflʏçtlɪŋsˌkʁiːzə/
+Flüchtlingskrisen	/ˈflʏçtlɪŋsˌkʁiːzn̩/
 Flüchtlingslager	[ˈflʏçtlɪŋsˌlaːɡɐ]
 Flüge	/ˈflyːɡə/
 Flügel	/ˈflyːɡəl/
@@ -8861,6 +8952,8 @@ Fragmentierung	/fʁaɡmɛnˈtiːʁʊŋ/
 Fraktionsvorsitzender	[fʁakˈt͡si̯oːnsˌfoːɐ̯zɪt͡sn̩dɐ]
 Fraktur	/fʁakˈtuːɐ̯/
 Frakturschrift	/fʁakˈtuːɐ̯ˌʃʁɪft/
+Frame	/fɹɛi̯m/
+Frame	/fʁɛi̯m/
 Franke	/ˈfʁaŋkə/
 Franken	/ˈfʀaŋkən/
 Franken	[ˈfrɑŋkŋ̍]
@@ -9135,6 +9228,7 @@ Frühling	/ˈfʁyːlɪŋ/
 Frühlingsende	/ˈfʁyːlɪŋsˌɛndə/
 Frühlingsenden	/ˈfʁyːlɪŋsˌɛndn̩/
 Frühlingsendes	/ˈfʁyːlɪŋsˌɛndəs/
+Frühlingsferien	[ˈfʁyːlɪŋsˌfeːʁiən]
 Frühlingsfest	/ˈfʁyːlɪŋsˌfɛst/
 Frühlingsluft	/ˈfʁyːlɪŋsˌlʊft/
 Frühlingssonne	/ˈfʁyːlɪŋsˌzɔnə/
@@ -9394,6 +9488,10 @@ Gabriel	[ˈɡaːbʀiˌeːl]
 Gabun	/ɡaˈbuːn/
 Gabuner	/ɡaˈbuːnɐ/
 Gabunerin	/ɡaˈbuːnɐʁɪn/
+Gadem	[ˈɡaːdəm]
+Gadem	[ˈɡaːdɱ̩]
+Gaden	[ˈɡaːdn̩]
+Gaden	[ˈɡaːdən]
 Gaeltacht	/ˈɡɛːltaxt/
 Gaffer	/ˈɡafɐ/
 Gag	/ɡɛk/
@@ -9649,6 +9747,8 @@ Geburtstagsgeschenk	/ɡəˈbuːɐ̯t͡staːksɡəˌʃɛŋk/
 Geburtstagskarte	/ɡəˈbuːɐ̯t͡staːksˌkaʁtə/
 Geburtstagskarten	/ɡəˈbuːɐ̯t͡staːksˌkaʁtn̩/
 Geburtstagskind	/ɡəˈbuːɐ̯t͡staːksˌkɪnt/
+Geburtstagskuchen	/ɡəˈbuːɐ̯t͡sˌtaːksˌkuːxn̩/
+Geburtstagskuchen	/ɡəˈbʊʁt͡sˌtaːksˌkuːxn̩/
 Geburtstagsparty	/ɡəˈbuːɐ̯t͡staːksˌpaːɐ̯ti/
 Geburtstagsparty	/ɡəˈbʊʁt͡staːksˌpaːɐ̯ti/
 Geburtsurkunde	/ɡəˈbʊʁt͡sˌʔuːɐ̯kʊndə/
@@ -9948,6 +10048,7 @@ Gelsenkirchen	/ˌɡɛlzənˈkɪʁçən/
 Gelsenkirchener	[ˌɡɛlzn̩ˈkɪʁçənɐ]
 Gelübde	/ɡəˈlʏb.də/
 Gelübde	/ɡəˈlʏp.tə/
+Gelüst	/ɡəˈlʏst/
 Gemach	/ɡəˈmaːχ/
 Gemahl	/ɡəˈmaːl/
 Gemahl	/ɡɛˈmaːl/
@@ -10073,6 +10174,7 @@ Geplänkel	/ɡəˈplɛŋkl̩/
 Gequassel	/ɡəˈkvasl̩/
 Gequassel	/ɡəˈkvazl̩/
 Gequassel	/ɡəˈkvazəl/
+Gequatsche	/ɡəˈkvat͡ʃə/
 Ger	/ɡeːɐ̯/
 Gerade	/ɡəˈʁaːdə/
 Geraffel	/ɡəˈʁafəl/
@@ -10166,6 +10268,7 @@ Geschäftstüchtigkeit	/ɡəˈʃɛft͡sˌtʏçtɪçkaɪ̯t/
 Geschäftsviertel	[ɡəˈʃɛft͡sˌfɪʁtl̩]
 Geschäftsvorfall	/ɡəˈʃɛftsˌfoːɐ̯fal/
 Geschehen	/ɡəˈʃeːən/
+Geschehnis	/ɡəˈʃeːnɪs/
 Geschenk	/ɡəˈʃɛŋk/
 Geschichte	/ɡəˈʃɪçtə/
 Geschichtenerzähler	/ɡəˈʃɪçtn̩ʔɛɐ̯ˌtsɛːlɐ/
@@ -10309,7 +10412,6 @@ Getöse	/ɡəˈtøːzə/
 Getrampel	/ɡəˈtʁampl̩/
 Getränk	/ɡəˈtʁɛŋk/
 Getränkeeinzelhändler	/ɡəˈtʁɛŋkəˌaɪ̯nt͡səlhɛntlɐ/
-Getränkeeinzelhändlerin	[ɡəˈtʁɛŋkəˌaɪ̯nt͡səlhɛntləʁɪn]
 Getränkehandel	/ɡəˈtʁɛŋkəˌhandəl/
 Getränkehändler	/ɡəˈtʁɛŋkəˌhɛntlɐ/
 Getreide	/ɡəˈtʁaɪ̯də/
@@ -10646,6 +10748,7 @@ Glühweins	/ˈɡlyːvaɪ̯ns/
 Glühwurm	/ˈɡlyːˌvʊʁm/
 Glycin	/ɡlyˈtsiːn/
 Glyphosat	/ɡlyfoˈzaːt/
+GmbH	[ɡeːʔɛmbeːˈhaː]
 Gnade	/ˈɡnaːdə/
 Gnadenschuss	/ˈɡnaːdŋ̩ˌʃʊs/
 Gnadenschuss	/ˈɡnaːdənˌʃʊs/
@@ -10821,6 +10924,7 @@ Gras	/ɡʁaːs/
 Grasdach	/ˈɡʁaːsˌdaχ/
 Grashüpfer	/ˈɡʁaːsˌhʏpfɐ/
 Grassteppe	/ˈɡʁaːsˌʃtɛpə/
+Grassteppen	/ˈɡʁaːsˌʃtɛpn̩/
 Grat	/ɡʁaːt/
 Gratulation	/ɡʁatulaˈt͡si̯oːn/
 Gratwanderung	/ˈɡʁaːtˌvandəʁʊŋ/
@@ -11107,7 +11211,7 @@ Gummierung	/ɡʊˈmiːʁʊŋ/
 Gummireifen	/ˈɡʊmiˌʁaɪ̯fn̩/
 Gummireifens	/ˈɡʊmiˌʁaɪ̯fn̩s/
 Gunst	/ɡʊnst/
-Gunther	/ˈɡʏntɐ/
+Gunther	/ˈɡʊntɐ/
 Gurgel	/ˈɡʊrɡəl/
 Gurgel	[ˈɡʊʁ.ɡl̩]
 Gurke	/ˈɡʊrkə/
@@ -11155,6 +11259,7 @@ Gwop	[ɡwɔp]
 Gwop	[ɡʊ̯ɔp]
 Gymnasiast	/ɡʏmnaˈzi̯ast/
 Gymnasium	/ɡʏmˈnaːziʊm/
+Gymnastik	/ɡʏmˈnastɪk/
 Gynäkologe	/ˌɡynekoˈloːɡə/
 Gynäkologin	/ˌɡynekoˈloːɡɪn/
 Gyros	/ˈɡyːʁɔs/
@@ -11216,6 +11321,7 @@ Hack	[häk]
 Hackbeil	/ˈhakˌbaɪ̯l/
 Hackbraten	/ˈhakˌbʁaːtən/
 Hacke	/ˈhakə/
+Hackepeter	/ˈhakəˌpeːtɐ/
 Hacker	/ˈhakɐ/
 Hacker	/ˈhɛkɐ/
 Hackerin	/ˈhɛkərɪn/
@@ -11448,6 +11554,7 @@ Happen	/ˈhapən/
 Happen	[ˈhapm̩]
 Happen	[ˈhapən]
 Happs	/haps/
+Happy End	/ˈhɛpi ˈɛnt/
 Hapsburg	[ˈhaːpsˌbʊʁk]
 Hardcore	/ˈhaːtkoːɐ/
 Hardliner	/ˈhaːɐ̯tˌlaɪ̯nɐ/
@@ -11556,6 +11663,10 @@ Hauptsache	/ˈhaʊ̯ptˌzaxə/
 Hauptsatz	/ˈhaʊ̯ptzats/
 Hauptschiff	[ˈhaʊ̯ptˌʃɪf]
 Hauptschriftleiter	[ˈhaʊ̯pt.ʃrɪft.laɪ̯tɐ]
+Hauptschriftleiterin	[haʊ̯ptˌʃrɪft.laɪ̯təʁɪn]
+Hauptschriftleiterinnen	/ˈhaʊ̯ptˌʃrɪft.laɪ̯təʁɪnən/
+Hauptschriftleitern	[ˈhaʊ̯ptʃrɪft.laɪ̯tɐn]
+Hauptschriftleiters	[ˈhaʊ̯ptʃrɪft.laɪ̯tɐs]
 Hauptschule	/ˈhaʊ̯ptʃuːlə/
 Hauptschulen	/ˈhaʊ̯ptʃuːlən/
 Hauptschüler	/ˈhaʊ̯ptˌʃyːlɐ/
@@ -11566,6 +11677,8 @@ Hauptstraße	/ˈhaʊ̯ptˌʃtʁaːsə/
 Hauptstraßen	/ˈhaʊ̯ptˌʃtʁaːsn̩/
 Hauptstraßen	/ˈhaʊ̯ptˌʃtʁaːsən/
 Hauptthema	/ˈhaʊ̯pt.teːma/
+Hauptthemas	[ˈhaʊ̯ptˌteːmas]
+Hauptthemen	[ˈhaʊ̯ptˌteːmən]
 Hauptton	[ˈhaʊ̯ptˌtoːn]
 Hauptverkehrszeit	[ˈhaʊ̯ptfɛɐ̯ˌkeːɐ̯s.t͡saɪ̯t]
 Hauptzeuge	/ˈhaʊ̯ptˌtsɔʏ̯ɡə/
@@ -11776,6 +11889,8 @@ Häuserblocks	[ˈhɔɪ̯zɐˌblɔks]
 Häuserblöcke	[ˈhɔɪ̯zɐˌblœkə]
 Häusern	/ˈhɔɪ̯zɐn/
 Häusern	[ˈhɔʏ̯zɐn]
+Häusl	/ˈhaɪ̯sl̩/
+Häusl	/ˈhɔɪ̯z̥l̩/
 Häutchen	/ˈhɔʏt.çən/
 Häutchens	/ˈhɔʏt.çəns/
 Häute	/hɔʏtə/
@@ -11907,7 +12022,7 @@ Heldentat	[ˈhɛldn̩ˌtaːt]
 Heldentod	/ˈhɛldn̩ˌtoːt/
 Heldentum	/ˈhɛldn̩tuːm/
 Heldin	/ˈhɛldɪn/
-Helena	[ˈhɛˌlɛna]
+Helena	[ˈhɛˌlena]
 Helfer	/ˈhɛlfɐ/
 Helge	[ˈhɛlɡə]
 Helgoland	/ˈhɛlɡoˌlant/
@@ -12070,6 +12185,7 @@ Herzinfarkt	/ˈhɛʁtsɪnˌfaʁkt/
 Herzkirsche	/ˈhɛʁt͡sˌkɪʁʃə/
 Herzklappe	/ˈhɛʁt͡sˌklapə/
 Herzlosigkeit	[ˈhɛʁt͡sloːsɪçkaɪ̯t]
+Herzmuskelentzündung	[ˈhɛʁt͡smʊskl̩ʔɛntˌt͡sʏndʊŋ]
 Herzog	/ˈhɛʁˌt͡soːk/
 Herzog	/ˈhɛʁˌt͡sɔx/
 Herzog	[ˈhɛɐ̯ˌt͡soːk]
@@ -12162,7 +12278,8 @@ Hilfsverb	/ˈhɪlfsvɛʁp/
 Hilfswilliger	[ˈhɪlfsˌvɪlɪɡɐ]
 Hilfswissenschaft	/ˈhɪlfsˌvɪsn̩ʃaft/
 Hilfswort	/ˈhɪlfsˌvɔɐ̯t/
-Himalaja	[hiˈmaːlaɪ̯a]
+Himalaja	/himaˈlaːja/
+Himalaja	/hiˈmaːlaɪ̯a/
 Himbeere	[ˈhɪmˌbeːʁə]
 Himmel	[ˈhɪml̩]
 Himmel	[ˈhɪməl]
@@ -12483,7 +12600,7 @@ Homöopathie	/ˌhomøopaˈtiː/
 Homöopathin	/ˌhomøoˈpaːtɪn/
 Homöostase	[homøoˈstaːzə]
 Homs	[hɔms]
-Hongkong	/ˈhɔŋkɔŋ/
+Hongkong	[ˈhɔŋkɔŋ]
 Honig	/ˈhoːnɪç/
 Honig	/ˈhoːnɪk/
 Honigbär	/ˈhoːnɪçˌbeːɐ̯/
@@ -13181,7 +13298,7 @@ Isoliermatten	[izoˈliːʁˌmatn̩]
 Isomatte	[ˈiːzoˌmatə]
 Isomatten	[ˈiːzoˌmatn̩]
 Isotherme	/izoˈtɛʁmə/
-Israel	/ˈɪsʁaeːl/
+Israel	/ˈiːsʁaeːl/
 Istanbul	/ˈɪs.tanˌbuːl/
 Istanbul	/ˌbʊl/
 Isthmus	/ˈɪstmʊs/
@@ -13850,8 +13967,10 @@ Karren	/ˈkarən/
 Karren	[kaː(ɐ̯)n]
 Karren	[ˈka.ʁən]
 Karren	[ˈka.ʁɴ̩]
-Karriere	/karˈjeːrə/
-Karriere	/kaʁˈjeːʁə/
+Karriere	/kaˈri̯eːrə/
+Karriere	[ka(ɐ̯)ˈjeːʁə]
+Karriere	[ka.ʁiˈeːʁə]
+Karriere	[kaʁˈjeːʁə]
 Karriereende	/kaˈʁi̯eːʁəˌʔɛndə/
 Karriol	/karˈjoːl/
 Karriole	/karˈjoːlə/
@@ -14124,7 +14243,7 @@ Keimling	/ˈkaɪ̯mlɪŋ/
 Keimung	/ˈkaɪ̯mʊŋ/
 Keks	/keːks/
 Keksdose	/ˈkeːksˌdoːzə/
-Kelch	[kʰɛlç]
+Kelch	/kɛlç/
 Kelchblatt	/kɛlçˈblat/
 Kelchblätter	/kɛlçˈblɛtɐ/
 Kelle	/ˈkɛlə/
@@ -14278,6 +14397,7 @@ Kilometerstand	/kiloˈmeːtɐˌʃtant/
 Kilometerzähler	/kiloˈmeːtɐˌt͡sɛːlɐ/
 Kilt	/kɪlt/
 Kimme	/ˈkɪmə/
+Kimono	/ˈkiːmono/
 Kind	/kɪnt/
 Kindbett	[ˈkɪntˌbɛt]
 Kindchen	/ˈkɪntçən/
@@ -14304,6 +14424,8 @@ Kindermord	/ˈkɪndɐmɔrt/
 Kindermorde	[ˈkɪndɐmɔʁdə]
 Kindermund	[ˈkɪndɐˌmʊnt]
 Kindermund tut Wahrheit kund	[ˈkɪndɐmʊnt tuːt ˈvaːɐ̯haɪ̯t ˈkʊnt]
+Kinders	/ˈkɪndɛʁs/
+Kinders	[ˈkɪnɐs]
 Kinderschänder	/ˈkʰind̥ərˌʃɛnd̥ər/
 Kinderschänder	/ˈkʰɪndɐˌʃɛndɐ/
 Kinderschuh	/ˈkɪndɐˌʃuː/
@@ -14324,6 +14446,7 @@ Kindlein	/ˈkɪntlaɪ̯n/
 Kindstod	/ˈkɪntsˌtoːt/
 Kinematograph	[kinematoˈɡʁaːf]
 Kinn	/kɪn/
+Kinners	[ˈkɪnɐs]
 Kinnlade	/ˈkɪnˌlaːdə/
 Kino	/ˈkiːnoː/
 Kinobesucher	/ˈkiːnoːbəˌzuːxɐ/
@@ -14435,6 +14558,7 @@ Klangfarbe	/ˈklaŋˌfaʁbə/
 Klangtiefe	/ˈklaŋˌtiːfə/
 Klappe	/ˈklapə/
 Klappentext	/ˈklapm̩ˌtɛkst/
+Klapperkiste	/ˈklapɐkɪstə/
 Klapperschlange	/ˈklapɐˌʃlaŋə/
 Klappmesser	/ˈklapˌmɛsɐ/
 Klappspaten	/ˈklapˌʃpaːtn̩/
@@ -14491,6 +14615,7 @@ Klavierspielen	/klaˈviːɐ̯ˌʃpiːlən/
 Klavierspieler	/klaˈviːɐ̯ˌʃpiːlɐ/
 Klavierspielerin	/klaˈviːɐ̯ˌʃpiːləʁɪn/
 Klavierstunde	/klaˈviːɐ̯ʃtʊndə/
+Klaviertastatur	/klaˈviːɐ̯tastaˌtuːɐ̯/
 Klavierunterricht	/klaˈviːɐ̯ʔʊntɐˌʁɪçt/
 Kläffen	/ˈklɛfn̩/
 Kläger	/ˈkleːɡɐ/
@@ -14605,6 +14730,7 @@ Klippe	/ˈklɪpə/
 Klirrfaktor	/ˈklɪʁˌfaktoːɐ̯/
 Klirrfaktoren	/ˈklɪʁfakˌtoːʁən/
 Klirrfaktors	/ˈklɪʁˌfaktoːɐ̯s/
+Klistier	/klɪsˈtiːɐ̯/
 Klitikon	/ˈkliːtikɔn/
 Klitsche	/ˈklɪt͡ʃə/
 Klo	/kloː/
@@ -14768,6 +14894,7 @@ Kobold	/ˈkoːbɔlt/
 Koch	/kɔχ/
 Kocherei	/ˌkɔxəˈʁaɪ̯/
 Kochfeld	[ˈkɔxfɛlt]
+Kochkunst	/ˈkɔxˌkʊnst/
 Kochmesser	/kɔχmɛsɐ/
 Kochnische	/ˈkɔχˌniːʃə/
 Kochnische	[ˈkɔxˌniːʃə]
@@ -14806,7 +14933,7 @@ Kohlenstoffdioxid	/ˌkoːlənʃtɔfˈdiːɔksiːt/
 Kohlenwasserstoff	/ˌkoːlənˈvasɐˌʃtɔf/
 Kohlenzeche	[ˈkoːlənˌt͡sɛçə]
 Kohlmeise	/ˈkoːlˌmaɪzə/
-Kohlrabi	/koːlˈʁaːbi/
+Kohlrabi	/ˌkoːlˈʁaːbi/
 Kohlrabis	/koːlˈʁaːbiːs/
 Kohlrübe	[ˈkoːlˌʁyː.bə]
 Kohlsuppe	/ˈkoːlˌzʊpə/
@@ -14870,6 +14997,7 @@ Kolonie	/koloˈniː/
 Kolonne	/koˈlɔnə/
 Kolophonium	/koloˈfoːni̯ʊm/
 Koloratursopranstimme	[koloʁaˈtuːɐ̯zoˌpʁaːnʃtɪmə]
+Kolosseum	/kolɔˈseːʊm/
 Kolter	/ˈkɔltər/
 Kolter	[ˈkɔl.tɐ]
 Kolumbien	/koˈlʊmbiən/
@@ -14983,7 +15111,7 @@ Kongolese	/kɔŋɡoˈleːzə/
 Kongress	/kɔnˈɡʁɛs/
 Kongruenz	/ˌkɔŋɡʁuˈɛnts/
 Konifere	/ˌkɔniˈfeːʁə/
-Konjugation	[kɔnjuɡaˈtsi̯oːn]
+Konjugation	/kɔnjuɡaˈtsi̯oːn/
 Konjunktion	[kɔnjʊŋkˈt͡si̯oːn]
 Konjunktivitis	/kɔnjʊŋktiˈviːtɪs/
 Konjunktur	[kɔnjʊŋkˈtuːɐ̯]
@@ -14997,6 +15125,7 @@ Konrad	/ˈkɔnʁaːt/
 Konsens	/kɔnˈzɛns/
 Konsens	/ˈkɔnzɛns/
 Konsequenz	/kɔnzeˈkvɛnt͡s/
+Konservativismus	/ˌkɔnzɛɐ̯ˌvatiˈvɪsmʊs/
 Konservator	/kɔnzɛʁˈvaːtoːɐ̯/
 Konservendose	/kɔnˈzɛʁvn̩ˌdoːzə/
 Konsole	/ˌkɔnˈzoːlə/
@@ -15943,6 +16072,8 @@ Küsschens	[ˈkʏsçəns]
 Küsse	/ˈkʰʏsə/
 Küssen	/ˈkʏsən/
 Küste	/ˈkʏstə/
+Küstenlinie	/ˈkʏstənˌliːni̯ə/
+Küstenlinien	/ˈkʏstənˌliːni̯ən/
 Küstennebel	/ˈkʏstn̩ˌneːbl̩/
 Küstenwache	[ˈkʏstn̩ˌvaχə]
 Küster	/ˈkʏstɐ/
@@ -16013,6 +16144,7 @@ Lackschichten	/ˈlakʃɪçˌtən/
 Lackstock	[ˈläkʃ͡tɔk]
 Lacrosse	/laˈkʁɔs/
 Ladegerät	/ˈlaːdəɡəˌʁɛːt/
+Ladekabel	/ˈlaːdəˌkaːbl̩/
 Laden	/ˈlaːdən/
 Laden	[ˈläːdn̩]
 Laden	[ˈläːdən]
@@ -16130,6 +16262,7 @@ Landgut	/ˈlantˌɡuːt/
 Landhaus	/ˈlantˌhaʊ̯s/
 Landkarte	/ˈlantˌkaʁtə/
 Landkreis	/ˈlantˌkʁaɪ̯s/
+Landleben	/ˈlantˌleːbn̩/
 Landluft	/ˈlantˌlʊft/
 Landpomeranze	/ˈlantpoməˌʁant͡sə/
 Landratte	/ˈlantratə/
@@ -16386,6 +16519,7 @@ Lebensmittelskandal	/ˈleːbənsmɪtəlskanˌdaːl/
 Lebensmittelskandale	/ˈleːbənsmɪtəlskanˌdaːlə/
 Lebensmittelskandals	/ˈleːbənsmɪtəlskanˌdaːls/
 Lebensmittelvergiftung	/ˈleːbənsmɪtəlfɛɐ̯ˌɡɪftʊŋ/
+Lebenspartner	/ˈleːbn̩sˌpaʁtnɐ/
 Lebensqualität	/ˈleːbn̩skvaliˌtɛːt/
 Lebensraum	/ˈleːbm̩sˌʁaʊ̯m/
 Lebensraum	/ˈleːbənsˌʁaʊ̯m/
@@ -16406,6 +16540,7 @@ Lebenswelten	[ˈleːbənsˌvɛltən]
 Lebenswerk	[ˈleːbn̩sˌvɛʁk]
 Lebenszeichen	[ˈleːbn̩sˌt͡saɪ̯çn̩]
 Lebenszeit	/ˈleːbn̩sˌt͡saɪ̯t/
+Lebensziel	/ˈleːbn̩sˌt͡siːl/
 Lebenszyklen	/ˈleːbənsˌt͡syːklən/
 Lebenszyklus	/ˈleːbn̩sˌt͡syːklʊs/
 Leber	/ˈleːbɐ/
@@ -16620,6 +16755,7 @@ Lesart	[ˈleːsˌʔaːɐ̯t]
 Lesbarkeit	[ˈleːsbaːɐ̯kaɪ̯t]
 Lesbe	/ˈlɛspə/
 Lese	/ˈleːzə/
+Lesebrille	/ˈleːzəˌbʁɪlə/
 Lesebuch	/ˈleːzəbuːx/
 Lesefähigkeit	/ˈleːzəfɛːɪçka͜it/
 Lesekopf	/ˈleːzəˌkɔpf/
@@ -16745,8 +16881,10 @@ Liebhaberin	[ˈliːpˌhaːbəʁɪn]
 Liebhaberinnen	[ˈliːpˌhaːbəʁɪnən]
 Liebkosung	/ˈliːpkoːzʊŋ/
 Liebling	/ˈliːplɪŋ/
+Lieblingsbuch	/ˈliːplɪŋsˌbuːx/
 Lieblingsfach	/ˈliːplɪŋsfax/
 Lieblingsfarbe	/ˈliːplɪŋsˌfaʁbə/
+Lieblingsfilm	/ˈliːplɪŋsˌfɪlm/
 Lieblingslied	/ˈliːplɪŋsˌliːt/
 Liebreiz	/ˈliːpˌʁaɪ̯t͡s/
 Liebschaft	/ˈliːpʃaft/
@@ -16768,6 +16906,7 @@ Liedtext	/ˈliːtˌtɛkst/
 Lieferant	[ˌliːfəˈrant]
 Lieferant	[ˌliːfəˈʁant]
 Lieferengpass	/ˈliːfɐˌʔɛŋpas/
+Lieferkette	/ˈliːfɐˌkɛtə/
 Lieferschein	[ˈliːfɐʃaɪ̯n]
 Lieferung	/ˈliːfəʁʊŋ/
 Lieferzeit	/ˈliːfɐˌt͡saɪ̯t/
@@ -16776,6 +16915,7 @@ Liegebescheinigungen	/ˈliːɡəbəˌʃaɪ̯nɪɡʊŋən/
 Liegenschaft	/ˈliːɡənˌʃaft/
 Liegestütz	/ˈliːɡəˌʃtʏts/
 Liegestütze	/ˈliːɡəˌʃtʏtsə/
+Lieschen	/ˈliːsçən/
 Lifehack	/ˈlaɪ̯fˌhɛk/
 Lift	/lɪft/
 Lifte	/ˈlɪftə/
@@ -16833,6 +16973,7 @@ Linoleum	/linoˈleːʊm/
 Linoleum	/liˈnoːleʊm/
 Linolschnitt	/liˈnoːlʃnɪt/
 Linse	/ˈlɪnzə/
+Linux	/ˈliːnʊks/
 Lippe	/ˈlɪpə/
 Lippen	[ˈlɪpm̩]
 Lippen	[ˈlɪpən]
@@ -16863,6 +17004,8 @@ Liquida	[ˈliːkvida]
 Liquidation	/likvɪdaˈt͡si̯oːn/
 Liquidität	/likvidiˈtɛːt/
 Lisa	/ˈliːza/
+Lisbeth	/ˈliːsbɛt/
+Lisbeth	/ˈlɪsbɛt/
 Lissabon	/lɪsaˈbɔn/
 Lissabon	/ˈlɪsabɔn/
 List	/lɪst/
@@ -16882,7 +17025,7 @@ Literaturwissenschaftler	/lɪtəʁaˈtuːɐ̯ˌvɪsn̩ʃaftlɐ/
 Literaturwissenschaftlerin	/lɪtəʁaˈtuːɐ̯ˌvɪsn̩ʃaftləʁɪn/
 Litfaßsäule	[ˈlɪtfasˌzɔʏlə]
 Lithium	[ˈliːti̯ʊm]
-Lithium	[ˈliːtsiʊm]
+Lithium	[ˈliːt͡si̯ʊm]
 Liturgie	/litʊʁˈɡiː/
 Litze	/ˈlɪtsə/
 Livermorium	/lɪvaˈmoːʁiʊm/
@@ -17032,6 +17175,7 @@ Luftqualität	/ˈlʊftkvaliˌtɛːt/
 Luftschiff	/ˈlʊftˌʃɪf/
 Luftschlag	[ˈlʊftˌʃlaːk]
 Luftschleuse	[lʊft.ʃlɔɪ̯.zə]
+Luftschutzbunker	/ˈlʊftʃʊt͡sˌbʊŋkɐ/
 Lufttemperatur	/ˈlʊfttɛmpəʁaˌtuːɐ̯/
 Luftverschmutzung	[ˈlʊftfɛɐ̯ˌʃmʊt͡sʊŋ]
 Luftverunreinigung	[ˈlʊftfɛɐ̯ˌʔʊnˌraɪ̯nɪɡʊŋ]
@@ -17127,6 +17271,7 @@ Lügenpresse	/ˈlyːɡn̩ˌpʁɛsə/
 Lügensucht	/ˈlyːɡənˌzʊxt/
 Lügensucht	[ˈlyːɡn̩ˌzʊxt]
 Lügner	[ˈlyːɡnɐ]
+Lümmeltüte	/ˈlʏml̩ˌtyːtə/
 Lüste	/ˈlʏstə/
 Lüster	/ˈlʏstɐ/
 Lüttich	/ˈlʏtɪç/
@@ -17373,6 +17518,7 @@ Mannheimer	/ˈmanˌhaɪ̯mɐ/
 Mannigfaltigkeit	/ˈmanɪçfaltɪçkaɪ̯t/
 Mannsbild	[ˈmansˌbɪlt]
 Mannschaft	[ˈmanʃaft]
+Mannschaftskapitän	/ˈmanʃaft͡skapiˌtɛːn/
 Mannschaftsriege	[ˈmanʃaftsʁiːɡə]
 Mannschaftsspiel	/ˈmanʃaft͡sˌʃpiːl/
 Mannsperson	/ˈmanspɛʁˌzoːn/
@@ -17404,6 +17550,7 @@ Margarine	/maʁɡaˈʁiːnə/
 Margell	[marˈʝɛl]
 Margerite	/maʁɡəˈriːtə/
 Marginalie	/maʁɡiˈnaːli̯ə/
+Marginalisierung	/ˌmaʁɡinaliˈziːʁʊŋ/
 Margot	[ˈmaʁɡɔt]
 Maria	/maˈʁiːa/
 Marias	/maˈʁiːas/
@@ -17527,7 +17674,10 @@ Masten	[ˈmas.tn̩]
 Master	/ˈmaːstɐ/
 Masturbation	[mastʊʁbaˈtsi̯oːn]
 Mastvieh	/ˈmastˌfiː/
+Masure	/maˈzuːʁə/
 Masuren	/maˈzuːʁən/
+Masurin	/maˈzuːʁɪn/
+Masurinnen	/maˈzuːʁɪnən/
 Material	/mat(e)ˈri̯aːl/
 Material	[ma.te.ʁiˈaːl]
 Material	[ma.tɐˈjaːl]
@@ -17619,6 +17769,7 @@ Mayonnaise	/majɔˈnɛːzə/
 Mazedonien	/matseˈdoːniən/
 Mazedonier	/mat͡səˈdoːni̯ɐ/
 Mazedonisch	/matseˈdoːnɪʃ/
+Mazurka	/maˈt͡sʊʁkaː/
 Mazurka	/maˈzʊʁka/
 Maß	/maːs/
 Maß halten	/ˈmaːs ˌhaltən/
@@ -17905,6 +18056,8 @@ Menden	/ˈmɛndn̩/
 Menetekel	[ˌmeneˈteːkl̩]
 Menge	/ˈmɛŋə/
 Mengen	/ˈmɛŋən/
+Mengenangabe	/ˈmɛŋənˌʔanɡaːbə/
+Mengenangaben	/ˈmɛŋənʔanɡaːbn̩/
 Mengenelement	/ˈmɛŋənʔeleˌmɛnt/
 Mengenelemente	/ˈmɛŋənʔeleˌmɛntə/
 Mengenelements	[ˈmɛŋənʔeleˈmɛnts]
@@ -17939,6 +18092,7 @@ Menschenkind	/ˈmɛnʃn̩ˌkɪnt/
 Menschenleben	[ˈmɛnʃn̩ˌleːbn̩]
 Menschenmenge	/ˈmɛnʃn̩ˌmɛŋə/
 Menschenmögliches	/ˌmɛnʃn̩ˈmøːklɪçəs/
+Menschenseele	/ˈmɛnʃn̩ˌzeːlə/
 Menschensohn	/ˈmɛnʃn̩ˌzoːn/
 Menschentraube	/ˈmɛnʃn̩ˌtʁaʊ̯bə/
 Menschenverstand	/ˈmɛnʃn̩fɛɐ̯ˌʃtant/
@@ -17978,7 +18132,7 @@ Mesolekt	[mezoˈlɛkt]
 Mesoproterozoikum	/ˌmezoˌpʁoteʁoˈtsoːikʊm/
 Mesosphäre	/ˌmezoˈsfɛːʁə/
 Mesozoikum	/mezoˈtsoːikʊm/
-Message	/ˈmɛsɪdʒ/
+Message	/ˈmɛsətʃ/
 Message	/ˈmɛsɪtʃ/
 Messaging	/ˈmɛsɪd͡zɪŋ/
 Messbarkeit	/ˈmɛsbaːɐ̯kaɪ̯t/
@@ -18007,6 +18161,8 @@ Metall	/meˈtal/
 Metallbesteck	/meˈtalbəˌʃtɛk/
 Metalldeckel	/meˈtaldɛkl̩/
 Metaller	/meˈtalɐ/
+Metallfass	/meˈtalˌfas/
+Metallfasses	/meˈtalˌfasəs/
 Metallfaß	[meˈtalˌfas]
 Metallfässer	[meˈtalˌfɛsɐ]
 Metallgabel	/meˈtalˌɡaːbəl/
@@ -18023,6 +18179,7 @@ Metallrohr	/meˈtalˌʁoːɐ̯/
 Metallröhrchen	/meˈtalˌʁøːɐ̯çən/
 Metallschraube	/meˈtalˌʃʁaʊ̯bə/
 Metallschrauben	/meˈtalˌʃʁaʊ̯bən/
+Metallschrott	[meˈtalˌʃʀɔt]
 Metallverarbeitung	/meˈtalfɛɐ̯ˌʔaʁbaɪ̯tʊŋ/
 Metapher	/meˈtafɐ/
 Metempsychose	/metɛmpsyˈçoːzə/
@@ -18041,6 +18198,7 @@ Methionin	/meti̯oˈniːn/
 Methode	/meˈtoːdə/
 Methodologie	/metodoloˈɡiː/
 Methyl	[mɛˈtʰyːl]
+Metier	/meˈti̯eː/
 Metonymie	[metonyˈmiː]
 Metonymien	[metonyˈmiːən]
 Metronom	/metʁoˈnoːm/
@@ -18061,8 +18219,8 @@ Mexiko-Stadt	/ˌmɛksikoˈʃtat/
 Meyer	/ˈmaɪ̯ɐ/
 Mia	[ˈmiːa]
 Micha	/ˈmɪça/
-Michael	/ˈmɪ.ça.(ʔ)ɛl/
-Michael	/ˈmɪ.çaˌʔeːl/
+Michael	/ˈmɪçaˌeːl/
+Michael	[ˈmɪ.çaˌ(ʔ)eːl]
 Michäas	/miˈçɛː.as/
 Michel	/ˈmɪçl̩/
 Mieder	/ˈmiːdər/
@@ -18081,7 +18239,10 @@ Mieze	/ˈmiːt͡sə/
 Miezekatze	/ˈmiːt͡səˌkat͡sə/
 Migrant	/miˈɡʁant/
 Migrationshintergrund	/miɡʁaˈt͡si̯oːnsˌhɪntɐɡʁʊnt/
+Migräne	/miˈɡrɛːnə/
+Migräne	[miˈɡʁɛː.nə]
 Mikro	[ˈmikʁo]
+Mikrobe	/miˈkʁoːbə/
 Mikrofaser	[ˈmiːkrofaːzɐ]
 Mikrofon	/mikʁoˈfoːn/
 Mikrokosmos	/ˈmiːkʁoˌkɔsmɔs/
@@ -18196,6 +18357,7 @@ Misanthrop	/mi.zan.ˈtʁoːp/
 Mischehe	/ˈmɪʃˌʔeːə/
 Mischkunststoff	/ˈmɪʃˌkʊnstʃtɔf/
 Mischling	/ˈmɪʃlɪŋ/
+Mischmasch	/ˈmɪʃmaʃ/
 Mischpoche	/mɪʃˈpoːxə/
 Mischpoke	/mɪʃˈpoːkə/
 Mischsprache	/ˈmɪʃˌʃpʁaːxə/
@@ -18232,6 +18394,7 @@ Mistel	[ˈmɪstəl]
 Misteldrossel	/ˈmɪstəlˌdʁɔsəl/
 Mistes	/ˈmɪstəs/
 Mistgabel	/ˈmɪstˌɡaːbl̩/
+Misthaufen	/ˈmɪstˌhaʊ̯fən/
 Mistkäfer	/ˈmɪstˌkɛːfɐ/
 Mistkerl	/ˈmɪs(t)ˌkɛʁl/
 Mistral	/mɪsˈtʁaːl/
@@ -18405,6 +18568,7 @@ Moldawien	/mɔlˈdaːvi.ən/
 Molde	[ˈmɔldə]
 Molekül	/moleˈkyːl/
 Molke	/ˈmɔlkə/
+Molle	/ˈmɔlə/
 Mollebaum	[ˈmɔləˌbaʊ̯m]
 Mollenbaum	[ˈmɔlənˌbaʊ̯m]
 Mollenkraut	/ˈmɔlənˌkraʊ̯t/
@@ -18526,7 +18690,8 @@ Morgenkaffee	[ˈmɔʁɡŋ̩kaˌfeː]
 Morgenkaffee	[ˈmɔʁɡŋ̩ˌkafeː]
 Morgenkaffee	[ˈmɔʁɡənkaˌfeː]
 Morgenkaffee	[ˈmɔʁɡənˌkafeː]
-Morgenlatte	/ˈmɔʁɡənˌlatə/
+Morgenlatte	/ˈmɔʁɡn̩ˌlatə/
+Morgenlatte	/ˈmɔʁɡŋ̩ˌlatə/
 Morgenluft	/ˈmɔʁɡn̩ˌlʊft/
 Morgenrot	[ˈmɔɐ̯ɡŋ̩ˌʁoːt]
 Morgenrot	[ˈmɔɐ̯ɡənˌʁoːt]
@@ -18537,7 +18702,7 @@ Morgenröte	[ˈmɔɐ̯ɡənˌʁøːtə]
 Morgenröte	[ˈmɔʁɡŋ̩ˌʁøːtə]
 Morgenröte	[ˈmɔʁɡənˌʁøːtə]
 Morgenstern	/ˈmɔʁɡn̩ˌʃtɛʁn/
-Moritz	[ˈmoːʁɪts]
+Moritz	[ˈmoːʁɪt͡s]
 Mormone	/mɔʁˈmoːnə/
 Mormonentum	/mɔʁˈmoːnəntuːm/
 Morphem	/mɔʁˈfeːm/
@@ -18621,7 +18786,10 @@ Möpsen	/ˈmœpsn̩/
 Mörder	/ˈmœʁdɐ/
 Mörderin	/ˈmœʁdəʁɪn/
 Mörsel	/ˈmœʁzl̩/
-Mörser	[ˈmœʁzɐ]
+Mörser	/ˈmœrzər/
+Mörser	[ˈmœʁ.zɐ]
+Mörtel	/ˈmœrtəl/
+Mörtel	[ˈmœʁ.tl̩]
 Möse	/ˈmøːzə/
 Möwchen	/ˈmøːfçən/
 Möwe	/ˈmøːvə/
@@ -18654,6 +18822,7 @@ Multiplikation	/mʊltiplikaˈt͡si̯oːn/
 Multiversum	/mʊltiˈvɛʁzʊm/
 Mum	/mam/
 Mumie	/ˈmuːmi̯ə/
+Mumme	/ˈmʊmə/
 Mummenschanz	[ˈmʊmənˌʃant͡s]
 Mumpitz	/ˈmʊmpɪts/
 Mund	/mʊnt/
@@ -18685,6 +18854,7 @@ Mus	/muːs/
 Musche	/ˈmʊʃə/
 Muschel	/ˈmʊʃəl/
 Muschel	[ˈmʊʃl̩]
+Muschelschale	/ˈmʊʃl̩ˌʃaːlə/
 Muschi	/ˈmʊʃi/
 Muschis	/ˈmʊʃiːs/
 Museen	/muˈzeːən/
@@ -18700,6 +18870,7 @@ Musikant	/muziˈkant/
 Musikantenknochen	/muziˈkantn̩ˌknɔxn̩/
 Musiker	/ˈmuːzikɐ/
 Musikgeschäft	[muˈziːkɡəˌʃɛft]
+Musikgruppe	/muˈziːkˌɡʁʊpə/
 Musikinstrument	/muˈziːkʔɪnstʁuˌmɛnt/
 Musikinstrumentenhersteller	/muˈziːkɪnstʁumɛntn̩ˌheːɐ̯ʃtɛlɐ/
 Musiklehrer	/muˈziːkˌleːʁɐ/
@@ -18838,6 +19009,7 @@ Müßiggang	/ˈmyːsɪçˌɡaŋ/
 Müßiggang ist aller Laster Anfang	[ˈmyːsɪçˌɡaŋ ɪst ˈalɐ ˈlastɐ ˈanˌfaŋ]
 Myalgie	/myalˈɡiː/
 Myiasis	[myiˈaːzɪs]
+Myokarditis	[myokaʁˈdiːtɪs]
 Myriade	[myʁˈi̯aː.də]
 Myrobalane	/ˌmyrobaˈlaːnə/
 Myroblyt	/myʁoˈblyːt/
@@ -19254,6 +19426,9 @@ Neonatologin	/neːoˌnaːtoˈloːɡɪn/
 Neongrün	/ˈneːɔnˌɡʁyːn/
 Neophyt	/neːoˈfyːt/
 Neoplasie	/neoplaˈziː/
+Neopronomen	/ˈneːopʁoˌnoːmən/
+Neopronomens	/ˈneːopʁoˌnoːməns/
+Neopronomina	/ˈneːopʁoˌnoːmina/
 Neoproterozoikum	/ˌmezoˌpʁoteʁoˈtsoːikʊm/
 Nepal	/ˈneːpal/
 Nepp	/nɛp/
@@ -19272,6 +19447,7 @@ Nervenklinik	/ˈnɛʁvənˌkliːnɪk/
 Nervenklinik	[ˈnɛɐ̯vn̩ˌkʰliːnɪkʰ]
 Nervenklinik	[ˈnɛʁvn̩ˌkʰliːnɪkʰ]
 Nervenkrieg	[ˈnɛʁfənˌkʁiːk]
+Nervennahrung	/ˈnɛʁfn̩ˌnaːʁʊŋ/
 Nervensäge	/ˈnɛʁfn̩zɛːɡə/
 Nervensägen	[ˈnɛʁfn̩zɛːɡn̩]
 Nervenstärke	/ˈnɛʁfənˌʃtɛʁkə/
@@ -19419,6 +19595,7 @@ Nichtverfügbarkeit	/ˈnɪçtfɛɐ̯ˌfyːkbaːɐ̯kaɪ̯t/
 Nickel	/ˈnɪkəl/
 Nickel	[ˈnɪkl̩]
 Nickerchen	[ˈnɪkɐçən]
+Nickhaut	/ˈnɪkˌhaʊ̯t/
 Nickname	/ˈnɪknaːmə/
 Nickname	/ˈnɪkneːm/
 Niclas	[ˈnɪkˌlas]
@@ -19625,6 +19802,7 @@ Nulpe	/ˈnʊlpə/
 Numerus	/ˈnuːməʁʊs/
 Numidien	/nuˈmiːdiən/
 Nummer	/ˈnʊmɐ/
+Nummerierung	/nʊməˈʁiːʁʊŋ/
 Nummernschild	[ˈnʊmɐnˌʃɪlt]
 Nurdachhaus	/ˈnuːɐ̯daxˌhaʊ̯s/
 Nuss	/nʊs/
@@ -19829,7 +20007,8 @@ Omelett	/ɔməˈlɛt/
 Omelett	/ɔmˈlɛt/
 Omen	/oːmən/
 Omi	/ˈoːmi/
-Omikron	/ˈoːmikʁɔn/
+Omikron	[ˈoːmikʁɔn]
+Omikron	[ˈɔmikʁɔn]
 Omme	/ɔmə/
 Omnipotenz	[ɔmnipoˈtɛnt͡s]
 Onager	/oˈnaːɡɐ/
@@ -20158,7 +20337,6 @@ Pandabär	/ˈpandaˌbeːɐ/
 Pandabär	/ˈpandaˌbɛːɐ/
 Pandeismus	/pandeˈɪsmʊs/
 Pandeist	/pandeˈɪst/
-Pandeistin	/pandeˈɪstɪn/
 Pandemie	/pandeˈmiː/
 Paneel	/paˈneːl/
 Panel	[ˈpɛnl̩]
@@ -20235,6 +20413,7 @@ Paradiesvogel	/paʁaˈdiːsˌfoːɡəl/
 Paradoxie	/paʁadɔˈksiː/
 Paradoxon	/paˈʁaːdɔksɔn/
 Paradoxon	/ˌpaʁaˈdɔksɔn/
+Paragraph	/paʁaˈɡʁaːf/
 Paraguay	/ˈpa(ː)raˌɡu̯aɪ̯/
 Paraguay	[ˈpaʁaˌɡʋaɪ̯]
 Parallelgesellschaft	/paʁaˈleːlɡəˌzɛlʃaft/
@@ -20464,7 +20643,7 @@ Pekannuss	[ˈpiːkaːnˌnʊs]
 Pekannüsse	[ˈpeːkaːnˌnʏsə]
 Pekannüssen	[ˈpeːkaːnˌnʏsn̩]
 Pekari	[peˈkaːʁi]
-Peking	/ˈpeːkɪŋ/
+Peking	[ˈpeːkɪŋ]
 Pelikan	/ˈpeːliˌkaːn/
 Pelle	/ˈpɛlə/
 Peluschke	/pəˈlʊʃkə/
@@ -20527,7 +20706,8 @@ Perle	/ˈpɛʁlə/
 Perlenkette	/ˈpɛʁlənˌkɛtə/
 Perlhuhn	/ˈpɛʁlˌhuːn/
 Perlhuhn	[ˈpʰɛʁlˌhuːn]
-Perlmutt	/pɛʁlˈmʊt/
+Perlmutt	/pɛrlˈmʊt/
+Perlmutt	/ˈpɛrlˌmʊt/
 Perlmutter	/pɛʁlˈmʊtɐ/
 Perlmutter	/ˈpɛʁlmʊtɐ/
 Perlwein	[ˈpɛʁlˌvaɪ̯n]
@@ -20814,6 +20994,7 @@ Philosophaster	/ˌfilozoˈfastɐ/
 Philosophie	/ˌfilozoˈfiː/
 Phishing	[ˈfɪʃɪŋ]
 Phishings	[ˈfɪʃɪŋs]
+Phobie	/foˈbiː/
 Phonem	/foˈneːm/
 Phoneme	/foˈneːmə/
 Phonemen	/foˈneːmən/
@@ -20851,6 +21032,8 @@ Piccolo	/ˈpɪkolo/
 Piccolöchen	/ˈpɪ.koˌløː.çən/
 Pickel	/ˈpɪkəl/
 Picken	/ˈpɪkən/
+Pickerl	/ˈb̥ɪkɐl/
+Pickerl	/ˈpɪkɐl/
 Picknick	/ˈpɪkˌnɪk/
 Piemont	/pi̯eˈmɔnt/
 Pierona	/pjeˈrɔna/
@@ -20892,6 +21075,7 @@ Pinie	[ˈpiː.njə]
 Pinienkern	/ˈpiːniənˌkɛʁn/
 Pink	/pɪŋk/
 Pinke	/ˈpɪŋkə/
+Pinkel	/ˈpɪŋkəl/
 Pinkepinke	[ˈpɪŋkəˌpɪŋkə]
 Pinkepinke	[ˌpɪŋkəˈpɪŋkə]
 Pinnchen	/ˈpɪnçən/
@@ -21295,6 +21479,7 @@ Postamt	/ˈpɔstʔamt/
 Postautos	/ˈpɔstˌaʊ̯tos/
 Postämter	/ˈpɔstˌʔɛmtɐ/
 Postbote	/ˈpɔstboːtə/
+Posteingang	/ˈpɔstʔaɪ̯nˌɡaŋ/
 Poster	[ˈpoːstɐ]
 Posters	[ˈpoːstɐs]
 Postfach	/ˈpɔstˌfaχ/
@@ -21392,6 +21577,7 @@ Präsent	/pʁeːˈzɛnt/
 Präsent	/pʁɛˈzɛnt/
 Präsentation	/ˌpʁɛzɛntaˈt͡si̯oːn/
 Präsenz	[pʁɛˈzɛnt͡s]
+Präser	/ˈpʁɛːzɐ/
 Präservativ	/ˌpʁɛzɛʁvaˈtiːf/
 Präsident	/pʁeziˈdɛnt/
 Präsident	/pʁɛziˈdɛnt/
@@ -21608,6 +21794,9 @@ Pseudonym	/psɔɪ̯dɔˈnyːm/
 Pseudowissenschaft	/ˈpsɔɪ̯doˌvɪsn̩ʃaft/
 Psilocybin	/ˌpsiː.lo.t͡sy.ˈbiːn/
 Psyche	[ˈpsyːçə]
+Psychedelika	/ˌpsyçəˈdeːlikaː/
+Psychedelikum	/ˌpsyçəˈdeːlikʊm/
+Psychedelikums	/ˌpsyçəˈdeːlikʊms/
 Psychiater	/psyˈçi̯aːtər/
 Psychiater	[psyˈçaː.tɐ]
 Psychiatrie	/psyçi̯aˈtʁiː/
@@ -21809,6 +21998,7 @@ Quellenangabe	/ˈkvɛlənˌʔanɡaːbə/
 Quellfluss	/ˈkvɛlˌflʊs/
 Quelltext	/ˈkvɛlˌtɛkst/
 Quellwasser	/ˈkvɛlˌvasɐ/
+Quendel	/ˈkvɛndl̩/
 Quentchen	/ˈkvɛntçən/
 Querdenker	/ˈkveːɐ̯ˌdɛŋkɐ/
 Quere	[ˈkveːʁə]
@@ -21881,6 +22071,7 @@ Radau	/ʁaˈdaʊ̯/
 Rade	/ˈʁaːdə/
 Radfahren	/ˈʁaːtˌfaːʁən/
 Radfahrer	/ˈʁaːtˌfaːʁɐ/
+Radhaube	/ˈʁaːtˌhaʊ̯bə/
 Radiergummi	/ʁaˈdiːɐˌɡʊmi/
 Radieschen	/ʁaˈdiːs.çən/
 Radikalinski	/ʁadikaˈlɪnski/
@@ -21999,6 +22190,7 @@ Raspel	/ˈʁaspəl/
 Rasse	/ˈʁasə/
 Rassel	[ˈʁasl̩]
 Rasseln	[ˈʁasl̩n]
+Rassenhygiene	[ˈʁasn̩hyˌɡi̯eːnə]
 Rassenkreis	/ˈʁasn̩ˌkʁaɪ̯s/
 Rassismus	[ʁaˈsɪsmʊs]
 Rassist	/ʁaˈsɪst/
@@ -22093,7 +22285,9 @@ Rautenzeichen	[ˈʁaʊ̯tn̩ˌt͡saɪ̯çn̩]
 Rautezeichen	[ˈʁaʊ̯təˌt͡saɪ̯çn̩]
 Rayon	/raˈjoːn/
 Rayon	/rɛˈjɔ̃ː/
-Razzia	[ˈʁat͡si̯a]
+Razzia	/ˈratsi̯a/
+Razzia	[ˈʁa.t͡si.a]
+Razzia	[ˈʁa.t͡sja]
 Rächer	/ˈʁɛçɐ/
 Rächerin	/ˈʁɛçɐʁɪn/
 Rädchen	/ˈʁeːtçən/
@@ -22354,7 +22548,7 @@ Reisegepäckversicherung	[ˈʁaɪ̯zəɡəpɛkfɛɐ̯ˌzɪçəʁʊŋ]
 Reisekader	/ˈʁaɪ̯zəˌkaːdɐ/
 Reiseleiter	[ˈʁaɪ̯zəˌlaɪ̯tɐ]
 Reiselust	/ˈʁaɪ̯zəˌlʊst/
-Reisender	/ˈraɪ̯zn̩dɐ/
+Reisender	[ˈʁaɪ̯zn̩dɐ]
 Reisepass	/ˈʁaɪ̯zəˌpas/
 Reisetasche	/ˈʁaɪ̯zəˌtaʃə/
 Reiseversicherung	/ˈʁaɪ̯zəfɛɐ̯ˌzɪçəʁʊŋ/
@@ -22365,7 +22559,7 @@ Reisiger	/ˈʁaɪ̯zɪɡɐ/
 Reiskorn	/ˈʁaɪ̯sˌkɔʁn/
 Reisnudel	/ˈʁaɪ̯sˌnuːdl̩/
 Reiswaffel	/ˈʁaɪ̯sˌvafl̩/
-Reiten	/ˈʁaɪ̯tən/
+Reiten	/ˈʁaɪ̯tn̩/
 Reiter	/ˈʁaɪ̯tɐ/
 Reiterei	/ʁaɪ̯təˈʁaɪ̯/
 Reitpferd	/ˈʁaɪ̯tpfeːɐ̯t/
@@ -22458,6 +22652,7 @@ Rentière	/rãˈtjɛːrə/
 Rentière	/rɛnˈtjɛːrə/
 Rentière	[ʁãˈtjɛː.ʁə]
 Rentière	[ʁɛnˈtjɛː.ʁə]
+Reparatur	/ʁepaʁaˈtuːɐ̯/
 Repariererin	/ʁepaˈʁiːʁəʁɪn/
 Replik	/ʁeˈpliːk/
 Repliken	/ʁeˈpliːkn̩/
@@ -22498,6 +22693,9 @@ Restposten	/ˈʁɛstˌpɔstn̩/
 Resultat	/ʁezʊlˈtaːt/
 Resultat	[ʁezʊlˈtʰaːtʰ]
 Retabel	/ʁeˈtaːbl̩/
+Retikula	/ʁeˈtiːkula/
+Retikulum	/ʁeˈtiːkulʊm/
+Retikulums	/ʁeˈtiːkulʊms/
 Retina	/ˈʁeːtina/
 Retourkutsche	[ʁeˈtuːɐ̯ˌkʊt͡ʃə]
 Retronym	/ʁetʁoˈnyːm/
@@ -22827,6 +23025,7 @@ Rost	/ʁoːst/
 Rost	/ʁɔst/
 Rostbraten	/ˈʁɔstˌbʁaːtn̩/
 Rostbraun	/ˈʁɔstˌbʁaʊ̯n/
+Rostlaube	/ˈʁɔstˌlaʊ̯bə/
 Rostschutz	/ˈʁɔst.ʃʊt͡s/
 Rot	[ʁoːt]
 Rotauge	/ˈroːtˌaʊ̯ɡə/
@@ -23121,6 +23320,7 @@ Sabbat	[ˈzabat]
 Sabbat	[ˈzabɐt]
 Sabbatjahrs	[ˈzabatjaːɐ̯s]
 Sabbattag	/ˈzabatˌtaːk/
+Sabber	/ˈzabɐ/
 Sabine	/zaˈbi.nə/
 Saccharid	/zaχaˈʁiːt/
 Saccharose	/zaxaˈʁoːzə/
@@ -23139,7 +23339,9 @@ Sachverstand	[ˈzaxfɛɐ̯ˌʃtant]
 Sachverständige	[ˈzaxfɛɐ̯ˌʃtɛndɪɡə]
 Sachverständiger	[ˈzaxfɛɐ̯ˌʃtɛndɪɡɐ]
 Sack	/zak/
+Sackerl	/ˈsakɐl/
 Sackerl	/ˈzakɐl/
+Sackerl	/ˈz̥akɐl/
 Sackgasse	/ˈzakˌɡasə/
 Sackratte	/ˈzakˌʁatə/
 Sadismus	[zaˈdɪsmʊs]
@@ -23223,6 +23425,7 @@ Samenerguss	/ˈzaːmənɛʁˌɡʊs/
 Samenspender	/ˈzaːmənˌʃpɛndɐ/
 Sammeln	/ˈzaml̩n/
 Sammelname	/ˈzaml̩ˌnaːmə/
+Sammelsurium	/zaml̩ˈzuːʁiʊm/
 Sammelwut	[ˈzaml̩ˌvuːt]
 Sammelzahlwort	/ˈzaml̩ˌt͡saːlvɔrt/
 Sammler	/ˈzamlɐ/
@@ -23256,6 +23459,8 @@ Sanddornes	/ˈzant.dɔʁnəs/
 Sanddorns	/ˈzant.dɔʁns/
 Sanderling	/ˈzandɐlɪŋ/
 Sandfloh	/ˈzantˌfloː/
+Sandkastenfreund	[ˈzantˌkastn̩ˌfʁɔɪ̯nt]
+Sandkastenliebe	/ˈzantkastn̩ˌliːbə/
 Sandkorn	/ˈzantˌkɔʁn/
 Sandsack	/ˈzantˌzak/
 Sandschicht	/ˈzantʃɪçt/
@@ -23413,6 +23618,7 @@ Sämann	[ˈzeːˌman]
 Sämann	[ˈzɛːˌman]
 Sämling	/ˈzeːmlɪŋ/
 Sämling	/ˈzɛːmlɪŋ/
+Sände	/ˈzɛndə/
 Sänfte	/ˈzɛnftə/
 Sänger	/ˈsɛŋɐ/
 Sänger	/ˈsɛŋər/
@@ -23451,6 +23657,7 @@ Schachbrett	/ˈʃaxˌbʁɛt/
 Schacher	/ˈʃaχɐ/
 Schachfigur	/ˈʃaχfiˌɡuːɐ̯/
 Schachmatt	/ʃaχˈmat/
+Schachspiel	/ˈʃaxˌʃpiːl/
 Schachspieler	/ˈʃaχˌʃpiːlɐ/
 Schachspielerin	/ˈʃaχˌʃpiːləʁɪn/
 Schacht	/ʃaxt/
@@ -23567,6 +23774,7 @@ Schattenspiels	/ˈʃatənˌʃpiːls/
 Schattenspiels	[ˈʃatʰənˌʃpiːls]
 Schattenwurf	/ˈʃatənˌvʊʁf/
 Schatz	/ʃat͡s/
+Schatzkammer	/ˈʃat͡sˌkamɐ/
 Schatzkiste	/ˈʃat͡sˌkɪstə/
 Schatzsuchen	/ˈʃatsˌzuːxn̩/
 Schatzsuchen	/ˈʃatsˌzuːxən/
@@ -24070,6 +24278,8 @@ Schmerbauch	[ˈʃmeːɐ̯ˌbaʊ̯x]
 Schmerz	/ʃmɛʁts/
 Schmerz	[ʃmɛɐ̯ts]
 Schmerzen	[ˈʃmɛɐ̯.tsən]
+Schmerzengeld	/ˈʃmɛɐ̯t͡sn̩ˌɡɛlt/
+Schmerzengeld	/ˈʃmɛʁt͡sn̩ˌɡɛlt/
 Schmerzensgeld	/ˈʃmɛʁt͡sn̩sˌɡɛlt/
 Schmetten	/ʃmɛ.tn̩/
 Schmetterling	/ˈʃmɛtərlɪŋ/
@@ -24089,7 +24299,9 @@ Schmierpapier	/ˈʃmiːɐ̯paˌpiːɐ̯/
 Schmierpapiere	/ˈʃmiːɐ̯paˌpiːʁə/
 Schmierzettel	/ˈʃmiːɐ̯tsɛtl̩/
 Schminke	/ˈʃmɪŋkə/
+Schmirgel	/ˈʃmɪʁɡl̩/
 Schmirgelpapier	/ˈʃmɪʁɡl̩paˌpiːɐ̯/
+Schmirgels	/ˈʃmɪʁɡl̩s/
 Schmollen	[ˈʃmɔlən]
 Schmollmund	/ˈʃmɔlˌmʊnt/
 Schmorbraten	/ˈʃmoːˈbʁaːtn̩/
@@ -24125,6 +24337,7 @@ Schnarcher	/ˈʃnaʁçɐ/
 Schnarcherin	/ˈʃnaʁçəʁɪn/
 Schnatz	/ʃnat͡s/
 Schnaufer	/ˈʃnaʊ̯fɐ/
+Schnauzbart	/ˈʃnaʊ̯tsˌbaːɐ̯t/
 Schnauze	/ˈʃnaʊ̯tsə/
 Schnäppchen	/ˈʃnɛpçən/
 Schnäppchen	[ˈʃnɛpçn̩]
@@ -24352,6 +24565,8 @@ Schrotthandel	/ˈʃʁɔtˌhandəl/
 Schrotthändler	[ˈʃʁɔtˌhɛndlɐ]
 Schrotthändlerin	[ˈʃʁɔtˌhɛndləʁɪn]
 Schrotthändlerinnen	[ˈʃʁɔtˌhɛndləʁɪnən]
+Schrottkiste	/ˈʃrɔtkɪstə/
+Schrottmühle	/ˈʃrɔtmyːlə/
 Schrottwichteln	/ˈʃʁɔtˌvɪçtəln/
 Schröder	[ˈʃʁøːdɐ]
 Schrulle	/ˈʃʁʊlə/
@@ -24364,6 +24579,7 @@ Schubkarre	/ˈʃʊpˌkaʁə/
 Schubkraft	/ˈʃuːpˌkʁaft/
 Schublade	/ˈʃuːpˌlaːdə/
 Schublade	/ˈʃʊpˌlaːdə/
+Schubladendenken	/ˈʃuːplaːdn̩ˌdɛŋkn̩/
 Schubs	/ʃuːps/
 Schubs	/ʃʊps/
 Schuh	/ʃuː/
@@ -24395,9 +24611,11 @@ Schuldvertrag	/ˈʃʊltfɛɐ̯ˈtʁaːk/
 Schule	/ˈʃuːlə/
 Schuleingang	[ˈʃuːlʔaɪ̯nˌɡaŋ]
 Schulklingel	/ˈʃuːlˌklɪŋl̩/
+Schulmann	/ˈʃuːlman/
 Schulmedizin	/ˈʃuːlmediˌt͡siːn/
 Schulnote	/ˈʃuːlˌnoːtə/
 Schulpflicht	/ˈʃuːlˌp͡flɪçt/
+Schulpolitik	[ˈʃuːlpoliˌtiːk]
 Schulsprache	/ˈʃuːlˌʃpʁaːxə/
 Schultag	/ˈʃuːlˌtaːk/
 Schultasche	/ˈʃuːlˌtaʃə/
@@ -24414,8 +24632,7 @@ Schulung	/ˈʃuːlʊŋ/
 Schulungen	/ˈʃuːlʊŋən/
 Schulz	/ʃʊlt͡s/
 Schulze	/ˈʃʊl(t)sə/
-Schulze	[ˈʃʊlsə]
-Schulze	[ˈʃʊltsə]
+Schulze	[ˈʃʊl.t͡sə]
 Schumacher	/ˈʃuːmaxɐ/
 Schummelei	[ʃʊməˈlaɪ̯]
 Schummeleien	[ʃʊməˈlaɪ̯ən]
@@ -24461,7 +24678,6 @@ Schutzstaffel	[ˈʃʊt͡sˌʃtafl̩]
 Schutzumschlag	/ˈʃʊt͡sˌʊmʃlaːk/
 Schutzwall	[ˈʃʊt͡sˌval]
 Schußwaffe	/ˈʃʊsvafə/
-Schußwechsel	[ˈʃʊsˌvɛksl̩]
 Schüchternheit	/ˈʃʏçtɐnhaɪ̯t/
 Schüler	/ˈʃyːlɐ/
 Schüleraustausch	/ˈʃyːlɐˌaʊ̯staʊ̯ʃ/
@@ -24609,8 +24825,8 @@ Schwede	/ˈʃveːdə/
 Schweden	/ˈʃveːdn̩/
 Schwedin	/ˈʃveːdɪn/
 Schwedisch	/ʃˈveːdɪʃ/
-Schwefel	/ˈʃveːfl̩/
 Schwefel	/ˈʃveːfəl/
+Schwefel	[ˈʃʋeː.fl̩]
 Schwefellagerstätte	/ˈʃveːfl̩ˌlaːɡɐʃtɛtə/
 Schwefelsäure	/ˈʃveːfl̩ˌzɔɪ̯ʁə/
 Schweif	[ʃvaɪ̯f]
@@ -24933,6 +25149,7 @@ Selbstbildnis	[ˈzɛlpstˌbɪltnɪs]
 Selbstentfremdung	/ˈzɛlpstɛntfʁɛmdʊŋ/
 Selbsterkenntnis	/ˈzɛlpstʔɛɐ̯ˌkɛntnɪs/
 Selbstfahrer	/ˈzɛlpstfaːʁɐ/
+Selbstgefälligkeit	/ˈzɛlpstɡəˌfɛlɪçkaɪ̯t/
 Selbstgenügsamkeit	[ˈzɛlpstɡəˌnyːkzaːmkaɪ̯t]
 Selbstgespräch	[ˈzɛlpstɡəˌʃpʁɛːç]
 Selbstheirat	/ˈzɛlpsthaɪ̯ʁaːt/
@@ -25259,6 +25476,7 @@ Simulant	/zimuˈlant/
 Simulanten	/zimuˈlantn̩/
 Sindelfingen	/ˈzɪndl̩ˌfɪŋən/
 Sinfonie	/ˌzɪnfoˈniː/
+Singapur	[ˈzɪŋɡapuːɐ̯]
 Singen	/ˈzɪŋən/
 Single	/ˈsɪŋəl/
 Single	/ˈzɪŋəl/
@@ -25463,6 +25681,7 @@ Sommerferien	[ˈzɔmɐˌfeːʁiən]
 Sommerhaus	/ˈzɔmɐˌhaʊ̯s/
 Sommerhauses	/ˈzɔmɐˌhaʊ̯zəs/
 Sommerhäuser	/ˈzɔmɐˌhɔɪ̯zɐ/
+Sommerhitze	/ˈzɔmɐˌhɪt͡sə/
 Sommerkleid	[ˈzɔmɐˌklaɪ̯t]
 Sommerkleider	/ˈzɔmɐˌklaɪ̯dɐ/
 Sommerloch	/ˈzɔmɐˌlɔx/
@@ -25546,6 +25765,7 @@ Sonntag	[ˈzɔntʰaˑkʰ]
 Sonntagabend	[ˈzɔntaːkˈʔabn̩t]
 Sonntagabend	[ˌzɔntaːkˈʔabn̩t]
 Sonntagmittag	[ˈzɔntaːkˌmɪtaːk]
+Sonntagmorgen	/ˈzɔntaːkˌmɔʁɡn̩/
 Sonntagnachmittag	[ˈzɔntaːkˌnaːχmɪtaːk]
 Sonntagsbraten	/ˈzɔntaːksˌbraːtən/
 Sonntagsbrötchen	/ˈzɔntaxsˌbʁøːtçən/
@@ -25580,7 +25800,8 @@ Sorte	[ˈzɔːtə]
 Sortiment	/ˌzɔʁtiˈmɛnt/
 Sottise	/ˌzɔˈtiːzə/
 Sottise	[ˌzɔˈtiːzə]
-Soul	/sɔʊ̯l/
+Soul	[sɔʊ̯l]
+Soul	[zoːl]
 Sound	/saʊ̯nt/
 Soundkarte	/ˈsaʊ̯ntˌkaʁtə/
 Soundkarten	/ˈsaʊ̯ntˌkaʁtn̩/
@@ -25861,6 +26082,7 @@ Spindel	/ˈʃpɪndl̩/
 Spindelmage	/ˈʃpɪndəlmaːɡɛ/
 Spinne	/ˈʃpɪnə/
 Spinnennetz	/ˈʃpɪnənˌnɛts/
+Spinnenphobie	/ˈʃpɪnənfoˌbiː/
 Spinner	/ˈʃpɪnɐ/
 Spinnfaden	/ˈʃpɪnfaːdn̩/
 Spinngewebe	/ˈʃpɪnɡəˌveːbə/
@@ -26328,6 +26550,7 @@ Städte	/ˈʃtɛːtə/
 Städter	/ˈʃteːtɐ/
 Städter	/ˈʃtɛtɐ/
 Städter	/ˈʃtɛːtɐ/
+Ställe	/ˈʃtɛlə/
 Stämme	/ˈʃtɛmə/
 Ständehaus	/ˈʃtɛndəˌhaʊ̯s/
 Ständer	/ˈʃtɛndɐ/
@@ -26385,6 +26608,7 @@ Stein des Anstoßes	[ˌʃtaɪ̯n dɛs ˈʔanˌʃtoːsəs]
 Steinadler	/ˈʃtaɪ̯nʔaːdlɐ/
 Steinbeißer	[ˈʃtaɪ̯nˌbaɪ̯sɐ]
 Steinbruch	/ˈʃtaɪ̯nbʁʊx/
+Steinbutt	/ˈʃtaɪn.bʊt/
 Steineiche	/ˈʃtaɪ̯nˌʔaɪ̯çə/
 Steinen	/ˈʃtaɪ̯nən/
 Steinfrucht	/ˈʃtaɪ̯nˌfʁʊxt/
@@ -26404,6 +26628,7 @@ Steinlinde	[ˈʃtaɪ̯nˌlɪndə]
 Steinmauer	/ˈʃtaɪnˌmaʊ̯ɐ/
 Steinmetz	/ˈʃtaɪnˌmɛts/
 Steinmetzin	/ˈʃtaɪnˌmɛtsɪn/
+Steinquendel	/ˈʃtaɪ̯nkvɛndl̩/
 Steinschmätzer	[ˈʃtaɪ̯nˌʃmɛt͡sɐ]
 Steintreppe	[ˈʃtaɪnˌtʁɛpə]
 Steinwälzer	[ˈʃtaɪ̯nˌvɛlt͡sɐ]
@@ -26699,6 +26924,7 @@ Strandgut	/ˈʃtʁantɡuːt/
 Strandhafer	/ˈʃtranthaːfɐ/
 Strandhotel	/ˈʃtʁanthoˌtɛl/
 Strandläufer	/ˈʃtrantˌlɔɪ̯fɐ/
+Strandmuschel	/ˈʃtʁantˌmʊʃl̩/
 Strandwächter	/ˈʃtʁantˌvɛçtɐ/
 Stransky	/ˈʃtʀanski/
 Strapaze	/ʃtʁaˈpaːtsə/
@@ -26759,6 +26985,7 @@ Straßenmusikantinnen	/ˈʃtʁaːsn̩muziˌkantɪnən/
 Straßenmusiker	[ˈʃtʁaːsn̩ˌmuːzɪkɐ]
 Straßenmusikerin	/ˈʃtʁaːsn̩ˌmuːzɪkəʁɪn/
 Straßenmusikerinnen	/ˈʃtʁaːsn̩ˌmuːzɪkəʁɪnən/
+Straßenrand	/ˈʃtʁaːsn̩ˌʁant/
 Straßenräuber	[ˈʃtʁaːsn̩ˌʁɔɪ̯bɐ]
 Straßenschild	/ˈʃtraːsn̩ʃɪlt/
 Straßenseite	/ˈʃtʁaːsn̩ˌzaɪ̯tə/
@@ -26994,6 +27221,7 @@ Suchmannschaft	[ˈzuːχˌmanʃaft]
 Suchmaschine	/ˈzuːxmaˌʃiːnə/
 Sucht	/zʊxt/
 Sucht	[zʊxt]
+Sucht	[zʊχt]
 Suchtmittel	/ˈzʊxtˌmɪtl̩/
 Suchtrupp	/ˈzuːxtʁʊp/
 Suchtrupps	/ˈzuːxtʁʊps/
@@ -27016,6 +27244,7 @@ Suizid	/ˌzuːiˈtsɪt/
 Sukkot	/zʊˈkoːt/
 Sukkot	/zʊˈkɔt/
 Sulfid	/zʊlˈfiːt/
+Sulfur	/ˈzʊlfʊr/
 Sultan	/ˈzʊl.tan/
 Sultan	/ˈzʊlˌtaːn/
 Sultanat	[zʊltaˈnaːt]
@@ -27151,6 +27380,7 @@ Synonym	[ˌzynoˈnyːm]
 Syntagma	/zʏnˈtaɡma/
 Syntax	/ˈzʏntaks/
 Synthese	/zʏnˈteːzə/
+Synthesizer	/ˈsʏntəsaɪ̯zɐ/
 Syphilis	/ˈzyːfilɪs/
 Syrer	/ˈzyːʁɐ/
 Syrerin	/ˈzyːʁəʁɪn/
@@ -27265,6 +27495,7 @@ Taiga	/ˈtaɪ̯ɡa/
 Taikonaut	[taɪ̯koˈnaʊ̯t]
 Taille	/ˈtaljə/
 Taiwan	/taɪ̯ˈvaːn/
+Taiwaner	[taɪ̯ˈvaːnɐ]
 Tajostadt	/ˈtaːxoˌʃtat/
 Takt	/takt/
 Taktikwechsel	/ˈtaktɪkˌvɛksl̩/
@@ -27398,6 +27629,7 @@ Tatbestands	/ˈtaːtbəˌʃtants/
 Tatbestände	/ˈtaːtbəˌʃtɛndə/
 Taten	/ˈtaːtn̩/
 Taten	/ˈtaːtən/
+Tatjana	[tatˈjaːna]
 Tatmotiv	/ˈtaːtmoˌtiːf/
 Tatsache	/ˈtaːtˌzaxə/
 Tatsachenbeschöniger	/ˈtaːtzaxn̩ bəˌʃøːnɪɡɛɐ/
@@ -27560,6 +27792,7 @@ Teilpächterin	/ˈtaɪ̯lpɛçtərɪn/
 Teilsatz	/ˈtaɪ̯lˌzat͡s/
 Teilung	/ˈtaɪ̯lʊŋ/
 Teilungsrest	/ˈtaɪ̯lʊŋsˌʁɛst/
+Teilzeitstelle	/ˈtaɪ̯lt͡saɪ̯tˌʃtɛlə/
 Tein	/teːˈiːn/
 Teint	/tɛ̃ː/
 Teiste	/taɪ̯stə/
@@ -27594,6 +27827,7 @@ Teller	/ˈtɛlər/
 Teller	[ˈtɛ.lɐ]
 Tellerrand	/ˈtɛlɐˌʁant/
 Temminckstrandläufer	/ˈˈtɛmɪŋkʃtrantˌlɔɪ̯fɐ/
+Tempeh	/ˈtɛmpeː/
 Tempel	/ˈtɛmpl̩/
 Tempel	/ˈtɛmpəl/
 Tempelhof	/ˈtɛmpl̩ˌhoːf/
@@ -27619,6 +27853,7 @@ Tendenz	[tʰɛnˈdɛns]
 Tenne	/ˈtɛnə/
 Tennis	/ˈtɛnɪs/
 Tennisplatz	[ˈtɛnɪsˌplats]
+Tennisspiel	/ˈtɛnɪsˌʃpiːl/
 Tennisspielerin	/ˈtɛnɪsˌʃpiːləʁɪn/
 Tenor	/teˈnoːr/
 Tenor	/ˈteːnoːr/
@@ -27684,6 +27919,7 @@ Tetraterpens	/ˈtetʁatɛʁˌpeːns/
 Teubner	[ˈtɔɪ̯b.nɐ]
 Teufel	/ˈtɔʏfl̩/
 Teufelskreis	/ˈˈtʰɔʏ̯fl̩sˌkʁaɪ̯s/
+Teufelspakt	/ˈtɔɪ̯fl̩sˌpakt/
 Teufelsweib	/ˈtɔɪ̯fl̩sˌvaɪ̯p/
 Teuto	[ˈtʰɔʏ̯to]
 Teutone	/tɔɪ̯ˈtoːnə/
@@ -27738,6 +27974,8 @@ Thermosphäre	/ˌtɛʁmoˈsfɛːʁə/
 Thermostat	/ˈtɛʁmoˌstaːt/
 These	/ˈteːzə/
 Thing	/tɪŋ/
+Thinktank	/ˈsɪŋktɛŋk/
+Thinktank	/ˈθɪŋktæŋk/
 Thomas	/ˈtoː.mas/
 Thor	/toːɐ̯/
 Thorshühnchen	/ˈtoːɐ̯sˌhyːn.çən/
@@ -27892,6 +28130,8 @@ Tobake	[ˈtʰoːbakʰə]
 Tobaks	/ˈtoːbaks/
 Tobaks	[ˈtʰoːbaks]
 Tobsucht	/ˈtoːpˌzʊxt/
+Toches	/ˈd̥ɔxəs/
+Toches	/ˈtɔxəs/
 Tochter	/ˈtɔx.tɐ/
 Tochter	[ˈtɔx.tɐ]
 Tochter	[ˈtɔχ.tɐ]
@@ -28004,7 +28244,7 @@ Torkel	/ˈtɔʁkl̩/
 Torkeln	/ˈtɔʁkəln/
 Torkeln	[ˈtɔʁkl̩n]
 Torlinie	/ˈtoːɐ̯ˌliːnjə/
-Tornado	/tɔʁˈnaːdo/
+Tornado	[tɔʁˈnaːdo]
 Tornister	[tɔɐ̯.ˈnɪs.tɐ]
 Torpedieren	/tɔʁpeˈdiːʁən/
 Torpedieren	[tʰɔʁpeˈdiːɐ̯n]
@@ -28528,7 +28768,7 @@ Tutu	/tyˈtyː/
 Tuwort	/ˈtuːˌvɔʁt/
 Tübingen	/ˈtyːbɪŋn̩/
 Tübingen	/ˈtyːbɪŋən/
-Tücke	[ˈtʏkə]
+Tücke	/ˈtʏkə/
 Tüddelkram	/ˈtydl̩ˌkraːm/
 Tüll	/tʏl/
 Tülle	/ˈtʏlə/
@@ -29263,6 +29503,7 @@ Untersuchungsergebnis	/ʊntɐˈzuːχʊŋsɛʁˌɡeːpnɪs/
 Untersuchungskommission	/ʊn.tɐ.ˈzuː.xʊŋs.kɔ.mɪ.ˌsi̯oːn/
 Untertauchen	[ˈʊntɐˌtaʊ̯χn̩]
 Untertänigkeit	/ˈʊntɐˌtɛːnɪçkaɪ̯t/
+Unterteil	/ˈʔʊntɐˌtaɪ̯l/
 Unterteilen	/ˌʊntɐˈtaɪ̯lən/
 Untertitel	/ˈʊntɐˌtiːtl/
 Untertitel	/ˈʊntɐˌtɪtl/
@@ -29829,13 +30070,13 @@ Verbraucherin	/fɛʁˈbʁaʊ̯χəʁɪn/
 Verbraucherin	[fɛʁˈbʁaʊ̯χɐʁɪn]
 Verbrämung	[fɛɐ̯ˈbʁɛːmʊŋ]
 Verbrechen	/fərˈbrɛçən/
-Verbrechen	[fɐˈbʁɛçn̩]
+Verbrechen	[fɐˈbʁɛ.çn̩]
 Verbrechen gegen die Menschlichkeit	[ˌfɛɐ̯ˈbʁɛçn̩ ˈɡeːɡn̩ ˌdiː ˈmɛnʃlɪçˌkaɪ̯t]
 Verbrechensrate	[fɛɐ̯ˈbrɛçənsˌʁaːtə]
 Verbrechensraten	[fɛɐ̯ˈbrɛçənsˌʁaːtn̩]
 Verbrecher	/fɛɐ̯ˈbʁɛçɐ/
 Verbrechertum	/fɛɐ̯ˈbʁɛçɐtuːm/
-Verbreitung	/fɛɐ̯ˈbʁaɪ̯tʊŋ/
+Verbreitung	[fɛɐ̯ˈbʁaɪ̯tʊŋ]
 Verbrennen	/fɛɐ̯ˈbʁɛnən/
 Verbrennung	/fɛɐ̯ˈbʁɛnʊŋ/
 Verbum	/ˈvɛʁbʊm/
@@ -30660,6 +30901,7 @@ Vietnamkrieg	/vi̯ɛtˈnaːmˌkʁiːk/
 Vigilantismus	[ˌviɡilanˈtɪsmʊs]
 Vignette	[viˈɲɛtə]
 Vignette	[vɪnˈjɛtə]
+Vikar	/viˈkaːɐ̯/
 Viktoria	[vɪkˈtoːʁia]
 Viktualien	/vɪkˈtu̯aːli̯ən/
 Villach	/ˈfɪlaχ/
@@ -30826,6 +31068,7 @@ Vollvokal	/ˈfɔlvoˌkaːl/
 Vollwaschmittel	[ˈfɔlvaʃmɪtl̩]
 Vollwaschmittel	[ˈfɔlvaʃmɪtəl]
 Vollwort	/ˈfɔlvɔɐ̯t/
+Vollzeitstelle	/ˈfɔlt͡saɪ̯tˌʃtɛlə/
 Vollziehen	/fɔlˈt͡siːən/
 Vollzug	/fɔlˈtsuːk/
 Vollzug	/ˈfɔltsuːk/
@@ -31317,8 +31560,8 @@ Warmmiete	/ˈvaʁmˌmiːtə/
 Warmzeit	/ˈvaʁmˌt͡saɪ̯t/
 Warnblinklicht	/ˈvaʁn.blɪŋkˌlɪçt/
 Warnschuss	/ˈvaʁnˌʃʊs/
-Warnung	/ˈvaʁnʊŋ/
 Warnung	[ˈvaɐ̯nʊŋ]
+Warnung	[ˈvaʁnʊŋ]
 Warschau	/ˈvarʃaʊ̯/
 Wart	[vaʁt]
 Wartbarkeit	/ˈvaʁtbaːʁkaɪ̯t/
@@ -31435,6 +31678,8 @@ Wächter	/ˈvɛçtɐ/
 Wächterlein	/ˈvɛçtɐlaɪ̯n/
 Wägelchen	/ˈveːɡəlçən/
 Wägelchen	/ˈvɛːɡəlçən/
+Wähe	/ˈveːə/
+Wähe	/ˈvɛːə/
 Wähler	/ˈveːlɐ/
 Wähler	/ˈvɛːlɐ/
 Wählerin	/ˈveːlɐʁɪn/
@@ -31501,6 +31746,7 @@ Wechselstrom	/ˈvɛksl̩ˌʃtʁoːm/
 Wechselstube	[ˈvɛksl̩ʃtuːbə]
 Weck	/vɛk/
 Weckamin	/ˈvɛkʔaˌmiːn/
+Wecke	/ˈvɛkə/
 Wecken	/ˈvɛkn̩/
 Wecker	/ˈvɛkɐ/
 Weckruf	/ˈvɛkˌʁuːf/
@@ -31783,7 +32029,7 @@ Werdandi	[ˈvɛɐ̯dandi]
 Werdegang	[ˈveːɐ̯dəˌɡaŋ]
 Werfall	/ˈveːɐfal/
 Werg	/vɛɐ̯k/
-Wergeld	/ˈveːɐ̯ˌɡɛlt/
+Wergeld	/ˈveːrˌɡɛlt/
 Werk	/vɛʁk/
 Werk	[vɛɐ̯k]
 Werk	[vɛʁk]
@@ -31799,6 +32045,7 @@ Werkzeuggebrauches	/ˈvɛʁktsɔʏ̯kɡəˌbʁaʊ̯xəs/
 Werkzeuggebrauchs	/ˈvɛʁktsɔʏ̯kɡəˌbʁaʊ̯xs/
 Werkzeuggebräuche	/ˈvɛʁktsɔʏ̯kɡəˌbʁɔɪ̯çə/
 Werkzeughersteller	/ˈvɛʁktsɔʏ̯kˌheːɐ̯ʃtɛlɐ/
+Werkzeugkasten	/ˈvɛʁkt͡sɔɪ̯kˌkastn̩/
 Wermelskirchen	/veɐməlsˈkiɐçən/
 Wermut	/ˈveːɐ̯muːt/
 Wernicke	/ˈvɛʁnɪkə/
@@ -31811,6 +32058,7 @@ Wert	/veːrt/
 Wert	[veːɐ̯t]
 Wert	[vɛɐ̯t]
 Werte	/ˈvɛɐ̯tə/
+Wertekompass	/ˈveːɐ̯təˌkɔmpas/
 Wertigkeit	/ˈveːɐ̯tɪçkaɪ̯t/
 Wertigkeiten	/ˈveːɐ̯tɪçkaɪ̯tn̩/
 Wertpapier	/ˈveːɐ̯tpapiːɐ̯/
@@ -31818,7 +32066,7 @@ Wertrationalität	/ˈveːɐ̯tʁat͡si̯onaliˌtɛːt/
 Wertschätzung	/ˈveːɐ̯tˌʃɛt͡sʊŋ/
 Wertstoff	/ˈveːɐ̯tˌʃtɔf/
 Wertzeichen	/ˈveːɐ̯tˌt͡saɪ̯çn̩/
-Werwolf	/ˈveːɐ̯vɔlf/
+Werwolf	/ˈveːrˌvɔlf/
 Wesen	/ˈveːzn̩/
 Wesensmerkmal	/ˈveːzn̩sˌmɛʁkmaːl/
 Wesenszug	/ˈveːzn̩sˌt͡suːk/
@@ -32370,6 +32618,7 @@ YouTube	/ˈjuːtjuːp/
 YouTubes	/ˈjuːtjuːps/
 Youtuber	/ˈjuːtjuːbɐ/
 Youtuber	/ˈjuːtuːbɐ/
+Ypsilon	/ˈʏpsilɔn/
 Ysop	[ʔˈiːzɔp]
 Z	/tsɛt/
 Zabrze	/ˈtsabɐtsə/
@@ -32514,6 +32763,7 @@ Zehneckes	/ˈt͡seːnˌ.ɛkəs/
 Zehneckpyramide	/ˈt͡seːnˌ.ɛkpyʁaˌmiːdə/
 Zehneckpyramiden	/ˈt͡seːnˌ.ɛkpyʁaˌmiːdən/
 Zehnecks	/ˈt͡seːnˌ.ɛks/
+Zehnerl	/ˈt͡seːnɐl/
 Zehnflächner	/ˈtseːnˌflɛçnɐ/
 Zehnflächners	/ˈtseːnˌflɛçnɐs/
 Zehnkampf	/ˈt͡seːnˌkamp͡f/
@@ -32683,7 +32933,7 @@ Zeugin	/ˈtsɔʏ̯ɡɪn/
 Zeugnis	/ˈtsɔɪ̯k.nɪs/
 Zeugs	/ˈt͡sɔɪ̯ks/
 Zeugung	/ˈtsɔʏ̯ɡʊŋ/
-Zeus	/tsɔɪ̯s/
+Zeus	/t͡sɔɪ̯s/
 Zibarte	/ˈt͡sibartə/
 Zibbe	/ˈtsɪbə/
 Zibebe	/tsiˈbeːbə/
@@ -32769,6 +33019,8 @@ Zipphose	/ˈt͡sɪphoːzə/
 Zirbel	/ˈt͡sɪʁbl̩/
 Zirbeldrüse	/ˈt͡sɪʁbəldʁyːzə/
 Zirconium	/t͡sɪʁˈkoːni̯ʊm/
+Zirkel	/ˈtsɪrkəl/
+Zirkel	[ˈt͡sɪʁ.kl̩]
 Zirkelbeweis	[ˈtsɪʁkl̩bəˌvaɪ̯s]
 Zirkelschluss	/ˈt͡sɪrkəlʃlʊs/
 Zirkelschluss	[ˈt͡sɪʁkl̩ʃlʊs]
@@ -32804,6 +33056,11 @@ Zivilehe	/t͡siˈviːlˌʔeːə/
 Zivilisation	/t͡sivilizaˈt͡si̯oːn/
 Zivilverteidigung	/t͡siˈviːlfɛɐ̯ˌtaɪ̯dɪɡʊŋ/
 Zivilverteidigungen	/t͡siˈviːlfɛɐ̯ˌtaɪ̯dɪɡʊŋən/
+Zloty	/ˈslɔti/
+Zloty	/ˈzlɔti/
+Zloty	/ˈzu̯ɔti/
+Zloty	/ˈzu̯ɔtə/
+Zloty	/ˈʃlɔti/
 Zobel	/ˈt͡soːbəl/
 Zobel	[ˈt͡soːbl̩]
 Zoch	/tsɔx/
@@ -33133,6 +33390,7 @@ Zweihänder	/ˈt͡svaɪ̯ˌhɛndɐ/
 Zweikampf	/ˈt͡svaɪ̯ˌkamp͡f/
 Zweiklang	/ˈt͡svaɪ̯ˌklaŋ/
 Zweisitzer	/ˈtsvaɪ̯ˌzɪtsɐ/
+Zweispitz	[ˈt͡svaɪ̯ˌʃpɪt͡s]
 Zweistromland	[ˈt͡svaɪ̯ʃtʁoːmˌlant]
 Zweite Welt	/ˈt͡svaɪ̯tə vɛlt/
 Zweiter	/ˈt͡svaɪ̯tɐ/
@@ -33239,6 +33497,7 @@ Zyklen	/ˈt͡syːklən/
 Zyklon	/t͡syˈkloːn/
 Zyklop	/tsyˈkloːp/
 Zyklus	/ˈt͡syːklʊs/
+Zylinder	/t͡siˈlɪndɐ/
 Zylinder	/t͡syˈlɪndɐ/
 Zyniker	/ˈt͡syːnɪkɐ/
 Zynismus	/t͡syːˈnɪsmʊs/
@@ -33410,6 +33669,7 @@ abgewaschen	/ˈapɡəˌvaʃn̩/
 abgewinnen	[ˈapɡəˌvɪnən]
 abgewöhnen	[ˈapɡəˌvøːnən]
 abgezockt	/ˈapɡəˌt͡sɔkt/
+abgleichen	[ˈapˌɡlaɪ̯çn̩]
 abgöttisch	/ˈʔapɡœtɪʃ/
 abgrundtief	/ˈapɡʁʊntˌtiːf/
 abgründig	/ˈʔapɡʁʏndɪç/
@@ -33591,6 +33851,8 @@ abstammen	/ˈapˌʃtamən/
 abstauen	[ˈʔap.ʃtaʊ̯ən]
 abstechen	[ˈʔapˌʃtɛçn̩]
 abstechen	[ˈʔapˌʃtɛçən]
+abstecken	/ˈapˌʃtɛkən/
+abstecken	[ˈʔapˌʃtɛkŋ̩]
 abstehen	/ˈapˌʃteːən/
 absteigen	/ˈapˌʃtaɪ̯ɡən/
 absteigen	[ˈʔäpˌʃtäe̯ɡŋ̍]
@@ -33710,7 +33972,7 @@ achtkantig	[ˈaxtˌkantɪç]
 achtmal	/ˈaxtmaːl/
 achtminütig	/ˈaxtmiˌnyːtɪç/
 achtprozentig	/ˈaxtpʁoˌt͡sɛntɪç/
-achtsam	/ˈaxtˌsaːm/
+achtsam	/ˈaxtˌzam/
 achtsam	/ˈaxtˌzaːm/
 achtstündig	/ˈaxtˌʃtʏndɪç/
 achtstündig	/ˈaxtˌʃtʏndɪk/
@@ -33797,7 +34059,6 @@ afrikaans	[ˌafʁiˈkaːns]
 afterreden	/ˈaftɐˌʁeːdn̩/
 agglutinierend	/aɡlutiˈniːʁənt/
 agglutinierende	/aɡlutiˈniːʁəndə/
-agglutinierende Sprachen	/aɡlutiˈniːʁəndə ˈʃpʁaːχn̩/
 aggressiv	/aɡʁɛˈsiːf/
 agieren	/aˈɡiːɐ̯n/
 agieren	/aˈɡiːʁən/
@@ -33884,6 +34145,7 @@ aller-	/alɐ/
 allerdings	/ʔalɐˈdɪŋs/
 allerdings	/ˈʔalɐdɪŋs/
 allerdurchlauchtig	/alɐdʊɐ̯xˈlaʊ̯xtɪk/
+allererste	/ˈalɐˌʔeːɐ̯stə/
 allergewöhnlichst	[ʔalɐɡəˈvøːnlɪçstn̩]
 allergewöhnlichst	[ʔalɐɡəˈvøːnlɪçstən]
 allergisch	/ˌaˈlɛʁɡɪʃ/
@@ -34295,6 +34557,7 @@ anschnauzen	/ˈanˌʃnaʊ̯t͡sn̩/
 anschrauben	[ˈanˌʃʁaʊ̯bn̩]
 anschreiben	/ˈʔanʃʁaɪ̯bm̩/
 anschreiben	/ˈʔanʃʁaɪ̯bən/
+anschreien	/ˈanˌʃʁaɪ̯ən/
 anschwärzen	[ˈanʃvɛrt͜sn̩]
 ansehen	/ˈʔanˌzeːən/
 ansehnlich	[ˈʔanˌzeːnlɪç]
@@ -34411,6 +34674,7 @@ aragonisch	/aʁaˈɡoːnɪʃ/
 arational	[ˈaʁat͡si̯oˌnaːl]
 arbeiten	/ˈaʁbaɪ̯tən/
 arbeiten	[ˈʔäʁbäɪ̯tən]
+arbeitsam	/ˈaʁbaɪ̯tzam/
 arbeitsam	/ˈaʁbaɪ̯tzaːm/
 arbeitsfähig	/ˈaʁbaɪ̯t͡sˌfɛːɪç/
 arbeitslos	/ˈaʁbaɪ̯tsloːs/
@@ -34468,6 +34732,7 @@ aschfahl	/ˈaʃˌfaːl/
 aserbaidschanisch	/ˌazɛʁbaɪˈd͡ʒaːnɪʃ/
 asexuell	/ˈasɛksuˌɛl/
 asexuell	/ˈazɛksuˌɛl/
+asiatisch	[aˈzi̯aːtɪʃ]
 aso	/aˈzoː/
 asozial	/ˈazoˌtsjaːl/
 asphaltieren	/asfalˈtiːʁən/
@@ -34668,7 +34933,9 @@ aufm	/ˈaʊ̯fəm/
 aufmachen	/ˈaʊ̯fˌmaxən/
 aufmachen	[ˈʔäo̯fˌmäχən]
 aufmarschieren	/ˌaʊ̯fmaʁˈʃiːʁən/
-aufmerksam	/ˈaʊ̯fˌmɛʁkzaːm/
+aufmerksam	[ˈaʊ̯fˌmɛʁkzam]
+aufmerksam	[ˈaʊ̯fˌmɛʁkzaːm]
+aufmerksam	[ˈʔaʊ̯fˌmɛɐ̯kzam]
 aufmerksam	[ˈʔaʊ̯fˌmɛɐ̯kzaːm]
 aufmuntern	/ˈʔaʊ̯fmʊntɐn/
 aufmunternd	/ˈaʊ̯fˌmʊntɐnt/
@@ -35415,6 +35682,7 @@ bedeutend	/bəˈdɔɪ̯tn̩t/
 bedeutend	/bəˈdɔɪ̯tənt/
 bedeutender	/bəˈdɔɪ̯tn̩dɐ/
 bedeutender	/bəˈdɔɪ̯təndɐ/
+bedeutsam	/bəˈdɔɪ̯tzam/
 bedeutsam	/bəˈdɔɪ̯tzaːm/
 bedienen	[bəˈdiːnən]
 bedient	/bəˈdint/
@@ -35578,6 +35846,7 @@ behandelt	[bəˈhandl̩t]
 behandelt	[bəˈhandəlt]
 beharren	/bəˈhaʁən/
 beharrlich	/ˌbəˈhaʁlɪç/
+beharrsam	/bəˈhaʁzam/
 beharrsam	/bəˈhaʁzaːm/
 behauchen	/bəˈhaʊ̯χn̩/
 behauen	/bəˈhaʊ̯ən/
@@ -35585,6 +35854,8 @@ behaupten	/bəˈhaʊ̯ptən/
 behäbig	/bəˈheːbɪç/
 behäbig	/bəˈhɛːbɪç/
 behäbig	/bəˈhɛːbɪk/
+behänd	/bəˈhɛnt/
+behände	/bəˈhɛndə/
 behändigen	/bəˈhɛndɪɡən/
 behebbar	/bəˈhepbaːɐ̯/
 beheben	/bəˈheːbən/
@@ -35613,6 +35884,7 @@ behorchen	/bəˈhɔʁçn̩/
 behub	/bəˈhuːp/
 behufen	/bəˈhuːfn̩/
 behuft	[bəˈhuːft]
+behutsam	/bəˈhuːtzam/
 behutsam	/bəˈhuːtzaːm/
 behüten	[bəˈhyːtn̩]
 behüten	[bəˈhyːtən]
@@ -35820,6 +36092,7 @@ berechtigte	[bəˈʁɛçtɪçtə]
 berechtigten	[bəˈʁɛçtɪçtn̩]
 berechtigten	[bəˈʁɛçtɪçtən]
 bereden	[bəˈʁeːdn̩]
+beredsam	/bəˈʁeːtzam/
 beredsam	/bəˈʁeːtzaːm/
 beredt	[bəˈʁeːt]
 beregnen	/bəˈʁeːɡnən/
@@ -35855,6 +36128,7 @@ bergt	/bɛɐ̯kt/
 berichten	/bəˈʁɪçtən/
 berichten	[bəˈʁɪçtn̩]
 berichtigen	/bəˈʁɪçtɪɡən/
+berieseln	/bəˈʁiːzl̩n/
 berlinern	/bɛʁˈliːnɐn/
 bersten	/ˈbɛʁstən/
 bersten	[ˈbɛʁstən]
@@ -36065,6 +36339,7 @@ betreiben	[bəˈtʁaɪ̯bən]
 betreten	/bəˈtʁeːtən/
 betreten	[bəˈtʁeː.tn̩]
 betreuen	/bəˈtʁɔɪ̯ən/
+betriebsam	[bəˈtʁiːpzam]
 betriebsam	[bəˈtʁiːpzaːm]
 betrinken	/bəˈtʁɪŋkŋ̩/
 betrinken	/bəˈtʁɪŋkən/
@@ -36104,10 +36379,11 @@ beunruhigen	/bəˈʊnʁuiɡən/
 beunruhigen	[bəˈʔʊnʁuiɡŋ]
 beurkunden	/bəˈʔuːɐ̯ˌkʊndn̩/
 beurlauben	/bəˈʔuːɐ̯ˌlaʊ̯bn̩/
+beuteln	/ˈbɔɪ̯tl̩n/
 bevollmächtigen	/bəˈfɔlmɛçtɪɡŋ̩/
 bevollmächtigen	/bəˈfɔlmɛçtɪɡən/
-bevor	/bəˈfoːɐ̯/
-bevor	/bəˈfɔɐ̯/
+bevor	/bəˈfoːr/
+bevor	[bəˈfoːɐ̯]
 bevorstehen	[bəˈfoːɐ̯ˌʃteːən]
 bevorzugen	/ˌbəˈfoːɐ̯tsuːɡn/
 bevölkern	/bəˈfœlkɐn/
@@ -36188,6 +36464,7 @@ biblischen	[ˈbiːblɪʃn̩]
 biblischen	[ˈbiːblɪʃən]
 bieder	/ˈbiːdɐ/
 biegen	/ˈbiːɡən/
+biegsam	/ˈbikzam/
 biegsam	/ˈbiːkzaːm/
 biegt	/biːçt/
 biegt	/biːkt/
@@ -36223,6 +36500,10 @@ bindig	/ˈbɪntɪk/
 bingen	/ˈbɪnd͡ʒən/
 bingen	[ˈbɪnd͡ʒn̩]
 bingewatchen	/ˈbɪnd͡ʒˌwɔt͡ʃn̩/
+bingt	/bɪnd͡ʒt/
+bingt	[bɪnt͡ʃt]
+bingte	/bɪnd͡ʒtə/
+bingte	[bɪnt͡ʃtə]
 binnen	/ˈbɪnən/
 binnen-	/ˈbɪnən/
 binnenländisch	/ˈbɪnənˌlɛndɪʃ/
@@ -36421,6 +36702,7 @@ bolivianisch	[boliˈvi̯aːnɪʃ]
 bollerig	/ˈbɔləʁɪç/
 bollern	/ˈbɔlɐn/
 bombardieren	/bɔmbaʁˈdiːʁən/
+bombastisch	/bɔmˈbastɪʃ/
 bombensichere	/ˈbɔmbn̩ˌzɪçəʁən/
 bombensicherem	/ˈbɔmbn̩ˌzɪçəʁəm/
 bombensicheren	/ˈbɔmbn̩ˌzɪçəʁən/
@@ -36445,7 +36727,7 @@ bourgeois	[ˌbʊʁ.ʒuˈaː]
 boustrophedon	[bʊstʁofeˈdɔn]
 boxen	/ˈbɔksn̩/
 boxen	/ˈbɔksən/
-boykottieren	/bɔɪkɔˈtiːʁən/
+boykottieren	[ˌbɔɪ̯kɔˈtiːʁən]
 boßeln	/ˈboːsəln/
 boßeln	[ˈboːsl̩n]
 boßen	/ˈboːsən/
@@ -36460,6 +36742,7 @@ bös	/bøːs/
 bösartig	[ˈbøːsˌʔaːɐ̯tɪç]
 böse	/ˈbøːzə/
 böswillig	/ˈbøːsˌvɪlɪç/
+brabbeln	/ˈbʁabl̩n/
 brach	/braːx/
 brach	[bʁaːχ]
 brachial	/braˈxi̯aːl/
@@ -36523,6 +36806,7 @@ brennend	/ˈbʁɛnənt/
 brenzlig	/ˈbʁɛnt͡slɪç/
 brenzlig	/ˈbʁɛnt͡slɪk/
 brettern	/ˈbʁɛtɐn/
+brettleben	[ˌbʀɛtl̩ˈʔeːbn̩]
 brevi manu	/ˈbreːvi ˈmaːnu/
 brevi manu	/ˈbrɛvi ˈmaːnu/
 brich	[bʁɪç]
@@ -36550,6 +36834,10 @@ bronchial	[bʁɔnˈçi̯aːl]
 bronzefarben	/ˈbʁɔ̃ːsəˌfaʁbn̩/
 bronzefarbig	/bʁɔŋsəˌfaʁbɪç/
 bronzefarbig	/ˈbʁɔ̃ːsəˌfaʁbɪç/
+bronzen	/ˈbʁɔnsn̩/
+bronzen	/ˈbʁɔnt͡sn̩/
+bronzen	/ˈbʁɔŋsn̩/
+bronzen	/ˈbʁɔ̃ːsn̩/
 browsen	/ˈbʁaʊ̯zn̩/
 bröckeln	/ˈbʁœkəln/
 bröckeln	[ˈbʁœkl̩n]
@@ -36706,6 +36994,7 @@ claviform	[klaːviˈfɔʁm]
 clean	[kliːn]
 clever	[ˈklɛvɐ]
 committen	/kɔˈmɪtn̩/
+computerisieren	/kɔmpjuːtəʁiˈziːʁən/
 computersimuliert	[ kɔmˈpjuːtɐ.zimuˌliːɐ̯t]
 containern	/kɔnˈteːnɐn/
 cool	[kuːl]
@@ -36781,6 +37070,7 @@ dahinten	/daˈhɪntn̩/
 dahinten	[ˈdaːˌhɪntn̩]
 dahinter	/daˈhɪntəʁ/
 dahinter	[daˈhɪntʰɐ]
+dahinterkommen	/daˈhɪntɐˌkɔmən/
 dalassen	[ˈdaːˌlasn̩]
 dalberig	/ˈdalbəʁɪç/
 daliegen	/ˈdaːliːɡn̩/
@@ -36806,6 +37096,8 @@ danken	[ˈdaŋkən]
 danksagen	/ˈdaŋkˌzaːɡn̩/
 dann	/dan/
 dann und wann	[ˈdan ʊnt ˈvan]
+dar	/daːɐ̯/
+dar-	/daːɐ̯/
 daran	/daˈʁan/
 daranmachen	/daˈʁanˌmaxn̩/
 darauf	/daˈʁaʊ̯f/
@@ -37122,7 +37414,7 @@ die Faxen dicke haben	[diː ˈfaksn̩ dɪkə ˈhaːbm̩]
 die Fäden ziehen	[diː ˈfeːdn̩ ˈt͡siːn]
 die Fäden ziehen	[diː ˈfɛːdn̩ ˈt͡siːn]
 die Hände in den Schoß legen	[diː ˈhɛndə ɪn deːn ʃoːs ˈleːɡn̩]
-die Hoffnung stirbt zuletzt	/diː ˈhɔfnʊŋ ʃtɪɐ̯pt tsuˈlɛtst/
+die Hoffnung stirbt zuletzt	/di ˈhɔfnʊŋ ˈʃtɪʁpt tsuˈlɛtst/
 die Hosen anhaben	/di ˈhoːzn̩ ˈʔanhaːbm̩/
 die Katze im Sack kaufen	[diː ˈkat͡sə ɪm ˈzak ˌkaʊ̯fn̩]
 die Kirche im Dorf lassen	/diː ˌkɪʁçə ɪm ˈdɔʁf ˌlasn̩/
@@ -37135,6 +37427,8 @@ die Radieschen von unten betrachten	/diː ʁaˈdiːsçn̩ fɔn ˈʊntn̩ bəˈt
 die Schafe von den Böcken scheiden	[diː ˌʃaːfə fɔn deːn ˈbɶkən ʃaɪ̯dən]
 die Schönheit liegt im Auge des Betrachters	[diː ˈʃøːnhaɪ̯t likt ɪm ˈaʊ̯ɡə dɛs bəˈtʁaχtɐs]
 die Stange halten	[diː ˈʃtaŋə ˈhaltn̩]
+die Stiefel lecken	[diː ˈʃtiːfl̩ ˈlɛkn̩]
+die Suppe versalzen	[diː ˈzʊpə fɛɐ̯ˈzalt͡sn̩]
 die kalte Schulter zeigen	/diː ˈkaltə ˈʃʊltɐ ˈt͡saɪ̯ɡn̩/
 dien	[diːn]
 dienen	[ˈdiːnən]
@@ -37260,6 +37554,7 @@ dösig	/ˈdøːzɪç/
 dösig	/ˈdøːzɪk/
 drahtig	/ˈdʁaːtɪç/
 drahtig	/ˈdʁaːtɪk/
+drakonisch	[dʁaˈkoːnɪʃ]
 drall	/dʁal/
 drangsalieren	/dʁaŋzaˈliːʁən/
 drauf	[dʁaʊ̯f]
@@ -37434,6 +37729,7 @@ duftig	/ˈdʊftɪk/
 dulden	/ˈdʊldən/
 dulden	[ˈdʊldn̩]
 dulden	[ˈdʊldən]
+duldsam	/ˈdʊltzam/
 duldsam	/ˈdʊltzaːm/
 dumm	/dʊm/
 dumm wie Brot	[ˌdʊm viː ˈbʁoːt]
@@ -37572,6 +37868,7 @@ durchwandern	/dʊʁçˈvandəʁn/
 durchwandern	[dʊɐ̯çˈvandɐn]
 durchwaten	/ˈdʊʁçˌvaːtn̩/
 durchwaten	/ˌdʊʁçˈvaːtn̩/
+durchwursteln	/ˈdʊʁçˌvʊʁstəln/
 durchwühlen	/dʊʁçˈvyːlən/
 durchwühlen	[dʊɐ̯çˈvyːln]
 durchzählen	[ˈdʊʁçˌtsɛːln̩]
@@ -37828,6 +38125,7 @@ eineiig	[ˈʔaɪ̯nˌʔaɪ̯.ɪç]
 eineiig	[ˈʔaɪ̯ˌnaɪ̯.ɪç]
 eineindeutig	/ˈaɪ̯nˌʔaɪ̯ndɔɪ̯tɪç/
 eineinhalb	/ˈaɪ̯naɪ̯nˌhalp/
+einem	/ˈaɪ̯nəm/
 einen Frosch im Hals haben	[aɪ̯nən fʁɔʃ ɪm hals ˈhabm̩]
 einen Korb kriegen	[aɪ̯nən ˈkɔʁp ˈkʁiːɡŋ̍]
 einen Krebs fangen	[ˈaɪ̯nən kʁeːps ˈfaŋən]
@@ -37874,6 +38172,7 @@ einfrieren	/ˈʔaɪ̯nfʁiːʁən/
 einfügen	/ˈaɪ̯nˌfyːɡən/
 einfügen	[ˈʔaɪ̯nˌfyːɡŋ̍]
 einfühlen	/ˈaɪ̯nˌfyːlən/
+einfühlsam	/ˈaɪ̯nfyːlzam/
 einfühlsam	/ˈaɪ̯nfyːlzaːm/
 einführen	[ˈʔaɪ̯nfyːɐ̯n]
 einführen	[ˈʔaɪ̯nfyːʁən]
@@ -37974,7 +38273,9 @@ einpennen	/ˈaɪ̯npɛnən/
 einpflegen	/ˈaɪ̯nˌp͡fleːɡn̩/
 einplanen	/ˈaɪ̯nˌplaːnən/
 einprägen	/ˈaɪ̯nˌpʁɛːɡn̩/
+einprägsam	/ˈaɪ̯nˌpʁeːkzam/
 einprägsam	/ˈaɪ̯nˌpʁeːkzaːm/
+einprägsam	/ˈaɪ̯nˌpʁɛːkzam/
 einprägsam	/ˈaɪ̯nˌpʁɛːkzaːm/
 einpreisen	/ˈaɪ̯nˌpʁaɪ̯zn̩/
 einprogrammieren	[ˈaɪ̯npʁoɡʁaˌmiːʁən]
@@ -37986,12 +38287,13 @@ einreihig	/ˈaɪ̯nˌʁaɪ̯ɪk/
 einreisen	[ˈaɪ̯nˌʁaɪ̯zn̩]
 einreißen	/ˈaɪ̯nˌʁaɪ̯sn̩/
 einrenken	/ˈaɪ̯nˌʁɛŋkən/
-einrichten	/ˈʔaɪ̯nʁɪçtn̩/
-einrichten	/ˈʔaɪ̯nʁɪçtən/
+einrichten	/ˈaɪ̯nˌʁɪçtn̩/
+einrichten	/ˈaɪ̯nˌʁɪçtən/
 einrosten	/ˈaɪ̯nˌʁɔstən/
 einrücken	[ˈaɪ̯nˌʁʏkn̩]
 einrühren	/ˈaɪ̯nˌʁyː.ʁən/
 eins	[aɪ̯ns]
+einsam	/ˈaɪ̯nzam/
 einsam	/ˈaɪ̯nzaːm/
 einsatzbereit	[ˈaɪ̯nzatsbəˌʁaɪ̯t]
 einsaugen	/ˈaɪ̯n.zaʊ̯.ɡən/
@@ -38214,6 +38516,7 @@ empfänglich	/ʔɛmˈpfɛŋlɪç/
 empfehlen	/ʔɛmˈpfeːlən/
 empfehlenswert	/ʔɛmˈpfeːlənsˌveːɐ̯t/
 empfinden	/ɛmˈpfɪndn̩/
+empfindsam	/ɛmˈp͡fɪntzam/
 empfindsam	/ɛmˈp͡fɪntzaːm/
 empirisch	/ɛmˈpiː.ʁɪʃ/
 empor	/ɛmˈpoːr/
@@ -38323,6 +38626,7 @@ entgleisen	/ɛntˈɡlaɪ̯zn̩/
 entgleiten	[ɛntˈɡlaɪ̯tn̩]
 enthalten	[ʔɛntˈhaltn̩]
 enthalten	[ʔɛntˈhaltən]
+enthaltsam	/ɛntˈhaltzam/
 enthaltsam	/ɛntˈhaltzaːm/
 enthaupten	/ɛntˈhaʊ̯ptn̩/
 entheben	/ɛntˈheːbn̩/
@@ -38582,6 +38886,7 @@ erhitzen	[ʔɛɐ̯ˈhɪtsən]
 erhoffen	[ˈʔɛʁˌhɔfən]
 erholen	[ʔɛɐ̯ˈhoːln̩]
 erholen	[ʔɛɐ̯ˈhoːlən]
+erholsam	/ɛɐ̯ˈhoːlzam/
 erholsam	/ɛɐ̯ˈhoːlzaːm/
 erhorchen	[ɛɐ̯ˈhɔʁçn̩]
 erhöhen	/ɛɐ̯ˈhøːən/
@@ -38874,6 +39179,7 @@ etepetete	/ˌeːtəpəˈteːtə/
 ethnisch	/ˈeːtnɪʃ/
 ethnisch	/ˈɛtnɪʃ/
 ethnische Säuberung	/ˌɛtnɪʃə ˈzɔʏ̯bəʁʊŋ/
+etikettieren	/etikɛˈtiːʁən/
 etiolieren	/etioˈliːʁən/
 etlich	/ˈɛtlɪç/
 etliche	[ˈɛtlɪçə]
@@ -39394,11 +39700,13 @@ flächengleich	[ˈflɛçənˌɡlaɪ̯ç]
 flächenmäßig	[ˈflɛçn̩ˌmɛːsɪç]
 flächsern	[ˈflɛksɐn]
 flämmen	/ˈflɛmən/
+fläzen	/ˈflɛːtsən/
 flechten	/ˈflɛçtən/
 flechtenbewohnend	/ˈflɛçtənbəˌvoːnənt/
 fleckig	/ˈflɛkɪç/
 fleckig	/ˈflɛkɪk/
 flehen	/ˈfleːən/
+flehmen	/ˈfleːmən/
 fleischig	/ˈflaɪ̯ʃɪç/
 fleischig	/ˈflaɪ̯ʃɪk/
 fleißen	/flaɪ̯sn̩/
@@ -39440,6 +39748,7 @@ florid	[floˈʁiːt]
 floss	/flɔs/
 flott	/flɔt/
 flotte	/ˈflɔtə/
+flöge	/ˈfløːgə/
 flöten	/ˈfløːtən/
 flöten	[ˈfløːtn̩]
 flöten	[ˈfløːtən]
@@ -39486,6 +39795,7 @@ folgenschwerer	[ˈfɔlɡn̩ˌʃveːʁɐ]
 folgenschwersten	[ˈfɔlɡn̩ˌʃveːɐ̯stn̩]
 folgerichtig	/ˈfɔlɡəˌʁɪçtɪç/
 folgern	/ˈfɔlɡɐn/
+folgsam	/ˈfɔlkzam/
 folgsam	/ˈfɔlkzaːm/
 foltern	/ˈfɔltərn/
 foltern	[ˈfɔl.tɐn]
@@ -39644,7 +39954,10 @@ friedensbewegt	[ˈfʁiːdn̩sbəˌveːkt]
 friedlich	/ˈfʁiːtlɪç/
 friemeln	/ˈfriːməln/
 friemeln	[ˈfʁiːml̩n]
-frieren	/ˈfʁiːʁən/
+frieren	/ˈfriːrən/
+frieren	[fʁi(ː)ɐ̯n]
+frieren	[ˈfʁiː.ɐn]
+frieren	[ˈfʁiː.ʁən]
 friesisch	/ˈfʁiːzɪʃ/
 frigid	[fʁiˈɡiːt]
 frigide	[fʁiˈɡiːdə]
@@ -39744,6 +40057,7 @@ futtern	[ˈfʊtɐn]
 fußen	/fuːs(ə)n/
 fügen	/ˈfyːɡŋ̩/
 fügen	/ˈfyːɡən/
+fügsam	/ˈfyːksam/
 fügsam	/ˈfyːksaːm/
 fühlbar	/ˈfyːlbaɐ/
 fühlen	/ˈfyːlən/
@@ -39857,6 +40171,7 @@ für	/fə/
 für	/fʏɐ̯/
 für lau	/fyːr ˈlaʊ̯/
 für lau	[fy(ː)ɐ̯ ˈlaʊ̯]
+fürbass	/fyʁˈbas/
 fürchten	/ˈfʏʁçtən/
 fürchten	[ˈfʏɐ̯çtn̩]
 fürchterlich	/ˈfʏʁçtɐlɪç/
@@ -39958,6 +40273,7 @@ gärte	[ɡɛɐ̯.tə]
 ge-	/ɡə/
 geängstigt	/ˌɡəˈʔɛŋstɪkt/
 geäußert	[ɡəˈɔʏ̯sɐt]
+geb	/ˈɡeːp/
 gebalkt	[ɡəˈbalkt]
 gebärden	/ɡəˈbeːɐ̯dn̩/
 gebärden	/ɡəˈbɛːɐ̯dn̩/
@@ -39979,6 +40295,7 @@ gebetsmühlenartig	/ɡəˈbeːt͡smyːlənˌʔaʁtɪç/
 gebeutelt	/ɡəˈbɔɪ̯tl̩t/
 gebieten	/ɡəˈbiːtn̩/
 gebildet	[ɡəˈbɪldət]
+gebingt	/ɡəˈbɪnd͡ʒt/
 gebirgig	/ɡəˈbɪʁɡɪç/
 gebirgig	/ɡəˈbɪʁɡɪk/
 gebogen	/ɡəˈboːɡŋ̩/
@@ -39995,6 +40312,7 @@ gebräuchliche	[ɡəˈbʁɔʏ̯çlɪçə]
 gebrechen	[ɡəˈbʁɛçn̩]
 gebrechlich	/ɡəˈbʁɛçlɪç/
 gebresthaft	/ɡəˈbʁɛstˌhaft/
+gebrochen	/ɡəˈbʁɔxn̩/
 gebt	/ɡeːpt/
 gebunden	/ɡəˈbʊndn̩/
 gebunden	/ɡəˈbʊndən/
@@ -40171,6 +40489,7 @@ geltungssüchtig	/ˈɡɛltʊŋsˌzʏçtɪç/
 gelungen	/ɡəˈlʊŋən/
 gelungen	[ɡəˈlʊŋn̩]
 gelungen	[ɡəˈlʊŋən]
+gelüsten	/ɡəˈlʏstn̩/
 gemacht	/ɡəˈmaxt/
 gemacht	[ɡəˈmaχt]
 gemahnt	/ɡəˈmaːnt/
@@ -40235,12 +40554,15 @@ gentil	[ʒãnˈtiːl]
 gentil	[ʒɛnˈtiːl]
 genug	/ɡəˈnuːk/
 genug	/ɡəˈnʊx/
+genugsam	[ɡəˈnuːkzam]
+genugsam	[ɡəˈnuːkzaːm]
 genugtun	/ɡəˈnuːkˌtuːn/
 genuin	/ɡenuˈʔiːn/
 genuine	/ˌɡenuˈiːnə/
 genusssüchtig	/ɡəˈnʊsˌzʏçtɪç/
 genügen	/ɡəˈnyː.ɡn̩/
 genügen	[ɡəˈnyː.ɡŋ̍]
+genügsam	/ɡəˈnyːkzam/
 genügsam	/ɡəˈnyːkzaːm/
 geo-	/ɡeo/
 geografisch	/ˌɡeoˈɡʁaːfɪʃ/
@@ -40304,6 +40626,7 @@ gerötet	/ɡəˈʁøːtət/
 geruchfrei	[ɡəˈʁʊχˌfʁaɪ̯]
 geruchtilgend	/ɡəˈʁʊxˌtɪlɡənt/
 geruhen	[ɡəˈʁuːən]
+geruhsam	/ɡəˈʁuːzam/
 geruhsam	/ɡəˈʁuːzaːm/
 gesagt	/ɡəˈzaxt/
 gesagt	/ɡəˈzaːkt/
@@ -40345,6 +40668,7 @@ geschweifte Klammer	[ɡəˈʃvaɪ̯ftə ˈklamɐ]
 geschweifter	[ɡəˈʃvaɪ̯ftɐ]
 geschwind	/ɡəˈʃvɪnt/
 geschwollen	/ɡəˈʃvɔlən/
+gesegnet	/ɡəˈzeːɡnət/
 gesehen	/ɡəˈzeːən/
 gesellen	/ɡəˌzɛlən/
 gesellig	[ɡəˈzɛlɪç]
@@ -40402,6 +40726,7 @@ gewaltbereit	/ɡəˈvalt.bəˌʁaɪ̯t/
 gewaltig	/ɡəˈvaltɪç/
 gewaltig	/ɡəˈvaltɪk/
 gewaltlos	/ɡəˈvaltloːs/
+gewaltsam	/ɡəˈvalt.zam/
 gewaltsam	/ɡəˈvalt.zaːm/
 gewalttätig	/ɡəˈvaltˌtɛːtɪç/
 gewandt	/ɡəˈvant/
@@ -40482,8 +40807,8 @@ glattbügeln	[ˈɡlatˌbyːɡl̩n]
 glattflächig	[ˈɡlatˌflɛçɪç]
 glattstellen	[ˈɡlatˌʃtɛlən]
 glatzköpfig	/ˈɡlat͡sˌkœp͡fɪç/
-glauben	/ˈɡlaʊ̯bm̩/
 glauben	/ˈɡlaʊ̯bən/
+glauben	[ˈɡlaʊ̯.bm̩]
 glaubhaft	/ˈɡlaʊ̯.paft/
 glaubhaft	/ˈɡlaʊ̯pˌhaft/
 glaublich	/ˈɡlaʊ̯blɪç/
@@ -40606,6 +40931,7 @@ graubraun	/ˈɡʁaʊ̯bʁaʊ̯n/
 grauen	/ˈɡʁaʊ̯ən/
 grauenhaft	/ˈɡʁaʊ̯ənhaft/
 grauenvoll	/ˈɡʁaʊ̯ənˌfɔl/
+grausam	/ˈɡʁaʊ̯ˌzam/
 grausam	/ˈɡʁaʊ̯ˌzaːm/
 grauschwarz	/ˈɡʁaʊ̯ˌʃvaʁt͡s/
 grausen	[ˈɡʁaʊ̯zn̩]
@@ -40760,7 +41086,6 @@ guten Tag	/ˌɡuːtn̩ ˈtaːk/
 guter	[ˈɡuːtɐ]
 guter Dinge	/ˌɡuːtɐ ˈdɪŋə/
 guter Hoffnung	/ˌɡuːtɐˈhɔfnʊŋ/
-guter Hoffnung sein	/ˈɡuːtɐ ˈhɔfnʊŋ zaɪ̯n/
 gutes Geld schlechtem hinterherwerfen	[ˈɡuːtəs ˈɡɛlt ˈʃlɛçtm̩ hɪntɐˈheːɐ̯ˌvɛʁfn̩]
 gutgläubig	/ˈɡuːtˌɡlɔɪ̯bɪç/
 gutgläubig	/ˈɡuːtˌɡlɔɪ̯bɪk/
@@ -40868,6 +41193,7 @@ halte	/ˈhal.tə/
 halten	/ˈhaltn̩/
 halten	/ˈhaltən/
 haltlos	/ˈhaltˌloːs/
+ham	/ham/
 hamburgern	[ˈhamˌbʊʁɡɐn]
 hammer	/ˈhamɐ/
 hammermäßig	/ˈhamɐˌmɛːsɪç/
@@ -40920,6 +41246,7 @@ harte	/ˈhartə/
 harte	[ˈhaɐ̯tə]
 harte	[ˈhaʁtə]
 harte	[ˈhaːtə]
+harte Nuss	/ˈhaʁtə nʊs/
 harter Gaumen	/ˈhaʁtɐ ˈɡaʊ̯mən/
 hartgesotten	/ˈhaʁtɡəˌzɔtn̩/
 hartherzig	/ˈhaʁtˌhɛʁt͡sɪç/
@@ -41099,6 +41426,7 @@ heilfroh	/ˈhaɪ̯lˈfʁoː/
 heiligen	/ˈhaɪ̯lɪɡən/
 heiligsprechen	/ˈhaɪ̯lɪçˌʃpʁɛçən/
 heillos	/ˈhaɪ̯lloːs/
+heilsam	/ˈhaɪ̯lzam/
 heilsam	/ˈhaɪ̯lzaːm/
 heim	/haɪ̯m/
 heimbringen	/ˈhaɪ̯mˌbʁɪŋən/
@@ -41336,7 +41664,7 @@ heuen	[ˈhɔɪ̯ən]
 heuer	/ˈhɔʏ̯ɐ/
 heuern	/ˈhɔʏ̯ɐn/
 heulen	/hɔʏ̯lən/
-heureka	/ˈhɔʏ̯ʁeka/
+heureka	/hɔʏ̯ˈʁeːka/
 heurig	/ˈhɔɪ̯ʁɪç/
 heurig	/ˈhɔɪ̯ʁɪk/
 heut	/hɔʏ̯t/
@@ -41417,6 +41745,7 @@ hineinmischen	/hɪˈnaɪnmɪʃən/
 hineinoptieren	[hɪˈnäɪ̯nɔpˌtiːɐ̯n]
 hineinstecken	/hɪˈnaɪ̯nˌʃtɛkn̩/
 hineinwollen	/hɪˈnaɪ̯nˌvɔlən/
+hinfallen	/ˈhɪnˌfalən/
 hinfällig	/ˈhɪnˌfɛlɪç/
 hinfällig	/ˈhɪnˌfɛlɪk/
 hinfort	[ˌhɪnˈfɔʁt]
@@ -41485,6 +41814,8 @@ hinwegraffen	/hɪnˈvɛkˌʁafn̩/
 hinwegschauen	[hɪnˈvɛkˌʃaʊ̯ən]
 hinwegsehen	[hɪnˈvɛkˌzeːən]
 hinwerfen	/ˈhɪnˌvɛʁfn̩/
+hinziehen	/ˈhɪnˌt͡siːən/
+hinziehend	/ˈhɪnˌt͡siːənt/
 hinzu	[hɪnˈt͡suː]
 hinzu	[ˈhɪnt͡suː]
 hinzubekommen	[hɪnˈt͡suːbəˌkɔmən]
@@ -41861,7 +42192,7 @@ impardonnabel	/ɪmpaʁdɔˈnaːbl̩/
 imperatorisch	/ɪmpeʁaˈtoːʁɪʃ/
 imperfektiv	/ˈɪmpɛʁfɛktiːf/
 imperialistisch	/ˌɪmpeʁiaˈlɪstɪʃ/
-impfen	/ˈɪmp͡fn̩/
+impfen	[ˈʔɪmpfɱ̩]
 impfend	[ˈɪmp͡fn̩t]
 impfmüde	/ˈɪmpfˌmyːdə/
 implementieren	/ɪmpləmɛnˈtiːʁən/
@@ -42106,10 +42437,11 @@ iodidhaltig	/joːˈdiːtˌhaltɪç/
 ionotrop	/i̯onoˈtʁoːp/
 ipsativ	/ɪpsaˈtiːf/
 irakisch	/iˈʁaːkɪʃ/
-irden	/ˈɪrd(ə)n/
-irdisch	/ˈɪʁdɪʃ/
-irdisch	[ˈʔɪɐ̯dɪʃ]
-irdisch	[ˈʔɪʁdɪʃ]
+irden	/ˈɪrdən/
+irden	[ˈʔɪʁ.dn̩]
+irdisch	/ˈɪrdɪʃ/
+irdisch	[ˈʔɪɐ̯.dɪʃ]
+irdisch	[ˈʔɪʁ.dɪʃ]
 irgendein	/ˈɪrɡəntˈaɪ̯n/
 irgendein	/ˈɪrɡəntˌaɪ̯n/
 irgendein	[ˈɪɐ̯.(ɡ)ŋ̍tˌ(ʔ)ae̯n]
@@ -42257,8 +42589,6 @@ jeher	/ˈjeːheːɐ̯/
 jeher	[ˈjeːˈheːɐ̯]
 jein	/jaɪ̯n/
 jemand	/ˈjeːmant/
-jemandem die Stiefel lecken	[ˌjeːmandm̩ diː ˈʃtiːfl̩ ˈlɛkn̩]
-jemandem die Suppe versalzen	[ˌjeːmandm̩ diː ˈzʊpə fɛɐ̯ˈzalt͡sn̩]
 jemandem ein Kuckucksei ins Nest legen	[ˈjeːmandəm ʔaɪ̯n ˈkʊkʊksʔaɪ̯ ʔɪns nɛst ˈleːɡn̩]
 jemandem geht der Arsch auf Grundeis	[ˈjeːmandəm ɡeːt deːɐ̯ ʔaʁʃ aʊ̯f ˈɡʁʊntˌʔaɪ̯s]
 jemandem in den Kram passen	[ˈjeːmandəm ɪn deːn kʁaːm ˈpasn̩]
@@ -42967,6 +43297,8 @@ konsanguin	/kɔnzaŋˈɡu̯iːn/
 konsekutiv	/ˈkɔnzekutiːf/
 konsensual	/kɔnzɛnˈzu̯aːl/
 konsensuell	/kɔnzɛnˈzu̯ɛl/
+konservativ	/ˈkɔnzɛɐ̯vaˌtiːf/
+konservativ	/ˌkɔnzɛɐ̯vaˈtiːf/
 konsonantisch	/kɔnzoˈnantɪʃ/
 konstant	/kɔnˈstant/
 konstatieren	/kɔnstaˈtiːʁən/
@@ -43392,6 +43724,7 @@ künftig	/ˈkʏnftɪç/
 künftig	/ˈkʏnftɪk/
 künsteln	/ˈkʏnstl̩n/
 künstlich	/ˈkʏnstlɪç/
+künstliche Befruchtung	/ˈkʏnstlɪçə bəˈfʁʊχtʊŋ/
 küren	/ˈkyːʁən/
 küren	[ˈkyː.ɐn]
 küren	[ˈkyːʁən]
@@ -43483,6 +43816,7 @@ langlebig	/ˈlaŋˌleːbɪç/
 langlebig	/ˈlaŋˌleːbɪk/
 langmachen	/ˈlaŋmaxŋ̍/
 langmütig	/ˈlaŋˌmyːtɪç/
+langsam	/ˈlaŋzam/
 langsam	/ˈlaŋzaːm/
 langsame	/ˈlaŋzaːmə/
 langsamem	/ˈlaŋzaːməm/
@@ -43680,6 +44014,7 @@ leichter	/ˈlaɪ̯çtɐ/
 leichtfertig	/ˈlaɪ̯çtˌfɛʁtɪç/
 leichtflüchtig	/ˈlaɪ̯çtˌflʏçtɪç/
 leichtflüssig	/ˈlaɪ̯çtˌflʏsɪç/
+leichtfüßig	/ˈlaɪ̯çtˌfyːsɪç/
 leichtgläubig	/ˈlaɪ̯çtˌɡlɔɪ̯bɪç/
 leichtherzig	/ˈlaɪ̯çtˌhɛʁt͡sɪç/
 leichtsinnig	/ˈlaɪ̯çtˌzɪnɪç/
@@ -43696,6 +44031,7 @@ leider	/ˈlaɪ̯dɐ/
 leidig	/ˈlaɪ̯dɪç/
 leidig	/ˈlaɪ̯dɪk/
 leidlich	/ˈlaɪ̯tlɪç/
+leidsam	/ˈlaɪ̯tˌzam/
 leidsam	/ˈlaɪ̯tˌzaːm/
 leidtun	[ˈlaɪ̯ttuːn]
 leiern	/ˈlaɪ̯ɐn/
@@ -43870,6 +44206,8 @@ lobhudeln	/ˈloːpˌhuːdl̩n/
 lobpreisen	/ˈloːpˌpʁaɪ̯zn̩/
 lobsagen	/ˈloːpˌzaːɡn̩/
 lobsingen	/ˈloːpˌzɪŋən/
+lochen	/ˈlɔxən/
+lochen	[ˈlɔχn̩]
 locken	[ˈlɔkn̩]
 locken	[ˈlɔkŋ̩]
 lockern	/ˈlɔkɐn/
@@ -44121,6 +44459,7 @@ manuell	/maˈnu̯ɛl/
 manuell	[ma.nuˈɛl]
 manuell	[maˈnwɛl]
 marastisch	/maˈʁastɪʃ/
+marginalisieren	/ˌmaʁɡinaliˈziːʁən/
 marin	/maˈʁiːn/
 marinieren	/maʁiˈniːʁən/
 marionettengleich	/maʁi̯oˈnɛtn̩ˌɡlaɪ̯ç/
@@ -44262,6 +44601,7 @@ medienpolitisch	/ˈmeːdɪ̯ənpoˌliːtɪʃ/
 medienscheu	/ˈmeːdi̯ənˌʃɔɪ̯/
 medienwirksam	/ˈmeːdi̯ənˌvɪʁkzaːm/
 medioker	/ˌmeˈdi̯oːkɐ/
+meditativ	/meditaˈtiːf/
 mediterran	/meditɛˈʁaːn/
 medizinisch	[mediˈtsiːnɪʃ]
 medizinische Chemie	/mediˈt͡siːnɪʃə çeˈmiː/
@@ -44605,6 +44945,7 @@ mitsingen	/ˈmɪtˌzɪŋən/
 mitspielen	/ˈmɪtˌʃpiːlən/
 mittagwärts	/mɪtaːkˌvɛʁt͡s/
 mitteilen	/ˈmɪtˌtaɪ̯lən/
+mitteilsam	/ˈmɪttaɪ̯lˌzam/
 mitteilsam	/ˈmɪttaɪ̯lˌzaːm/
 mittel	[ˈmɪtl̩]
 mittel	[ˈmɪtəl]
@@ -44834,6 +45175,7 @@ müd	/myːt/
 müde	/ˈmyːdə/
 mühelos	/ˈmyːəˌloːs/
 mühen	/ˈmyːən/
+mühsam	/ˈmyːzam/
 mühsam	/ˈmyːzaːm/
 mühselig	/ˈmyːˌzeːlɪç/
 mühselig	/ˈmyːˌzeːlɪk/
@@ -45371,6 +45713,7 @@ niesen	[ˈniːzən]
 nieten	/ˈniːtn̩/
 nieten	/ˈniːtən/
 nießen	/ˈniːsn̩/
+niftern	/ˈnɪftɐn/
 nigelnagelneu	/ˈniːɡl̩naːɡl̩ˈnɔɪ̯/
 nigrisch	/ˈniːɡʁɪʃ/
 nikotinarm	/nikoˈtiːnˌʔaʁm/
@@ -45448,7 +45791,7 @@ nottun	[ˈnoːtˌtuːn]
 notwendig	/ˈnoːtˌvɛndɪç/
 notwendig	/ˈnoːtˌvɛndɪk/
 notwendigerweise	[ˈnoːtvɛndɪɡɐˌvaɪ̯zə]
-nö	/nøː/
+nö	[nøː]
 nördlich	/ˈnœʁtlɪç/
 nördlichste Stadt Italiens	/ˈnœrtlɪçstə ˈʃtat iˈtaːli̯əns/
 nöthig	/ˈnøːtɪç/
@@ -45630,6 +45973,7 @@ onanieren	[ʔonaˈniːɐ̯n]
 onanieren	[ʔonaˈniːʁən]
 ondulieren	/ɔnduˈliːʁən/
 ondulieren	[ʔɔnduˈliːɐ̯n]
+online	/ˈɔnlaɪ̯n/
 onomasiologisch	/onomazi̯oˈloːɡɪʃ/
 onomatopoetisch	/onomatopoˈʔeːtɪʃ/
 ontisch	/ˈɔntɪʃ/
@@ -45756,6 +46100,7 @@ öffentlich	[ˈœfn̩tlɪç]
 öffnen	/ˈʔœfnən/
 öfter	[ˈʔœftɐ]
 öfters	/ˈʔœftɐs/
+öftesten	/ˈœftəstn̩/
 ölen	/øːlen/
 ölen	[ʔøːln]
 ölig	/ˈøːlɪç/
@@ -45855,6 +46200,7 @@ parenchymatisch	/paʁɛnçyˈmaːtɪʃ/
 parenchymatös	/ˌpaʁɛnçymaˈtøːs/
 parenteral	/paʁɛnteˈʁaːl/
 parfümieren	/paʁfyˈmiːʁən/
+parieren	/paˈʁiːʁən/
 pariserisch	/paˈʁiːsəʁɪʃ/
 paritätisch	/paʁiˈtɛːtɪʃ/
 parken	/paʁkən/
@@ -45928,6 +46274,7 @@ peilt	/paɪlt/
 peinigen	/ˈpaɪ̯nɪɡən/
 peinigen	[ˈpaɪ̯nɪɡn̩]
 peinlich	/ˈpaɪ̯nˌlɪç/
+peinsam	/ˈpaɪ̯nzam/
 peinsam	/ˈpaɪ̯nzaːm/
 peitschen	/ˈpaɪ̯tʃən/
 pekig	/ˈpeːkɪç/
@@ -45967,7 +46314,9 @@ periphrastisch	/peʁiˈfʁastɪʃ/
 perkussiv	/pɛʁkʊˈsiːf/
 perkutan	/pɛʁkuˈtaːn/
 perlenförmig	/ˈpɛʁlənˌfœʁmɪç/
-perlmuttern	/ˌpɛʁlˈmʊtɐ/
+perlmuttern	/pɛrlˈmʊtərn/
+perlmuttern	/ˈpɛrlˌmʊtərn/
+perlmuttern	[pɛʁlˈmʊ.tɐn]
 perlokutionär	/pɛʁlokut͡si̯oˈnɛːɐ̯/
 perlokutiv	/pɛʁlokuˈtiːf/
 permanent	/pɛʁmaˈnɛnt/
@@ -46825,7 +47174,7 @@ rechtwinklig	/ˈʁɛçtˌvɪŋklɪç/
 recken	/ˈʁɛkən/
 recken	[ˈʁɛkŋ]
 recycelbar	/ʁiˈsaɪ̯kl̩baːɐ̯/
-recyceln	[ˌʁiˈsaɪ̯kl̩n]
+recyceln	/ˌʁiˈsaɪ̯kl̩n/
 recyclebar	/ʁiˈsaɪ̯kl̩baːɐ̯/
 recyclingfähig	/ʁiˈsaɪ̯klɪŋˌfɛːɪç/
 red	/ʁeːt/
@@ -47241,6 +47590,7 @@ rußig	/ˈʁuːsɪç/
 rußig	/ˈʁuːsɪk/
 rüber	/ˈʁyːbɐ/
 rüber	/ˈʁʏbɐ/
+rüberkommen	/ˈʁyːbɐˌkɔmən/
 rück-	/ʁʏk/
 rückblickend	/ˈʁʏkˌblɪkənt/
 rückblickend	[ˈʁʏkʰˌblɪkn̩tʰ]
@@ -47256,6 +47606,7 @@ rückläufig	/ˈʁʏkˌlɔʏ̯fɪç/
 rückläufig	/ˈʁʏkˌlɔʏ̯fɪk/
 rücklings	/ˈʁʏklɪŋs/
 rücksichtslos	/ˈʁʏkzɪçt͡sloːs/
+rücksichtsvoll	/ˈʁʏkzɪçt͡sˌfɔl/
 rückwärtig	/ˈʁʏkˌvɛʁtɪç/
 rückwärtig	/ˈʁʏkˌvɛʁtɪk/
 rückwärts	/ˈʁʏkˌvɛʁts/
@@ -47265,6 +47616,7 @@ rückwärtsgewandt	[ˈʁʏkvɛʁtsɡəˌvant]
 rückwirkend	/ˈʁʏkˌvɪʁkənt/
 rückwirkend	[ˈʁʏkʰˌvɪʁkʰn̩tʰ]
 rückzu	/ˈʁʏkt͡su/
+rüde	/ˈʁyːdə/
 rüffeln	/ˈʁʏfəln/
 rügen	/ˈʁyːɡən/
 rügen	[ˈʁyːɡŋ]
@@ -47817,6 +48169,8 @@ schmerzvoll	/ˈʃmɛʁt͡sfɔl/
 schmiedeeisern	/ˈʃmiːdəˌaɪ̯sɐn/
 schmieden	[ˈʃmiːdn̩]
 schmiegen	/ˈʃmiːɡən/
+schmiegsam	/ˈʃmiːkzam/
+schmiegsam	/ˈʃmiːkzaːm/
 schmierig	/ˈʃmiːʁɪç/
 schmierig	/ˈʃmiːʁɪk/
 schminken	/ˈʃmɪŋkən/
@@ -48328,6 +48682,7 @@ seiger	/ˈzaɪ̯ɡɐ/
 seihen	[ˈzaɪ̯ən]
 sein	/zaɪ̯n/
 sein Damaskus erleben	[ˌzaɪ̯n daˈmaskʊs ʔɛɐ̯ˌleːbn̩]
+sein Licht unter den Scheffel stellen	/zaɪ̯n lɪçt ˈʊntɐ deːn ˈʃɛfl̩ ˈʃtɛlən/
 sein lassen	/ˈzaɪ̯n ˌlasən/
 seine	/ˈzaɪ̯nə/
 seine Pappenheimer kennen	[ˈzaɪ̯nə ˈpapənˌhaɪ̯mɐ ˈkɛnən]
@@ -49079,6 +49434,7 @@ ständig	/ˈʃtɛndɪk/
 ständisch	/ˈʃtɛndɪʃ/
 stärkehaltig	/ˈʃtɛʁkəˌhaltɪç/
 stäuben	/ˈʃtɔɪ̯bn̩/
+stäupen	/ˈʃtɔʏ̯pən/
 stechen	/ˈʃtɛçn̩/
 stechen	/ˈʃtɛçən/
 stecken	/ˈʃtɛkən/
@@ -49209,6 +49565,9 @@ stockdunkel	/ʃtɔkˈdʊŋkl̩/
 stockfinster	/ʃtɔkˈfɪnstɐ/
 stocksteif	/ˌʃtɔkˈʃtaɪ̯f/
 stocktaub	/ˈʃtɔkˈtaʊ̯p/
+stoffen	[ˈʃtɔfn̩]
+stoffen	[ˈʃtɔfən]
+stoffen	[ˈʃtɔfɱ̩]
 stofflich	/ˈʃtɔflɪç/
 stoisch	/ˈstoːɪʃ/
 stoisch	/ˈʃtoːɪʃ/
@@ -50415,6 +50774,7 @@ unähnlich	/ˈunˌʔɛːnlɪç/
 unbarmherzig	/ˈʊnbaʁmˌhɛʁt͡sɪç/
 unbändig	/ˈʊnˌbɛndɪç/
 unbändig	/ˈʊnˌbɛndɪk/
+unbeabsichtigte	[ˈʊnbəˌʔapzɪçtɪçtə]
 unbeantwortet	[ˈʊnbəˈʔantvɔʁtət]
 unbeaufsichtigt	/ˈʊnbəˌʔaʊ̯fzɪçtɪçt/
 unbedankt	/ˈʊnbəˌdaŋkt/
@@ -51150,6 +51510,7 @@ überantworten	[yːbɐˈʔantˌvɔʁtn̩]
 überarbeitete	[ˌyːbɐˈʔaʁbaɪ̯tətə]
 überbacken	/yːbɐˈbakən/
 überbacken	[yːbɐˈbakn̩]
+überbeanspruchen	[ˈyːbɐbəˌʔanʃprʊxn̩]
 überbeugen	/ˈyːbɐˌbɔʏ̯ɡən/
 überbeugen	[ˈyːbɐˌbɔʏ̯ɡn̩]
 überbewerten	/ˈyːbɐbəˌveːʁtən/
@@ -51436,6 +51797,7 @@ veralten	[fɛɐ̯ˈʔaltn̩]
 veraltert	/fɛɐ̯ˈʔaltɐt/
 verankern	[fɛɐˈʔaŋkɐn]
 veranlagen	[fɛɐ̯ˈʔanlaːɡn̩]
+veranlagt	/fɛɐ̯ˈʔanlaːkt/
 veranlassen	[fɛɐ̯ˈʔanlasn̩]
 veranlassen	[fɛɐ̯ˈʔanlasən]
 veranschaulichen	/fɛɐ̯ˈʔanʃaʊ̯lɪçn̩/
@@ -52362,8 +52724,8 @@ verwahrlosen	[fɛɐ̯ˈvaːa̯ˌloːzn̩]
 verwahrlost	[fɛɐ̯ˈvaːa̯ˌloːst]
 verwalten	/fɛɐ̯ˈvaltn̩/
 verwandelbar	[fɛɐ̯ˈwandl̩baːɐ̯]
-verwandeln	/fɛɐ̯ˈvandl̩n/
-verwandeln	/fɛɐ̯ˈvandəln/
+verwandeln	/fərˈvandəln/
+verwandeln	[fɐˈvan.dl̩n]
 verwandt	/fɛɐ̯ˈvant/
 verwandte	[fɛɐ̯ˈvantə]
 verwandtschaftlich	/fɛɐ̯ˈvantʃaftlɪç/
@@ -52798,7 +53160,6 @@ vorgehen	[ˈfoːɐ̯ˌɡeː.ən]
 vorgelagert	/ˈfoːɐ̯ɡəˌlaːɡɐt/
 vorgezogen	/ˈfoːɐ̯ɡəˌt͡soːɡn̩/
 vorgezogene	[ˈfoːɐ̯ɡəˌt͡soːɡənə]
-vorgezogene Wahl	[ˈfoːɐ̯ɡəˌt͡soːɡənə ˈvaːl]
 vorgezogener	[ˈfoːɐ̯ɡəˌt͡soːɡənɐ]
 vorheizen	[ˈfoːɐ̯ˌhaɪ̯tsn̩]
 vorheizen	[ˈfoːɐ̯ˌhaɪ̯tsən]
@@ -52870,6 +53231,7 @@ vorstellen	[ˈfoːɐ̯ʃtɛlən]
 vorstellig	/ˈfoːɐ̯ʃtɛlɪç/
 vorstellig	/ˈfoːɐ̯ʃtɛlɪk/
 vorstoßen	/ˈfoːɐ̯ˌʃtoːsn̩/
+vorstrecken	/ˈfoːɐ̯ˌʃtʁɛkn̩/
 vortäuschen	/ˈfoːɐ̯ˌtɔʏ̯ʃən/
 vortäuschen	[ˈfoːɐ̯ˌtʰɔʏ̯ʃn̩]
 vorteilhaft	/ˈfɔʁtaɪ̯lˌhaft/
@@ -52974,6 +53336,8 @@ wahrhaftig	/vaːɐ̯ˈhaftɪk/
 wahrheitsgemäß	/ˈvaːɐ̯haɪ̯t͡sɡəˌmɛːs/
 wahrnehmbar	/ˈvaːɐ̯neːmbaːɐ̯/
 wahrsagen	/ˈvaːɐ̯ˌzaːɡn̩/
+wahrschauen	/ˈvaːrˌʃaʊ̯.ən/
+wahrschauen	[ˈvaː(ɐ̯)ˌʃaʊ̯.n̩]
 wahrscheinlich	/vaː(ɐ̯)ˈʃaɪ̯nlɪç/
 waidmännisch	/ˈvaɪ̯tˌmɛnɪʃ/
 waldaus	/ˌvaltˈʔaʊ̯s/
@@ -53509,6 +53873,7 @@ willfährig	/ˈvɪlˌfɛːʁɪç/
 willfährig	/ˈvɪlˌfɛːʁɪk/
 willig	/ˈvɪlɪç/
 willig	/ˈvɪlɪk/
+willigen	/ˈvɪlɪɡn̩/
 willkommen	/vɪlˈkɔmən/
 wills	/vɪls/
 willst	/vɪlst/
@@ -53631,6 +53996,7 @@ wohn	/voːn/
 wohnen	/ˈvoːnən/
 wohnhaft	/ˈvoːnhaft/
 wohnlich	/ˈvoːnlɪç/
+woke	/wɔʊ̯k/
 wolkenfrei	/ˈvɔlkn̩ˌfʁaɪ̯/
 wolkenverhangen	/ˈvɔlkn̩fɛɐ̯ˌhaŋən/
 wolkig	/ˈvɔlkɪç/
@@ -53974,6 +54340,7 @@ zerstäuben	[tsɛɐ̯ˈʃtɔʏ̯bm̩]
 zerstieben	[t͡sɛɐ̯ˈʃtiːbn̩]
 zerstoßen	/t͡sɛɐ̯ˈʃtoːsn̩/
 zerstreuen	/tsɐˈʃtʁɔɪ̯ən/
+zerstückeln	/t͡sɛɐ̯ˈʃtʏkl̩n/
 zerstücken	/t͡sɛɐ̯ˈʃtʏkn̩/
 zerteilen	[t͡sɛɐ̯ˈtaɪ̯lən]
 zertrampeln	[tsɛʁˈtʁampəln]
@@ -54018,6 +54385,7 @@ zinnfarben	/ˈt͡sɪnˌfaʁbn̩/
 zinnfarbig	/ˈt͡sɪnˌfaʁbɪç/
 zinnoberrot	/t͡sɪˈnoːbɐˌʁoːt/
 zirconiumhaltig	/t͡sɪʁˈkoːni̯ʊmˌhaltɪç/
+zirkelhaft	/ˈt͡sɪɐ̯kl̩ˌhaft/
 zirkelschlüssig	/ˈt͡sɪɐ̯kl̩ˌʃlʏsɪç/
 zirkoniumhaltig	/t͡sɪʁˈkoːni̯ʊmˌhaltɪç/
 zisalpin	[t͡sɪsʔalˈpiːn]
@@ -54112,7 +54480,7 @@ zugunsten	/tsuˈɡʊnstn̩/
 zugunsten	/tsuˈɡʊnstən/
 zugute	[ˌt͡suˈɡuːtə]
 zugutekommen	/t͡suˈɡuːtəˌkɔmən/
-zuhauf	[t͡suˈhaʊ̯f]
+zuhauf	/t͡suˈhaʊ̯f/
 zuhören	/tsuːˈhøːʁən/
 zuklappen	[ˈt͡suːˌklapn̩]
 zukleben	/ˈtsuːˌkleːbm̩/
@@ -54145,6 +54513,7 @@ zumachen	/ˈtsuːmaxən/
 zumal	[tsuˈmaːl]
 zumindest	/t͡suˈmɪndəst/
 zumutbar	/ˈt͡suːmuːtbaːɐ̯/
+zumute	/t͡suˈmuːtə/
 zumüllen	[ˈt͡suːˌmʏlən]
 zun	/tsuːn/
 zun	/tsʊn/
@@ -54168,6 +54537,7 @@ zur Salzsäule erstarren	/t͡suːɐ̯ ˈzalt͡sˌzɔɪ̯lə ɛɐ̯ˈʃtaʁən/
 zur Sprache kommen	[t͡suːɐ̯ ˈʃpʁaːχə ˈkɔmən]
 zur Zeit	/t͡sʊʁ ˈt͡saɪ̯t/
 zurechnen	/ˈt͡suːˌʁɛçnən/
+zurecht	/t͡suːˈʁɛçt/
 zurecht-	/t͡suːˈʁɛçt/
 zurechtkommen	[t͡suˈʁɛçtˌkɔmən]
 zurechtweisen	[t͡suˈʁɛçtˌvaɪ̯zn̩]
@@ -54365,6 +54735,7 @@ zwanzigprozentig	/ˈt͡svant͡sɪçpʁoˌt͡sɛntɪç/
 zwanzigprozentig	/ˈt͡svant͡sɪkpʁoˌt͡sɛntɪk/
 zwanzigseitig	/ˈtsvantsiçˌzaɪ̯tɪç/
 zwanzigste	/ˈt͡svant͡sɪçstə/
+zwanzigsten	/ˈt͡svant͡sɪçstn̩/
 zwanzigster	/ˈt͡svant͡sɪçstɐ/
 zwanzigstündig	/ˈtsvantsɪçˌʃtʏndɪç/
 zwanzigtägig	/ˈt͡svant͡sɪçˌteːɡɪç/
@@ -54412,6 +54783,8 @@ zweiminütig	/ˈt͡svaɪ̯miˌnyːtɪç/
 zweimonatig	/ˈt͡svaɪ̯ˌmoːnatɪç/
 zweimonatlich	/ˈt͡svaɪ̯ˌmoːnatlɪç/
 zweiprozentig	/ˈt͡svaɪ̯pʁoˌt͡sɛntɪç/
+zweirädrig	[ˈt͡svaɪ̯ˌʁɛːdʁɪç]
+zweirädrig	[ˈt͡svaɪ̯ˌʁɛːdʁɪk]
 zweischneidig	/t͡svaɪˈʃnaɪdɪç/
 zweiseitig	/ˈt͡svaɪ̯ˌzaɪ̯tɪç/
 zweisilbig	/ˈt͡svaɪ̯ˌzɪlbɪç/

@@ -141,6 +141,7 @@
 -ње	-nje
 -ћи	-ći
 -џија	-džija
+Srđan	Srđan
 ȁма	ȁma
 ćу̏тра	śȕtra
 modarмодар	indigo
@@ -1700,6 +1701,7 @@ tirkizanтиркизан	cijan
 Срећна Нова го̏дина!	Srećna Nova gȍdina!
 Срећна Нова година	Srećna Nova gȍdina!
 Српкиња	Sȑpkinja
+Срђан	Srđan
 Ста̑ри за́вет	Stȃri závet
 Ста̑ри за́вјет	Stȃri závjet
 Стари завет	Stȃri závet
@@ -3896,6 +3898,8 @@ tirkizanтиркизан	cijan
 аутономија	autonòmija
 аутопо̀ртре̄т	autopòrtrēt
 аутопортрет	autopòrtrēt
+аутопрао́ница	autopraónica
+аутопраоница	autopraónica
 аутопсија	autòpsija
 аутопут	àutopūt
 аутор	àutor
@@ -4207,6 +4211,8 @@ tirkizanтиркизан	cijan
 бактерија	bàktērija
 бакшиш	bàkšiš
 бакља	bȁklja
+бакља́да	bakljáda
+бакљада	bakljáda
 бала	bȁla
 бала́да	baláda
 балав	bȁlav
@@ -5937,7 +5943,7 @@ tirkizanтиркизан	cijan
 бранити	brániti
 бранич	brànīč
 брат	brȁt
-братанас	fraternal
+братанац	fraternal
 братац	brȁtac
 брати	brȁti
 братић	brȁtić
@@ -7155,11 +7161,13 @@ tirkizanтиркизан	cijan
 ви̏јетнамскӣ	vȉjetnamskī
 ви̑	vȋ
 ви̑д	vȋd
+ви̑део	vȋdeo
 ви̑зија	vȋzija
 ви̑с	vȋs
 вигањ	vȉganj
 вид	vȋd
 видео	video
+видео	vȋdeo
 видеокасѐта	videokasèta
 видеокасета	videokasèta
 видети	vȉdeti
@@ -7952,7 +7960,6 @@ tirkizanтиркизан	cijan
 галактика	galàktika
 галама	galáma
 галамити	galámiti
-галантан	galantna
 галантан	galàntan
 галантно	galàntno
 галантност	galàntnōst
@@ -10038,8 +10045,6 @@ tirkizanтиркизан	cijan
 диплома̀ција	diplomàcija
 дипломат	diplòmat
 дипломатика	diplomatika
-дипломатично	diplomatično
-дипломатски	diplomatski
 дипломатски	diplòmatski
 дипломатски	diplòmatskī
 дипломација	diplomàcija
@@ -10368,7 +10373,6 @@ tirkizanтиркизан	cijan
 добродо̀шао	dobrodòšao
 добродо̀шли	dobrodòšli
 добродо̀шлица	dobrodòšlica
-добродошао	dobrodošla
 добродошао	dobrodòšao
 добродошли	dobrodòšli
 добродошлица	dobrodòšlica
@@ -12104,6 +12108,7 @@ tirkizanтиркизан	cijan
 жрец	žrȇc
 жртва	žȑtva
 жртвеник	žȑtvenīk
+жу̀тица	žùtica
 жу̀чљив	žùčljiv
 жу́дети	žúdeti
 жу́дјети	žúdjeti
@@ -12138,6 +12143,7 @@ tirkizanтиркизан	cijan
 журналист	žurnàlist
 журналистика	žurnalìstika
 жут	žȗt
+жутица	žùtica
 жутокљу́нац	žutokljúnac
 жутокљунац	žutokljúnac
 жуч	žȗč
@@ -12315,6 +12321,7 @@ tirkizanтиркизан	cijan
 за̏бора̄в	zȁborāv
 за̏бора̄ван	zȁborāvan
 за̏бора̄вно	zȁborāvno
+за̏вича̄ј	zȁvičāj
 за̏гоне̄тка	zȁgonētka
 за̏грља̄ј	zȁgrljāj
 за̏да̄х	zȁdāh
@@ -12538,6 +12545,7 @@ tirkizanтиркизан	cijan
 зависно	závisno
 зависност	závisnōst
 завист	závist
+завичај	zȁvičāj
 завиђати	zavíđati
 завла́дати	zavládati
 завла́чити	zavláčiti
@@ -13479,7 +13487,6 @@ tirkizanтиркизан	cijan
 зета	zȇta
 зеу̀гма	zeùgma
 зеугма	zeùgma
-зефир	zefir
 зехѐрли	zehèrli
 зехер	zȅher
 зехерли	zehèrli
@@ -20570,6 +20577,7 @@ tirkizanтиркизан	cijan
 лијечник	lijȇčnīk
 лијечница	lijȇčnica
 лињати	lìnjati
+ло̀бања	lòbanja
 ло̀ва̄ш	lòvāš
 ло̀вац	lòvac
 ло̀вачкӣ	lòvačkī
@@ -20661,6 +20669,7 @@ tirkizanтиркизан	cijan
 ло̑ј	lȏj
 ло̑јтре	lójtre
 ло̑јтре	lȏjtre
+лобања	lòbanja
 лоби	lȍbi
 лобото̀мија	lobotòmija
 лоботомија	lobotòmija
@@ -24812,7 +24821,6 @@ tirkizanтиркизан	cijan
 ненаметљив	nenamètljiv
 ненамјеран	nenámjeran
 ненамјерно	nenámjerno
-ненасељен	nenaseljena
 ненасељен	nenàseljen
 ненормалан	nȅnormālan
 нео̀бра̄ђе̄н	neòbrāđēn
@@ -27759,6 +27767,7 @@ tirkizanтиркизан	cijan
 опа́дати	opádati
 опа́жати	opážati
 опа́сно̄ст	opásnōst
+опа́тија	opátija
 опадати	opádati
 опажати	opážati
 опазити	òpaziti
@@ -27777,6 +27786,7 @@ tirkizanтиркизан	cijan
 опасти	òpasti
 опат	òpat
 опатица	opàtica
+опатија	opátija
 опачина	opàčina
 опѐра̄тор	opèrātor
 опека	ȍpeka
@@ -27920,6 +27930,8 @@ tirkizanтиркизан	cijan
 опсежно	ȍpsēžno
 опсена	ȍpsena
 опсенар	opsènār
+опсерва̀то̄рӣј	opservàtōrīj
+опсерваториј	opservàtōrīj
 опсесиван	ȍpsesīvan
 опсесивно	ȍpsesīvno
 опсесија	opsèsija
@@ -28484,7 +28496,6 @@ tirkizanтиркизан	cijan
 оштрити	òštriti
 оштрица	òštrica
 оштро	ȍštro
-оштроуман	oštroumna
 оштроуман	ȍštroūman
 оштроумно	ȍštroūmno
 оја̀чати	ojàčati
@@ -30867,7 +30878,6 @@ tirkizanтиркизан	cijan
 покварењачки	pokvarènjāčki
 покварењачки	pokvarènjāčkī
 покварити	pokváriti
-покварљив	pokvarljiva
 покварљив	pokvàrljiv
 поквасити	pòkvasiti
 покер	pòker
@@ -31785,6 +31795,7 @@ tirkizanтиркизан	cijan
 пра̏восӯднӣ	prȁvosūdnī
 пра̏восӯђе	prȁvosūđe
 пра̏г	prȁg
+пра̏животиња	prȁživotinja
 пра̏зновати	prȁznovati
 пра̏знове̄ран	prȁznovēran
 пра̏знове̄рно̄ст	prȁznovērnōst
@@ -31825,6 +31836,8 @@ tirkizanтиркизан	cijan
 пра̑х	prȃh
 пра̑шница	prȃšnica
 пра̑ља	prȃlja
+праба́ка	prabáka
+прабака	prabáka
 прав	prȁv
 правац	právac
 праваш	pràvāš
@@ -31881,6 +31894,7 @@ tirkizanтиркизан	cijan
 праг	prȁg
 прагматѝзам	pragmatìzam
 прагматизам	pragmatìzam
+праживотиња	prȁživotinja
 празан	prázan
 празилук	praziluk
 празнѝна	praznìna
@@ -37292,7 +37306,6 @@ tirkizanтиркизан	cijan
 сакрити	sàkriti
 сакроса̀нктан	sakrosànktan
 сакроса̀нктно̄ст	sakrosànktnōst
-сакросанктан	sakrosanktna
 сакросанктан	sakrosànktan
 сакросанктност	sakrosànktnōst
 саксија	sàksija
@@ -40259,7 +40272,6 @@ tirkizanтиркизан	cijan
 спремити	sprémiti
 спремно	sprȅmno
 спремност	sprȅmnōst
-спретан	spretna
 спретан	sprȅtan
 спретно	sprȅtno
 спретност	sprȅtnōst
@@ -46542,7 +46554,6 @@ tirkizanтиркизан	cijan
 холо̀граф	hològraf
 холограф	hològraf
 холока̀уст	holokàust
-холокауст	holokaust
 холокауст	holokàust
 хомеоморфѝзам	homeomorfìzam
 хомеоморфизам	homeomorfìzam
@@ -47332,7 +47343,6 @@ tirkizanтиркизан	cijan
 цурити	cúriti
 цурица	cȕrica
 цуркати	curkati
-цэрэг	tsereg
 цјѐвчица	cjèvčica
 цјѐлов	cjèlov
 цје̏вово̄д	cjȅvovōd
@@ -47456,7 +47466,6 @@ tirkizanтиркизан	cijan
 чаробан	čȁroban
 чаробно	čȁrobno
 чаробњак	čaròbnjāk
-чародѣи	čaroděi
 чаролија	čaròlija
 чаршав	čàršav
 чаршаф	čàršaf
@@ -48659,7 +48668,7 @@ tirkizanтиркизан	cijan
 шпа̏јсцимер	špȁjscimer
 шпа̑да	špȃda
 шпа̑нга	špȃnga
-шпа̑нскa сѐла	špȃnska sèla
+шпа̑нска сѐла	špȃnska sèla
 шпа̑нскӣ	špȃnskī
 шпа̑ркаса	špȃrkasa
 шпа̑рта	špȃrta

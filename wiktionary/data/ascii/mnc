@@ -522,6 +522,7 @@
 ᠠᡵᡴᡳ	arki
 ᠠᡵᡶᠠ	arfa
 ᠣ	o
+ᠣᠣᠰᡝ	oose
 ᠣᠣᡯᡝ	oodze
 ᠣᠣᡵᡳ	oori
 ᠣᠣᡵᡳᠰᡠᡴᡩᡠᠨ	oori sukdun
@@ -660,6 +661,7 @@
 ᠣᠯᠵᡳᠯᠠᡵᠠᡴᡡᠨ	oljilarakun
 ᠣᠯᠵᡳᠯᠠᡶᡳ	oljilafi
 ᠣᠯᡥᠣᠨ	olhon
+ᠣᠰᡝ	ose
 ᠣᠴᡳ	oci
 ᠣᠵᠣ	ojo
 ᠣᠵᠣᠣ	ojoo
@@ -698,6 +700,7 @@
 ᠣᡯᡝ	odze
 ᠣᡯᡝ ᡤᡠᡵᡠᠨ	odze gurun
 ᠣᡯᡝᡤᡠᡵᡠᠨ	odze gurun
+ᠣᡯᡳ	odzi
 ᠣᡳ᠌ᡵᠠᡨ	oirat
 ᠣᡴ᠋ᡨ᠋ᠣ	okto
 ᠣᡴᡝ	oke
@@ -797,9 +800,11 @@
 ᠨᠠᠨ ᡤᡳᠩ	nan ging
 ᠨᠠᠮᠠ	nama
 ᠨᠠᠮᠠᠯᠠᠮᠪᡳ	namalambi
+ᠨᠠᠮᠠᡴᡡ	namaku
 ᠨᠠᠮᡠ	namu
 ᠨᠠᠮᡠ ᡠᠯᡤᡳᠶᠠᠨ	namu ulgiyan
 ᠨᠠᠮᡠᠨ	namun
+ᠨᠠᠮᡴᡡ	namku
 ᠨᠠᠰᠠ	nasa
 ᠨᠠᠰᠠᠣ	nasao
 ᠨᠠᠰᠠᠩᡤᠠᠯᠠ	nasanggala
@@ -1860,6 +1865,15 @@
 ᠰᠣᠯᠣᠮᠣᠩ	solomong
 ᠰᠣᠯᠮᡳᠨ	solmin
 ᠰᠣᠯᡥᠣ	solho
+ᠰᠣᠯᡥᠣᠪᠣᠰᠣ	solho boso
+ᠰᠣᠯᡥᠣᠪᡳᠩ	solho bing
+ᠰᠣᠯᡥᠣᠯᡝᡴᡝ	solho leke
+ᠰᠣᠯᡥᠣᠰᠣ	solhoso
+ᠰᠣᠯᡥᠣᡝᡶᡝᠨ	solho efen
+ᠰᠣᠯᡥᠣᡤᡠᡵᡠᠨ	solho gurun
+ᠰᠣᠯᡥᠣᡥᠠᡵᠠ	solho hara
+ᠰᠣᠯᡥᠣᡥᠣᠣᡧᠠᠨ	solho hoosan
+ᠰᠣᠯᡥᠣᡥᡝᠩᡴᡝ	solho hengke
 ᠰᠣᡤᡳ	sogi
 ᠰᠣᡥᠣᠨ	sohon
 ᠰᠣᡥᠣᠨ: 己	sohon
@@ -2310,6 +2324,7 @@
 ᠴᠠᡳ	cai puseli
 ᠴᠠᡳ ᡦᡠᠰᡝᠯᡳ	cai puseli
 ᠴᠠᡵᡴᡳ	carki
+ᠴᠣᠣᠰᡳᠶᠠᠨ	coosiyan
 ᠴᠣᠣᡥᠠ	cooha
 ᠴᠣᠣᡥᡳᠶᠠᠨ	coohiyan
 ᠴᠣᠴᠣ	coco
@@ -4078,6 +4093,7 @@
 ᡥᡠᠸᡝᠰᡳᡧᡝᠮᠪᡳ	huwesisembi
 ᡥᡠᠸᡝᠵᡝᠨ	huwejen
 ᡥᡠᠸᡝᡧᡝᠨ	huwesen
+ᡥᡠᠸᡝᡨᡥᡳ	huwethi
 ᡥᡠᡥᡠ	huhu
 ᡥᡠᡥᡠ ᠨᠣᠣᡵ	huhu noor
 ᡥᡠᡥᡠ ᡥᠣᡨᠣᠨ	huhu hoton
@@ -4170,6 +4186,7 @@
 ᡦᡠᠰᡝᠯᡳ	puseli
 ᡦᡳ	pi jio
 ᡦᡳ ᠵᡳᠣ	pi jio
+ᡦᡳᠩᡤᡠ	pinggu
 ᡦᡳᠩᡤᡠᡵᡳ	pingguri
 ᡦᡳᡦᡠᡵᡳ	pipuri
 ᡦᡳᡦᡠᡵᡳ ᠮᠣᡠ	pipuri mou
@@ -4293,7 +4310,6 @@
 ᡨ᠋ᠠᡨ᠋ᠠᡵᠠ	tatara
 ᡨ᠋ᠠᡵᡥᡡᠨ	tarhun
 ᡨ᠋ᠣᠩᠰᡳᠮᠪᡳ	tongsimbi
-ᡨ᠋ᠣᠵᡳᠨ	tojin
 ᡨ᠋ᡳᠶᠠᠨ	tiyan jin
 ᡨ᠋ᡳᠶᠠᠨ ᠵᡳᠨ	tiyan jin
 ᡨᠠ	ta
@@ -4515,6 +4531,7 @@
 ᡨᡝᠮᡝ	teme
 ᡨᡝᠮᡝᠨ	temen
 ᡨᡝᠮᡝᡵᡳ	temeri
+ᡨᡝᠮᡤᡝᡨᡠ	temgetu
 ᡨᡝᠴᡳ	teci
 ᡨᡝᠴᡳᠨᠠ	tecina
 ᡨᡝᠴᡳᠪᡝ	tecibe
@@ -4618,6 +4635,7 @@
 ᡨᡠᡴᡳᠶᡝᠮᠪᡳ	tukiyembi
 ᡨᡠᡵᠠ	tura
 ᡨᡠᡵᠠᡴᡡ	turaku
+ᡨᡠᡵᠠᡴᡳ	turaki
 ᡨᡠᡵᡤᠠ	turga
 ᡨᡠᡵᡳ	turi
 ᡨᡠᡵᡶᠠᠨ	turfan
@@ -4788,6 +4806,7 @@
 ᡩᠣᠪᡳ	dobi
 ᡩᠣᠮᠪᡳ	dombi
 ᡩᠣᠯᠣ	dolo
+ᡩᠣᠯᡤᡳᠨ	dolgin
 ᡩᠣᠰᠣ	doso
 ᡩᠣᠰᠣᠣ	dosoo
 ᡩᠣᠰᠣᠩᡤᠣᠯᠣ	dosonggolo
@@ -4833,7 +4852,9 @@
 ᡩᡝ	de
 ᡩᡝᠣ	deo
 ᡩᡝᠨ	den
+ᡩᡝᠩ	deng
 ᡩᡝᠩᠯᡠ	denglu
+ᡩᡝᠩᠰᡝ	dengse
 ᡩᡝᠩᠵᠠᠨ	dengjan
 ᡩᡝᠯᡝᠨ	delen
 ᡩᡝᠯᡠᠨ	delun
@@ -4886,8 +4907,10 @@
 ᡩᡠ	du
 ᡩᡠ᠋ᡩᡠ᠋	dudu
 ᡩᡠ᠋ᡵᡳ	duri
+ᡩᡠᠩ	dung
 ᡩᡠᠩᡤᠠ	dungga
 ᡩᡠᠩᡤᡠ	dunggu
+ᡩᡠᠪᡝ	dube
 ᡩᡠᠯᡝᡶᡠᠨ	dulefun
 ᡩᡠᠯᡳᠮᠪᠠ	dulimba
 ᡩᡠᠯᡳᠮᠪᠠᡳ ᡤᡠᡵᡠᠨ	dulimbai gurun
@@ -5279,6 +5302,7 @@
 ᡶᠠᠯᠠᠰᡠ	falasu
 ᡶᠠᠯᡠ	falu
 ᡶᠠᠯᡤᠠ	falga
+ᡶᠠᠰᡳᠮᠪᡳ	fasimbi
 ᡶᠠᠴᡠᡥᡡᠨ	facuhun
 ᡶᠠᠵᠠ	faja
 ᡶᠠᠵᠠᠣ	fajao
@@ -5311,13 +5335,17 @@
 ᡶᠠᠵᠠᡵᠠᡴᡡᠨ	fajarakun
 ᡶᠠᠵᠠᡶᡳ	fajafi
 ᡶᠠᠵᡠᡴᡡ	fajuku
+ᡶᠠᠵᡳᡵᠠᠨ	fajiran
 ᡶᠠᠶᠠᠩᡤᠠ	fayangga
 ᡶᠠᡥᠠᠮᠪᡳ	fahambi
 ᡶᠠᡥᠠᠯᠠ	fahala
 ᡶᠠᡥᡡᠨ	fahun
 ᡶᠠᡨᠠᠨ	fatan
+ᡶᠠᡨᡥᠠ	fatha
+ᡶᠠᡩᡠ	fadu
 ᡶᠠᡳᡨᠠᠨ	faitan
 ᡶᠠᡴᠰᡳ	faksi
+ᡶᠠᡵᠠ	fara
 ᡶᠠᡵᡥᡡᠨ	farhun
 ᡶᠠᡵᡧᠠᠮᠪᡳ	farsambi
 ᡶᠠᡶᠠᡥᠠ	fafaha
@@ -5331,21 +5359,27 @@
 ᡶᠣᠯᡤᡝ	folge
 ᡶᠣᠯᡥᠣ	folho
 ᡶᠣᠰᠣᠨ	foson
+ᡶᠣᠶᠣ	foyo
 ᡶᠣᠶᠣᡵᠣ	foyoro
 ᡶᠣᡥᠣᠯᠣᠨ	foholon
 ᡶᠣᡩᠣᡥᠣ	fodoho
+ᡶᠣᡵᠣᠨ	foron
 ᡶᠣᡵᡤᠣᠨ	forgon
 ᡶᡝ	fe
 ᡶᡝᠨᡳᠶᡝᠨ	feniyen
 ᡶᡝᠮᡝᠨ	femen
 ᡶᡝᠯᡳᠶᡝᠮᠪᡳ	feliyembi
+ᡶᡝᠰᡥᡝᠯᡝᠮᠪᡳ	feshelembi
+ᡶᡝᠰᡳᠨ	fesin
 ᡶᡝᠴᡠᡥᡠᠨ	fecuhun
 ᡶᡝᠵᡝᡵᡤᡳ	fejergi
 ᡶᡝᠶᡝ	feye
+ᡶᡝᡥᡠᠮᠪᡳ	fehumbi
 ᡶᡝᡥᡳ	fehi
 ᡶᡝᡨᡝᠮᠪᡳ	fetembi
 ᡶᡝᡳ	fei
 ᡶᡝᡳᠰᡝ	feise
+ᡶᡝᡴᠰᡳᠮᠪᡳ	feksimbi
 ᡶᡝᡴᠴᡠᡥᡠᠨ	fekcuhun
 ᡶᡝᡵᡝ	fere
 ᡶᡝᡵᡝᡥᡝ ᠰᡳᠩᡤᡝᡵᡳ	ferehe singgeri
@@ -5374,6 +5408,7 @@
 ᡶᡠᠰᡝᠯᡳ	fuseli
 ᡶᡠᠰᡠᠮᠪᡳ	fusumbi
 ᡶᡠᠰᡠᡴᡠ	fusuku
+ᡶᡠᠰᡥᡝᠮᠪᡳ	fushembi
 ᡶᡠᠰᡥᡝᡴᡠ	fusheku
 ᡶᡠᠰᡳᠮᠪᡳ	fusimbi
 ᡶᡠᠴᡳᡥᡳ	fucihi
@@ -5495,6 +5530,7 @@
 ᡶᡳᠶᠠᠩᡤᡡ ᠰᡳᠮᡥᡠᠨ	fiyanggu simhun
 ᡶᡳᠶᠠᡥᠠ ᡤᡳᠰᡠᠨ	fiyaha gisun
 ᡶᡳᠶᠠᡴᠰᠠ	fiyaksa
+ᡶᡳᠶᠠᡴᡳᠶᠠᠨ	fiyakiyan
 ᡶᡳᠶᠣᡨᠣ	fiyoto
 ᡶᡳᠶᠣᡨᠣᠣ	fiyotoo
 ᡶᡳᠶᠣᡨᠣᠩᡤᠣᠯᠣ	fiyotonggolo
@@ -5554,6 +5590,7 @@
 ᡶᡳᠶᠣᡴᠣᡵᠣᡵᠣᠩᡤᡝ	fiyokororongge
 ᡶᡳᠶᠣᡴᠣᡵᠣᡵᠣᠯᠠᠮᡝ	fiyokororolame
 ᡶᡳᠶᠣᡴᠣᡵᠣᡶᡳ	fiyokorofi
+ᡶᡳᡨᡠᡥᠠᠨ	fituhan
 ᡶᡳᡴᡨᡠ	fiktu
 ᡶᡳᡵᡤᡝ	firge
 ᡶᡳᡵᡤᡝᠣ	firgeo

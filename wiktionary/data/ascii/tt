@@ -133,6 +133,7 @@ cөтче	cotce
 Жуба	juba
 Загреб	zagreb
 Запорожье	zaporojye
+Зур Җидегән	zur cidegan
 Зөһрә	zohra
 Йосыф сүрәсе	yosif surase
 Йошкар Ола	yoskar ola
@@ -173,6 +174,7 @@ cөтче	cotce
 Катманду	qatmandu
 Кения	keniya
 Керич	keric
+Кече Җидегән	kece cidegan
 Киев	kiyew
 Кипр	kipr
 Кишинёв	kisinyow
@@ -1314,6 +1316,7 @@ cөтче	cotce
 без	bez
 бел	bel
 беларус	belarus
+белгеч	belgec
 белем	belem
 белергә	belerga
 белики	beliki
@@ -1634,6 +1637,7 @@ cөтче	cotce
 вольт	wolt
 вомбат	wombat
 вә	wa
+вәгъдә	wagda
 вәзир	vazir
 вәзир	wazir
 вәкарь	vaqar
@@ -1943,6 +1947,7 @@ cөтче	cotce
 дәлия	daliya
 дәрвиш	darwis
 дәрес	dares
+дәреслек	dareslek
 дәрмана	darmana
 дәрәҗә	daraca
 дәфтәр	daftar
@@ -2045,6 +2050,7 @@ cөтче	cotce
 игезәк	igezak
 игенче	igence
 игътибар	igtibar
+идеология	ideologiya
 идән	idan
 ике	ike
 ике йөз	ike yoz
@@ -2389,6 +2395,7 @@ cөтче	cotce
 казакъ	qazaq
 казан	qazan
 казино	qazino
+казначы	qaznaci
 казый	qaziy
 казылык	qaziliq
 кайгы	qaygi
@@ -2725,6 +2732,7 @@ cөтче	cotce
 карта	qarta
 картина	qartina
 картинәй	qartinay
+карцинома	qartsinoma
 карчыга	qarciga
 каршылык	qarsiliq
 касык	qasiq
@@ -3148,6 +3156,7 @@ cөтче	cotce
 колакчыннар	qolaqcinnar
 колйә	qolya
 коллык	qolliq
+колониализм	qolonializm
 колония	qoloniya
 колхоз	qolxoz
 колын	qolin
@@ -3189,6 +3198,7 @@ cөтче	cotce
 крестьян	krestyan
 крокодил	kroqodil
 куак	quaq
+куе яшел	quye yasel
 кукуруз	ququruz
 кул	qul
 кулбаш	qulbas
@@ -3620,6 +3630,7 @@ cөтче	cotce
 лалә	lala
 лампа	lampa
 леб	leb
+легенда	legenda
 лепрозорий	leprozoriy
 либәдә	libada
 лиман	liman
@@ -3717,6 +3728,7 @@ cөтче	cotce
 матур	matur
 махсус	maxsus
 машина	masina
+маяк	mayak
 маҗар	macar
 маҗента	macenta
 маңгай	mangay
@@ -3943,6 +3955,7 @@ cөтче	cotce
 охшаш	oxsas
 очкыч	ockic
 очрак	ocraq
+очучы	ocuci
 оя	oya
 оят	oyat
 падишаһ	padisah
@@ -4002,6 +4015,7 @@ cөтче	cotce
 революционер	rewolyutsioner
 республика	respublika
 ресторан	restoran
+риваять	riwayat
 ришвәт	riswat
 ришвәтче	riswatce
 роль	rol
@@ -4297,6 +4311,7 @@ cөтче	cotce
 сипкел	sipkel
 сирәк	sirak
 сихер	sixer
+сихерче	sixerce
 сишәмбе	sisambe
 сию	siyu
 скелет	skelet
@@ -4661,6 +4676,7 @@ cөтче	cotce
 туңу	tunu
 тыгыз	tigiz
 тылсым	tilsim
+тылсымчы	tilsimci
 тынлык	tinliq
 тынычлык	tinicliq
 тычкан	tickan
@@ -5051,9 +5067,11 @@ cөтче	cotce
 хезмәт	xezmat
 хезмәт базары	xezmat bazari
 хезмәтче	xezmatce
+хикәя	xikaya
 химаячелек	ximayacelek
 химия	ximiya
 хинди	xindi
+хирург	xirurg
 хис итәргә	xis itarga
 хисап	xisap
 хисапларга	xisaplarga
@@ -5067,6 +5085,7 @@ cөтче	cotce
 хуҗа	xuca
 хыял	xiyal
 хәбәр	xabar
+хәбәрче	xabarce
 хәдис	xadis
 хәерле иртә	xayerle irta
 хәзер	xazer
@@ -5087,6 +5106,7 @@ cөтче	cotce
 хөтбә	xotba
 цилиндр	tsilindr
 цирконий	tsirkoniy
+цунами	tsunami
 чабак	cabaq
 чабата	cabata
 чакрым	caqrim
@@ -5357,6 +5377,7 @@ cөтче	cotce
 як	yak
 яка	yaka
 яки	yaki
+якорь	yakor
 якты	yakti
 яктылык	yaktiliq
 якшәмбе	yaksambe
@@ -5388,6 +5409,7 @@ cөтче	cotce
 ясалма интеллект	yasalma intellekt
 ят	yat
 ят итү	yat itu
+ятарга	yatarga
 ятим	yatim
 яу	yau
 яулык	yauliq
@@ -5520,6 +5542,7 @@ cөтче	cotce
 җиңел	cinel
 җиңү	cinu
 җиңүче	cinuce
+җиңәргә	cinarga
 җиһад	cihad
 җиһадга	cihadga
 җиһадда	cihadda

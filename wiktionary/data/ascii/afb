@@ -1,3 +1,5 @@
+or يَبي	yabi
+or يَبْچي	yabci
 ابلات	ablat
 ابلة	abla
 اثول	atwal
@@ -153,6 +155,7 @@
 آش	as
 آنا	ana
 آنَا	ana
+آها	aha
 أبلة	abla
 أبلكيشن	eblikeshin
 أثول	atwal
@@ -200,6 +203,7 @@
 باچر	bacir
 باچِر	bacir
 بجى	bica
+بخيل	bakil
 بدون	bidun
 برا	barra
 برة	barra
@@ -331,6 +335,8 @@
 ترمس	turmas
 تريق	trayyag
 تريگ	trayyag
+ترچية	tirciya
+ترچية	turciya
 تسبح	tasabbah
 تسبّح	tasabbah
 تصرف	teserref
@@ -365,6 +371,7 @@
 تَحَلْطُم	tahaltum
 تَحَلْطِم	tahaltim
 تَحَلْطِم	tahaltum
+تَراچي	taraci
 تَقاليد	taqalid
 تَكَنْسَل	takansal
 تَكّا	takka
@@ -375,8 +382,12 @@
 تَوَهَّق	tawahhag
 تُرمس	tirmas
 تُرمس	turmas
+تُرْچيّة	tirciya
+تُرْچيّة	turciya
 تِرمس	tirmas
 تِرمس	turmas
+تِرْچيّة	tirciya
+تِرْچيّة	turciya
 تِكانة	tikana
 تِكَي	takay
 تِكِيَة	takiya
@@ -856,6 +867,7 @@
 صبي	sbayy
 صبي	sibi
 صبّان	sabban
+صج	j
 صراحات	sarahat
 صراحة	saraha
 صراحة	sarahatan
@@ -875,6 +887,7 @@
 صيدة	seda
 صيدة	sede
 صيني	sini
+صَجّ	j
 صَراحة	saraha
 صَراحة	sarahatan
 صَراحَةً	saraha
@@ -889,6 +902,7 @@
 صُوَغ	suwag
 صِبي	sibi
 صِبيّين	sibiyen
+صِجّ	j
 صِفِر	sifir
 صْبَيّان	sbayyan
 صْبَيّين	sbayyen
@@ -927,6 +941,7 @@
 طريج	tirij
 طريجين	tirijen
 طشت	tast
+طلعة	tala
 طماط	tumat
 طمباخيات	timbakiyat
 طمباخية	timbakiya
@@ -946,6 +961,8 @@
 طَراثيث	taratit
 طَرْثوث	tartut
 طَشْت	tast
+طَلْعات	talat
+طَلْعة	tala
 طَناطِل	tanatil
 طَنَّش	tannas
 طَنْطَل	tantal
@@ -1173,6 +1190,7 @@
 قلب على	gilab ala
 قلم	qalam
 قلوب	glub
+قماط	gmat
 قمر	gimar
 قمر	gumar
 قمرين	gumaren
@@ -1366,6 +1384,8 @@
 مجسم	mjassim
 مجسم	mujassam
 مجمع	mujamma
+محار	mahhar
+محارة	mahhara
 محنة	mihna
 مداحر	mdahar
 مدواخ	midwak
@@ -1380,6 +1400,7 @@
 مساواة	musawat musawa
 مسايد	masayid
 مسبح	masbah
+مسج	mesij
 مسلسل	msalsal
 مسلسل	musalsal
 مسلسلات	msalsalat
@@ -1427,6 +1448,7 @@
 ملقط	milgat
 ملقوف	malguf
 ملكية	mulkiya
+مليق	maliq
 ممتلئ	mimtili
 من قال ها سمع	min gal ha sima
 منظرة	mandara
@@ -1470,8 +1492,11 @@
 مَكّوك	makkuk
 مَكّوكات	makkukat
 مَلافِع	malafi
+مَلاقة	malaqa
 مَلاليس	melalis
 مَلاليف	malalif
+مَليق	maliq
+مَليقة	maliqa
 مَلَف	malaf
 مَلْفوف	malfuf
 مَلْفوفات	malfufat
@@ -1692,8 +1717,6 @@
 يومين	yomen
 يوَدِّر	ywaddir
 ييران	yiran
-يَبي	yabi
-يَبْچي	yabci
 يَحْرِق	yahrig
 يَحْفِر	yahfir
 يَدّات	yaddat

@@ -1,7 +1,9 @@
 Iэ ижь	ia iz
 Iэ сэмэгу	ia samagdeg
 А	a
+Адыгей	adegej
 Адыгэ	adega
+Адыгэ Хэку	adega xakdeg
 Азгъей	azgej
 Албаниэ	albania
 Алджазаир	alzhazair
@@ -55,6 +57,7 @@ Iэ сэмэгу	ia samagdeg
 Урысей	wresej
 Урысей Федерациэ	wresej federacia
 Финлэнд	finland
+Хъутей Республикэ	chwtej respwblika
 Хы Фӏыцӏэ	xe feca
 Хылъэжьый	xelazej
 Черкесск	cerkessk
@@ -439,7 +442,6 @@ Iэ сэмэгу	ia samagdeg
 гъащӏэхэ	gasaxa
 гъащӏэхэмэ	gasaxama
 гъащӏэхэр	gasaxar
-гъогу	gogdeg
 гъогъон	gogon
 гъогын	gogen
 гъожьы	goze
@@ -966,15 +968,11 @@ Iэ сэмэгу	ia samagdeg
 кой	koj
 копкъ	kopq
 коцы	koce
+кхъу	qw
 кхъуей	qwej
-кхъуейм	qwejm
-кхъуейр	qwejr
-кхъуейу	qwejw
-кхъуейхыу	qwejxew
-кхъуейхэ	qwejxa
-кхъуейхэмэ	qwejxama
-кхъуейхэр	qwejxar
 кхъужъы	protocircassian
+кхъухьтедзапӏэ	qwhtezhapa
+кхъуэ	qwa
 кхъыӏэ	qea
 кхъэ	qa
 кхъэм	qam
@@ -1143,6 +1141,7 @@ Iэ сэмэгу	ia samagdeg
 кӏэхэр	caxar
 лошкӏэ	kabardian
 лошкӏэ	losca
+лъагъуэ	lagdega
 лъагэ	laga
 лъакъо	laqo
 лъапсэ	lapsa
@@ -1463,6 +1462,7 @@ Iэ сэмэгу	ia samagdeg
 нтӏэ	nta
 ны	ne
 ныбгъу	nebgdeg
+ныбджьэгъу	nebdzagdeg
 ныбжьыкӏэ	nebzeca
 ныбжьыщӏ	nebzes
 ныбжьыщӏэ	nebzesa
@@ -1860,7 +1860,6 @@ Iэ сэмэгу	ia samagdeg
 пӏонкӏын	poncen
 пӏуакӏэ	pwaca
 пӏэнкӏын	pancen
-пӏэркӏьын	parcen
 пӏэтепхъуэ	patepchdega
 пӏэтехъо	patecho
 сабый	sabej
@@ -2279,6 +2278,7 @@ Iэ сэмэгу	ia samagdeg
 хьайнапэ	hajnapa
 хьаку	hakdeg
 хьакӏэ	haca
+хьакӏэкхъуакӏэ	hacaqwaca
 хьалыгъу	halegdeg
 хьамлыу	hamlew
 хьампӏырашъу	hamperasw
@@ -2374,7 +2374,6 @@ Iэ сэмэгу	ia samagdeg
 цӀуцӀэ	protocircassian
 цӀыжьдадэцӀыкӀу	cezdadacekdeg
 цӏакӏэ	caca
-цӏуун	cwwn
 цӏыжьбанэ	cezbana
 цӏыкӏу	cekdeg
 цӏыун	cewn
@@ -2594,7 +2593,7 @@ Iэ сэмэгу	ia samagdeg
 щэфын	safen
 щэху	saxdeg
 щэхун	saxdegn
-щӏакхъуэ	saqdega
+щӏакхъуэ	sakchdega
 щӏакӏуэ	sakdega
 щӏалэ	sala
 щӏалэгъуалэ	salagdegala
@@ -2663,6 +2662,7 @@ Iэ сэмэгу	ia samagdeg
 ӏэзэ	aza
 ӏэкӏэзын	acazen
 ӏэкӏэкӏын	acacen
+ӏэкӏэкӏьын	acacen
 ӏэкӏэукӏэн	acawcan
 ӏэлъын	alen
 ӏэм	am

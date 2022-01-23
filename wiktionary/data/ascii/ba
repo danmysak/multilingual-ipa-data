@@ -132,6 +132,8 @@ land area сутый	sutiy
 АҠШтың	aqstin
 АҠШҡа	aqsqa
 Аҡ Йорт	aq yort
+Аҡ йорт.	aq yort
+Аҡ ҡан күҙәнәктәре.	aq qan kudanaktare
 Аҡбуҙат	aqbudat
 Аҡбуҙатта	aqbudatta
 Аҡбуҙаттан	aqbudattan
@@ -566,10 +568,14 @@ land area сутый	sutiy
 Кувейт	kuveyt
 Кук Утрауҙары	kuk utrawdari
 Күк сәй.	kuk say
+Күк томан.	kuk toman
+Күк шыршы.	kuk sirsi
+Күк юрға.	kuk yurga
 Кәбир	kabir
 Кәбир улы	patronymics
 Кө́нигсберг	konigsberg
 Көнбайыш	konbayis
+Көнбайыш Себер	konbayis seber
 Көнбайышта	konbayista
 Көнбайыштан	konbayistan
 Көнбайышты	konbayisti
@@ -1228,6 +1234,7 @@ land area сутый	sutiy
 айырманы	ayirmani
 айырманың	ayirmanin
 айырмаға	ayirmaga
+айырылышыу	ayirilisiw
 айырылғыһыҙ	ayirilgihid
 айырым	ayirim
 айырыу	ayiriw
@@ -1437,6 +1444,7 @@ land area сутый	sutiy
 алъяпҡыстың	alyapqistin
 алъяпҡысҡа	alyapqisqa
 алып барыу	alip bariw
+алып барыусы	alip bariwsi
 алып килеү	alip kilew
 алыу	aliw
 алыҫ	alith
@@ -1888,6 +1896,7 @@ land area сутый	sutiy
 ашҡаҙанды	asqadandi
 ашҡаҙандың	asqadandin
 ашҡаҙанға	asqadanga
+ая	aya
 аят	ayat
 аятта	ayatta
 аяттан	ayattan
@@ -2718,6 +2727,7 @@ land area сутый	sutiy
 башҡаланы	basqalani
 башҡаланың	basqalanin
 башҡалаға	basqalaga
+башҡарыу	basqariw
 башҡорт	basqort
 башҡорт теле	basqort tele
 башҡортса	basqortsa
@@ -4245,6 +4255,7 @@ land area сутый	sutiy
 герман теле	german tele
 гимн	gimn
 гистология	gistologiya
+глобаль йылыныу	global yiliniw
 гоацин	goatsin
 годограф	godograf
 гомосексуализм	gomoseksualizm
@@ -4660,6 +4671,7 @@ land area сутый	sutiy
 дәлил	dalil
 дәрес	dares
 дәрескә	dareska
+дәреслек	dareslek
 дәресте	dareste
 дәрестең	daresten
 дәрестә	daresta
@@ -4777,6 +4789,30 @@ land area сутый	sutiy
 егәрҙәрҙең	yegardarden
 егәрҙәрҙә	yegardarda
 егәрҙәрҙән	yegardardan
+ейән	yeyan
+ейәнгә	yeyanga
+ейәнде	yeyande
+ейәндең	yeyanden
+ейәндә	yeyanda
+ейәндән	yeyandan
+ейәндәр	yeyandar
+ейәндәргә	yeyandarga
+ейәндәрҙе	yeyandarde
+ейәндәрҙең	yeyandarden
+ейәндәрҙә	yeyandarda
+ейәндәрҙән	yeyandardan
+ейәнсәр	yeyansar
+ейәнсәргә	yeyansarga
+ейәнсәрҙе	yeyansarde
+ейәнсәрҙең	yeyansarden
+ейәнсәрҙә	yeyansarda
+ейәнсәрҙән	yeyansardan
+ейәнсәрҙәр	yeyansardar
+ейәнсәрҙәргә	yeyansardarga
+ейәнсәрҙәрҙе	yeyansardarde
+ейәнсәрҙәрҙең	yeyansardarden
+ейәнсәрҙәрҙә	yeyansardarda
+ейәнсәрҙәрҙән	yeyansardardan
 ек	yek
 екке ат	yekke at
 ел	yel
@@ -6642,6 +6678,7 @@ land area сутый	sutiy
 килеп етеү	kilep yetew
 килеш	kiles
 килеш менән үҙгәреү	kiles menan udgarew
+килешеү	kilesew
 килешкә	kileska
 килеште	kileste
 килештең	kilesten
@@ -6814,6 +6851,7 @@ land area сутый	sutiy
 комета	kometa
 коммерция	kommertsiya
 компьютер уйыны	kompyuter uyini
+конкур	konkur
 конституция	konstitutsiya
 коперниций	kopernitsiy
 королева	koroleva
@@ -7640,6 +7678,7 @@ land area сутый	sutiy
 ла	la
 ладино теле	ladino tele
 лайғы	laygi
+легенда	legenda
 лига	liga
 лимфома	limfoma
 литий	litiy
@@ -8340,6 +8379,7 @@ land area сутый	sutiy
 мәшәҡәттәрҙең	masaqattarden
 мәшәҡәттәрҙә	masaqattarda
 мәшәҡәттәрҙән	masaqattardan
+мәғариф	magarif
 мәғлүмәт	maglumat
 мәғлүмәткә	maglumatka
 мәғлүмәтте	maglumatte
@@ -8529,6 +8569,7 @@ land area сутый	sutiy
 мөҙҙәттәрҙән	moddattardan
 мөһим	mohim
 н	n
+на	na
 намаҙ	namad
 намаҙлыҡ	namadliq
 намаҙлыҡта	namadliqta
@@ -9082,6 +9123,17 @@ land area сутый	sutiy
 протеин	protein
 профессия	professiya
 процент	protsent
+процентта	protsentta
+проценттан	protsenttan
+проценттар	protsenttar
+проценттарға	protsenttarga
+проценттарҙа	protsenttarda
+проценттарҙан	protsenttardan
+проценттарҙы	protsenttardi
+проценттарҙың	protsenttardin
+процентты	protsentti
+проценттың	protsenttin
+процентҡа	protsentqa
 психиатрия	psixiatriya
 психик ауырыу	psixik awiriw
 психик ҡаҡшау	psixik qaqsaw
@@ -9823,6 +9875,7 @@ land area сутый	sutiy
 соҡорҙо	soqordo
 соҡорҙоң	soqordon
 спаньоль	spanol
+спектакль	spektakl
 спорт	sport
 спутник	sputnik
 стена	stena
@@ -10925,6 +10978,19 @@ land area сутый	sutiy
 терһәктәрҙең	terhaktarden
 терһәктәрҙә	terhaktarda
 терһәктәрҙән	terhaktardan
+терәк	terak
+терәккә	terakka
+терәкте	terakte
+терәктең	terakten
+терәктә	terakta
+терәктән	teraktan
+терәктәр	teraktar
+терәктәргә	teraktarga
+терәктәрҙе	teraktarde
+терәктәрҙең	teraktarden
+терәктәрҙә	teraktarda
+терәктәрҙән	teraktardan
+терәү	teraw
 теш	tes
 теш пастаһы	tes pastahi
 тешкә	teska
@@ -11343,6 +11409,7 @@ land area сутый	sutiy
 туй	tuy
 туйған	tuygan
 тулы	tuli
+тулыу	tuliw
 тулыһынса	tulihinsa
 тулҡын	tulqin
 тулҡында	tulqinda
@@ -12237,6 +12304,7 @@ land area сутый	sutiy
 уймаҡты	uymaqti
 уймаҡтың	uymaqtin
 уймаҡҡа	uymaqqa
+уйнатыу	uynatiw
 уйнау	uynaw
 уйнашсы	uynassi
 уйын	uyin
@@ -13422,6 +13490,7 @@ land area сутый	sutiy
 штатты	statti
 штаттың	stattin
 штатҡа	statqa
+шул иҫәптән	sul ithaptan
 шул уҡ	sul uq
 шулай	nisek bar
 шулай	nisek bar sulay
@@ -13683,6 +13752,18 @@ land area сутый	sutiy
 ынтылышты	intilisti
 ынтылыштың	intilistin
 ынтылышҡа	intilisqa
+ырым	irim
+ырымда	irimda
+ырымдан	irimdan
+ырымдар	irimdar
+ырымдарға	irimdarga
+ырымдарҙа	irimdarda
+ырымдарҙан	irimdardan
+ырымдарҙы	irimdardi
+ырымдарҙың	irimdardin
+ырымды	irimdi
+ырымдың	irimdin
+ырымға	irimga
 ырыу	iriw
 ырыуға	iriwga
 ырыуҙа	iriwda
@@ -13740,6 +13821,7 @@ land area сутый	sutiy
 ысыҡты	isiqti
 ысыҡтың	isiqtin
 ысыҡҡа	isiqqa
+ысҡындырыу	isqindiriw
 ысҡыныу	isqiniw
 ыуылдырыҡ	iwildiriq
 ыуылдырыҡта	iwildiriqta
@@ -13783,6 +13865,8 @@ land area сутый	sutiy
 э	e
 эвкалипт	evkalipt
 эйе	eye
+эйә	eya
+эйәгә	eyaga
 эйәк	eyak
 эйәккә	eyakka
 эйәкте	eyakte
@@ -13795,6 +13879,16 @@ land area сутый	sutiy
 эйәктәрҙең	eyaktarden
 эйәктәрҙә	eyaktarda
 эйәктәрҙән	eyaktardan
+эйәлә	eyala
+эйәләр	eyalar
+эйәләргә	eyalarga
+эйәләрҙе	eyalarde
+эйәләрҙең	eyalarden
+эйәләрҙә	eyalarda
+эйәләрҙән	eyalardan
+эйәне	eyane
+эйәнең	eyanen
+эйәнән	eyanan
 эйәр	eyar
 эйәргә	eyarga
 эйәрлә	eyarla
@@ -15080,6 +15174,7 @@ land area сутый	sutiy
 ҡаймаҡты	qaymaqti
 ҡаймаҡтың	qaymaqtin
 ҡаймаҡҡа	qaymaqqa
+ҡаймыҡтырыу	qaymiqtiriw
 ҡайнатма	qaynatma
 ҡайнатмала	qaynatmala
 ҡайнатмалар	qaynatmalar
@@ -15304,6 +15399,7 @@ land area сутый	sutiy
 ҡанун	qanun
 ҡанға	qanga
 ҡап	qap
+ҡаплау	qaplaw
 ҡапсыҡ	qapsiq
 ҡапсыҡта	qapsiqta
 ҡапсыҡтан	qapsiqtan
@@ -16739,6 +16835,7 @@ land area сутый	sutiy
 ҡәнәғәт	qanagat
 ҡәнәғәтһеҙ	qanagathed
 ҡәрендәш	qarendas
+ҡәртнәй	qartnay
 ҡәрҙәш	qardas
 ҡәрҙәшкә	qardaska
 ҡәрҙәште	qardaste
@@ -16916,6 +17013,7 @@ land area сутый	sutiy
 үркәснең	urkasnen
 үркәснән	urkasnan
 үрмәксе	urmakse
+үрмәксе ауы	urmakse awi
 үрмәксегә	urmaksega
 үрмәкселә	urmaksela
 үрмәкселәр	urmakselar
@@ -17583,6 +17681,17 @@ land area сутый	sutiy
 һинең	hinen
 һинән	hinan
 һипкел	hipkel
+һипкелгә	hipkelga
+һипкелде	hipkelde
+һипкелдең	hipkelden
+һипкелдә	hipkelda
+һипкелдән	hipkeldan
+һипкелдәр	hipkeldar
+һипкелдәргә	hipkeldarga
+һипкелдәрҙе	hipkeldarde
+һипкелдәрҙең	hipkeldarden
+һипкелдәрҙә	hipkeldarda
+һипкелдәрҙән	hipkeldardan
 һиптергес	hipterges
 һиптергескә	hiptergeska
 һиптергесте	hiptergeste
@@ -18061,6 +18170,7 @@ land area сутый	sutiy
 һөйләшеү	hoylasew
 һөйләшә белеү	hoylasa belew
 һөйләү	hoylaw
+һөйрәү	hoyraw
 һөйҙәү	hoydaw
 һөйәк	hoyak
 һөйәккә	hoyakka
@@ -18177,6 +18287,8 @@ land area сутый	sutiy
 һөҙөмтәне	hodomtane
 һөҙөмтәнең	hodomtanen
 һөҙөмтәнән	hodomtanan
+һөҙөшөү	hodosow
+һөҙөү	hodow
 һөңгө	hongo
 һөңгөгә	hongoga
 һөңгөлә	hongola
@@ -18653,6 +18765,7 @@ land area сутый	sutiy
 өлкәнең	olkanen
 өлкәнән	olkanan
 өлтәнләү	oltanlaw
+өләсәй	olasay
 өлөш	olos
 өлөшкә	oloska
 өлөштә	olosta

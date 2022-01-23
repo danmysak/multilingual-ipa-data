@@ -13,6 +13,7 @@ Maтч	matc
 xым хаж	xem xaz
 А	a
 Адыгэ	adega
+Адыгэ Хэку	adega xakdeg
 Адэм	adam
 Адэмыу	adamew
 Адэмэ	adama
@@ -1315,7 +1316,6 @@ xым хаж	xem xaz
 ащ пае	as pae
 ащ рикӏорэр	as ricorar
 ащ фэшӏыкӏэ	as faseca
-ащ шъхьэкӏьэ	as shaca
 ащгъум	asgdegm
 ащтэу	astaw
 ащыгъум	asegdegm
@@ -3901,7 +3901,6 @@ xым хаж	xem xaz
 гъэпыутын	gapewten
 гъэпэн	gapan
 гъэпӏоркӏын	gaporcen
-гъэпӏэркӏьын	gaparcen
 гъэр	gar
 гъэрекӏопагъэ	garecopaga
 гъэрсысын	garsesen
@@ -4250,7 +4249,6 @@ xым хаж	xem xaz
 дежъыун	dezewn
 дежьыен	dezeen
 декъыен	deqeen
-декӏэкӏьын	decacen
 делагъэ	delaga
 делашъу	delasdeg
 делъэсыкӏын	delasecen
@@ -5247,9 +5245,6 @@ xым хаж	xem xaz
 жакъэ	zaqa
 жакӀэ	zaca
 жакӏьэ	zaca
-жакӏьэм	zacam
-жакӏьэр	zacar
-жакӏьэу	zacaw
 жакӏэ	zaca
 жакӏэ́	zaca
 жакӏэм	zacam
@@ -6499,7 +6494,7 @@ xым хаж	xem xaz
 кхъанзэгу	qanzagdeg
 кхъанзэгуэ	qanzagdega
 кхъо	qo
-кхъуае	qwae
+кхъуайэ	protocircassian
 кхъуайэ	qwaja
 кхъуайэм	qwajam
 кхъуайэр	qwajar
@@ -6514,7 +6509,6 @@ xым хаж	xem xaz
 кхъухь	kabardian
 кхъухьтедзапӏэ	kabardian
 кхъуэ	kabardian
-кхъуэ	qwa
 кхъэ	kabardian
 къабзэ	qabza
 къаблэ	qabla
@@ -6927,7 +6921,6 @@ xым хаж	xem xaz
 къыухьан	qewhan
 къыфифэн	qefifan
 къыхэущыкӏын	qexawsecen
-къыхэущыкӏьын	qexawsecen
 къыцэ	qeca
 къыцэм	qecam
 къыцэр	qecar
@@ -7964,6 +7957,7 @@ xым хаж	xem xaz
 лъэкӏоцӏ	lacoc
 лъэкӏын	lacen
 лъэкӏыу	lacew
+лъэкӏь	lac
 лъэкӏэ	laca
 лъэкӏэм	lacam
 лъэкӏэн	lacan
@@ -8792,7 +8786,6 @@ xым хаж	xem xaz
 мэпщын	mapsen
 мэпщэн	mapsan
 мэпыджэн	mapezhan
-мэпӏэркӏьын	maparcen
 мэпӏэстхъэн	mapastchan
 мэр	mar
 мэрем	kabardian
@@ -9294,15 +9287,11 @@ xым хаж	xem xaz
 нэбзыцэхэмэ	nabzecaxama
 нэбзыцэхэр	nabzecaxar
 нэгу	nagdeg
-нэгъэцӏу	nagacw
-нэгъэцӏухыу	nagacwxew
-нэгъэцӏуыу	nagacwew
-нэгъэцӏуэ	nagacwa
-нэгъэцӏуэм	nagacwam
-нэгъэцӏуэр	nagacwar
-нэгъэцӏуэхэ	nagacwaxa
-нэгъэцӏуэхэмэ	nagacwaxama
-нэгъэцӏуэхэр	nagacwaxar
+нэгъэцӏу	nagacdeg
+нэгъэцӏуыу	nagacdegew
+нэгъэцӏуэ	nagacdega
+нэгъэцӏуэм	nagacdegam
+нэгъэцӏуэр	nagacdegar
 нэгъэцӏыу	nagacew
 нэгъэцӏыухыу	nagacewxew
 нэгъэцӏыуыу	nagacewew
@@ -9775,7 +9764,6 @@ xым хаж	xem xaz
 пае	pae
 пакъ	paq
 пакӏо	paco
-пакӏьэ	paca
 пакӏэ	paca
 пакӏэм	pacam
 пакӏэр	pacar
@@ -10926,7 +10914,6 @@ xым хаж	xem xaz
 пэгъодзэхэмэ	pagozhaxama
 пэгъодзэхэр	pagozhaxar
 пэгъокӏын	pagocen
-пэгъокӏьын	pagocen
 пэгъон	pagon
 пэгъонм	pagonm
 пэгъонр	pagonr
@@ -11072,7 +11059,6 @@ xым хаж	xem xaz
 пӏэм	pam
 пӏэнкӏын	kabardian
 пӏэр	par
-пӏэркӏьын	parcen
 пӏэрэпӏэрэн	paraparan
 пӏэстхъэн	pastchan
 пӏэстӏэкӏэшып	pastacasep
@@ -11424,6 +11410,7 @@ xым хаж	xem xaz
 тегъэпсыхьан	tegapsehan
 тегъэпытахьын	tegapetahen
 тегъэстыкӏын	tegastecen
+тегъэстыкӏьын	tegastecen
 тегъэстыхьан	tegastehan
 тегъэсыкӏын	kabardian
 тегъэсыхьэн	kabardian
@@ -12040,7 +12027,6 @@ xым хаж	xem xaz
 тӏыхыу	texew
 тӏыхэмэ	texama
 тӏыхэр	texar
-тӏэкӏу	takdeg
 тӏэн	tan
 тӏэпӏын	tapen
 тӏэрэхын	taraxen
@@ -12498,7 +12484,6 @@ xым хаж	xem xaz
 фэкъолӏэхэмэ	faqolaxama
 фэкъолӏэхэр	faqolaxar
 фэлъэкӏын	falacen
-фэлъэкӏьын	falacen
 фэлӏэн	falan
 фэмылъэгъун	famelagdegn
 фэмыф	famef
@@ -13517,19 +13502,10 @@ xым хаж	xem xaz
 цэхэмэ	caxama
 цэхэр	caxar
 цӀу	protocircassian
-цӀуцӀэ	cwca
 цӀуцӀэ	protocircassian
-цӀуцӀэм	cwcam
-цӀуцӀэр	cwcar
-цӀуцӀэу	cwcaw
-цӀуцӀэхыу	cwcaxew
-цӀуцӀэхэ	cwcaxa
-цӀуцӀэхэмэ	cwcaxama
-цӀуцӀэхэр	cwcaxar
 цӏакӏэ	caca
 цӏапӏэ	capa
 цӏуун	kabardian
-цӏуэи	cwai
 цӏуэи	protocircassian
 цӏы	ce
 цӏыжьбанэ	kabardian
@@ -14664,6 +14640,7 @@ xым хаж	xem xaz
 шъхьэпылъапӏэхэмэ	shapelapaxama
 шъхьэпылъапӏэхэр	shapelapaxar
 шъхьэпэкӏын	shapacen
+шъхьэпэкӏьын	shapacen
 шъхьэр	shar
 шъхьэталъхьэ	shatalha
 шъхьэталъхьэм	shatalham
@@ -15815,6 +15792,7 @@ xым хаж	xem xaz
 ӏэкӏэгъэхьан	acagahan
 ӏэкӏэзын	acazen
 ӏэкӏэкӏын	acacen
+ӏэкӏэкӏьын	acacen
 ӏэкӏэукӏэн	acawcan
 ӏэкӏэхьан	acahan
 ӏэл	al

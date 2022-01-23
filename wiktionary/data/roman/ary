@@ -1,4 +1,37 @@
 form من	man
+or يتصَيّد	yitṣayyad
+or يتقُن	yitqun
+or يتَيّق	ytayyaq
+or يحَج	yḥajj
+or يردَم	yirdam
+or يرَد	yradd
+or يزرُب	yizrub
+or يسعُل	yisʕul
+or يسكت	yuskut
+or يسَب	ysabb
+or يشخَر	yišḵar
+or يشفَر	yišfar
+or يشَدّ	yšadd
+or يصَيّد	yṣayyad
+or يضُر	yḍurr
+or يطرُش	yiṭruš
+or يطَيب	yṭayyab
+or يعِيط	yʕiyyaṭ
+or يفرقع	yfargaʕ
+or يقوس	yqūs
+or يكتَب	yiktab
+or يمخُض	yimḵuḍ
+or ييجي	yīji
+or يَقرا	yaqra
+or يُخزُر	yuḵzur
+or يُعْقد	yuʕqud
+or يُنْقُل	yunqul
+or يِحرق	yiḥraq
+or يِرجع	yirjaʕ
+or يِرْقُد	yirqad
+or يِشرُب	yišrub
+or يِغلي	yiḡli
+or يِهدر	yihdar
 اتجبر	ettajbar
 اتسنى	tsanna
 اتفاقية	tifāqiyya
@@ -118,7 +151,6 @@ form من	man
 باش	baš
 باش	bāš
 باع	bāʕ
-باع	bāʿ
 باعت	bāʕet
 باعوا	bāʕu
 بال	bāl
@@ -2263,7 +2295,6 @@ form من	man
 خبر	ḵabar
 خبر	ḵbar
 خبز	ḵbaz
-خبز	ḵobz
 خبز	ḵubz
 خبزات	ḵubzāt
 خبزة	ḵubza
@@ -2834,6 +2865,7 @@ form من	man
 رزوزي	rzūzi
 رزوزيات	rzūziyyāt
 رزوزية	rzūziyya
+رسالة	rsāla
 رسوم	rusūm
 رعاية	riʕāya
 رعد	raʕd
@@ -5369,7 +5401,6 @@ form من	man
 قرد	qard
 قرر	qarrar
 قرش	qarš
-قرص	gərṣ
 قرص	qraṣ
 قرطاس	qarṭās
 قرطاس	qurṭās
@@ -5807,6 +5838,7 @@ form من	man
 كل شي	kull ši
 كل مكان	kull mkān
 كل مكان	kulla mkān
+كل موضع	a
 كلاب	klāb
 كلاوا	klāw
 كلاوي	klāwi
@@ -6615,7 +6647,6 @@ form من	man
 مناشر	mnāšar
 منام	mnām
 منامات	mnāmāt
-مناين	mnāyen
 مناين	mnāyin
 منجل	manjal
 منخار	manḵār
@@ -6726,6 +6757,7 @@ form من	man
 ميزان	mīzān
 ميزان الحرارة	mīzān el-ḥarāra
 ميزان الما	mīzān el-mā
+ميساج	misāj
 ميساج	mīsāž
 ميكا	mīka
 ميكات	mīkāt
@@ -7206,6 +7238,7 @@ form من	man
 نعمّروا	nʕammru
 نعناع	naʕnāʕ
 نعناع	naʿnāʿ
+نعناعي	naʕnāʕi
 نعنّق	nʕannaq
 نعنّقوا	nʕannqu
 نعوم	nʕūm
@@ -7801,7 +7834,6 @@ form من	man
 يتصيّد	yitṣiyyad
 يتصيّدوا	yitṣayydu
 يتصيّدوا	yitṣiyydu
-يتصَيّد	yitṣayyad
 يتصِيّد	yitṣiyyad
 يتفاداوا	yitfādāw
 يتفادى	yitfāda
@@ -7818,7 +7850,6 @@ form من	man
 يتفوّهوا	yitfawwhu
 يتقل	ytaqqal
 يتقَن	yitqan
-يتقُن	yitqun
 يتقّل	ytaqqal
 يتقّلوا	ytaqqlu
 يتلاح	yitlāḥ
@@ -7849,7 +7880,6 @@ form من	man
 يتيمة	ytīma
 يتيّق	ytayyaq
 يتيّقوا	ytayyqu
-يتَيّق	ytayyaq
 يتِيّق	ytiyyaq
 يجاوب	yjāwab
 يجاوبوا	yjāwbu
@@ -7919,7 +7949,6 @@ form من	man
 يحمّم	yḥammam
 يحمّموا	yḥammemu
 يحنجر	yḥanjar
-يحَج	yḥajj
 يحُج	yḥujj
 يخاف	yḵāf
 يخافوا	yḵāfu
@@ -8001,7 +8030,6 @@ form من	man
 يرد	yradd
 يرد	yrudd
 يردخ	yirdaḵ
-يردَم	yirdam
 يردُم	yirdum
 يردّ	yradd
 يردّ	yrudd
@@ -8021,11 +8049,9 @@ form من	man
 يروّنوا	yrawwnu
 يريح	yriyyaḥ
 يريحوا	yriyyḥu
-يرَد	yradd
 يرُد	yrudd
 يزرب	yzarrab
 يزرَب	yizrab
-يزرُب	yizrub
 يزرّب	yzarrab
 يزرّبوا	yzarrbu
 يزغرت	yzaḡrat
@@ -8072,7 +8098,6 @@ form من	man
 يسري	yisri
 يسعى	yisʕa
 يسعَل	yisʕal
-يسعُل	yisʕul
 يسقصي	ysaqṣi
 يسقصيوا	ysaqṣīw
 يسقط	yisqaṭ
@@ -8082,7 +8107,6 @@ form من	man
 يسقّموا	ysaqqmu
 يسكت	yiskut
 يسكت	ysakkat
-يسكت	yuskut
 يسكّت	ysakkat
 يسكّتوا	ysakktu
 يسمان	yismān
@@ -8106,11 +8130,9 @@ form من	man
 يسوّلوا	ysawwlu
 يسيل	ysīl
 يسيلوا	ysīlu
-يسَب	ysabb
 يسُب	ysubb
 يشاور	yšāwar
 يشاوروا	yšāwru
-يشخَر	yišḵar
 يشخُر	yišḵur
 يشد	yšadd
 يشد	yšudd
@@ -8133,7 +8155,6 @@ form من	man
 يشعل	yišʕal
 يشفر	yišfar
 يشفر	yišfur
-يشفَر	yišfar
 يشفُر	yišfur
 يشكم	yšakkam
 يشكّم	yšakkam
@@ -8148,7 +8169,6 @@ form من	man
 يشيروا	yšiyyru
 يشيّر	yšayyar
 يشيّروا	yšayyru
-يشَدّ	yšadd
 يشُدّ	yšudd
 يصب	yṣubb
 يصبّ	yṣubb
@@ -8177,7 +8197,6 @@ form من	man
 يصيدوا	yṣiyydu
 يصيّد	yṣayyad
 يصيّدوا	yṣayydu
-يصَيّد	yṣayyad
 يصِيّد	yṣiyyad
 يضحك	yḍaḥḥak
 يضحك	yiḍḥak
@@ -8197,11 +8216,9 @@ form من	man
 يضيّف	yḍayyaf
 يضيّفوا	yḍayyfu
 يضَر	yḍarr
-يضُر	yḍurr
 يطبع	yiṭbaʕ
 يطرطق	yṭarṭaq
 يطرَش	yiṭraš
-يطرُش	yiṭruš
 يطفي	yiṭfi
 يطيب	yṭiyyab
 يطيب	yṭīb
@@ -8215,7 +8232,6 @@ form من	man
 يطيشوا	yṭīšu
 يطيّب	yṭayyab
 يطيّبوا	yṭayybu
-يطَيب	yṭayyab
 يطِيب	yṭiyyab
 يعاون	yʕāwan
 يعاونوا	yʕāwnu
@@ -8258,7 +8274,6 @@ form من	man
 يعيّط	yʕayyaṭ
 يعيّطوا	yʕayyṭu
 يعَيط	yʕayyaṭ
-يعِيط	yʕiyyaṭ
 يغر	yḡurr
 يغرق	yḡarraq
 يغرق	yiḡraq
@@ -8291,7 +8306,6 @@ form من	man
 يفتّش	yfattaš
 يفتّشوا	yfattšu
 يفرش	yfarraš
-يفرقع	yfargaʕ
 يفرقع	yfarqaʕ
 يفرّش	yfarraš
 يفرّشوا	yfarršu
@@ -8375,7 +8389,6 @@ form من	man
 يكب	ykubb
 يكبّ	ykubb
 يكبّوا	ykubbu
-يكتَب	yiktab
 يكتُب	yiktub
 يكح	ykuḥḥ
 يكحب	yikḥub
@@ -8413,7 +8426,6 @@ form من	man
 يمخض	yimḵaḍ
 يمخض	yimḵuḍ
 يمخَض	yimḵaḍ
-يمخُض	yimḵuḍ
 يمد	ymudd
 يمدّ	ymudd
 يمدّوا	ymuddu
@@ -8507,7 +8519,6 @@ form من	man
 يوميا	yawmiyyan
 يومين	yūmayn
 يونيو	yūnyu
-ييجي	yīji
 يَحرق	yaḥraq
 يَد	yadd
 يَد	yidd
@@ -8515,31 +8526,21 @@ form من	man
 يَدين	yaddīn
 يَرجع	yarjaʕ
 يَغلي	yaḡli
-يَقرا	yaqra
 يَهدر	yahdar
 يُتقُن	yutqun
-يُخزُر	yuḵzur
 يُرْقَد	yurqud
 يُشرُب	yušrub
-يُعْقد	yuʕqud
-يُنْقُل	yunqul
-يِحرق	yiḥraq
 يِخزُر	yiḵzur
 يِد	yadd
 يِد	yidd
 يِدين	yiddayn
 يِدين	yiddīn
-يِرجع	yirjaʕ
 يِرْقَد	yirqud
-يِرْقُد	yirqad
 يِشرَب	yišrab
 يِشرَب	yšarrab
-يِشرُب	yišrub
 يِعْقد	yiʕqud
-يِغلي	yiḡli
 يِقرا	yiqra
 يِنْقُل	yinqul
-يِهدر	yihdar
 پلاستيك	plāstīk
 پنوات	pnuwwāt
 پنوة	pnuwwa

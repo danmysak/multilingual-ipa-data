@@ -50,6 +50,7 @@
 -imid	[əmʲɪdʲ]
 -í	/iː/
 -íonn	/iːən̪ˠ/
+-mhar	/uɾˠ/
 -mid	/mʲədʲ/
 -na	/nˠə/
 -ne	/nʲə/
@@ -59,6 +60,8 @@
 -san	/sˠənˠ/
 -se	[ʃə]
 -sean	/ʃənˠ/
+-úint	/un̠ʲtʲ/
+-úint	/uːn̠ʲtʲ/
 Abcáisis	/abˠˈkaːʃɪʃ/
 Abcáisis	/ˈabˠkaːʃɪʃ/
 Abrán	/ɑbˠəˈɾˠɑːn̪ˠ/
@@ -199,7 +202,9 @@ Dé Domhnaigh	[dʲeː ˈd̪ˠaun̪ˠɪɟ]
 Dé Domhnaigh	[dʲeː ˈd̪ˠoːn̪ˠiː]
 Dé Domhnaigh	[dʲeː ˈd̪ˠuːn̪ˠə]
 Dé Domhnaigh	[dʲeː ˈd̪ˠɔːn̪ˠi]
+Dé Luain	/dʲa ˈl̪ˠuːnʲ/
 Dé Luain	/dʲeːˈl̪ˠuənʲ/
+Dé Luain	/dʲeːˈl̪ˠuːnʲ/
 Dé Máirt	[dʲeː mˠaːɾˠtʲ]
 Dé Sathairn	/dʲeː ˈsˠahəɾˠnʲ/
 Dé hAoine	/dʲaˈhiːnʲə/
@@ -641,6 +646,10 @@ acht	/ax/
 acht	/axt̪ˠ/
 acht	/ɑx/
 acht	/ɑxt̪ˠ/
+acmhainn	/ˈakun̠ʲ/
+acmhainn	/ˈakuːn̠ʲ/
+acmhainn	/ˈaxvˠən̠ʲ/
+acmhainn	/ˈaxwən̠ʲ/
 acra	/ˈakɾˠə/
 acra	/ˈɑkɾˠə/
 acsón	/akˈsˠoːn̪ˠ/
@@ -1053,9 +1062,13 @@ anamnacha	/ˈɑnəmˠnɑxə/
 anart	/ˈɑnəɾˠt̪ˠ/
 anas	/ˈanˠəsˠ/
 anáil	/əˈnɑːl/
+anbhann	/ˈanˠun̪ˠ/
 ancaire	/ˈaŋkəɾʲə/
 ancaire	/ˈɑŋkəɾʲə/
 anchroí	/ˈɑnxɾˠə/
+anchúinse	/an̪ˠəˈxuːn̠ʲʃə/
+anchúinse	/ˈanˠxun̠ʲʃə/
+anchúinse	/ˈanˠxuːn̠ʲʃə/
 anduine	/ˈɑn̪ˠɪnə/
 aneas	/əˈn̠ʲasˠ/
 aneas	/əˈn̠ʲæsˠ/
@@ -1346,6 +1359,9 @@ áinsíoch	/aːnʲˈʃiəx/
 áinsíoch	/ˈaːn̠ʲʃiəx/
 áinsíoch	/ˈæːn̠ʲʃia(x)/
 áintín	[ɑːnʲˈtʲiːnʲ]
+áireamh	/ˈɑːɾʲu/
+áireamh	/ˈɑːɾʲuː/
+áireamh	/ˈɑːɾʲəvˠ/
 áirid	/ɡəˈhɑːɾʲədʲ/
 áirid	/ˈɑːɾʲədʲ/
 áirithe	/ˈæːɾʲəhə/
@@ -1954,6 +1970,9 @@ bith	/bʲɪ/
 bith	/bʲɪh/
 bitheach	/ˈbʲi(h)əx/
 bitheach	/ˈbʲiha(x)/
+bithiúnta	/bʲɪˈhuːn̪ˠt̪ˠə/
+bithiúnta	/ˈbʲɪhun̪ˠt̪ˠə/
+bithiúnta	/ˈbʲɪhuːn̪ˠt̪ˠə/
 bí	/bʲiː/
 bíchearb	/ˈbʲiːçəɾˠəbˠ/
 bíd	[bʲiːdʲ]
@@ -2166,6 +2185,8 @@ breá	/bʲɾʲɑː/
 breácha	/ˈbʲɾʲɑːxə/
 breis	/bʲɾʲɛʃ/
 breith	/bʲɾʲɛ/
+breitheamh	/ˈbʲɾʲɛhu/
+breitheamh	/ˈbʲɾʲɛhəvˠ/
 breithiúnais	/bʲɾʲəˈhuːn̪ˠəʃ/
 breithiúnais	/ˈbʲɾʲɛhunˠəʃ/
 breithiúnais	/ˈbʲɾʲɛhuːnˠəʃ/
@@ -2268,6 +2289,12 @@ brúfaidh	/bˠɾˠuːhiː/
 brúfaidh	/bˠɾˠuːhə/
 brúfaidh	/bˠɾˠuːhɪɟ/
 brúigh	/bˠɾˠuː/
+brúigh	/bˠɾˠuːj/
+brúigh	/bˠɾˠuːɟ/
+brúite	/ˈbˠɾˠuːtʲə/
+brúitín	/bˠɾˠuːˈtʲiːnʲ/
+brúitín	/ˈbˠɾˠuːtʲinʲ/
+brúitín	/ˈbˠɾˠuːtʲiːnʲ/
 brúnn	/bˠɾˠuːn̪ˠ/
 bua	/bˠuə/
 buabhall	[ˈbˠuəvˠəl̪ˠ]
@@ -2487,6 +2514,9 @@ cantalach	[ˈkan̪ˠt̪ˠəlˠa(h)]
 cantalach	[ˈkan̪ˠt̪ˠəlˠəx]
 cantalach	[ˈkaun̪ˠt̪ˠəlˠəx]
 cantar	/ˈkan̪ˠt̪ˠəɾˠ/
+canúint	/kəˈn̪ˠuːn̠ʲtʲ/
+canúint	/ˈkanˠuːn̠ʲtʲ/
+canúint	/ˈkanˠũn̠ʲtʲ/
 canúnach	/kaˈn̪ˠuːn̪ˠəx/
 canúnach	/ˈkanˠunˠa(h)/
 canúnach	/ˈkanˠuːnˠəx/
@@ -2718,6 +2748,8 @@ ceanna	/ˈcan̪ˠə/
 ceanna	/ˈcæn̪ˠə/
 ceannach	/ˈcan̪ˠa(h)/
 ceannach	/ˈcan̪ˠəx/
+ceannachán	/canəhan/
+ceannachán	/canəxaːn/
 ceannacht	/ˈcan̪ˠaxt̪ˠ/
 ceannacht	/ˈcan̪ˠəxt̪ˠ/
 ceannacht	/ˈcæːn̪ˠəxt̪ˠ/
@@ -3114,6 +3146,8 @@ chuaigh	/fˠuəj/
 chuaigh	/xuə/
 chuaigh	/xuəj/
 chuaigh	/xuəɟ/
+chuain	/xuənʲ/
+chuain	/xuːnʲ/
 chuairt	/xuəɾˠtʲ/
 chuala	/ˈxuəlˠə/
 chualabhair	[ˈxuəlˠəwəɾʲ]
@@ -3436,6 +3470,9 @@ clós	[kl̪ˠoːsˠ]
 clós	[kl̪ˠɔːsˠ]
 clóscríobhaithe	/ˈklˠoːʃcɾʲiːwiː/
 clóscríobhaí	/ˈklˠoːʃcɾʲiːwiː/
+cluain	/kluənʲ/
+cluain	/kluːnʲ/
+cluain	/klũːnʲ/
 cluas	/kluəsˠ/
 cluas	/kluəʃ/
 cluas	/klˠuəsˠ/
@@ -3447,10 +3484,15 @@ cluife	/ˈklˠɪfʲə/
 cluifí	/ˈkl̪ˠɪfʲiː/
 cluin	/klɨn/
 cluin	/kl̪ˠɪnʲ/
+clú	/clʲuː/
 clú	/klˠuː/
 clúdach	/ˈklˠuːd̪ˠa(x)/
 clúdach	/ˈklˠuːd̪ˠəx/
 clúdach	/ˈkl̪ˠuːd̪ˠəx/
+clúmh	/klˠuː/
+clúmh	/klˠuːv/
+clúmh	/klˠũː/
+clúmh	/kl̪ˠuːv/
 cnagaire	/ˈknˠaɡəɾʲə/
 cnagaire	/ˈkɾˠaɡəɾʲə/
 cnaipe	/ˈknˠapʲə/
@@ -3516,6 +3558,12 @@ cogarnaíl	/ˈkɔɡəɾˠn̪ˠiːlʲ/
 cognadh	/ˈkaɡnu/
 cognadh	/ˈkɔɡnuː/
 cognadh	/ˈkɔɡnˠə/
+coguas	/kəˈɡuəsˠ/
+coguas	/ˈkɔɡuəsˠ/
+coguas	/ˈkɤɡusˠ/
+cogús	/kəˈɡuːsˠ/
+cogús	/ˈkɔɡuːsˠ/
+cogús	/ˈkɤɡusˠ/
 coicís	/kəiˈciːsˠ/
 coicís	/kəiˈkiːsˠ/
 coicís	/ˈkəiciːʃ/
@@ -3902,9 +3950,12 @@ crúigh	/kɾˠuː/
 crúigh	/kɾˠuːj/
 crúigh	/kɾˠuːɟ/
 cuach	/kuəx/
+cuain	/kuənʲ/
+cuain	/kuːnʲ/
 cuaird	/kuəɾˠdʲ/
 cuairt	/kuəɾˠtʲ/
 cuan	/kuənˠ/
+cuan	/kuːnˠ/
 cuarach	/ˈkuəɾˠa(x)/
 cuarach	/ˈkuəɾˠəx/
 cuarc	/kuəɾˠk/
@@ -4044,6 +4095,8 @@ cúil	[kuːlʲ]
 cúinge	/ˈkuːɲɪ/
 cúinne	/ˈkuːn̠ʲə/
 cúinne	/ˈkuːɲɪ/
+cúirialta	/kuːˈɾʲiəl̪ˠt̪ˠə/
+cúirialta	/ˈkuːɾʲiəl̪ˠt̪ˠə/
 cúirt	/kuːɾˠtʲ/
 cúis	/kuːʃ/
 cúl	/kuːlˠ/
@@ -4061,6 +4114,7 @@ cúnamh	/ˈkuːnˠu/
 cúnamh	/ˈkuːnˠuː/
 cúnamh	/ˈkuːnˠə/
 cúnamh	/ˈkuːn̪ˠəvˠ/
+cúnamh	/ˈkũːnuw/
 cúng	/kuːŋ/
 cúntach	[ˈkuːn̪ˠt̪ˠah]
 cúntach	[ˈkuːn̪ˠt̪ˠax]
@@ -4330,6 +4384,7 @@ deice	/ˈdʲɛcɪ/
 deich	/dʲɛ/
 deich	/dʲɛç/
 deich	/dʲɛh/
+deichniúr	/ˈdʲɪhnʲuɾˠ/
 deichniúr	/ˈdʲɪn̠ʲuːɾˠ/
 deifir	/ˈdʲɛfʲəɾʲ/
 deighilt	/dʲəilʲtʲ/
@@ -4640,6 +4695,7 @@ díon as	/ˈdʲiːnˠ æsˠ/
 díonach	/ˈdʲiːnˠa(x)/
 díonach	/ˈdʲiːnˠəx/
 díonach	/ˈdʲiːn̪ˠəx/
+díonmhar	/ˈdʲiənˠuɾˠ/
 díosal	/ˈdʲiːsˠəlˠ/
 díot	/dʲiːt̪ˠ/
 díot	/d̪ˠiːt̪ˠ/
@@ -4659,6 +4715,9 @@ dlaoi	/d̪ˠlˠiː/
 dligh	/dʲlʲiː/
 dligh	/dʲlʲɪɟ/
 dlí	/dʲlʲiː/
+dlíthiúil	/dʲlʲiːˈhuːlʲ/
+dlíthiúil	/ˈdʲlʲiːhulʲ/
+dlíthiúil	/ˈdʲlʲiːhuːlʲ/
 dlúth	/d̪ˠlˠuː/
 dlúthaigh	/ˈd̪ˠluhi/
 dlúthaigh	/ˈd̪ˠluːhiː/
@@ -4829,6 +4888,8 @@ dronuilleog	/ˌd̪ˠɾɔn̪ˠəˈlʲoːɡ/
 druid	/d̪ˠɾˠɪdʲ/
 druide	[ˈd̪ˠɾˠɪdʲə]
 druncaera	/ˈd̪ˠɾˠʊŋkeːɾˠə/
+drúcht	/d̪ˠɾuːxt̪ˠ/
+drúcht	/ˈdʲɾʲuːxt̪ˠə/
 dtae	[d̪ˠeː]
 dtaenna	[ˈd̪ˠeːn̪ˠə]
 dtaga	[ˈd̪ˠaɡə]
@@ -4902,6 +4963,9 @@ duille	/d̪ˠɪlʲə/
 duilleach	/ˈd̪ˠɪl̠ʲa(x)/
 duilleach	/ˈd̪ˠɪl̠ʲəx/
 duilleog	/ˈdʲɪloːɡ/
+duilliúr	/d̪ˠɪˈlʲuːɾˠ/
+duilliúr	/ˈd̪ˠɪl̠ʲuɾˠ/
+duilliúr	/ˈd̪ˠɪl̠ʲuːɾˠ/
 duine	/ˈd̪ˠɪnʲə/
 duine fásta	/ˈd̪ˠɪnʲə ˈfˠɑːsˠt̪ˠə/
 duit	/d̪ˠɪtʲ/
@@ -5083,6 +5147,7 @@ éadan	/ˈeːd̪ˠənˠ/
 éadálach	/ia̯ˈd̪ˠɑːl̪ˠəx/
 éadálach	/ˈeːd̪ˠaːlˠa(x)/
 éadálach	/ˈeːd̪ˠɑːlˠəx/
+éadmhar	/ˈɛəd̪ˠuɾˠ/
 éadóchas	/iəˈd̪ˠoːxəs/
 éadóchas	/ˈeːd̪ˠoːhəs/
 éadóchas	/ˈeːd̪ˠoːxːəs/
@@ -5205,6 +5270,9 @@ faoinar	/ˈfˠiːnˠəɾˠ/
 faoinarb	/ˈfˠiːnˠəɾˠbˠ/
 faoinarbh	/ˈfˠiːnˠəɾˠvˠ/
 faoinár	/ˈfˠiːnˠɑːɾˠ/
+faoiseamh	/ˈfˠiːʃu/
+faoiseamh	/ˈfˠiːʃuː/
+faoiseamh	/ˈfˠiːʃəvˠ/
 faoisean	/ˈfˠiːʃənˠ/
 faoisean	/ˈfˠɯːsˠən/
 faoistin	/ˈfˠiːsʲtʲinʲ/
@@ -5310,6 +5378,7 @@ fear	/fʲaɾˠ/
 fear	/fʲæɾˠ/
 fear céile	/fʲaɾˠ ˈceːlʲə/
 fear mire	/fʲaɾˠ ˈmʲiɾʲə/
+fear sneachta	/fʲaɾˠ ˈʃn̠ʲaxt̪ˠə/
 fearg	/ˈfʲaɾˠəɡ/
 fearg	/ˈfʲæːɾˠəɡ/
 fearr	/fʲaːɾˠ/
@@ -5939,6 +6008,7 @@ gan mhoill	/ɡɑn̪ˠˈvˠiːlʲ/
 gandal	[ˈɡaun̪ˠd̪ˠəl̪ˠ]
 gaol	/ɡeːl̪ˠ/
 gaol	/ɡiːlˠ/
+gaolmhar	/ˈɡɯːlˠuɾˠ/
 gaoth	/ɡeːh/
 gaoth	/ɡiːh/
 gaothrán	/ɡiːɾ̥ˠɑːn̪ˠ/
@@ -6129,6 +6199,7 @@ geall	/ɟal̪ˠ/
 geall	/ɟaul̪ˠ/
 geall	/ɟaːl̪ˠ/
 geall	/ɟɑːl̪ˠ/
+geallúint	/ˈɟal̪ˠun̠ʲtʲ/
 gealt	/ɟal̪ˠt̪ˠ/
 gealtacht	[ˈɟal̪ˠt̪ˠaxt̪ˠ]
 gealtacht	[ˈɟal̪ˠt̪ˠəxt̪ˠ]
@@ -6396,6 +6467,7 @@ gnéas	[ɟɾʲeːsˠ]
 gníomh	/ɟnʲiːəvˠ/
 gníomh	/ɟɾʲiːəvˠ/
 gníomh	/ɟɾʲiːəw/
+gníomh	/ɟɾʲĩu/
 gníomhaí	[ˈɡnʲiːwiː]
 gníomhaíocht	/ɡn̪ˠiːˈvˠiəxt̪ˠ/
 gníomhaíocht	/ˈɡɾˠiːwia(h)t̪ˠ/
@@ -6451,6 +6523,7 @@ goile	/ˈɡɛlʲə/
 goileann	/ˈɡɛlʲən̪ˠ/
 goilim	/ˈɡɛlʲəmʲ/
 goilí	[ˈɡɛlʲiː]
+goilliúint	/ˈɡɪl̠ʲuːn̠ʲtʲ/
 goilliúnach	/ɡɔˈlʲuːnˠəx/
 goilliúnach	/ˈɡɔl̠ʲuːnˠəx/
 goilliúnach	/ˈɡɪl̠ʲunˠa(h)/
@@ -6471,6 +6544,9 @@ gortaigh	/ˈɡɔɾˠt̪ˠə/
 gortú	/ɡəɾˠˈt̪ˠuː/
 gortú	/ˈɡɔɾˠt̪ˠu/
 gortú	/ˈɡɔɾˠt̪ˠuː/
+gorún	/ɡəˈɾˠuːn̪ˠ/
+gorún	/ˈɡəɾˠuːnˠ/
+gorún	/ˈɡɤɾˠuːnˠ/
 gos	/ɡɔsˠ/
 gos	/ɡəsˠ/
 gradam	/ˈɡɾˠad̪ˠəmˠ/
@@ -6487,6 +6563,9 @@ gráigh	[ɡɾˠɑːj]
 gráigh	[ɡɾˠɑːɟ]
 gráin	/ɡɾˠaːnʲ/
 gráin	/ɡɾˠɑːnʲ/
+gráiniúil	/ɡɾˠɑːˈnʲuːlʲ/
+gráiniúil	/ˈɡɾˠɑːnʲuːlʲ/
+gráiniúil	/ˈɡɾˠɑːnʲũlʲ/
 gráinne	/ˈɡɾˠaːn̠ʲə/
 gráinne	/ˈɡɾˠɑːn̠ʲə/
 grámhar	/ˈɡɾˠæːwəɾˠ/
@@ -6714,11 +6793,15 @@ i láthair	/əˈl̪ˠɑːhəɾʲ/
 i láthair	/əˈl̪ˠɑːɾʲ/
 i mbliana	/ə ˈmʲlʲiənˠə/
 i mbliana	/ɪ ˈmʲlʲiənˠə/
+i ndiaidh	/əˈnʲiəɟ/
+i ndiaidh	/əˈn̠ʲeːj/
+i ndiaidh	/əˈn̠ʲiə/
 iad	/iəd̪ˠ/
 iadsan	/ˈiəd̪ˠsˠənˠ/
 iaguair	/ˈiəɡuəɾʲ/
 iaguar	/ˈiəɡuəɾˠ/
 iarann	/ˈiəɾˠən̪ˠ/
+iarghnó	/ˈjiəɾˠəɡnˠu/
 iarla	/ˈiəɾˠl̪ˠə/
 iarnbhreac	/ˈiəɾˠn̪ˠˌvʲɾʲak/
 iarr	/iəɾˠ/
@@ -7013,6 +7096,9 @@ lán	/l̪ˠaːnˠ/
 lán	/l̪ˠɑːnˠ/
 lána	/ˈl̪ˠæːnˠə/
 lána	/ˈl̪ˠɑːnˠə/
+lánúin	/l̪ˠɑːˈn̪ˠuːnʲ/
+lánúin	/ˈl̪ˠaːnˠũnʲ/
+lánúin	/ˈl̪ˠɑːnˠuːnʲ/
 lár	/l̪ˠæːɾˠ/
 lár	/l̪ˠɑːɾˠ/
 láth	/l̪ˠɑː/
@@ -7074,6 +7160,7 @@ leanbh	/ˈl̠ʲanˠu/
 leanbh	/ˈl̠ʲanˠəwˠ/
 leanbhín	/lʲanəˈvʲiːnʲ/
 leannán	[ˈlʲan̪ˠaːn̪ˠ]
+leanúint	/ˈl̠ʲanˠun̠ʲtʲ/
 leapa	/ˈlʲapˠə/
 leapacha	/ˈl̠ʲapˠəxə/
 leapacha	/ˈl̠ʲæpˠəxiː/
@@ -7415,6 +7502,9 @@ maitheamh	/ˈmˠahuː/
 maitheamh	/ˈmˠahəvˠ/
 maitheas	/mˠahəsˠ/
 maitheas	/mˠaːsˠ/
+maithiúnas	/mˠaˈhuːn̪ˠəsˠ/
+maithiúnas	/ˈmˠahunˠəsˠ/
+maithiúnas	/ˈmˠahuːn̪ˠəsˠ/
 maíomh	/mˠiːvˠ/
 maíomh	/mˠiːw/
 mala	[ˈmˠal̪ˠə]
@@ -7483,6 +7573,9 @@ marbh	/ˈmˠarˠuː/
 marbh	/ˈmˠɑɾˠəvˠ/
 marc	/mˠaɾˠk/
 marcach	/ˈmˠaɾˠkəx/
+marcáil	/mˠɑɾˠˈkɑːlʲ/
+marcáil	/ˈmˠaɾˠkalʲ/
+marcáil	/ˈmˠaɾˠkɑːlʲ/
 marcra	/ˈmˠɑɾˠkɾˠə/
 marfach	/ˈmˠaɾˠəfˠa(x)/
 marfach	/ˈmˠaɾˠəfˠəx/
@@ -7826,6 +7919,9 @@ míoltóg	/ˈmʲiːl̪ˠt̪ˠoːɡ/
 míoltóg	/ˈmʲiːl̪ˠt̪ˠɔɡ/
 míonna	[ˈmʲiːn̪ˠiː]
 míonna	[ˈmʲiːn̪ˠə]
+míorúilteach	/mʲiːˈɾˠuːl̪ˠt̪ˠəx/
+míorúilteach	/ˈmʲiːɾˠuːl̪ˠt̪ˠəx/
+míorúilteach	/ˈmʲɪɾˠul̠ʲtʲa(x)/
 míos	/mʲiːsˠ/
 míosa	/ˈmʲiːsˠə/
 mír	/mʲiːɾʲ/
@@ -7833,6 +7929,7 @@ míre	/ˈmʲiːɾʲə/
 míreanna	/ˈmʲiːɾʲən̪ˠə/
 mís	/mʲiːʃ/
 míshásta	/ˈmʲiːhɑːsˠt̪ˠə/
+místiúrtha	/ˈmʲiːʃtʲuɾˠhə/
 mnaoi	/mˠnˠiː/
 mnaoi	/mˠɾˠiː/
 mná	/mˠnˠɑː/
@@ -7895,6 +7992,7 @@ morgadh	/ˈmˠɔɾˠəɡətʲ/
 morgadh	/ˈmˠɔɾˠəɡəvˠ/
 morgadh	/ˈmˠɔɾˠəɡəx/
 morgadh	/ˈmˠɔɾˠəɡəɡ/
+mosar	/ˈmɔsˠəɾˠ/
 mothaigh	/mˠuː/
 mothaigh	/ˈmˠaihi/
 mothaigh	/ˈmˠohi/
@@ -8183,6 +8281,9 @@ neodar	/ˈn̠ʲoːd̪ˠəɾˠ/
 neosad	/ˈnʲoːsˠəd̪ˠ/
 neosainn	/ˈnʲoːsˠənʲ/
 néal	/n̠ʲeːlˠ/
+néalach	/ˈn̠ʲeːlˠa(x)/
+néalach	/ˈn̠ʲeːlˠəx/
+néalach	/ˈn̠ʲia̯l̪ˠəx/
 néaltach	/ˈnʲia̯l̪ˠt̪ˠəx/
 néaltach	/ˈn̠ʲeːl̪ˠt̪ˠəx/
 néaltach	/ˈn̠ʲɛəl̪ˠt̪ˠa(x)/
@@ -8310,8 +8411,6 @@ nótaire	/ˈn̪ˠɔːtəɾʲə/
 nua	/n̪ˠoː/
 nua	/n̪ˠuə/
 nua	/n̪ˠuː/
-nua	/urˠ/
-nua	/uːrˠ/
 nuacht	/nˠuˑəxt̪ˠ/
 nuachtán	/nˠuˑəxt̪ˠaːnˠ/
 nuair	/n̪ˠuəɾʲ/
@@ -8407,6 +8506,8 @@ oilim	/ˈɛlʲəmʲ/
 oilim	/ˈɛlʲəmˠ/
 oilim	/ˈɪlʲəmʲ/
 oilim	/ˈɪlʲəmˠ/
+oiliúin	/ˈɛlʲunʲ/
+oiliúint	/ˈɛlʲunʲ/
 oiltear	/ˈɛlʲtʲəɾˠ/
 oiltear	/ˈɪlʲtʲəɾˠ/
 oird	/əuɾˠdʲ/
@@ -8593,7 +8694,9 @@ paráiste	/ˈpˠʊɾˠɑːʃtʲə/
 paráistí	/pˠəˈɾˠɑːʃtʲiː/
 paráistí	/ˈpˠɾˠɑːʃtʲiː/
 paráistí	/ˈpˠʊɾˠɑːʃtʲiː/
+pardún	/pˠɑːɾˠˈd̪ˠuːn̪ˠ/
 pardún	/ˈpˠaːɾˠd̪ˠunˠ/
+pardún	/ˈpˠɑːɾˠd̪ˠuːnˠ/
 parthas	/ˈpˠaːrhus/
 pasam	/ˈpˠasˠəmˠ/
 pasfhocal	/ˈpˠasˠˌɔkəlˠ/
@@ -8792,6 +8895,7 @@ piocadh	/ˈpʲʊkətʲ/
 piocadh	/ˈpʲʊkəvˠ/
 piocadh	/ˈpʲʊkəx/
 piocadh	/ˈpʲʊkəɡ/
+pionós	/ˈpʲɪnus/
 piont	/ˈpʲuːn̪ˠt̪ˠ/
 pionta	/ˈpʲɪn̪ˠt̪ˠə/
 pis	/pʲɪʃ/
@@ -8846,6 +8950,7 @@ plódaithe	/ˈpˠlˠɔːd̪ˠɪhə/
 pluid	/pˠlˠɪdʲ/
 pluma	/ˈpˠlˠʊmˠə/
 plump	/pˠl̪ˠʊmˠpˠ/
+plúch	/pˠlˠuːx/
 plúir	/pˠlˠuːɾʲ/
 plúr	/pˠlˠuːɾˠ/
 plúra'	/ˈpˠlˠuːɾˠə/
@@ -9203,7 +9308,8 @@ rugas	[ˈɾˠʊɡəsˠ]
 ruifíneach	[ɾˠəˈfʲiːnʲəx]
 ruifíneach	[ˈɾˠɪfʲinʲa(h)]
 ruifíneach	[ˈɾˠɪfʲiːnʲəx]
-ruóg	[ˈɾˠuːoːɡ]
+ruóg	/ˈruːɔɡ/
+ruóg	/ˈɾˠuːoːɡ/
 rúbal	/ˈɾˠuːbˠəlˠ/
 rúibín	/ɾˠuːˈbʲiːnʲ/
 rúibín	/ˈɾˠuːbʲinʲ/
@@ -9552,6 +9658,9 @@ seans	/ʃan̪ˠsˠ/
 seanscéal	/ʃan̪ˠˈʃcial̪ˠ/
 seanscéal	/ˈʃanˠʃcelˠ/
 seanscéal	/ˈʃanˠʃceːlˠ/
+searbh	/ˈʃarˠu/
+searbh	/ˈʃarˠuː/
+searbh	/ˈʃaɾˠəvˠ/
 seas	/ʃasˠ/
 seas	/ʃæsˠ/
 seasamh	/ˈʃasˠu/
@@ -9604,6 +9713,8 @@ séabra	/ˈʃeːbˠɾˠə/
 séabraí	/ˈʃeːbˠɾˠiː/
 séan	/ʃeːnˠ/
 séanas	[ˈʃeːn̪ˠəsˠ]
+séasúr	/sˠeːˈsˠuːɾˠ/
+séasúr	/ˈʃeːsˠuɾˠ/
 séasúr	/ˈʃeːsˠuːɾˠ/
 séid	/ʃeːdʲ/
 séide	/ˈʃeːdʲə/
@@ -9650,7 +9761,7 @@ shnáith	/nˠæːiç/
 shnámh	/hn̪ˠæːw/
 shnámh	/hn̪ˠɑːvˠ/
 sholas	/ˈhɔlˠəsˠ/
-sholas	/ˈhʌlˠəsˠ/
+sholas	/ˈhɔl̪ˠəsˠ/
 shuigh	/hiː/
 shuigh	/hɪɟ/
 shuigh	/hʊ/
@@ -9681,7 +9792,8 @@ sinsear	/ˈʃɪn̠ʲsʲəɾˠ/
 sinsir	/ˈʃiːn̠ʲsʲəɾʲ/
 sinsir	/ˈʃɪn̠ʲsʲəɾʲ/
 sioc	/ʃʊk/
-siolla	/ˈʃɪl͈ə/
+siolla	/ˈʃɪl̪ˠu/
+siolla	/ˈʃɪl̪ˠə/
 sionnach	/ʃɪˈn̪ˠɑx/
 sionnach	/ˈʃɪn̪ˠah/
 sionnach	/ˈʃɪn̪ˠax/
@@ -9705,6 +9817,7 @@ siúlóid	/ˈʃuːlˠoːdʲ/
 siúlta	/ˈʃuːl̪ˠt̪ˠə/
 siúr	/ʃuːɾˠ/
 sí	/ʃiː/
+sí	[ɕiː]
 síbín	[ʃiːˈbʲiːnʲ]
 síbín	[ˈʃiːbʲinʲ]
 síbín	[ˈʃiːbʲiːnʲ]
@@ -9826,6 +9939,8 @@ sneachta	[ˈʃnʲãxt̪ˠə]
 sneachta	[ˈʃnʲæːxt̪ˠə]
 snite	[ˈʃn̠ʲɪtʲə]
 sní	[ʃn̠ʲiː]
+snua	/sˠn̪ˠuː/
+snua	/sˠn̪ˠuːə/
 so	/sˠɔ/
 sobal	/ˈsˠɔbˠəlˠ/
 sobal	/ˈsˠʌbˠəlˠ/
@@ -9968,6 +10083,7 @@ sruith	/sˠɾˠʊ(h)/
 sruth	/sˠɾˠʊ(h)/
 sruthán	/sˠɾˠɑːn̪ˠ/
 sruthán	/ˈsˠɾˠʊhanˠ/
+srúill	/sˠɾˠuːl̠ʲ/
 stad	/sˠt̪ˠad̪ˠ/
 stada	/ˈsˠt̪ˠad̪ˠə/
 stada	/ˈsˠt̪ˠɑd̪ˠə/
@@ -10230,6 +10346,7 @@ tarbh	/ˈt̪ˠaɾˠuː/
 tarbh	/ˈt̪ˠɑɾˠəvˠ/
 tarlaigh	/ˈt̪ˠɑːɾˠl̪ˠə/
 tarlú	/ˈt̪ˠɑːɾˠl̪ˠuː/
+tarmachan	/ˈt̪ˠaɾəmˠəxənˠ/
 tarnochta	/ˈt̪ˠaːɾˠn̪ˠaxt̪ˠə/
 tarra	/ˈt̪ˠaɾˠə/
 tarraing	/ˈt̪ˠaɾʲɪɟ/
@@ -10264,6 +10381,9 @@ tádar	[ˈt̪ˠɑːd̪ˠəɾˠ]
 táid	[t̪ˠɑːdʲ]
 táille	/ˈt̪ˠæːl̠ʲə/
 táille	/ˈt̪ˠɑːl̠ʲə/
+táilliúir	/t̪ˠɑːˈl̠ʲuːɾʲ/
+táilliúir	/ˈt̪ˠaːl̠ʲuɾˠ/
+táilliúir	/ˈt̪ˠɑːl̠ʲuːɾʲ/
 táim	[t̪ˠɑːmʲ]
 táimid	[ˈt̪ˠɑːmʲədʲ]
 táin	/t̪ˠæːnʲ/
@@ -10590,6 +10710,7 @@ tonn	/t̪ˠaun̪ˠ/
 tonn	/t̪ˠuːn̪ˠ/
 tonn	/t̪ˠɔn̪ˠ/
 tonn	/t̪ˠʌn̪ˠ/
+tonnús	/ˈt̪ˠɤn̪ˠusˠ/
 tor	[t̪ˠɔɾˠ]
 toradh	/ˈt̪ˠɔɾˠu/
 toradh	/ˈt̪ˠɔɾˠuː/
@@ -10603,6 +10724,7 @@ torc	/t̪ˠɔɾˠk/
 torc	/t̪ˠʌɾˠk/
 torcán	/̪tˠəɾˠˈkɑːn̪ˠ/
 torthaí	/ˈt̪ˠɔɾˠiː/
+tortóg	/ˈtuːrtɔɡ/
 tosach	/t̪ˠəˈsˠɑx/
 tosach	/ˈt̪ˠɔsˠəx/
 tosach	/ˈt̪ˠʌsˠa(h)/
@@ -10859,6 +10981,8 @@ uaim	/wɛmʲ/
 uaimh	/uəvʲ/
 uaimh	/ũi̯/
 uaimse	/ˈwæmʲʃə/
+uain	/uənʲ/
+uain	/uːnʲ/
 uaine	/ˈuənʲə/
 uaine	/ˈwɛnʲə/
 uainín	/uəˈnʲiːnʲ/
@@ -10886,6 +11010,8 @@ ualach	/ˈuəlˠa(x)/
 ualach	/ˈuəlˠəx/
 uamhacha	/ˈũːhaxə/
 uamhacha	/ˈũːkaxə/
+uan	/uənˠ/
+uan	/uːnˠ/
 uasal	[ˈuəsˠəlˠ]
 uasghrádaigh	/uəsˠˈɣɾˠɑːd̪ˠɪɟ/
 uasghrádaigh	/ˈuəsˠɣɾˠæːd̪ˠi/
@@ -10898,6 +11024,7 @@ uathusan	/ˈwoːpsən/
 ubh	/uvˠ/
 ubh	/uː/
 ubh	/ɔvˠ/
+udalán	/ˈuːd̪ˠəlˠanˠ/
 uibhe	/ˈɪvʲə/
 uibheacha	[ˈɪvʲəxiː]
 uibheacha	[ˈɪvʲəxə]
@@ -10950,6 +11077,7 @@ úinéara	/ˈuːnʲeːɾˠə/
 úir	/uːɾʲ/
 úll	/uːl̪ˠ/
 úlla	[ˈuːl̪ˠə]
+únfairt	/ˈuːn̪ˠhəɾˠtʲ/
 únfairt	/ˈʊxəɾˠtʲ/
 úr	/uːɾˠ/
 úrscéal	/ˈuːɾˠˌʃceːlˠ/

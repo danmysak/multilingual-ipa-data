@@ -181,6 +181,7 @@ as হাৰিয়ানা	hariana
 {নোগোটোৱা}ইছা	nugutaisa
 {নোঘোৰঘোৰা}ইছা	nughurghuraisa
 {নোচোবা}ইছা	nusubaisa
+{নোজোঁকা}ইছা	nuzukaisa
 {নোজোঙোৱা}ইছা	nuzunaisa
 {নোপোহৰোৱা}ইছা	nupuhoraisa
 {নোবোলা}ইছা	nubulaisa
@@ -4644,6 +4645,7 @@ as হাৰিয়ানা	hariana
 আমালৈ	amaloi
 আমাৰ	amar
 আমি	ami
+আমি জিকা খেলܿখন।	ami zika khelkhon
 আমুউৱা	amuua
 আমুওৱা	amuua
 আমুওৱা নাই	amuua nai
@@ -6819,55 +6821,7 @@ as হাৰিয়ানা	hariana
 উতনুৱা	utonua
 উতনুৱাই	utonuai
 উতনুৱাক	utonuak
-উতনুৱাকেইজনী	utonuakeizoni
-উতনুৱাকেইজনীক	utonuakeizonik
-উতনুৱাকেইজনীত	utonuakeizonit
-উতনুৱাকেইজনীয়ে	utonuakeizonie
-উতনুৱাকেইজনীলৈ	utonuakeizoniloi
-উতনুৱাকেইজনীলৈকে	utonuakeizoniloike
-উতনুৱাকেইজনীৰ	utonuakeizonir
-উতনুৱাকেইজনীৰে	utonuakeizonire
-উতনুৱাকেইটা	utonuakeita
-উতনুৱাকেইটাই	utonuakeitai
-উতনুৱাকেইটাক	utonuakeizonik
-উতনুৱাকেইটাত	utonuakeitat
-উতনুৱাকেইটালৈ	utonuakeitaloi
-উতনুৱাকেইটালৈকে	utonuakeitaloi
-উতনুৱাকেইটাৰ	utonuakeitar
-উতনুৱাকেইটাৰে	utonuakeitare
-উতনুৱাজনী	utonuazoni
-উতনুৱাজনীক	utonuazonik
-উতনুৱাজনীত	utonuatut
-উতনুৱাজনীয়ে	utonuazonie
-উতনুৱাজনীলৈ	utonuazoniloi
-উতনুৱাজনীলৈকে	utonuazoniloike
-উতনুৱাজনীৰ	utonuazonir
-উতনুৱাজনীৰে	utonuazonire
-উতনুৱাটো	utonuatu
-উতনুৱাটোক	utonuatuk
-উতনুৱাটোত	utonuatut
-উতনুৱাটোলৈ	utonuatuloi
-উতনুৱাটোলৈকে	utonuatuloike
-উতনুৱাটোৰ	utonuatur
-উতনুৱাটোৰে	utonuature
-উতনুৱাটোৱে	utonuatue
 উতনুৱাত	utonuat
-উতনুৱাবিলাক	utonuabilak
-উতনুৱাবিলাকক	utonuabilakok
-উতনুৱাবিলাকত	utonuabilakot
-উতনুৱাবিলাকলৈ	utonuabilakoloi
-উতনুৱাবিলাকলৈকে	utonuabilakoloike
-উতনুৱাবিলাকে	utonuabilake
-উতনুৱাবিলাকেৰে	utonuabilakere
-উতনুৱাবিলাকৰ	utonuabilakor
-উতনুৱাবোৰ	utonuabur
-উতনুৱাবোৰক	utonuaburok
-উতনুৱাবোৰত	utonuaburot
-উতনুৱাবোৰলৈ	utonuaburoloi
-উতনুৱাবোৰলৈকে	utonuaburoloike
-উতনুৱাবোৰে	utonuabure
-উতনুৱাবোৰেৰে	utonuaburere
-উতনুৱাবোৰৰ	utonuaburor
 উতনুৱালৈ	utonualoi
 উতনুৱালৈকে	utonualoike
 উতনুৱাৰ	utonuar
@@ -12342,6 +12296,14 @@ as হাৰিয়ানা	hariana
 কাঁকৈৰে	kakoire
 কাঁক্ৰা	kakra
 কাঁকৰ	kakor
+কাঁকৰা	kakora
+কাঁকৰাই	kakorai
+কাঁকৰাক	kakorak
+কাঁকৰাত	kakorat
+কাঁকৰালৈ	kakoraloi
+কাঁকৰালৈকে	kakoraloike
+কাঁকৰাৰ	kakorar
+কাঁকৰাৰে	kakorare
 কাঁচ	kas
 কাঁচক	kasok
 কাঁচকল	kaskol
@@ -12628,6 +12590,7 @@ as হাৰিয়ানা	hariana
 কাইট্লাক	kaitlak
 কাইট্লি	kaitli
 কাইট্লুঁ	kaitlu
+কাইমা	kaima
 কাইলে	kaile
 কাইলৈ	kailoi
 কাউট্ৰা	kautra
@@ -13434,6 +13397,7 @@ as হাৰিয়ানা	hariana
 কাণসমূহৰ	kanxomuhor
 কাণে	kane
 কাণেৰে	kanere
+কাণ্ডাৰী	kandari
 কাণৰ	kanor
 কাতাৰ	katar
 কাতি	kati
@@ -13997,50 +13961,9 @@ as হাৰিয়ানা	hariana
 কায়ম	kayom
 কায়ম চৰাই	kayom sorai
 কায়মক	kayomok
-কায়মকেইজনী	kayomkeizoni
-কায়মকেইজনীক	kayomkeizonik
-কায়মকেইজনীত	kayomkeizonit
-কায়মকেইজনীয়ে	kayomkeizonie
-কায়মকেইজনীলৈ	kayomkeizoniloi
-কায়মকেইজনীৰ	kayomkeizonir
-কায়মকেইজনীৰে	kayomkeizonire
-কায়মকেইটা	kayomkeita
-কায়মকেইটাই	kayomkeitai
-কায়মকেইটাক	kayomkeizonik
-কায়মকেইটাত	kayomkeitat
-কায়মকেইটালৈ	kayomkeitaloi
-কায়মকেইটাৰ	kayomkeitar
-কায়মকেইটাৰে	kayomkeitare
-কায়মজনী	kayomzoni
-কায়মজনীক	kayomzonik
-কায়মজনীত	kayomzonit
-কায়মজনীয়ে	kayomzonie
-কায়মজনীলৈ	kayomzoniloi
-কায়মজনীৰ	kayomzonir
-কায়মজনীৰে	kayomzonire
-কায়মটো	kayomtu
-কায়মটোক	kayomtuk
-কায়মটোত	kayomtut
-কায়মটোলৈ	kayomtuloi
-কায়মটোৰ	kayomtur
-কায়মটোৰে	kayomture
-কায়মটোৱে	kayomtue
 কায়মত	kayomot
-কায়মবিলাক	kayombilak
-কায়মবিলাকক	kayombilakok
-কায়মবিলাকত	kayombilakot
-কায়মবিলাকলৈ	kayombilakoloi
-কায়মবিলাকে	kayombilake
-কায়মবিলাকেৰে	kayombilakere
-কায়মবিলাকৰ	kayombilakor
-কায়মবোৰ	kayombur
-কায়মবোৰক	kayomburok
-কায়মবোৰত	kayomburot
-কায়মবোৰলৈ	kayomburoloi
-কায়মবোৰে	kayombure
-কায়মবোৰেৰে	kayomburere
-কায়মবোৰৰ	kayomburor
 কায়মলৈ	kayomoloi
+কায়মলৈকে	kayomoloike
 কায়মে	kayome
 কায়মেৰে	kayomere
 কায়মৰ	kayomor
@@ -14221,6 +14144,7 @@ as হাৰিয়ানা	hariana
 কাৰে’	kare
 কাৱয়ে	kaoye
 কাৱয়েৰে	kaoyere
+কাৱাই	kawai
 কাৱাইই	kawaii
 কাৱে’	kawe
 কাৱৈ	kaoi
@@ -14857,6 +14781,15 @@ as হাৰিয়ানা	hariana
 কুঁৱাসমূহৰ	kuaxomuhor
 কুঁৱাৰ	kuar
 কুঁৱাৰে	kuare
+কুঁৱৰী	kuori
+কুঁৱৰী	kuwori
+কুঁৱৰীক	kuorik
+কুঁৱৰীত	kuorit
+কুঁৱৰীয়ে	kuorie
+কুঁৱৰীলৈ	kuoriloi
+কুঁৱৰীলৈকে	kuoriloike
+কুঁৱৰীৰ	kuorir
+কুঁৱৰীৰে	kuorire
 কুংফু	kunphu
 কুকুহা	kukuha
 কুকুহাই	kukuhai
@@ -16384,6 +16317,15 @@ as হাৰিয়ানা	hariana
 কেলৈ	keloi
 কেশাৰ	kexar
 কেহা	keha
+কোঁৱৰ	kuor
+কোঁৱৰ	kur
+কোঁৱৰক	kuorok
+কোঁৱৰত	kuorot
+কোঁৱৰলৈ	kuoroloi
+কোঁৱৰলৈকে	kuoroloike
+কোঁৱৰে	kuore
+কোঁৱৰেৰে	kuorere
+কোঁৱৰৰ	kuoror
 কোংকণী	kunkoni
 কোওৱা	kuua
 কোওৱা নাই	kuua nai
@@ -17109,6 +17051,7 @@ as হাৰিয়ানা	hariana
 কেৰাহীৰে	kerahire
 কেৰিবিয়ান সাগৰ	keribian xagor
 কেৰুলা	kerula
+কেৰুৱালি	keruali
 কেৰেলা	kerela
 কেৰেলুৱা	kerelua
 কেৰেলুৱাই	kereluai
@@ -18006,6 +17949,16 @@ as হাৰিয়ানা	hariana
 খজুৱালে	khozuale
 খজুৱালোঁ	khozualu
 খজুৱাৱ	khozuao
+খটখটি	khotkhoti
+খটখটী	khotkhoti
+খটখটীক	khotkhotik
+খটখটীত	khotkhotit
+খটখটীয়ে	khotkhotie
+খটখটীলৈ	khotkhotiloi
+খটখটীলৈকে	khotkhotiloike
+খটখটীৰ	khotkhotir
+খটখটীৰে	khotkhotire
+খটখৰি	khotkhori
 খটা	khota
 খটা নাই	khota nai
 খটা নাছিলা	khota nasila
@@ -18962,7 +18915,23 @@ as হাৰিয়ানা	hariana
 খুউৱা	khuua
 খুউৱাত	khuat
 খুখোওৱা	khukhuua
+খুচুৰ-মুচুৰ	khusurmusur
 খুচুৰা	khusura
+খুচুৰা কাম	khusura kam
+খুচুৰা কৰ	khusura kor
+খুচুৰা খৰচ	khusura khoros
+খুচুৰা দোকান	khusura dukan
+খুচুৰা দৰ	khusura dor
+খুচুৰা বজাৰ	khusura bozar
+খুচুৰা বেপাৰী	khusura bepari
+খুচুৰাই	khusurai
+খুচুৰাক	khusurak
+খুচুৰাত	khusurat
+খুচুৰালৈ	khusuraloi
+খুচুৰালৈকে	khusuraloike
+খুচুৰাৰ	khusurar
+খুচুৰাৰে	khusurare
+খুচুৰীয়া	khusuria
 খুচৰ	khusor
 খুজ	khuz
 খুজ	khuzo
@@ -19859,7 +19828,6 @@ as হাৰিয়ানা	hariana
 খেপিয়াৱ	khepiao
 খেল	khel
 খেল	khelo
-খেলܿখন আমি জিকিলোঁ।	khelkhon ami zikilu
 খেলঁতী	kheloti
 খেলক	khelok
 খেলকেইখন	khelkeikhon
@@ -21791,6 +21759,19 @@ as হাৰিয়ানা	hariana
 গাঁতে	gate
 গাঁতেৰে	gatere
 গাঁতৰ	gator
+গাঁৰ	gar
+গাঁৰক	garok
+গাঁৰত	garot
+গাঁৰলৈ	garoloi
+গাঁৰলৈকে	garoloike
+গাঁৰি	gari
+গাঁৰিক	garik
+গাঁৰিত	garit
+গাঁৰিয়ে	garie
+গাঁৰিলৈ	gariloi
+গাঁৰিলৈকে	gariloike
+গাঁৰিৰ	garir
+গাঁৰিৰে	garire
 গাঁৰু	garu
 গাঁৰুক	garuk
 গাঁৰুকেইটা	garukeita
@@ -21839,6 +21820,9 @@ as হাৰিয়ানা	hariana
 গাঁৰুৰ	garur
 গাঁৰুৰে	garure
 গাঁৰুৱে	garue
+গাঁৰে	gare
+গাঁৰেৰে	garere
+গাঁৰৰ	garor
 গাঁৱক	gawok
 গাঁৱত	gawot
 গাঁৱলৈ	gawoloi
@@ -23857,6 +23841,9 @@ as হাৰিয়ানা	hariana
 গোবৰেৰে	guborere
 গোবৰৰ	guboror
 গোম	gum
+গোমক	gumok
+গোমগুমুনী	gumgumuni
+গোমত	gumot
 গোমধান	gumdhan
 গোমধান	gumodhan
 গোমধানক	gumdhanok
@@ -23893,6 +23880,11 @@ as হাৰিয়ানা	hariana
 গোমধানে	gumdhane
 গোমধানেৰে	gumdhanere
 গোমধানৰ	gumdhanor
+গোমলৈ	gumoloi
+গোমলৈকে	gumoloike
+গোমে	gume
+গোমেৰে	gumere
+গোমৰ	gumor
 গোল	gul
 গোল মৰিচ	gul moris
 গোল-নেমু	gulnemu
@@ -30113,59 +30105,12 @@ as হাৰিয়ানা	hariana
 চেনি-পানী	senipani
 চেনি-পুঠী	seniputhi
 চেনিক	senik
-চেনিকেইটা	senikeita
-চেনিকেইটাই	senikeitai
-চেনিকেইটাক	senikeitak
-চেনিকেইটাত	senikeitat
-চেনিকেইটালৈ	senikeitaloi
-চেনিকেইটালৈকে	senikeitaloike
-চেনিকেইটাৰ	senikeitar
-চেনিকেইটাৰে	senikeitare
-চেনিখিনি	senikhini
-চেনিখিনিক	senikhinik
-চেনিখিনিত	senikhinit
-চেনিখিনিয়ে	senikhinie
-চেনিখিনিলৈ	senikhiniloi
-চেনিখিনিৰ	senikhinir
-চেনিখিনিৰে	senikhinire
 চেনিগুটি	seniguti
-চেনিটো	senitu
-চেনিটোক	senituk
-চেনিটোত	senitut
-চেনিটোলৈ	senituloi
-চেনিটোলৈকে	senituloike
-চেনিটোৰ	senitur
-চেনিটোৰে	seniture
-চেনিটোৱে	senitue
 চেনিত	senit
-চেনিবিলাক	senibilak
-চেনিবিলাকক	senibilakok
-চেনিবিলাকত	senibilakot
-চেনিবিলাকলৈ	senibilakoloi
-চেনিবিলাকলৈকে	senibilakoloike
-চেনিবিলাকে	senibilake
-চেনিবিলাকেৰে	senibilakere
-চেনিবিলাকৰ	senibilakor
-চেনিবোৰ	senibur
-চেনিবোৰক	seniburok
-চেনিবোৰত	seniburot
-চেনিবোৰলৈ	seniburoloi
-চেনিবোৰলৈকে	seniburoloike
-চেনিবোৰে	senibure
-চেনিবোৰেৰে	seniburere
-চেনিবোৰৰ	seniburor
 চেনিমাছ	senimas
 চেনিয়ে	senie
 চেনিলৈ	seniloi
 চেনিলৈকে	seniloike
-চেনিসমূহ	senixomuh
-চেনিসমূহক	senixomuhok
-চেনিসমূহত	senixomuhot
-চেনিসমূহলৈ	senixomuholoi
-চেনিসমূহলৈকে	senixomuholoike
-চেনিসমূহে	senixomuhe
-চেনিসমূহেৰে	senixomuhere
-চেনিসমূহৰ	senixomuhor
 চেনিৰ	senir
 চেনিৰে	senire
 চেনেহ	seneh
@@ -33031,51 +32976,11 @@ as হাৰিয়ানা	hariana
 জঁকা	zoka
 জঁকাই	zokai
 জঁকাক	zokak
-জঁকাকেইটা	zokakeita
-জঁকাকেইটাই	zokakeitai
-জঁকাকেইটাক	zokakeitak
-জঁকাকেইটাত	zokakeitat
-জঁকাকেইটালৈ	zokakeitaloi
-জঁকাকেইটালৈকে	zokakeitaloike
-জঁকাকেইটাৰ	zokakeitar
-জঁকাকেইটাৰে	zokakeitare
-জঁকাটো	zokatu
-জঁকাটোক	zokatuk
-জঁকাটোত	zokatut
-জঁকাটোলৈ	zokatuloi
-জঁকাটোলৈকে	zokatuloike
-জঁকাটোৰ	zokatur
-জঁকাটোৰে	zokature
-জঁকাটোৱে	zokatue
 জঁকাত	zokat
-জঁকাবিলাক	zokabilak
-জঁকাবিলাকক	zokabilakok
-জঁকাবিলাকত	zokabilakot
-জঁকাবিলাকলৈ	zokabilakoloi
-জঁকাবিলাকলৈকে	zokabilakoloike
-জঁকাবিলাকে	zokabilake
-জঁকাবিলাকেৰে	zokabilakere
-জঁকাবিলাকৰ	zokabilakor
-জঁকাবোৰ	zokabur
-জঁকাবোৰক	zokaburok
-জঁকাবোৰত	zokaburot
-জঁকাবোৰলৈ	zokaburoloi
-জঁকাবোৰলৈকে	zokaburoloike
-জঁকাবোৰে	zokabure
-জঁকাবোৰেৰে	zokaburere
-জঁকাবোৰৰ	zokaburor
 জঁকাভাৰী	zokabhari
 জঁকাল	zokal
 জঁকালৈ	zokaloi
 জঁকালৈকে	zokaloike
-জঁকাসমূহ	zokaxomuh
-জঁকাসমূহক	zokaxomuhok
-জঁকাসমূহত	zokaxomuhot
-জঁকাসমূহলৈ	zokaxomuholoi
-জঁকাসমূহলৈকে	zokaxomuholoike
-জঁকাসমূহে	zokaxomuhe
-জঁকাসমূহেৰে	zokaxomuhere
-জঁকাসমূহৰ	zokaxomuhor
 জঁকাৰ	zokar
 জঁকাৰে	zokare
 জঁত	zot
@@ -33127,6 +33032,7 @@ as হাৰিয়ানা	hariana
 জঁৰ	zor
 জঁৰে	zore
 জং ভাষা	zon bhaxa
+জংকা	zonka
 জংঘল	zonghol
 জংঘলী	zongholi
 জকা	zoka
@@ -33141,36 +33047,9 @@ as হাৰিয়ানা	hariana
 জখলা	zokhola
 জখলাই	zokholai
 জখলাক	zokholak
-জখলাকেইডাল	zokholakeidal
-জখলাকেইডালক	zokholakeidalok
-জখলাকেইডালত	zokholakeidalot
-জখলাকেইডাললৈ	zokholakeidaloloi
-জখলাকেইডালে	zokholakeidale
-জখলাকেইডালেৰে	zokholakeidalere
-জখলাকেইডালৰ	zokholakeidalor
-জখলাডাল	zokholadal
-জখলাডালক	zokholadalok
-জখলাডালত	zokholadalot
-জখলাডাললৈ	zokholadaloloi
-জখলাডালে	zokholadale
-জখলাডালেৰে	zokholadalere
-জখলাডালৰ	zokholadalor
 জখলাত	zokholat
-জখলাবিলাক	zokholabilak
-জখলাবিলাকক	zokholabilakok
-জখলাবিলাকত	zokholabilakot
-জখলাবিলাকলৈ	zokholabilakoloi
-জখলাবিলাকে	zokholabilake
-জখলাবিলাকেৰে	zokholabilakere
-জখলাবিলাকৰ	zokholabilakor
-জখলাবোৰ	zokholabur
-জখলাবোৰক	zokholaburok
-জখলাবোৰত	zokholaburot
-জখলাবোৰলৈ	zokholaburoloi
-জখলাবোৰে	zokholabure
-জখলাবোৰেৰে	zokholaburere
-জখলাবোৰৰ	zokholaburor
 জখলালৈ	zokholaloi
+জখলালৈকে	zokholaloike
 জখলাৰ	zokholar
 জখলাৰে	zokholare
 জগ	zog
@@ -34215,6 +34094,7 @@ as হাৰিয়ানা	hariana
 জাকৈৰে	zakoire
 জাকৰ	zakor
 জাখা	zakha
+জাখালা	zakhala
 জাখে’	zakhe
 জাখে’ই	zakhei
 জাখে’ক	zakhek
@@ -36694,6 +36574,134 @@ as হাৰিয়ানা	hariana
 জেলুকেৰে	zelukere
 জেলুকৰ	zelukor
 জেলেপী	zelepi
+জোঁকা	zuka
+জোঁকাই	zukai
+জোঁকাই আছ	zukai aso
+জোঁকাই আছা	zukai asa
+জোঁকাই আছিলা	zukai asila
+জোঁকাই আছিলি	zukai asili
+জোঁকাই আছিলে	zukai asile
+জোঁকাই আছিলোঁ	zukai asilu
+জোঁকাই আছে	zukai ase
+জোঁকাই আছোঁ	zukai asu
+জোঁকাই জোঁকাই	zukai zukai
+জোঁকাই থকা নাই	zukai thoka nai
+জোঁকাই থকা নাছিলা	zukai thoka nasila
+জোঁকাই থকা নাছিলি	zukai thoka nasili
+জোঁকাই থকা নাছিলে	zukai thoka nasile
+জোঁকাই থকা নাছিলোঁ	zukai thoka nasilu
+জোঁকাই থাকিব	zukai thakibo
+জোঁকাই থাকিবা	zukai thakiba
+জোঁকাই থাকিবি	zukai thakibi
+জোঁকাই থাকিম	zukai thakim
+জোঁকাই নাথাক	zukai nathako
+জোঁকাই নাথাকা	zukai nathaka
+জোঁকাই নাথাকিব	zukai nathakibo
+জোঁকাই নাথাকিবা	zukai nathakiba
+জোঁকাই নাথাকিবি	zukai nathakibi
+জোঁকাই নাথাকিম	zukai nathakim
+জোঁকাই নাথাকে	zukai nathake
+জোঁকাই নাথাকোঁ	zukai nathaku
+জোঁকাইছ	zukaiso
+জোঁকাইছা	zukaisa
+জোঁকাইছিলা	zukaisila
+জোঁকাইছিলি	zukaisili
+জোঁকাইছিলে	zukaisile
+জোঁকাইছিলোঁ	zukaisilu
+জোঁকাইছে	zukaise
+জোঁকাইছোঁ	zukaisu
+জোঁকাওঁ	zukau
+জোঁকাওঁতা	zukauta
+জোঁকাওঁতে	zukaute
+জোঁকাওক	zukauk
+জোঁকাব	zukabo
+জোঁকাব লগা	zukabo loga
+জোঁকাব লগীয়া	zukabo logia
+জোঁকাবলৈ	zukaboloi
+জোঁকাবলৈকে	zukaboloike
+জোঁকাবা	zukaba
+জোঁকাবি	zukabi
+জোঁকাবৰ	zukabor
+জোঁকাম	zukam
+জোঁকায়	zukay
+জোঁকালত	zukalot
+জোঁকালা	zukala
+জোঁকালি	zukali
+জোঁকালে	zukale
+জোঁকালোঁ	zukalu
+জোঁকাৰ	zukar
+জোঁকাৰ	zukaro
+জোঁকাৰঁতী	zukaroti
+জোঁকাৰক	zukarok
+জোঁকাৰণি	zukaroni
+জোঁকাৰা	zukara
+জোঁকাৰা নাই	zukara nai
+জোঁকাৰা নাছিলা	zukara nasila
+জোঁকাৰা নাছিলি	zukara nasili
+জোঁকাৰা নাছিলে	zukara nasile
+জোঁকাৰা নাছিলোঁ	zukara nasilu
+জোঁকাৰাত	zukarat
+জোঁকাৰি	zukari
+জোঁকাৰি আছ	zukari aso
+জোঁকাৰি আছা	zukari asa
+জোঁকাৰি আছিলা	zukari asila
+জোঁকাৰি আছিলি	zukari asili
+জোঁকাৰি আছিলে	zukari asile
+জোঁকাৰি আছিলোঁ	zukari asilu
+জোঁকাৰি আছে	zukari ase
+জোঁকাৰি আছোঁ	zukari asu
+জোঁকাৰি জোঁকাৰি	zukari zukari
+জোঁকাৰি থকা নাই	zukari thoka nai
+জোঁকাৰি থকা নাছিলা	zukari thoka nasila
+জোঁকাৰি থকা নাছিলি	zukari thoka nasili
+জোঁকাৰি থকা নাছিলে	zukari thoka nasile
+জোঁকাৰি থাকিব	zukari thakibo
+জোঁকাৰি থাকিবা	zukari thakiba
+জোঁকাৰি থাকিবি	zukari thakibi
+জোঁকাৰি থাকিম	zukari thakim
+জোঁকাৰি নাথাক	zukari nathako
+জোঁকাৰি নাথাকা	zukari nathaka
+জোঁকাৰি নাথাকিব	zukari nathakibo
+জোঁকাৰি নাথাকিবা	zukari nathakiba
+জোঁকাৰি নাথাকিবি	zukari nathakibi
+জোঁকাৰি নাথাকিম	zukari nathakim
+জোঁকাৰি নাথাকে	zukari nathake
+জোঁকাৰি নাথাকোঁ	zukari nathaku
+জোঁকাৰিছ	zukariso
+জোঁকাৰিছা	zukarisa
+জোঁকাৰিছিলা	zukarisila
+জোঁকাৰিছিলি	zukarisili
+জোঁকাৰিছিলে	zukarisile
+জোঁকাৰিছিলোঁ	zukarisilu
+জোঁকাৰিছে	zukarise
+জোঁকাৰিছোঁ	zukarisu
+জোঁকাৰিব	zukaribo
+জোঁকাৰিবলগা	zukaribologa
+জোঁকাৰিবলগীয়া	zukaribologia
+জোঁকাৰিবলৈ	zukariboloi
+জোঁকাৰিবলৈকে	zukariboloike
+জোঁকাৰিবা	zukariba
+জোঁকাৰিবি	zukaribi
+জোঁকাৰিবৰ	zukaribor
+জোঁকাৰিম	zukarim
+জোঁকাৰিলত	zukarilot
+জোঁকাৰিলা	zukarila
+জোঁকাৰিলি	zukarili
+জোঁকাৰিলে	zukarile
+জোঁকাৰিলোঁ	zukarilu
+জোঁকাৰে	zukare
+জোঁকাৰোঁ	zukaru
+জোঁকাৰোঁতা	zukaruta
+জোঁকাৰোঁতে	zukarute
+জোঁকাৱ	zukao
+জোঁকাৱঁতী	zukaoti
+জোঁকোৱা	zukua
+জোঁকোৱা নাই	zukua nai
+জোঁকোৱা নাছিলা	zukua nasila
+জোঁকোৱা নাছিলি	zukua nasili
+জোঁকোৱা নাছিলে	zukua nasile
+জোঁকোৱা নাছিলোঁ	zukua nasilu
+জোঁকোৱাত	zukuat
 জোঁৱাই	zuai
 জোঁৱাইক	zuaik
 জোঁৱাইকেইজন	zuaikeizon
@@ -36800,71 +36808,6 @@ as হাৰিয়ানা	hariana
 জোকবোৰৰ	zukburor
 জোকলৈ	zukoloi
 জোকলৈকে	zukoloike
-জোকাৰ	zukar
-জোকাৰ	zukaro
-জোকাৰঁতী	zukaroti
-জোকাৰক	zukarok
-জোকাৰণি	zukaroni
-জোকাৰা	zukara
-জোকাৰা নাই	zukara nai
-জোকাৰা নাছিলা	zukara nasila
-জোকাৰা নাছিলি	zukara nasili
-জোকাৰা নাছিলে	zukara nasile
-জোকাৰা নাছিলোঁ	zukara nasilu
-জোকাৰাত	zukarat
-জোকাৰি	zukari
-জোকাৰি আছ	zukari aso
-জোকাৰি আছা	zukari asa
-জোকাৰি আছিলা	zukari asila
-জোকাৰি আছিলি	zukari asili
-জোকাৰি আছিলে	zukari asile
-জোকাৰি আছিলোঁ	zukari asilu
-জোকাৰি আছে	zukari ase
-জোকাৰি আছোঁ	zukari asu
-জোকাৰি জোকাৰি	zukari zukari
-জোকাৰি থকা নাই	zukari thoka nai
-জোকাৰি থকা নাছিলা	zukari thoka nasila
-জোকাৰি থকা নাছিলি	zukari thoka nasili
-জোকাৰি থকা নাছিলে	zukari thoka nasile
-জোকাৰি থকা নাছিলোঁ	zukari thoka nasilu
-জোকাৰি থাকিব	zukari thakibo
-জোকাৰি থাকিবা	zukari thakiba
-জোকাৰি থাকিবি	zukari thakibi
-জোকাৰি থাকিম	zukari thakim
-জোকাৰি নাথাক	zukari nathako
-জোকাৰি নাথাকা	zukari nathaka
-জোকাৰি নাথাকিব	zukari nathakibo
-জোকাৰি নাথাকিবা	zukari nathakiba
-জোকাৰি নাথাকিবি	zukari nathakibi
-জোকাৰি নাথাকিম	zukari nathakim
-জোকাৰি নাথাকে	zukari nathake
-জোকাৰি নাথাকোঁ	zukari nathaku
-জোকাৰিছ	zukariso
-জোকাৰিছা	zukarisa
-জোকাৰিছিলা	zukarisila
-জোকাৰিছিলি	zukarisili
-জোকাৰিছিলে	zukarisile
-জোকাৰিছিলোঁ	zukarisilu
-জোকাৰিছে	zukarise
-জোকাৰিছোঁ	zukarisu
-জোকাৰিব	zukaribo
-জোকাৰিবলগা	zukaribologa
-জোকাৰিবলগীয়া	zukaribologia
-জোকাৰিবলৈ	zukariboloi
-জোকাৰিবলৈকে	zukariboloike
-জোকাৰিবা	zukariba
-জোকাৰিবি	zukaribi
-জোকাৰিবৰ	zukaribor
-জোকাৰিম	zukarim
-জোকাৰিলত	zukarilot
-জোকাৰিলা	zukarila
-জোকাৰিলি	zukarili
-জোকাৰিলে	zukarile
-জোকাৰিলোঁ	zukarilu
-জোকাৰে	zukare
-জোকাৰোঁ	zukaru
-জোকাৰোঁতা	zukaruta
-জোকাৰোঁতে	zukarute
 জোকে	zuke
 জোকেৰে	zukere
 জোকৰ	zukor
@@ -37160,20 +37103,6 @@ as হাৰিয়ানা	hariana
 জোতা	zuta
 জোতাই	zutai
 জোতাক	zutak
-জোতাকেইপাত	zutakeipat
-জোতাকেইপাতক	zutakeipatok
-জোতাকেইপাতত	zutakeipatot
-জোতাকেইপাতলৈ	zutakeipatoloi
-জোতাকেইপাতে	zutakeipate
-জোতাকেইপাতেৰে	zutakeipatere
-জোতাকেইপাতৰ	zutakeipator
-জোতাকেইযোৰ	zutakeizur
-জোতাকেইযোৰক	zutakeizurok
-জোতাকেইযোৰত	zutakeizurot
-জোতাকেইযোৰলৈ	zutakeizuroloi
-জোতাকেইযোৰে	zutakeizure
-জোতাকেইযোৰেৰে	zutakeizurere
-জোতাকেইযোৰৰ	zutakeizuror
 জোতাঠোঁটীয়া	zutathutia
 জোতাঠোঁটীয়াই	zutathutiai
 জোতাঠোঁটীয়াক	zutathutiak
@@ -37223,35 +37152,8 @@ as হাৰিয়ানা	hariana
 জোতাঠোঁটীয়াৰ	zutathutiar
 জোতাঠোঁটীয়াৰে	zutathutiare
 জোতাত	zutat
-জোতাপাত	zutapat
-জোতাপাতক	zutapatok
-জোতাপাতত	zutapatot
-জোতাপাতলৈ	zutapatoloi
-জোতাপাতে	zutapate
-জোতাপাতেৰে	zutapatere
-জোতাপাতৰ	zutapator
-জোতাবিলাক	zutabilak
-জোতাবিলাকক	zutabilakok
-জোতাবিলাকত	zutabilakot
-জোতাবিলাকলৈ	zutabilakoloi
-জোতাবিলাকে	zutabilake
-জোতাবিলাকেৰে	zutabilakere
-জোতাবিলাকৰ	zutabilakor
-জোতাবোৰ	zutabur
-জোতাবোৰক	zutaburok
-জোতাবোৰত	zutaburot
-জোতাবোৰলৈ	zutaburoloi
-জোতাবোৰে	zutabure
-জোতাবোৰেৰে	zutaburere
-জোতাবোৰৰ	zutaburor
-জোতাযোৰ	zutazur
-জোতাযোৰক	zutazurok
-জোতাযোৰত	zutazurot
-জোতাযোৰলৈ	zutazuroloi
-জোতাযোৰে	zutazure
-জোতাযোৰেৰে	zutazurere
-জোতাযোৰৰ	zutazuror
 জোতালৈ	zutaloi
+জোতালৈকে	zutaloike
 জোতাৰ	zutar
 জোতাৰে	zutare
 জোন	zun
@@ -41899,6 +41801,14 @@ as হাৰিয়ানা	hariana
 ঢেকীয়াৰ	dhekiar
 ঢেকীয়াৰে	dhekiare
 ঢোঁৰা কাউৰী	dhura kauri
+ঢোঁৰাকাউৰী	dhurakauri
+ঢোঁৰাকাউৰীক	dhurakaurik
+ঢোঁৰাকাউৰীত	dhurakaurit
+ঢোঁৰাকাউৰীয়ে	dhurakaurie
+ঢোঁৰাকাউৰীলৈ	dhurakauriloi
+ঢোঁৰাকাউৰীলৈকে	dhurakauriloike
+ঢোঁৰাকাউৰীৰ	dhurakaurir
+ঢোঁৰাকাউৰীৰে	dhurakaurire
 ঢোঁৰাকোৱা	dhurakua
 ঢোল	dhul
 ঢোলক	dhulok
@@ -46262,6 +46172,14 @@ as হাৰিয়ানা	hariana
 দীঘেৰে	dighere
 দীঘৰ	dighor
 দীপাৱলী	dipawoli
+দীয়া	dia
+দীয়াই	diai
+দীয়াক	diak
+দীয়াত	diat
+দীয়ালৈ	dialoi
+দীয়ালৈকে	dialoike
+দীয়াৰ	diar
+দীয়াৰে	diare
 দীৰ্ঘ	dirgho
 দু-	du
 দুআ	dua
@@ -47220,6 +47138,13 @@ as হাৰিয়ানা	hariana
 দ্বীপ	dip
 দ্বীপ-পুঞ্জ	dippunzo
 দ্বীপ-বাসী	dipbaxi
+দ্বীপক	dipok
+দ্বীপত	dipot
+দ্বীপলৈ	dipoloi
+দ্বীপলৈকে	dipoloike
+দ্বীপে	dipe
+দ্বীপেৰে	dipere
+দ্বীপৰ	dipor
 দৰকাৰ	dorokar
 দৰা	dora
 দৰাই	dorai
@@ -47428,13 +47353,6 @@ as হাৰিয়ানা	hariana
 ধান-পুৰীয়া	dhanpuria
 ধানক	dhanok
 ধানকল	dhanokol
-ধানখিনি	dhankhini
-ধানখিনিক	dhankhinik
-ধানখিনিত	dhankhinit
-ধানখিনিয়ে	dhankhinie
-ধানখিনিলৈ	dhankhiniloi
-ধানখিনিৰ	dhankhinir
-ধানখিনিৰে	dhankhinire
 ধানখেৰ	dhanokher
 ধানত	dhanot
 ধাননি	dhanoni
@@ -47479,29 +47397,9 @@ as হাৰিয়ানা	hariana
 ধাননিৰ	dhanonir
 ধাননিৰে	dhanonire
 ধানপতা	dhanpota
-ধানবিলাক	dhanbilak
-ধানবিলাকক	dhanbilakok
-ধানবিলাকত	dhanbilakot
-ধানবিলাকলৈ	dhanbilakoloi
-ধানবিলাকে	dhanbilake
-ধানবিলাকেৰে	dhanbilakere
-ধানবিলাকৰ	dhanbilakor
-ধানবোৰ	dhanbur
-ধানবোৰক	dhanburok
-ধানবোৰত	dhanburot
-ধানবোৰলৈ	dhanburoloi
-ধানবোৰে	dhanbure
-ধানবোৰেৰে	dhanburere
-ধানবোৰৰ	dhanburor
 ধানমিল	dhanomil
 ধানলৈ	dhanoloi
-ধানসমূহ	dhanxomuh
-ধানসমূহক	dhanxomuhok
-ধানসমূহত	dhanxomuhot
-ধানসমূহলৈ	dhanxomuholoi
-ধানসমূহে	dhanxomuhe
-ধানসমূহেৰে	dhanxomuhere
-ধানসমূহৰ	dhanxomuhor
+ধানলৈকে	dhanoloike
 ধানে	dhane
 ধানেৰে	dhanere
 ধানৰ	dhanor
@@ -51388,6 +51286,7 @@ as হাৰিয়ানা	hariana
 নমৰোঁতা	nomoruta
 নমৰোঁতে	nomorute
 নমৰোঁতে নমৰোঁতে	nomorute nomorute
+নযচা	nozosa
 নয়া দিল্লী	noya dilli
 নল	nolo
 নল গাহৰি	nol gahori
@@ -54267,6 +54166,40 @@ as হাৰিয়ানা	hariana
 নাযাওঁ	nazau
 নাযাওঁতা	nazauta
 নাযাওঁতে	nazaute
+নাযাচ	nazas
+নাযাচ	nazaso
+নাযাচঁতী	nazasoti
+নাযাচা	nazasa
+নাযাচাত	nazasat
+নাযাচি	nazasi
+নাযাচি নাযাচি	nazasi nazasi
+নাযাচিছ	nazasiso
+নাযাচিছা	nazasisa
+নাযাচিছিলা	nazasisila
+নাযাচিছিলি	nazasisili
+নাযাচিছিলে	nazasisile
+নাযাচিছিলোঁ	nazasisilu
+নাযাচিছে	nazasise
+নাযাচিছোঁ	nazasisu
+নাযাচিব	nazasibo
+নাযাচিব	nazosibo
+নাযাচিবলগা	nazasibologa
+নাযাচিবলগীয়া	nazasibologia
+নাযাচিবলৈ	nazasiboloi
+নাযাচিবলৈকে	nazasiboloike
+নাযাচিবা	nazasiba
+নাযাচিবি	nazasibi
+নাযাচিবৰ	nazasibor
+নাযাচিম	nazasim
+নাযাচিলত	nazasilot
+নাযাচিলা	nazasila
+নাযাচিলি	nazasili
+নাযাচিলে	nazasile
+নাযাচিলোঁ	nazasilu
+নাযাচে	nazase
+নাযাচোঁ	nazasu
+নাযাচোঁতা	nazasuta
+নাযাচোঁতে	nazasute
 নাযাব	nazabo
 নাযাবলৈ	nazaboloi
 নাযাবা	nazaba
@@ -54560,6 +54493,72 @@ as হাৰিয়ানা	hariana
 নাসানোঁ	naxanu
 নাসানোঁতা	naxanuta
 নাসানোঁতে	naxanute
+নাসাবট	naxabot
+নাসাবট	naxaboto
+নাসাবটঁতী	naxabototi
+নাসাবটা	naxabota
+নাসাবটাত	naxabotat
+নাসাবটি	naxaboti
+নাসাবটি নাসাবটি	naxaboti naxaboti
+নাসাবটিছ	naxabotiso
+নাসাবটিছা	naxabotisa
+নাসাবটিছিলা	naxabotisila
+নাসাবটিছিলি	naxabotisili
+নাসাবটিছিলে	naxabotisile
+নাসাবটিছিলোঁ	naxabotisilu
+নাসাবটিছে	naxabotise
+নাসাবটিছোঁ	naxabotisu
+নাসাবটিব	naxabotibo
+নাসাবটিবলগা	naxabotibologa
+নাসাবটিবলগীয়া	naxabotibologia
+নাসাবটিবলৈ	naxabotiboloi
+নাসাবটিবলৈকে	naxabotiboloike
+নাসাবটিবা	naxabotiba
+নাসাবটিবি	naxabotibi
+নাসাবটিবৰ	naxabotibor
+নাসাবটিম	naxabotim
+নাসাবটিলত	naxabotilot
+নাসাবটিলা	naxabotila
+নাসাবটিলি	naxabotili
+নাসাবটিলে	naxabotile
+নাসাবটিলোঁ	naxabotilu
+নাসাবটে	naxabote
+নাসাবটোঁ	naxabotu
+নাসাবটোঁতা	naxabotuta
+নাসাবটোঁতে	naxabotute
+নাসাৱট	naxawot
+নাসাৱট	naxawoto
+নাসাৱটঁতী	naxawototi
+নাসাৱটা	naxawota
+নাসাৱটাত	naxawotat
+নাসাৱটি	naxawoti
+নাসাৱটি নাসাৱটি	naxawoti naxawoti
+নাসাৱটিছ	naxawotiso
+নাসাৱটিছা	naxawotisa
+নাসাৱটিছিলা	naxawotisila
+নাসাৱটিছিলি	naxawotisili
+নাসাৱটিছিলে	naxawotisile
+নাসাৱটিছিলোঁ	naxawotisilu
+নাসাৱটিছে	naxawotise
+নাসাৱটিছোঁ	naxawotisu
+নাসাৱটিব	naxawotibo
+নাসাৱটিবলগা	naxawotibologa
+নাসাৱটিবলগীয়া	naxawotibologia
+নাসাৱটিবলৈ	naxawotiboloi
+নাসাৱটিবলৈকে	naxawotiboloike
+নাসাৱটিবা	naxawotiba
+নাসাৱটিবি	naxawotibi
+নাসাৱটিবৰ	naxawotibor
+নাসাৱটিম	naxawotim
+নাসাৱটিলত	naxawotilot
+নাসাৱটিলা	naxawotila
+নাসাৱটিলি	naxawotili
+নাসাৱটিলে	naxawotile
+নাসাৱটিলোঁ	naxawotilu
+নাসাৱটে	naxawote
+নাসাৱটোঁ	naxawotu
+নাসাৱটোঁতা	naxawotuta
+নাসাৱটোঁতে	naxawotute
 নাস্চা	naxsa
 নাস্চাঁতা	naxsata
 নাস্চাঁতী	naxsati
@@ -54937,6 +54936,7 @@ as হাৰিয়ানা	hariana
 নাৱত	nawot
 নাৱলৈ	nawoloi
 নাৱলৈকে	nawoloike
+নাৱিক	nawik
 নাৱে	nawe
 নাৱেৰে	nawere
 নাৱৰ	nawor
@@ -61741,39 +61741,6 @@ as হাৰিয়ানা	hariana
 নেলাৰোঁতা	nelaruta
 নেলাৰোঁতে	nelarute
 নেলেখা	nelekha
-নেসাবট	nexabot
-নেসাবট	nexaboto
-নেসাবটঁতী	nexabototi
-নেসাবটা	nexabota
-নেসাবটাত	nexabotat
-নেসাবটি	nexaboti
-নেসাবটি নেসাবটি	nexaboti nexaboti
-নেসাবটিছ	nexabotiso
-নেসাবটিছা	nexabotisa
-নেসাবটিছিলা	nexabotisila
-নেসাবটিছিলি	nexabotisili
-নেসাবটিছিলে	nexabotisile
-নেসাবটিছিলোঁ	nexabotisilu
-নেসাবটিছে	nexabotise
-নেসাবটিছোঁ	nexabotisu
-নেসাবটিব	nexabotibo
-নেসাবটিবলগা	nexabotibologa
-নেসাবটিবলগীয়া	nexabotibologia
-নেসাবটিবলৈ	nexabotiboloi
-নেসাবটিবলৈকে	nexabotiboloike
-নেসাবটিবা	nexabotiba
-নেসাবটিবি	nexabotibi
-নেসাবটিবৰ	nexabotibor
-নেসাবটিম	nexabotim
-নেসাবটিলত	nexabotilot
-নেসাবটিলা	nexabotila
-নেসাবটিলি	nexabotili
-নেসাবটিলে	nexabotile
-নেসাবটিলোঁ	nexabotilu
-নেসাবটে	nexabote
-নেসাবটোঁ	nexabotu
-নেসাবটোঁতা	nexabotuta
-নেসাবটোঁতে	nexabotute
 নেসামৰ	nexamor
 নেসামৰ	nexamoro
 নেসামৰঁতী	nexamoroti
@@ -62357,38 +62324,69 @@ as হাৰিয়ানা	hariana
 নোচোৱাৱ	nusuao
 নোছোৱা	nusua
 নোছোৱাত	nusuat
-নোজোকাৰ	nuzukar
-নোজোকাৰ	nuzukaro
-নোজোকাৰঁতী	nuzukaroti
-নোজোকাৰা	nuzukara
-নোজোকাৰাত	nuzukarat
-নোজোকাৰি	nuzukari
-নোজোকাৰিছ	nuzukariso
-নোজোকাৰিছা	nuzukarisa
-নোজোকাৰিছিলা	nuzukarisila
-নোজোকাৰিছিলি	nuzukarisili
-নোজোকাৰিছিলে	nuzukarisile
-নোজোকাৰিছিলোঁ	nuzukarisilu
-নোজোকাৰিছে	nuzukarise
-নোজোকাৰিছোঁ	nuzukarisu
-নোজোকাৰিব	nuzukaribo
-নোজোকাৰিবলগা	nuzukaribologa
-নোজোকাৰিবলগীয়া	nuzukaribologia
-নোজোকাৰিবলৈ	nuzukariboloi
-নোজোকাৰিবলৈকে	nuzukariboloike
-নোজোকাৰিবা	nuzukariba
-নোজোকাৰিবি	nuzukaribi
-নোজোকাৰিবৰ	nuzukaribor
-নোজোকাৰিম	nuzukarim
-নোজোকাৰিলত	nuzukarilot
-নোজোকাৰিলা	nuzukarila
-নোজোকাৰিলি	nuzukarili
-নোজোকাৰিলে	nuzukarile
-নোজোকাৰিলোঁ	nuzukarilu
-নোজোকাৰে	nuzukare
-নোজোকাৰোঁ	nuzukaru
-নোজোকাৰোঁতা	nuzukaruta
-নোজোকাৰোঁতে	nuzukarute
+নোজোঁকা	nuzuka
+নোজোঁকাই	nuzukai
+নোজোঁকাইছ	nuzukaiso
+নোজোঁকাইছিলা	nuzukaisila
+নোজোঁকাইছিলি	nuzukaisili
+নোজোঁকাইছিলে	nuzukaisile
+নোজোঁকাইছিলোঁ	nuzukaisilu
+নোজোঁকাইছে	nuzukaise
+নোজোঁকাইছোঁ	nuzukaisu
+নোজোঁকাওঁ	nuzukau
+নোজোঁকাওঁতা	nuzukauta
+নোজোঁকাওঁতে	nuzukaute
+নোজোঁকাব	nuzukabo
+নোজোঁকাব লগা	nuzukabo loga
+নোজোঁকাব লগীয়া	nuzukabo logia
+নোজোঁকাবলৈ	nuzukaboloi
+নোজোঁকাবলৈকে	nuzukaboloike
+নোজোঁকাবা	nuzukaba
+নোজোঁকাবি	nuzukabi
+নোজোঁকাবৰ	nuzukabor
+নোজোঁকাম	nuzukam
+নোজোঁকায়	nuzukay
+নোজোঁকালত	nuzukalot
+নোজোঁকালা	nuzukala
+নোজোঁকালি	nuzukali
+নোজোঁকালে	nuzukale
+নোজোঁকালোঁ	nuzukalu
+নোজোঁকাৰ	nuzukar
+নোজোঁকাৰ	nuzukaro
+নোজোঁকাৰঁতী	nuzukaroti
+নোজোঁকাৰা	nuzukara
+নোজোঁকাৰাত	nuzukarat
+নোজোঁকাৰি	nuzukari
+নোজোঁকাৰিছ	nuzukariso
+নোজোঁকাৰিছা	nuzukarisa
+নোজোঁকাৰিছিলা	nuzukarisila
+নোজোঁকাৰিছিলি	nuzukarisili
+নোজোঁকাৰিছিলে	nuzukarisile
+নোজোঁকাৰিছিলোঁ	nuzukarisilu
+নোজোঁকাৰিছে	nuzukarise
+নোজোঁকাৰিছোঁ	nuzukarisu
+নোজোঁকাৰিব	nuzukaribo
+নোজোঁকাৰিবলগা	nuzukaribologa
+নোজোঁকাৰিবলগীয়া	nuzukaribologia
+নোজোঁকাৰিবলৈ	nuzukariboloi
+নোজোঁকাৰিবলৈকে	nuzukariboloike
+নোজোঁকাৰিবা	nuzukariba
+নোজোঁকাৰিবি	nuzukaribi
+নোজোঁকাৰিবৰ	nuzukaribor
+নোজোঁকাৰিম	nuzukarim
+নোজোঁকাৰিলত	nuzukarilot
+নোজোঁকাৰিলা	nuzukarila
+নোজোঁকাৰিলি	nuzukarili
+নোজোঁকাৰিলে	nuzukarile
+নোজোঁকাৰিলোঁ	nuzukarilu
+নোজোঁকাৰে	nuzukare
+নোজোঁকাৰোঁ	nuzukaru
+নোজোঁকাৰোঁতা	nuzukaruta
+নোজোঁকাৰোঁতে	nuzukarute
+নোজোঁকাৱ	nuzukao
+নোজোঁকাৱঁতী	nuzukaoti
+নোজোঁকোৱা	nuzukua
+নোজোঁকোৱাত	nuzukuat
 নোজোখ	nuzukh
 নোজোখ	nuzukho
 নোজোখঁতী	nuzukhoti
@@ -64913,53 +64911,7 @@ as হাৰিয়ানা	hariana
 পনলু	ponolu
 পনিয়ল	poniol
 পনিয়লক	poniolok
-পনিয়লকেইটা	poniolkeita
-পনিয়লকেইটাই	poniolkeitai
-পনিয়লকেইটাক	poniolkeitak
-পনিয়লকেইটাত	poniolkeitat
-পনিয়লকেইটালৈ	poniolkeitaloi
-পনিয়লকেইটালৈকে	poniolkeitaloike
-পনিয়লকেইটাৰ	poniolkeitar
-পনিয়লকেইটাৰে	poniolkeitare
-পনিয়লকেইডাল	poniolkeidal
-পনিয়লকেইডালক	poniolkeidalok
-পনিয়লকেইডালত	poniolkeidalot
-পনিয়লকেইডাললৈ	poniolkeidaloloi
-পনিয়লকেইডালে	poniolkeidale
-পনিয়লকেইডালেৰে	poniolkeidalere
-পনিয়লকেইডালৰ	poniolkeidalor
-পনিয়লটো	ponioltu
-পনিয়লটোক	ponioltuk
-পনিয়লটোত	ponioltut
-পনিয়লটোলৈ	ponioltuloi
-পনিয়লটোলৈকে	ponioltuloike
-পনিয়লটোৰ	ponioltur
-পনিয়লটোৰে	poniolture
-পনিয়লটোৱে	ponioltue
-পনিয়লডাল	ponioldal
-পনিয়লডালক	ponioldalok
-পনিয়লডালত	ponioldalot
-পনিয়লডাললৈ	ponioldaloloi
-পনিয়লডালে	ponioldale
-পনিয়লডালেৰে	ponioldalere
-পনিয়লডালৰ	ponioldalor
 পনিয়লত	poniolot
-পনিয়লবিলাক	poniolbilak
-পনিয়লবিলাকক	poniolbilakok
-পনিয়লবিলাকত	poniolbilakot
-পনিয়লবিলাকলৈ	poniolbilakoloi
-পনিয়লবিলাকলৈকে	poniolbilakoloike
-পনিয়লবিলাকে	poniolbilake
-পনিয়লবিলাকেৰে	poniolbilakere
-পনিয়লবিলাকৰ	poniolbilakor
-পনিয়লবোৰ	poniolbur
-পনিয়লবোৰক	poniolburok
-পনিয়লবোৰত	poniolburot
-পনিয়লবোৰলৈ	poniolburoloi
-পনিয়লবোৰলৈকে	poniolburoloike
-পনিয়লবোৰে	poniolbure
-পনিয়লবোৰেৰে	poniolburere
-পনিয়লবোৰৰ	poniolburor
 পনিয়ললৈ	poniololoi
 পনিয়ললৈকে	poniololoike
 পনিয়লে	poniole
@@ -66369,6 +66321,8 @@ as হাৰিয়ানা	hariana
 পাথৰেৰে	pathorere
 পাথৰৰ	pathoror
 পাদ	pad
+পানয়ে	panoye
+পানয়েৰে	panoyere
 পানাজী	panazi
 পানাজীক	panazik
 পানাজীত	panazit
@@ -66506,6 +66460,12 @@ as হাৰিয়ানা	hariana
 পানীসমূহৰ	panixomuhor
 পানীৰ	panir
 পানীৰে	panire
+পানৈ	panoi
+পানৈক	panoik
+পানৈত	panoit
+পানৈলৈ	panoiloi
+পানৈলৈকে	panoiloike
+পানৈৰ	panoir
 পাপ	pap
 পাব	pabo
 পাব লগা	pabo loga
@@ -69617,45 +69577,19 @@ as হাৰিয়ানা	hariana
 পেৰা	pera
 পেৰাই	perai
 পেৰাক	perak
-পেৰাকেইটা	perakeita
-পেৰাকেইটাই	perakeitai
-পেৰাকেইটাক	perakeitak
-পেৰাকেইটাত	perakeitat
-পেৰাকেইটালৈ	perakeitaloi
-পেৰাকেইটাৰ	perakeitar
-পেৰাকেইটাৰে	perakeitare
-পেৰাটো	peratu
-পেৰাটোক	peratuk
-পেৰাটোত	peratut
-পেৰাটোলৈ	peratuloi
-পেৰাটোৰ	peratur
-পেৰাটোৰে	perature
-পেৰাটোৱে	peratue
 পেৰাত	perat
-পেৰাবিলাক	perabilak
-পেৰাবিলাকক	perabilakok
-পেৰাবিলাকত	perabilakot
-পেৰাবিলাকলৈ	perabilakoloi
-পেৰাবিলাকে	perabilake
-পেৰাবিলাকেৰে	perabilakere
-পেৰাবিলাকৰ	perabilakor
-পেৰাবোৰ	perabur
-পেৰাবোৰক	peraburok
-পেৰাবোৰত	peraburot
-পেৰাবোৰলৈ	peraburoloi
-পেৰাবোৰে	perabure
-পেৰাবোৰেৰে	peraburere
-পেৰাবোৰৰ	peraburor
 পেৰালৈ	peraloi
-পেৰাসমূহ	peraxomuh
-পেৰাসমূহক	peraxomuhok
-পেৰাসমূহত	peraxomuhot
-পেৰাসমূহলৈ	peraxomuholoi
-পেৰাসমূহে	peraxomuhe
-পেৰাসমূহেৰে	peraxomuhere
-পেৰাসমূহৰ	peraxomuhor
+পেৰালৈকে	peraloike
 পেৰাৰ	perar
 পেৰাৰে	perare
+পেৰী	peri
+পেৰীক	perik
+পেৰীত	perit
+পেৰীয়ে	perie
+পেৰীলৈ	periloi
+পেৰীলৈকে	periloike
+পেৰীৰ	perir
+পেৰীৰে	perire
 পেৰু	peru
 পেৰু চৰাই	peru sorai
 পেৰুক	peruk
@@ -73926,13 +73860,6 @@ as হাৰিয়ানা	hariana
 বাঁহ-গাজ	bahgaz
 বাঁহ-ফুল	bahphul
 বাঁহক	bahok
-বাঁহকেইডাল	bahkeidal
-বাঁহকেইডালক	bahkeidalok
-বাঁহকেইডালত	bahkeidalot
-বাঁহকেইডাললৈ	bahkeidaloloi
-বাঁহকেইডালে	bahkeidale
-বাঁহকেইডালেৰে	bahkeidalere
-বাঁহকেইডালৰ	bahkeidalor
 বাঁহগাজ	bahagaz
 বাঁহগাজ	bahgaz
 বাঁহগাজ	bahogaz
@@ -74009,13 +73936,6 @@ as হাৰিয়ানা	hariana
 বাঁহগাজেৰে	bahgazere
 বাঁহগাজৰ	bahagazor
 বাঁহগাজৰ	bahgazor
-বাঁহডাল	bahdal
-বাঁহডালক	bahdalok
-বাঁহডালত	bahdalot
-বাঁহডাললৈ	bahdaloloi
-বাঁহডালে	bahdale
-বাঁহডালেৰে	bahdalere
-বাঁহডালৰ	bahdalor
 বাঁহত	bahot
 বাঁহপাতী	bahpati
 বাঁহপাতীক	bahpatik
@@ -74114,21 +74034,8 @@ as হাৰিয়ানা	hariana
 বাঁহফুলে	bahphule
 বাঁহফুলেৰে	bahphulere
 বাঁহফুলৰ	bahphulor
-বাঁহবিলাক	bahbilak
-বাঁহবিলাকক	bahbilakok
-বাঁহবিলাকত	bahbilakot
-বাঁহবিলাকলৈ	bahbilakoloi
-বাঁহবিলাকে	bahbilake
-বাঁহবিলাকেৰে	bahbilakere
-বাঁহবিলাকৰ	bahbilakor
-বাঁহবোৰ	bahbur
-বাঁহবোৰক	bahburok
-বাঁহবোৰত	bahburot
-বাঁহবোৰলৈ	bahburoloi
-বাঁহবোৰে	bahbure
-বাঁহবোৰেৰে	bahburere
-বাঁহবোৰৰ	bahburor
 বাঁহলৈ	baholoi
+বাঁহলৈকে	baholoike
 বাঁহাৰ	bahar
 বাঁহী	bahi
 বাঁহী বোৱা	bahi bua
@@ -77190,7 +77097,6 @@ as হাৰিয়ানা	hariana
 বিভগ	bibhog
 বিভেদ	bibhed
 বিমানবন্দৰ	bimanbondor
-বিমানবন্দৰ	bimanobondor
 বিমানবন্দৰক	bimanbondorok
 বিমানবন্দৰকেইখন	bimanbondorkeikhon
 বিমানবন্দৰকেইখনক	bimanbondorkeikhonok
@@ -82516,6 +82422,8 @@ as হাৰিয়ানা	hariana
 ভিজোৱা নাছিলে	bhizua nasile
 ভিজোৱা নাছিলোঁ	bhizua nasilu
 ভিজোৱাত	bhizuat
+ভিঠা	bhitha
+ভিঠি	bhithi
 ভিতৰ	bhitor
 ভিতৰক	bhitorok
 ভিতৰকেইটা	bhitorkeita
@@ -83076,6 +82984,7 @@ as হাৰিয়ানা	hariana
 ভেটি নাথাকে	bheti nathake
 ভেটি নাথাকোঁ	bheti nathaku
 ভেটি ভেটি	bheti bheti
+ভেটিক	bhetik
 ভেটিকান চহৰ	bhetikan sohor
 ভেটিকান চহৰ আয়াৰলেণ্ড	bhetikan sohor
 ভেটিকান চহৰ আল্বেনিয়া	bhetikan sohor
@@ -83116,6 +83025,7 @@ as হাৰিয়ানা	hariana
 ভেটিছিলোঁ	bhetisilu
 ভেটিছে	bhetise
 ভেটিছোঁ	bhetisu
+ভেটিত	bhetit
 ভেটিব	bhetibo
 ভেটিবলগা	bhetibologa
 ভেটিবলগীয়া	bhetibologia
@@ -83125,11 +83035,16 @@ as হাৰিয়ানা	hariana
 ভেটিবি	bhetibi
 ভেটিবৰ	bhetibor
 ভেটিম	bhetim
+ভেটিয়ে	bhetie
 ভেটিলত	bhetilot
 ভেটিলা	bhetila
 ভেটিলি	bhetili
 ভেটিলে	bhetile
 ভেটিলোঁ	bhetilu
+ভেটিলৈ	bhetiloi
+ভেটিলৈকে	bhetiloike
+ভেটিৰ	bhetir
+ভেটিৰে	bhetire
 ভেটে	bhete
 ভেটোঁ	bhetu
 ভেটোঁতা	bhetuta
@@ -85708,63 +85623,16 @@ as হাৰিয়ানা	hariana
 মাছমৰীয়াসকলৰ	masmoriaxokolor
 মাছমৰীয়াৰ	masmoriar
 মাছমৰীয়াৰে	masmoriare
+মাছলংকা	morigaon
 মাছলৈ	masoloi
 মাছুৱৈ	masuoi
 মাছে	mase
 মাছেৰে	masere
 মাছৰ	masor
 মাছৰোকা	masruka
+মাছৰোকাই	masrukai
 মাছৰোকাক	masrukak
-মাছৰোকাকেইজনী	masrukakeizoni
-মাছৰোকাকেইজনীক	masrukakeizonik
-মাছৰোকাকেইজনীত	masrukakeizonit
-মাছৰোকাকেইজনীয়ে	masrukakeizonie
-মাছৰোকাকেইজনীলৈ	masrukakeizoniloi
-মাছৰোকাকেইজনীলৈকে	masrukakeizoniloike
-মাছৰোকাকেইজনীৰ	masrukakeizonir
-মাছৰোকাকেইজনীৰে	masrukakeizonire
-মাছৰোকাকেইটা	masrukakeita
-মাছৰোকাকেইটাই	masrukakeitai
-মাছৰোকাকেইটাক	masrukakeizonik
-মাছৰোকাকেইটাত	masrukakeitat
-মাছৰোকাকেইটালৈ	masrukakeitaloi
-মাছৰোকাকেইটালৈকে	masrukakeitaloi
-মাছৰোকাকেইটাৰ	masrukakeitar
-মাছৰোকাকেইটাৰে	masrukakeitare
-মাছৰোকাজনী	masrukazoni
-মাছৰোকাজনীক	masrukazonik
-মাছৰোকাজনীত	masrukatut
-মাছৰোকাজনীয়ে	masrukazonie
-মাছৰোকাজনীলৈ	masrukazoniloi
-মাছৰোকাজনীলৈকে	masrukazoniloike
-মাছৰোকাজনীৰ	masrukazonir
-মাছৰোকাজনীৰে	masrukazonire
-মাছৰোকাটো	masrukatu
-মাছৰোকাটোক	masrukatuk
-মাছৰোকাটোত	masrukatut
-মাছৰোকাটোলৈ	masrukatuloi
-মাছৰোকাটোলৈকে	masrukatuloike
-মাছৰোকাটোৰ	masrukatur
-মাছৰোকাটোৰে	masrukature
-মাছৰোকাটোৱে	masrukatue
 মাছৰোকাত	masrukat
-মাছৰোকাবিলাক	masrukabilak
-মাছৰোকাবিলাকক	masrukabilakok
-মাছৰোকাবিলাকত	masrukabilakot
-মাছৰোকাবিলাকলৈ	masrukabilakoloi
-মাছৰোকাবিলাকলৈকে	masrukabilakoloike
-মাছৰোকাবিলাকে	masrukabilake
-মাছৰোকাবিলাকেৰে	masrukabilakere
-মাছৰোকাবিলাকৰ	masrukabilakor
-মাছৰোকাবোৰ	masrukabur
-মাছৰোকাবোৰক	masrukaburok
-মাছৰোকাবোৰত	masrukaburot
-মাছৰোকাবোৰলৈ	masrukaburoloi
-মাছৰোকাবোৰলৈকে	masrukaburoloike
-মাছৰোকাবোৰে	masrukabure
-মাছৰোকাবোৰেৰে	masrukaburere
-মাছৰোকাবোৰৰ	masrukaburor
-মাছৰোকায়ে	masrukae
 মাছৰোকালৈ	masrukaloi
 মাছৰোকালৈকে	masrukaloike
 মাছৰোকাৰ	masrukar
@@ -86526,6 +86394,14 @@ as হাৰিয়ানা	hariana
 মামৰত	mamorot
 মামৰলৈ	mamoroloi
 মামৰলৈকে	mamoroloike
+মামৰী	mamori
+মামৰীক	mamorik
+মামৰীত	mamorit
+মামৰীয়ে	mamorie
+মামৰীলৈ	mamoriloi
+মামৰীলৈকে	mamoriloike
+মামৰীৰ	mamorir
+মামৰীৰে	mamorire
 মামৰে	mamore
 মামৰেৰে	mamorere
 মামৰৰ	mamoror
@@ -89552,50 +89428,9 @@ as হাৰিয়ানা	hariana
 ম’নাক’	monako
 ম’হ	moh
 ম’হক	mohok
-ম’হকেইজনী	mohkeizoni
-ম’হকেইজনীক	mohkeizonik
-ম’হকেইজনীত	mohkeizonit
-ম’হকেইজনীয়ে	mohkeizonie
-ম’হকেইজনীলৈ	mohkeizoniloi
-ম’হকেইজনীৰ	mohkeizonir
-ম’হকেইজনীৰে	mohkeizonire
-ম’হকেইটা	mohkeita
-ম’হকেইটাই	mohkeitai
-ম’হকেইটাক	mohkeizonik
-ম’হকেইটাত	mohkeitat
-ম’হকেইটালৈ	mohkeitaloi
-ম’হকেইটাৰ	mohkeitar
-ম’হকেইটাৰে	mohkeitare
-ম’হজনী	mohzoni
-ম’হজনীক	mohzonik
-ম’হজনীত	mohzonit
-ম’হজনীয়ে	mohzonie
-ম’হজনীলৈ	mohzoniloi
-ম’হজনীৰ	mohzonir
-ম’হজনীৰে	mohzonire
-ম’হটো	mohtu
-ম’হটোক	mohtuk
-ম’হটোত	mohtut
-ম’হটোলৈ	mohtuloi
-ম’হটোৰ	mohtur
-ম’হটোৰে	mohture
-ম’হটোৱে	mohtue
 ম’হত	mohot
-ম’হবিলাক	mohbilak
-ম’হবিলাকক	mohbilakok
-ম’হবিলাকত	mohbilakot
-ম’হবিলাকলৈ	mohbilakoloi
-ম’হবিলাকে	mohbilake
-ম’হবিলাকেৰে	mohbilakere
-ম’হবিলাকৰ	mohbilakor
-ম’হবোৰ	mohbur
-ম’হবোৰক	mohburok
-ম’হবোৰত	mohburot
-ম’হবোৰলৈ	mohburoloi
-ম’হবোৰে	mohbure
-ম’হবোৰেৰে	mohburere
-ম’হবোৰৰ	mohburor
 ম’হলৈ	moholoi
+ম’হলৈকে	moholoike
 ম’হে	mohe
 ম’হেৰে	mohere
 ম’হৰ	mohor
@@ -89740,6 +89575,12 @@ as হাৰিয়ানা	hariana
 যঁতৰেৰে	zotorere
 যঁতৰৰ	zotoror
 যকৃৎ	zokrit
+যচা	zosa
+যচা নাই	zosa nai
+যচা নাছিলা	zosa nasila
+যচা নাছিলি	zosa nasili
+যচা নাছিলে	zosa nasile
+যচা নাছিলোঁ	zosa nasilu
 যন্ত্ৰ	zontro
 য়	y
 য়	yo
@@ -89795,6 +89636,7 @@ as হাৰিয়ানা	hariana
 যাঁতলৈকে	zatoloike
 যাঁতি	zati
 যাঁতিক	zatik
+যাঁতিকাঁহী	zatikahi
 যাঁতিত	zatit
 যাঁতিয়ে	zatie
 যাঁতিলৈ	zatiloi
@@ -89808,6 +89650,66 @@ as হাৰিয়ানা	hariana
 যাওঁক	zauk
 যাওঁতা	zauta
 যাওঁতে	zaute
+যাচ	zas
+যাচ	zaso
+যাচঁতী	zasoti
+যাচক	zasok
+যাচা	zasa
+যাচাত	zasat
+যাচি	zasi
+যাচি আছ	zasi aso
+যাচি আছা	zasi asa
+যাচি আছিলা	zasi asila
+যাচি আছিলি	zasi asili
+যাচি আছিলে	zasi asile
+যাচি আছিলোঁ	zasi asilu
+যাচি আছে	zasi ase
+যাচি আছোঁ	zasi asu
+যাচি থকা নাই	zasi thoka nai
+যাচি থকা নাছিলা	zasi thoka nasila
+যাচি থকা নাছিলি	zasi thoka nasili
+যাচি থকা নাছিলে	zasi thoka nasile
+যাচি থকা নাছিলোঁ	zasi thoka nasilu
+যাচি থাকিব	zasi thakibo
+যাচি থাকিবা	zasi thakiba
+যাচি থাকিবি	zasi thakibi
+যাচি থাকিম	zasi thakim
+যাচি নাথাক	zasi nathako
+যাচি নাথাকা	zasi nathaka
+যাচি নাথাকিব	zasi nathakibo
+যাচি নাথাকিবা	zasi nathakiba
+যাচি নাথাকিবি	zasi nathakibi
+যাচি নাথাকিম	zasi nathakim
+যাচি নাথাকে	zasi nathake
+যাচি নাথাকোঁ	zasi nathaku
+যাচি যাচি	zasi zasi
+যাচিছ	zasiso
+যাচিছা	zasisa
+যাচিছিলা	zasisila
+যাচিছিলি	zasisili
+যাচিছিলে	zasisile
+যাচিছিলোঁ	zasisilu
+যাচিছে	zasise
+যাচিছোঁ	zasisu
+যাচিব	zasibo
+যাচিবলগা	zasibologa
+যাচিবলগীয়া	zasibologia
+যাচিবলৈ	zasiboloi
+যাচিবলৈকে	zasiboloike
+যাচিবা	zasiba
+যাচিবি	zasibi
+যাচিবৰ	zasibor
+যাচিম	zasim
+যাচিলত	zasilot
+যাচিলা	zasila
+যাচিলি	zasili
+যাচিলে	zasile
+যাচিলোঁ	zasilu
+যাচে	zase
+যাচোঁ	zasu
+যাচোঁতা	zasuta
+যাচোঁতে	zasute
+যাচোঁতে যাচোঁতে	zasute zasute
 যাদু	zadu
 যাদু খেল	zadu khel
 যাদু খেলক	zadu khelok
@@ -92402,6 +92304,7 @@ as হাৰিয়ানা	hariana
 শ	x
 শ	xo
 শই	xoi
+শইকীয়া	xoikia
 শইচ	xois
 শইচক	xoisok
 শইচখিনি	xoiskhini
@@ -94086,6 +93989,14 @@ as হাৰিয়ানা	hariana
 শীতকাল	xitokal
 শীতল	xitol
 শু	xu
+শুঁৰ	xur
+শুঁৰক	xurok
+শুঁৰত	xurot
+শুঁৰলৈ	xuroloi
+শুঁৰলৈকে	xuroloike
+শুঁৰে	xure
+শুঁৰেৰে	xurere
+শুঁৰৰ	xuror
 শুই	xui
 শুই আছ	xui aso
 শুই আছা	xui asa
@@ -94992,6 +94903,16 @@ as হাৰিয়ানা	hariana
 শ’লৰ	xolor
 ষ	s
 ষ	x
+ষাঁড়	xar
+ষাঁড়ক	xarok
+ষাঁড়গৰু	xargoru
+ষাঁড়ত	xarot
+ষাঁড়লৈ	xaroloi
+ষাঁড়লৈকে	xaroloike
+ষাঁড়ে	xare
+ষাঁড়েৰে	xarere
+ষাঁড়ৰ	xaror
+ষাঁৰ	xar
 ষাঠি	xathi
 ষোল্ল	xullo
 ষ্ট'নহেঞ্জ	stonohenzo
@@ -96187,39 +96108,7 @@ as হাৰিয়ানা	hariana
 সাবট	xaboto
 সাবটঁতী	xabototi
 সাবটক	xabotok
-সাবটকেইটা	xabotkeita
-সাবটকেইটাই	xabotkeitai
-সাবটকেইটাক	xabotkeitak
-সাবটকেইটাত	xabotkeitat
-সাবটকেইটালৈ	xabotkeitaloi
-সাবটকেইটালৈকে	xabotkeitaloike
-সাবটকেইটাৰ	xabotkeitar
-সাবটকেইটাৰে	xabotkeitare
-সাবটটো	xabottu
-সাবটটোক	xabottuk
-সাবটটোত	xabottut
-সাবটটোলৈ	xabottuloi
-সাবটটোলৈকে	xabottuloike
-সাবটটোৰ	xabottur
-সাবটটোৰে	xabotture
-সাবটটোৱে	xabottue
 সাবটত	xabotot
-সাবটবিলাক	xabotbilak
-সাবটবিলাকক	xabotbilakok
-সাবটবিলাকত	xabotbilakot
-সাবটবিলাকলৈ	xabotbilakoloi
-সাবটবিলাকলৈকে	xabotbilakoloike
-সাবটবিলাকে	xabotbilake
-সাবটবিলাকেৰে	xabotbilakere
-সাবটবিলাকৰ	xabotbilakor
-সাবটবোৰ	xabotbur
-সাবটবোৰক	xabotburok
-সাবটবোৰত	xabotburot
-সাবটবোৰলৈ	xabotburoloi
-সাবটবোৰলৈকে	xabotburoloike
-সাবটবোৰে	xabotbure
-সাবটবোৰেৰে	xabotburere
-সাবটবোৰৰ	xabotburor
 সাবটলৈ	xabotoloi
 সাবটলৈকে	xabotoloike
 সাবটা	xabota
@@ -96505,8 +96394,78 @@ as হাৰিয়ানা	hariana
 সাৰেৰে	xarere
 সাৰৰ	xaror
 সাৱট	xawot
+সাৱট	xawoto
 সাৱট মাৰি ধৰ	xawot mari dhor
+সাৱটঁতী	xawototi
+সাৱটক	xawotok
+সাৱটত	xawotot
+সাৱটলৈ	xawotoloi
+সাৱটলৈকে	xawotoloike
+সাৱটা	xawota
+সাৱটা নাই	xawota nai
+সাৱটা নাছিলা	xawota nasila
+সাৱটা নাছিলি	xawota nasili
+সাৱটা নাছিলে	xawota nasile
+সাৱটা নাছিলোঁ	xawota nasilu
+সাৱটা-সাৱটি	xawotaxawoti
+সাৱটাত	xawotat
+সাৱটি	xawoti
+সাৱটি আছ	xawoti aso
+সাৱটি আছা	xawoti asa
+সাৱটি আছিলা	xawoti asila
+সাৱটি আছিলি	xawoti asili
+সাৱটি আছিলে	xawoti asile
+সাৱটি আছিলোঁ	xawoti asilu
+সাৱটি আছে	xawoti ase
+সাৱটি আছোঁ	xawoti asu
+সাৱটি থকা নাই	xawoti thoka nai
+সাৱটি থকা নাছিলা	xawoti thoka nasila
+সাৱটি থকা নাছিলি	xawoti thoka nasili
+সাৱটি থকা নাছিলে	xawoti thoka nasile
+সাৱটি থকা নাছিলোঁ	xawoti thoka nasilu
+সাৱটি থাকিব	xawoti thakibo
+সাৱটি থাকিবা	xawoti thakiba
+সাৱটি থাকিবি	xawoti thakibi
+সাৱটি থাকিম	xawoti thakim
 সাৱটি ধৰ	xawoti dhor
+সাৱটি নাথাক	xawoti nathako
+সাৱটি নাথাকা	xawoti nathaka
+সাৱটি নাথাকিব	xawoti nathakibo
+সাৱটি নাথাকিবা	xawoti nathakiba
+সাৱটি নাথাকিবি	xawoti nathakibi
+সাৱটি নাথাকিম	xawoti nathakim
+সাৱটি নাথাকে	xawoti nathake
+সাৱটি নাথাকোঁ	xawoti nathaku
+সাৱটি সাৱটি	xawoti xawoti
+সাৱটিছ	xawotiso
+সাৱটিছা	xawotisa
+সাৱটিছিলা	xawotisila
+সাৱটিছিলি	xawotisili
+সাৱটিছিলে	xawotisile
+সাৱটিছিলোঁ	xawotisilu
+সাৱটিছে	xawotise
+সাৱটিছোঁ	xawotisu
+সাৱটিব	xawotibo
+সাৱটিবলগা	xawotibologa
+সাৱটিবলগীয়া	xawotibologia
+সাৱটিবলৈ	xawotiboloi
+সাৱটিবলৈকে	xawotiboloike
+সাৱটিবা	xawotiba
+সাৱটিবি	xawotibi
+সাৱটিবৰ	xawotibor
+সাৱটিম	xawotim
+সাৱটিলত	xawotilot
+সাৱটিলা	xawotila
+সাৱটিলি	xawotili
+সাৱটিলে	xawotile
+সাৱটিলোঁ	xawotilu
+সাৱটে	xawote
+সাৱটোঁ	xawotu
+সাৱটোঁতা	xawotuta
+সাৱটোঁতে	xawotute
+সাৱটোঁতে সাৱটোঁতে	xawotute xawotute
+সাৱটেৰে	xawotere
+সাৱটৰ	xawotor
 সি	xi
 সি অকলশৰীয়া।	xi okolxoria
 সি পানীত পৰিলে।	xi panit porile
@@ -98941,6 +98900,14 @@ as হাৰিয়ানা	hariana
 হাঙৰেৰে	hanorere
 হাঙৰৰ	hanoror
 হাজাৰ	hazar
+হাজৰিকা	hazorika
+হাজৰিকাই	hazorikai
+হাজৰিকাক	hazorikak
+হাজৰিকাত	hazorikat
+হাজৰিকালৈ	hazorikaloi
+হাজৰিকালৈকে	hazorikaloike
+হাজৰিকাৰ	hazorikar
+হাজৰিকাৰে	hazorikare
 হাট	hat
 হাট-বজাৰ	hatbozar
 হাটক	hatok
@@ -101313,7 +101280,9 @@ as হাৰিয়ানা	hariana
 ৰাখোঁতে - ৰাখোঁতে	rakhute  rakhute
 ৰাঙা	rana
 ৰাঙালাও	ranalau
+ৰাজকুঁৱৰী	razkuori
 ৰাজকুঁৱৰী	razokuwori
+ৰাজকোঁৱৰ	razkuor
 ৰাজকোঁৱৰ	razokur
 ৰাজনীতি	razoniti
 ৰাজমিস্ত্ৰী	razomistri
@@ -101404,10 +101373,18 @@ as হাৰিয়ানা	hariana
 ৰাজহাড়ে	razhare
 ৰাজহাড়েৰে	razharere
 ৰাজহাড়ৰ	razharor
+ৰাজহুৱা ক্ষেত্ৰ	razohua khetro
 ৰাজা	raza
 ৰাজ্য	razyo
 ৰাজ্যিক	razyik
 ৰাণী	rani
+ৰাণীক	ranik
+ৰাণীত	ranit
+ৰাণীয়ে	ranie
+ৰাণীলৈ	raniloi
+ৰাণীলৈকে	raniloike
+ৰাণীৰ	ranir
+ৰাণীৰে	ranire
 ৰাতি	rati
 ৰাতিপুৱা	ratipua
 ৰান্ধ	randh
@@ -101573,6 +101550,7 @@ as হাৰিয়ানা	hariana
 ৰামধেনুৰে	ramdhenure
 ৰামধেনুৱে	ramdhenue
 ৰামলৈ	ramoloi
+ৰামায়ণ	ramayon
 ৰামে	rame
 ৰামেৰে	ramere
 ৰামৰ	ramor

@@ -136,6 +136,7 @@ Synonyms: പത്മം	patmam
 അതിസാരം	atisaram
 അതിർത്തി	atirtti
 അത്	atu
+അത് പോലെ	atu pole
 അത്താഴം	attalam
 അത്തി	atti
 അത്തിപ്പഴം	attippalam
@@ -442,6 +443,7 @@ Synonyms: പത്മം	patmam
 അർത്ഥം	arttham
 അർദ്ധരാത്രി	arddharatri
 അർദ്ധവിരാമം	arddhaviramam
+അർദ്ധായുസ്സ്	arddhayussu
 അർബുദം	arbudam
 അർമേനിയ	armeniya
 അർമ്മഗദോൻ	armmagadon
@@ -664,6 +666,7 @@ Synonyms: പത്മം	patmam
 ഇടുക	ituka
 ഇടുക്കി	itukki
 ഇടുങ്ങിയ	itunniya
+ഇടുപ്പ്	ituppu
 ഇട്ടി	itti
 ഇഡലി	idali
 ഇഡ്ഡലി	iddali
@@ -1128,6 +1131,7 @@ Synonyms: പത്മം	patmam
 ഔഷധ	ausadha
 ഔഷധം	ausadham
 ഔഷധശാസ്ത്രം	ausadhasastram
+ഔഷധാലയം	ausadhalayam
 ഔഷധി	ausadhi
 ക	ka
 കംബോഡിയ	kambodiya
@@ -1181,6 +1185,7 @@ Synonyms: പത്മം	patmam
 കണങ്കാൽ	kanankal
 കണവ	kanava
 കണിക	kanika
+കണികാഭൗതികം	kanikabhautikam
 കണിക്കൊന്ന	kanikkonna
 കണ്ഠമാല	kanthamala
 കണ്ണ	kanna
@@ -1408,6 +1413,7 @@ Synonyms: പത്മം	patmam
 കാരാഗൃഹം	karagrham
 കാര്	karu
 കാര്യം	karyam
+കാര്യക്രമം	karyakramam
 കാര്യമായ	karyamaya
 കാര്യാലയം	karyalayam
 കാരൻ	karan
@@ -1415,6 +1421,7 @@ Synonyms: പത്മം	patmam
 കാറ്റ്	karru
 കാലം	kalam
 കാലഗണനാരീതി	kalagananariti
+കാലദർശം	kaladarsam
 കാലാവധി	kalavadhi
 കാലാവസ്ഥ	kalavastha
 കാലാവസ്ഥാവ്യതിയാനം	kalavasthavyatiyanam
@@ -1433,10 +1440,12 @@ Synonyms: പത്മം	patmam
 കാഹളം	kahalam
 കാർ	kar
 കാർഡ്ബോർഡ്	kardbordu
+കാർവ്വലയം	karvvalayam
 കാൽ	kal
 കാൽമുട്ട്	kalmuttu
 കാൽവിരൽ	kalviral
 കാൽസ്യം ഹൈഡ്രോക്സൈഡ്	kalsyam haidroksaidu
+കിങ്കിര	kinkira
 കിങ്ങ് ആർതർ	kinn artar
 കിടക്കുക	kitakkuka
 കിടപ്പുമുറി	kitappumuri
@@ -1829,12 +1838,14 @@ Synonyms: പത്മം	patmam
 ഗാന്ധി	gandhi
 ഗാന്ധിനഗർ	gandhinagar
 ഗായം	gayam
+ഗായകൻ	gayakan
 ഗായത്രീ	gayatri
 ഗാസ	gasa
 ഗാസ സ്ട്രിപ്പ്	gasa strippu
 ഗിരം	giram
 ഗീതം	gitam
 ഗീതകം	gitakam
+ഗീവർഗീസ്	givargisu
 ഗുജറാത്ത്	gujarattu
 ഗുജറാത്ത്‌	gujaratt
 ഗുണം	gunam
@@ -1890,6 +1901,7 @@ Synonyms: പത്മം	patmam
 ഗ്ലാസ	glasa
 ഗ്ലാസ്ഗോ	glasgo
 ഗ്ലൈഡർ	glaidar
+ഗ്ലൗ	glau
 ഗ്വാഡലഹാര	gvadalahara
 ഗൗരവമുള്ള	gauravamulla
 ഗർഭം	garbham
@@ -2141,6 +2153,7 @@ Synonyms: പത്മം	patmam
 ജഡം	jadam
 ജഡത്വം	jadatvam
 ജഡ്ജി	jadji
+ജനകൻ	janakan
 ജനനം	jananam
 ജനനത്തീയതി	jananattiyati
 ജനനി	janani
@@ -2182,6 +2195,7 @@ Synonyms: പത്മം	patmam
 ജാഫ്ന	japhna
 ജാമ്യം	jamyam
 ജായര	jayara
+ജായസവാല	jayasavala
 ജാലകം	jalakam
 ജിജ്ഞാസ	jijnasa
 ജിറാഫ്	jiraphu
@@ -2216,6 +2230,8 @@ Synonyms: പത്മം	patmam
 ജോളി റോജർ	joli rojar
 ജോസഫ്	josaphu
 ജോൻ ഓഫ് ആർക്ക്	jon oph arkku
+ജോർജ്	jorju
+ജോർജ്ജ്‌	jorjj
 ജൈനമതം	jainamatam
 ജൈവദീപ്തി	jaivadipti
 ജൈവഭൂമിശാസ്ത്രം	jaivabhumisastram
@@ -2398,6 +2414,7 @@ Synonyms: പത്മം	patmam
 താജിക്കിസ്ഥാന്‍	tajikkisthan
 താജ് മഹൽ	taju mahal
 താടി	tati
+താത	tata
 താത്പര്യം	tatparyam
 താത്പര്യവ്യത്യാസം	tatparyavyatyasam
 താതൻ	tatan
@@ -2729,6 +2746,7 @@ Synonyms: പത്മം	patmam
 ധനം	dhanam
 ധനഞ്ജയൻ	dhananjayan
 ധനു	dhanu
+ധന്വം	dhanvam
 ധമനികൾ	dhamanikal
 ധര	dhara
 ധാക്ക	dhakka
@@ -3407,6 +3425,7 @@ Synonyms: പത്മം	patmam
 പൊട്ടൻ	pottan
 പൊണ്ണത്തടിയുള്ള	ponnattatiyulla
 പൊതി	poti
+പൊതുസഞ്ചയം	potusancayam
 പൊന്ന്	ponnu
 പൊന്മാൻ	ponman
 പൊയ്ക	poyka
@@ -3440,6 +3459,7 @@ Synonyms: പത്മം	patmam
 പോരടിക്കുക	poratikkuka
 പോരാടുക	poratuka
 പോരായ്മ	porayma
+പോരാളി	porali
 പോരുക	poruka
 പോര്	poru
 പോലീസ്	polisu
@@ -3831,6 +3851,7 @@ Synonyms: പത്മം	patmam
 മധുര നാരങ്ങ	madhura naranna
 മധുരം	madhuram
 മധുരക്കിഴങ്ങ്	madhurakkilannu
+മധ്യധരണ്യാഴി	madhyadharanyali
 മധ്യപ്രദേശ്	madhyapradesu
 മധ്യപ്രദേശ്‌	madhyaprades
 മധ്യാഹ്നം	madhyahnam
@@ -4251,6 +4272,7 @@ Synonyms: പത്മം	patmam
 രക്ഷിയ്ക്കുക	raksiykkuka
 രങ്കൂണ	rankuna
 രചന	racana
+രണം	ranam
 രണ്ടാം	rantam
 രണ്ടാമത്തെ	rantamatte
 രണ്ടിലൊന്ന്	rantilonnu
@@ -4363,6 +4385,7 @@ Synonyms: പത്മം	patmam
 ലക്ഷ്യം	laksyam
 ലക്ഷ്യം വയ്ക്കുക	laksyam vaykkuka
 ലഘുഭക്ഷണശാല	laghubhaksanasala
+ലഘുയന്ത്രം	laghuyantram
 ലങ്കാരി	lankari
 ലജ്ജ	lajja
 ലണ്ടൻ	lantan
@@ -4802,6 +4825,7 @@ Synonyms: പത്മം	patmam
 വൻകുടൽ	vankutal
 വൻപയർ	vanpayar
 വർഗ്ഗം	varggam
+വർഗ്ഗീസ്	varggisu
 വർണ്ണവിവേചനം	varnnavivecanam
 വർണ്ണാന്ധത	varnnandhata
 വർത്തമാനം	varttamanam
@@ -5137,6 +5161,7 @@ Synonyms: പത്മം	patmam
 സോഡിയം	sodiyam
 സോപ്പ്	soppu
 സോയ	soya
+സോളാർ പാനൽ	solar panal
 സോവിയറ്റ് യൂണിയന്	soviyarru yuniyanu
 സോഷം	sosam
 സോഷ്യലിസം	sosyalisam

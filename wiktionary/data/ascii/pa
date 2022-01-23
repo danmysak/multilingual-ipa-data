@@ -45,6 +45,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 اَخبار نَویس	axbar naues
 اَللَہ دے حَوالے	allah de havale
 اَمل	aml
+اَمْب	amb
 اَنَکھ	anakh
 اَنْمُلّا	anmulla
 اَݨَکھ	anakh
@@ -57,6 +58,8 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 اِکّ	ikk
 آ	alif mada
 آسمان	asman
+آسْٹَرِیا	astariya
+آسٹریا	astariya
 آواجائی	avajai
 آٹا	ata
 آکاش	akas
@@ -105,6 +108,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 بڑے	bare
 بگانہ	biganah
 بھ	bh
+بھان٘ویں	bhanven
 بھرا	bhara
 بھلا	bhalla
 بھین	bhain
@@ -182,8 +186,10 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 جینساز	jensaz
 جیٹھ	jeth
 حد	hadd
+حرام زادہ	haram zadah
 حسن	husan
 حَدّ	hadd
+حَرام زادَہ	haram zadah
 حَق بُوْہا	haq buha
 حُسَن	husan
 حیوان	haivan
@@ -296,6 +302,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 سننا	sunna
 سنگھ	singh
 سنگھنی	singhni
+سنیہا	saneha
 سنیہا	suneha
 سور	sur
 سورج	suraj
@@ -303,12 +310,16 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 سوہی	sohi
 سویرے	sauere
 سَنسکرِت	sanskrit
+سَنیہا	saneha
+سَنیہا	suneha
 سَویرے	sauere
 سَٹّ	satt
 سَپّ	sapp
 سُنَیرا	sunaira
 سُنیارا	suniyara
+سُنیْہا	saneha
 سُنیْہا	suneha
+سُنیہا	suneha
 سُوْر	sur
 سُݨنا	sunna
 سِر	sir
@@ -525,6 +536,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ولّوں	vallo
 وئست	vyast
 وَبا	vaba
+وَدّھِیا	vaddhiya
 وَدھݨا	vadhna
 وَرتَن	vartan
 وَرتَن٘ڑ	vartanr
@@ -546,6 +558,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ویاہ	viyah
 ویران	viran
 ویرانی	virani
+ویلا	vela
 ویْد	ved
 ویکھنا	vekhna
 ویکھݨا	vekhna
@@ -588,19 +601,32 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 پنجابی	pnjabi
 پنجابی	punjabi
 پنچھی	panchi
+پنڈ	pind
+پوڑی	pauri
 پَتَّر کُسیْڑُو	pattar kuseru
 پَراگا	paraga
 پَراں مَر	paran mar
 پَنجابَݨ	panjaban
 پَندراں	pandran
+پَوڑی	pauri
+پَوڑیاں	pauria
+پَوڑیو	paurio
+پَوڑیے	paurie
 پَٹھاݨ	pathan
 پَہلِی وار	pahli var
+پَیغام	paigam
 پَیْرَس	pairas
 پُتَّر	puttar
 پُتَّرا	puttara
 پُتَّراں	puttaran
 پُتَّرو	puttaro
 پُنجابِی	punjabi
+پِنْڈ	pind
+پِنڈ	pind
+پِنڈا	pinda
+پِنڈاں	pindan
+پِنڈو	pindo
+پِیو	piyo
 پِیݨا	pina
 پڑھائی	parhai
 پڑھائی کراؤنا	parhai karauna
@@ -614,6 +640,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 پیرس	pairas
 پیشوا	pesoa
 پینا	pina
+پیو	piyo
 پیڑ	per
 پیݨا	pina
 چ	che
@@ -621,7 +648,11 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 چاہ	cah
 چاہل	chahal
 چلنا	calna
+چناں	cannan
+چنھاں	cannhan
 چوڑا	caura
+چَنّاں	cannan
+چَنّھاں	cannhan
 چَپیْڑ	caper
 چَپیْڑاں	capera
 چَپیْڑو	capero
@@ -672,6 +703,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 کد	kad
 کدوں	kado
 کدی	kadi
+کرتارپور	kartarpur
 کرنا	karna
 کرناٹک	karnataka
 کرناٹک	krnatk
@@ -696,6 +728,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 کَشمِیر	kasmir
 کَمّ	kamm
 کَڈّھݨا	kaddhna
+کَھجُور	khajur
 کُمْہِیَار	kumhiyar
 کُمہِیار	kumhiyar
 کُوْڑ	kur
@@ -716,6 +749,10 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 کھاڑِی	khari
 کھاڑی	khari
 کھاݨا	khana
+کھجور	khajur
+کھجوراں	khajura
+کھجورو	khajuro
+کھجورے	khajure
 کھوتا	khota
 کھوتا نہ ہوْوے تے!	khota nh hove te
 کھوتیا	khotiya
@@ -915,6 +952,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਅੰਬੋ	ambo
 ਅੰਮ੍ਰਿਤ	ammrit
 ਅੰਮ੍ਰਿਤਸਰ	ammritsar
+ਅੱਖ	akkh
 ਅੱਖ	akkha
 ਅੱਖਰ	akkhar
 ਅੱਖਰੀ	akkhari
@@ -1298,6 +1336,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਆਰਕਟਿਕ ਮਹਾਂਸਾਗਰ	araktik mahansagar
 ਆਰਵੈੱਲ	aravailla
 ਆਰੀਆ	aria
+ਆਲਮੀ ਤਪਸ਼	alami tapas
 ਆਲਸ	alas
 ਆਲੂ	alu
 ਆਲੂਬੁਖ਼ਾਰਾ	alubuxara
@@ -1963,6 +2002,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਕਟੋਗਿਆਂ	katogia
 ਕਟੋਗੇ	katoge
 ਕਠਿਨ	kathin
+ਕਣ ਭੌਤਿਕ ਵਿਗਿਆਨ	kan bhautik vigiana
 ਕਣਕ	kanak
 ਕਣਕਾਂ	kanka
 ਕਣਕੇ	kanke
@@ -2927,6 +2967,10 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਕੱਮ	kamma
 ਕੱਲ੍ਹ	kallh
 ਖ	khakha
+ਖਜੂਰ	khajur
+ਖਜੂਰਾਂ	khajura
+ਖਜੂਰੇ	khajure
+ਖਜੂਰੋ	khajuro
 ਖਰਾਬ	kharab
 ਖਰਾਬੀ	kharabi
 ਖਸਖਸ	khaskhas
@@ -3768,7 +3812,6 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਗੁਜਰਾਂਵਾਲਾ	gujravala
 ਗੁਜਰਾਤ	gujrat
 ਗੁਣਸੂਤਰ	gunsutar
-ਗੁਫਾ	gupha
 ਗੁਰ	gur
 ਗੁਰਦਵਾਰਾ	gurdavara
 ਗੁਰਦਾ	gurda
@@ -5219,6 +5262,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਜ਼ਬੂਰ	zabur
 ਜ਼ਮੀਨ	zamin
 ਜ਼ਰੂਰੀ	zaruri
+ਜ਼ਹਿਰ	zahir
 ਜ਼ਾਕਸਨ	zaksan
 ਜ਼ਾਤ	zat
 ਜ਼ਾਤੀ	zati
@@ -5470,6 +5514,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਜਾਬਰ	jabar
 ਜਾਮਣ	jaman
 ਜਾਮਨੀ	jamni
+ਜਾਯਸਵਾਲ	jayasval
 ਜਾਲ਼	jal
 ਜਾਲ੍ਹਸਾਜ਼ੀ ਕਰਨਾ	jalhsazi karna
 ਜਾਵਾਂ	java
@@ -7352,6 +7397,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਦਸਤਾਨਾ	dastana
 ਦਸਤਾਰ	dastar
 ਦਸੰਬਰ	dasambar
+ਦਹ	dah
 ਦਹਸ਼ਤ	dahsat
 ਦਹਾਕਾ	dahaka
 ਦਹਾਤੁ	dahatu
@@ -8542,6 +8588,9 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਨਿਸਦਿਨ	nisdin
 ਨਿੰਬੂ	nimbu
 ਨਿੱਕਰ	nikkar
+ਨਿੱਕਰਾਂ	nikkara
+ਨਿੱਕਰੇ	nikkare
+ਨਿੱਕਰੋ	nikkaro
 ਨਿੱਕਾ	nikka
 ਨਿੱਕਿਆਂ	nikkia
 ਨਿੱਕੀ	nikki
@@ -8944,6 +8993,10 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਪਗਾਂ	paga
 ਪਗੋ	pago
 ਪਛਤਾਵਾ ਗਰਸਤ	pachtava
+ਪਜਾਰ	pajar
+ਪਜਾਰਾ	pajara
+ਪਜਾਰਾਂ	pajara
+ਪਜਾਰੋ	pajaro
 ਪਟਸਨ	patsan
 ਪਣਜੀ	panji
 ਪਤਝੜ	patjhar
@@ -9640,6 +9693,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਪਾਟੋ	pato
 ਪਾਟੋਗਿਆਂ	patogia
 ਪਾਟੋਗੇ	patoge
+ਪਾਠ	path
 ਪਾਠੀ	pathi
 ਪਾਣਿ	pani
 ਪਾਣੀ	pani
@@ -9795,6 +9849,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਪੀਓਗਿਆਂ	piogia
 ਪੀਓਗੇ	pioge
 ਪੀਕੇ	pike
+ਪੀਚੋ ਬੱਕਰੀ	pico bakkari
 ਪੀਠ	pith
 ਪੀਣ	pin
 ਪੀਣ ਵਾਲ਼ਾ	pin vala
@@ -10296,6 +10351,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਪੈਂਦੇ ਹੋਵੋਗੇ	painde hovoge
 ਪੈਂਦੇ-ਪੈਂਦੇ	paindepainde
 ਪੈਕੇ	paike
+ਪੈਗ਼ਾਮ	paigam
 ਪੈਟਰੋਲ	paitrol
 ਪੈਣ	pain
 ਪੈਣ ਵਾਲ਼ਾ	pain vala
@@ -11618,6 +11674,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਬਾਦਸ਼ਾਹੀ	badsahi
 ਬਾਪ	bap
 ਬਾਮ	bam
+ਬਾਰ	malwai
 ਬਾਰਸ਼	baras
 ਬਾਰਾਂ	bara
 ਬਾਰਾਂ	baram
@@ -12364,6 +12421,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਭੋਜਨ	bhojan
 ਭੋਜਨ ਕਰਨਾ	bhojna karna
 ਭੋਪਾਲ	bhopal
+ਭੌ	bhau
 ਭੌਤਿਕ ਵਿਗਿਆਨ	bhautik vigiana
 ਭੰਗੜਾ	bhangra
 ਭੰਵਰ	bhavar
@@ -13699,6 +13757,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਰੇਲਗੱਡੀਏ	relgaddie
 ਰੇਲਗੱਡੀਓ	relgaddio
 ਰੈਬਟਾ	raibta
+ਰੈਸਟੋਰੈਂਟ	raistoraint
 ਰੋਗ	rog
 ਰੋਜ਼	roz
 ਰੋਜ਼ਾ	roza
@@ -15468,6 +15527,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸਰੀਰੋ	sariro
 ਸਰੂ	saru
 ਸਰੂ ਕੱਦ	saru kadda
+ਸਲਾਮ	salam
 ਸਲਾਹ	salah
 ਸਲੀਬ	salib
 ਸਵਖਤਾ	savkhata
@@ -15480,6 +15540,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸਵਿਟਜ਼ਰਲੈਂਡ	savitzaralaind
 ਸਵੀਡਨ	savidan
 ਸਵੇਰ	saver
+ਸਵੇਰ ਦਾ ਤਾਰਾ	saver da tara
 ਸਵੇਰੇ	savere
 ਸਸਤਾ	sasta
 ਸਸਤਿਆਂ	sastia
@@ -15533,6 +15594,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸ਼ਾਨ	san
 ਸ਼ਾਬਾਸ਼	sabas
 ਸ਼ਾਮ	sam
+ਸ਼ਾਮ ਦਾ ਤਾਰਾ	sam da tara
 ਸ਼ਾਹਦਾਣਾ	sahdana
 ਸ਼ਾਹਮੁਖੀ	sahmukhi
 ਸ਼ਾਹਮੁਖੀ	shahmukhi
@@ -15552,7 +15614,9 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸ਼ੇਰਨੀ	serni
 ਸ਼ੈਤਾਨ	saitan
 ਸ਼ੈਤਾਨੀ ਧਰਮ	saitani dharam
+ਸ਼ੋਣਾ	sona
 ਸ਼ੋਥਾ	sotha
+ਸ਼ੋਹਣਾ	sohna
 ਸ਼ੱਕਰ	sakkar
 ਸ਼ੱਕਰ ਰੋਗ	sakkar rog
 ਸ਼ੱਕਰਾ	sakkara
@@ -15975,6 +16039,10 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸਿੱਧਾ	siddha
 ਸਿੱਧੂ	siddhu
 ਸੀ	si
+ਸੀਟ	sit
+ਸੀਟਾਂ	sita
+ਸੀਟੇ	site
+ਸੀਟੋ	sito
 ਸੀਮਿੰਟ	simint
 ਸੁਆਗਤ	suagat
 ਸੁਆਦ	suad
@@ -16397,6 +16465,7 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸੋਟੀ	soti
 ਸੋਡੀਅਮ	sodiama
 ਸੋਢੀ	sodhi
+ਸੋਣਾ	sona
 ਸੋਨਾ	sona
 ਸੋਨਿਆ	sonia
 ਸੋਨਿਆਂ	sonia
@@ -16547,6 +16616,8 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਸੰਘ	sangh
 ਸੰਝ	sanjh
 ਸੰਦੂਕ	sanduk
+ਸੰਦੇਸ਼	sandes
+ਸੰਦੇਸਾ	sandesa
 ਸੰਧਿਪਾਦ	sandhipad
 ਸੰਧੀ	sandhi
 ਸੰਪਰਕਤਾ	samprakata
@@ -16680,6 +16751,11 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਹੁਕਮੋ	hukmo
 ਹੁਣ	hun
 ਹੁਨਾਲ਼ਾ	hunala
+ਹੁਨਾਲਾ	hunala
+ਹੁਨਾਲਿਆ	hunalia
+ਹੁਨਾਲਿਆਂ	hunalia
+ਹੁਨਾਲਿਓ	hunalio
+ਹੁਨਾਲੇ	hunale
 ਹੁਸਨ	husan
 ਹੁੰਦਾ	hunda
 ਹੁੰਦਾ ਸੀ	hunda si
@@ -16886,7 +16962,6 @@ or ਗੁਰਦ੍ਵਾਰਾ	gurdvara
 ਹੱਡੀਏ	haddie
 ਹੱਡੀਓ	haddio
 ਹੱਥ	hattha
-ਹੱਥ ਕਰਨਾ	hattha karna
 ਹੱਥ ਘੁੱਟਣਾ	hattha ghuttana
 ਹੱਥਾ	hattha
 ਹੱਥਾਂ	hattha

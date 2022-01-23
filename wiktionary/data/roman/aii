@@ -10,7 +10,6 @@
 ܐܘܢܓܠܝܘܢ	ʾiwāngiliyun
 ܐܘܢܓܠܝܘܢ	ʾiwāngiliyune
 ܐܘܪܝܦܝ	urupi
-ܐܘܪܫܠܡ	ʾUrišlem
 ܐܘܪܫܠܡ	ʾorišlim
 ܐܘܪܫܠܡܝ	ʾwrshlmy
 ܐܘܼܪܡܝܼܓ̰ܢܵܝܵܐ	urmijnaya
@@ -24,15 +23,20 @@
 ܐܝܼܛܵܠܝܵܐ	īṭalya
 ܐܝܼܛܵܠܢܝܼܬ	īṭalnit
 ܐܝܼܛܵܠܢܵܝܵܐ	īṭalnaya
+ܐܝܼܠܵܢܵܐ ܕܦܘܼܪܬܩܵܠܵܐ	īlana d-purtqala
 ܐܝܼܣܪܵܐܹܝܠ	īsraʾīl
 ܐܝܼܪܵܢ	iran
 ܐܝܼܪܵܢ	īran
 ܐܝܼܪܵܢܵܝܵܐ	amayrkaya
 ܐܝܼܪܵܢܵܝܵܐ	īranaya
+ܐܟܘܡܐ	kuma
+ܐܟܘܡܐ	kume
+ܐܟܘܡܐ	kumta
 ܐܠܡܢܝܐ	ālmanaya
 ܐܠܡܢܝܐ	ālmanaye
 ܐܠܡܢܝܐ	ālmanayta
 ܐܠܡܢܝܐ	ālmaniya
+ܐܢܓܠܝܐ	anglia
 ܐܢܩܪܐ	ʾanqāra
 ܐܣܦܢܝܐ	ispanaya
 ܐܣܦܢܝܐ	ispanaye
@@ -52,7 +56,9 @@
 ܐܬܘܬܐ	atwate
 ܐܬܘܼܪ	atur
 ܐܬܘܼܪܵܝܵܐ	aturaya
+ܐܲܒ݂ܘܼܢܵܐ	ābuna
 ܐܲܒ݂ܠܵܝܵܐ	olayā
+ܐܲܒ݂ܵܐ	āwa
 ܐܲܠܡܵܢܝܼܬ	ālmanit
 ܐܲܠܡܵܢܝܼܵܐ	ālmaniya
 ܐܲܪܒܥܵܐ	ārbʿa
@@ -62,6 +68,7 @@
 ܐܵܘܬܵܓ݂	otagh
 ܐܵܙܵܕ	azad
 ܐܵܡܝܼܪܘܼܬܵܝܵܐ	amirutaya
+ܐܵܢܔܠܝܵܐ	anglia
 ܐܵܫܘܼܪ	aššur
 ܐܵܫܘܼܪܵܝܵܐ	ˀăššuraya
 ܐܵܬܘܼܪ	ˀăṯūr
@@ -77,17 +84,28 @@
 ܐܸܕܠܲܝܠܹܐ	idlayle
 ܐܸܘܲܢܓܸܠܝܼܘܿܢ m ܐܸܘܲܢܓܸܠܝܼܘܼܢܹ̈ܐ	ʾiwāngiliyun
 ܐܸܘܲܢܓܸܠܝܼܘܿܢ m ܐܸܘܲܢܓܸܠܝܼܘܼܢܹ̈ܐ	ʾiwāngiliyune
+ܐܸܡܵܐ	imma
+ܐܸܢܓܠܝܼܙܝܼܬ	inglīzīt
+ܐܸܢܓܠܝܼܙܢܵܝܵܐ	inglīznaya
 ܐܸܣܦܵܢܝܼܬ	ispanīt
 ܐܸܣܦܵܢܝܼܵܐ	ispaniya
 ܐܸܫܬܲܥܣܲܪ	ištāʿsār
 ܐܸܫܬܵܐ	išta
+ܒܒܐ	baba
+ܒܒܐ	babe
 ܒܚܪܝܢ	baḳrayn
 ܒܝܬ ܢܗܪܝܢ	bêṯ nahrayn
 ܒܝܬܢܝܣܢܐ	bīnīsane
+ܒܪܝܼܛܵܢܝܼܵܐ ܟܲܒܝܼܪܵܐ	brīṭaniya kābīra
 ܒܪܟ	barik
 ܒܪܟ	bariḵ
+ܒܵܒܵܐ	baba
+ܒܵܒܵܐ m ܒܵܒܹ̈ܐ	baba
+ܒܵܒܵܐ m ܒܵܒܹ̈ܐ	babe
+ܒܵܓ݂ܕܵܕ	baghdad
 ܒܵܚܪܵܝܢ	baḳrayn
 ܒܵܚܪܵܝܢܵܝܵܐ	baḳraynaya
+ܒܵܥܘܼܝܵܐ	baʾuya
 ܒܵܪܸܟ	barik
 ܒܵܪܸܟ݂	bariḵ
 ܒܹܝܬ݇ܢܝܼ̈ܣܵܢܹܐ	bīnīsane
@@ -95,17 +113,41 @@
 ܓܠܠܐ	gallā
 ܓܢܐ	gana
 ܓܢܐ	gane
+ܓܪܒܝܐ	gārbya
+ܓܲܪܒܝܵܐ	gārbya
 ܓܵܙܲܥܝܼܪ	gazāʾir
 ܓܵܙܲܥܝܼܪܢܵܝܵܐ	gazāʾirnaya
 ܓܵܢܵܐ	gana
 ܓܵܢܹ̈ܐ	gane
 ܕܘܼܟܬܵܐ	dukta
+ܕܪܡܣܘܩ	dārmsuq
+ܕܲܪܡܣܘܿܩ	dārmsuq
 ܗܕܗܕ	hadhad
 ܗܝܼܣܦܵܢܝܼܵܐ	hīspaniya
 ܗܢܐ	hina
 ܗܿܘ ܪܲܡܫܵܐ	awa rāmša
+ܘܪܩܐ	wāraqa
+ܘܪܩܐ	wāraqe
+ܘܪܩܬܐ	wāraqe
+ܘܪܩܬܐ	wāraqta
+ܘܲܪܵܩܬܵܐ	wāraqta
+ܘܲܪܵܩܬܵܐ f ܘܲܪ̈ܵܩܹܐ	wāraqe
+ܘܲܪܵܩܬܵܐ f ܘܲܪ̈ܵܩܹܐ	wāraqta
+ܘܲܪܵܩܵܐ	wāraqa
+ܘܲܪܵܩܵܐ m ܘܲܪ̈ܵܩܹܐ	wāraqa
+ܘܲܪܵܩܵܐ m ܘܲܪ̈ܵܩܹܐ	wāraqe
 ܘܵܪܵܘܘܼܪܕ	varavurd
 ܙܘܓܠ	zoġal
+ܙܪܓܐ	zarga
+ܙܪܓܐ	zarge
+ܙܪܓܐ	zarigta
+ܙܪܕܐ	zarde
+ܙܲܪܕܹܐ	zarde
+ܙܲܪܕܹܐ	zārde
+ܙܵܪܓܵܐ	zarga
+ܙܵܪܓܵܐ m ܙܵܪܸܓܬܵܐ f ܙܵܖ̈ܓܹܐ	zarga
+ܙܵܪܓܵܐ m ܙܵܪܸܓܬܵܐ f ܙܵܖ̈ܓܹܐ	zarge
+ܙܵܪܓܵܐ m ܙܵܪܸܓܬܵܐ f ܙܵܖ̈ܓܹܐ	zarigta
 ܚܐܪܐ	ḳēra
 ܚܐܪܐ	ḳērta
 ܚܐܪܘܬܐ	ḳēruta
@@ -114,6 +156,12 @@
 ܚܘܘܐ	xūwa
 ܚܘܛܡܠܠܐ	ḳutamālala
 ܚܘܛܡܠܠܐ	ḳutamālale
+ܚܘܪܐ	ḳwara
+ܚܘܪܐ	ḳware
+ܚܘܪܐ	ḳwarta
+ܚܘܵܪܵܐ m ܚܘܵܪܬܵܐ f ܚܘܵܖܹ̈ܐ	ḳwara
+ܚܘܵܪܵܐ m ܚܘܵܪܬܵܐ f ܚܘܵܖܹ̈ܐ	ḳware
+ܚܘܵܪܵܐ m ܚܘܵܪܬܵܐ f ܚܘܵܖܹ̈ܐ	ḳwarta
 ܚܘܼܛܵܡܲܠܵܠܵܐ	ḳutamālala
 ܚܡܫܐ	ḳāmša
 ܚܡܫܥܣܪ	ḳāmšāʿsār
@@ -142,13 +190,28 @@
 ܝܘܪܕܢܢ	yurdnan
 ܝܘܼܪܕܢܵܢ	yurdnan
 ܝܘܼܪܕܢܵܢܵܝܵܐ	yurdnanaya
+ܝܡܐ	yāma
 ܝܡܐ	yāmā
+ܝܡܐ	yāme
+ܝܡܐ	yimma
+ܝܡܐ	yimmate
 ܝܡܢ	yaman
 ܝܪܕܐ	yardā'
+ܝܪܘܩܐ	yāroqa
+ܝܪܘܩܐ	yāroqe
+ܝܪܘܩܐ	yāroqta
+ܝܲܡܬܵܐ	yāmta
+ܝܲܡܵܐ f ܝܲܡܹ̈ܐ	yāma
+ܝܲܡܵܐ f ܝܲܡܹ̈ܐ	yāme
+ܝܲܪܘܿܩܵܐ	yāroqa
 ܝܵܘܡܵܐ m ܝܵܘܡܵܢܹ̈ܐ	yawma
 ܝܵܘܡܵܐ m ܝܵܘܡܵܢܹ̈ܐ	yawmane
 ܝܵܡܵܢ	yaman
 ܝܵܡܵܢܵܝܵܐ	yamanaya
+ܝܸܡܵܐ	yimma
+ܝܸܡܵܐ f ܝܸܡ̈ܬܹ̈ܐ	yimma
+ܝܸܡܵܐ f ܝܸܡ̈ܬܹ̈ܐ	yimmate
+ܝܹܠܦܘܼܓ	yelpug
 ܟ̰ܝܢܐ	čīna
 ܟ̰ܝܼܢܵܐ	čīna
 ܟ̰ܝܼܢܵܝܵܐ	čīnaya
@@ -161,7 +224,9 @@
 ܟܘܵܝܬ	kwayt
 ܟܘܵܝܬܢܵܝܵܐ	kwaytnaya
 ܟܘܼܣܝܼܬܵܐ	kusīta
+ܟܬܒ	katew
 ܟܵܘܸܬܪܵܐ	kawitra
+ܟܵܬܹܒ݂	katew
 ܠܒܢܢ	libnan
 ܠܒܢܢ	liwnan
 ܠܘܒܐ	lyuwe
@@ -188,16 +253,20 @@
 ܡܘܼܫܟܸܠܹ̈ܐ	muškile
 ܡܝܫ	miš
 ܡܝܼܫܹܐ	mišše
+ܡܠܟܘܬܐ ܡܚܝܕܬܐ	mālkuta mḳaydta
+ܡܢܲܦܚܵܢܝܼܬܵܐ	mnāpḳanīta
 ܡܨܪܝܢ	miṣrīn
 ܡܪܟܫ	marakiš
+ܡܲܠܟܘܼܬܵܐ ܡܚܲܝܕܬܵܐ	mālkuta mḳaydta
 ܡܵܠܟܘܼܬܵܐ ܕܐܸܣܦܵܢܝܼܵܐ	malkuta d-ispaniya
 ܡܵܪܵܟܸܫ	marakiš
 ܡܵܪܵܟܸܫܢܵܝܵܐ	marakišnaya
 ܡܵܫܵܟܸܠ̈	mašakil
 ܡܸܨܪܹܝܢ	miṣrīn
+ܢܒ݂ܘܟܲܕܢܵܨܵܪ	nwukādnaṣar
 ܢܝܢܘܐ	nīnwē
 ܢܝܼܢܘܹܐ	nīnwē
-ܢܲܦ̮ܫܵܐ	nāfša
+ܢܲܦ̮ܫܵܐ	nawša
 ܢܸܒ݂ܥܵܐ	niwʿa
 ܣܘܪܝܐ	c
 ܣܘܪܝܐ	f
@@ -218,10 +287,17 @@
 ܣܝܦܐ	sajp̄ō
 ܣܝܦܪ	sīpar
 ܣܝܼܦܵܪ	sīpar
-ܣܡܘܩܐ	smuqa
+ܣܟܘܛܝܐ	skuṭiya
+ܣܟܘܼܛܝܵܐ	skuṭia
+ܣܟܘܼܛܝܼܵܐ	skuṭiya
+ܣܟܘܼܛܢܵܝܵܐ	skuṭnaya
+ܣܟܘܼܛܢܼܬ	skuṭnit
+ܣܡܘܩܐ	smoqa
+ܣܡܘܩܐ	smoqe
+ܣܡܘܩܐ	smoqta
 ܣܡܘܩܬܐ	smuqta
 ܣܡܘܼܩܬܵܐ	smuqta
-ܣܡܘܿܩܵܐ	smuqa
+ܣܡܘܿܩܵܐ	smoqa
 ܣܥܘܕܝܐ	saʿudaya
 ܣܥܘܕܝܐ	saʿudaye
 ܣܥܘܕܝܐ	saʿudayta
@@ -258,11 +334,15 @@
 ܦܐܬܠܓܢ	pāṯelgān
 ܦܘܢܕܐ	pundā
 ܦܘܪܬܘܓܠ	purtugal
-ܦܘܪܬܩܠܐ	purtiqala
+ܦܘܪܬܩܠܐ	purtqala
+ܦܘܪܬܩܠܐ	purtqale
+ܦܘܪܬܩܠܐ	purtqalta
 ܦܘܼܪܬܘܼܓܵܠ	purtugal
 ܦܘܼܪܬܘܼܓܵܠܝܼܬ	purtugalīt
 ܦܘܼܪܬܘܼܓܵܠܢܵܝܵܐ	purtugalnaya
+ܦܘܼܪܬܩܵܠܵܐ	purtqala
 ܦܠܣܛܝܢܐ	pālisṭīna
+ܦܢܟܐ	panka
 ܦܪܢܓܝܐ	prāngaya
 ܦܪܢܓܝܐ	prāngaye
 ܦܪܢܓܝܐ	prāngayta
@@ -284,12 +364,14 @@
 ܦܪܵܣܡܲܠܵܠܵܐ m ܦܪܵܣܡܵܠܵܠܹ̈ܐ	prasmālale
 ܦܲܠܸܣܛܝܼܢܵܐ	pālistīna
 ܦܲܠܸܣܛܝܼܢܵܐ	pālisṭīna
+ܦܵܢܟܵܐ	panka
 ܩܘܼܠܘܼܓ݂	k̭ullux
 ܩܘܼܪܕܵܝܵܐ	qurdaya
 ܩܛܪ	qaṭar
 ܩܝܛܐ	qayṭa
 ܩܝܛܐ	qīṭa
 ܩܝܼܛܵܐ	qīṭa
+ܩܝܼܢܵܐ	qīna
 ܩܠܡܐ	qalama
 ܩܢܒܪܐ	qanberā
 ܩܲܝܛܵܐ	qayṭa
@@ -297,10 +379,14 @@
 ܩܵܛܵܪܵܝܵܐ	qaṭraya
 ܫܒܥܐ	šawʿa
 ܫܒܥܣܪ	šāwāʿsār
+ܫܘܼܦܪܵܐ	šupra
+ܫܘܼܪܛܵܐ	šurṭa
 ܫܠܡܐ	šlāmā
 ܫܡܫܐ	šimšā
 ܫܲܒ݂ܥܵܐ	šawʿa
 ܫܲܒ݂ܲܥܣܲܪ	šāwāʿsār
+ܫܵܥܘܿܬ݂ܵܐ	šaʾuṯa
+ܫܸܦܬܝܼܵܐ	šiptiya
 ܫܹܠܵܬܹܐ	shelati
 ܬܘܠܐ	tōlā
 ܬܘܢܣܝܐ	tunisaya
@@ -319,6 +405,7 @@
 ܬܪܸܥܣܲܪ	triʿsār
 ܬܪܹܝ	tre
 ܬܫܪܝܐ	tishriye
+ܬܲܝܡܢܵܐ	taymna
 ܬܲܪܬܹܝܢ	tārtīn
 ܬܸܠܬܲܥܣܲܪ	tltaʿsār
 ܬܸܫܪ̈ܝܹܐ	tishriye

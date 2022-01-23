@@ -243,6 +243,8 @@
 அட்டவண்ணைத்திருக்கை	attavannaittirukkai
 அட்டாங்கம்	attankam
 அட்டிகை	attikai
+அட்டு	attu
+அட்டு	madras bashai
 அட்டை	attai
 அணாவு	anavu
 அணி	ani
@@ -510,6 +512,7 @@
 அரைத்தல்	araittal
 அரைநெல்லி	arainelli
 அரைப்பு	araippu
+அரைவாழ்வுக் காலம்	araivalvuk kalam
 அரைவை	araivai
 அர்க்காரி	arkkari
 அர்க்கார்	arkkar
@@ -791,6 +794,7 @@
 ஆடம்பரம்	atamparam
 ஆடல்	atal
 ஆடாதோடை	atatotai
+ஆடி	ati
 ஆடிக்காற்று	atikkarru
 ஆடு	atu
 ஆடுமாடு	atumatu
@@ -1127,6 +1131,7 @@
 இயற்கைப்பொருள்	iyarkaipporul
 இயற்பியல்	iyarpiyal
 இயல்	iyal
+இயல் மடக்கை	iyal matakkai
 இயல்பு	iyalpu
 இயல்புகணம்	iyalpukanam
 இயல்பூதி	iyalputi
@@ -1177,12 +1182,12 @@
 இரிஞன்	irinan
 இரிடியம்	iritiyam
 இரு	iru
-இருஇருக்கின்றன	iruirukkinrana
-இருஇருக்கிறார்கள்	iruirukkirarkal
 இருக்கவில்லை	irukkavillai
+இருக்கின்றன	irukkinrana
 இருக்கிறது	irukkiratu
 இருக்கிறான்	irukkiran
 இருக்கிறாய்	irukkiray
+இருக்கிறார்கள்	irukkirarkal
 இருக்கிறாள்	irukkiral
 இருக்கிறீர்கள்	irukkirirkal
 இருக்கிறேன்	irukkiren
@@ -1920,6 +1925,7 @@
 எளிமை	elimai
 எளிமையான	elimaiyana
 எளிய	eliya
+எளிய இயந்திரம்	eliya iyantiram
 எள்	el
 எள்ளளவும்	ellalavum
 எள்ளிடை	ellitai
@@ -2046,6 +2052,7 @@
 ஒக்கல்	okkal
 ஒக்சித்தானியா	okcittaniya
 ஒசுலோ	oculo
+ஒஞ்சி	onci
 ஒடி	oti
 ஒடிசா	otica
 ஒடுக்கம்	otukkam
@@ -2431,6 +2438,7 @@
 கருப்பட்டி	karuppatti
 கருப்பநீர்	karuppanir
 கருப்பு	karuppu
+கருப்பு ஆற்றல்	karuppu arral
 கருப்பை	karuppai
 கருமம்	karumam
 கருமுட்டை	karumuttai
@@ -3458,6 +3466,7 @@
 கோதுமை	kotumai
 கோபனாவன்	kopanavan
 கோபம்	kopam
+கோபாலன்	kopalan
 கோபுரம்	kopuram
 கோப்பர்நீசியம்	kopparniciyam
 கோப்பி லுவாக்	koppi luvak
@@ -3691,6 +3700,7 @@
 சர்வதேச	carvateca
 சர்வத்திர	carvattira
 சர்வத்திரரும்	carvattirarum
+சர்வாதிகாரம்	carvatikaram
 சறடு	caratu
 சற்பிரசாதம்	carpiracatam
 சலகம்	calakam
@@ -4430,6 +4440,7 @@
 ஜண்டா	janta
 ஜந்து	jantu
 ஜனகம்	janakam
+ஜனநாயகம்	jananayakam
 ஜனனகாண்டம்	jananakantam
 ஜனவரி	janavari
 ஜனாதிபதி	janatipati
@@ -4451,6 +4462,7 @@
 ஜாதி மல்லிகை	jati mallikai
 ஜாதிபத்திரி	jatipattiri
 ஜாநு	janu
+ஜாயஸவால	jayasavala
 ஜாரத்வம்	jaratvam
 ஜார்ஜ்	jarj
 ஜாவா சிட்டுக்குருவி	java cittukkuruvi
@@ -4705,6 +4717,7 @@
 தல்லியம்	talliyam
 தளப்பு	talappu
 தளம்	talam
+தளம்பு	talampu
 தளர்	talar
 தளர்ச்சி	talarcci
 தளர்வு	talarvu
@@ -5066,6 +5079,7 @@
 தீவு	tivu
 தீவேள்	tivel
 தீவேள்வி	tivelvi
+துகள் இயற்பியல்	tukal iyarpiyal
 துகான்	tukan
 துகிர்	tukir
 துக்கக்காரன்	tukkakkaran
@@ -5853,6 +5867,7 @@
 நிஞ்சா	ninca
 நிடூதனன்	nitutanan
 நிட்சணம்	nitcanam
+நிண்டெண்டோ	nintento
 நித்திரை	nittirai
 நித்திரைக்கொட்டாவி	nittiraikkottavi
 நித்திரைச்சோப்பம்	nittiraiccoppam
@@ -6193,6 +6208,7 @@
 பகுநாயகம்	pakunayakam
 பகுரைன்	pakurain
 பகைவன்	pakaivan
+பக்கப் பரப்பு	pakkap parappu
 பக்கம்	pakkam
 பக்கிங்காம் அரண்மனை	pakkinkam aranmanai
 பக்கிரி	pakkiri
@@ -6906,6 +6922,8 @@
 பிரஜை	pirajai
 பிரஞ்சு	pirancu
 பிரதமம்	piratamam
+பிரதமர்	piratamar
+பிரதானம்	piratanam
 பிரதிமை	piratimai
 பிரதேசம்	piratecam
 பிரன்சியம்	piranciyam
@@ -7308,6 +7326,7 @@
 புவியியல்	puviyiyal
 புவெப்லா	puvepla
 புஷபராகம்	pusaparakam
+புஷ்பம்	puspam
 புஸ்தகம்	pustakam
 பூ	pu
 பூகண்டம்	pukantam
@@ -7503,6 +7522,7 @@
 பொச்சு	poccu
 பொடுகு	potuku
 பொட்டு	pottu
+பொது உரிமைப் பரப்பு	potu urimaip parappu
 பொது போக்குவரத்து	potu pokkuvarattu
 பொது முடக்கம்	potu mutakkam
 பொதுச் சேவை அறிவிப்பு	potuc cevai arivippu
@@ -7556,6 +7576,7 @@
 பேச்சு	peccu
 பேச்சுவழக்கு	peccuvalakku
 பேச்சுவார்த்தை	peccuvarttai
+பேடி	peti
 பேட்டை	pettai
 பேதி	peti
 பேதிமருந்து	petimaruntu
@@ -7675,8 +7696,10 @@
 மகாராட்டிரம்	makarattiram
 மகிமை	makimai
 மகிழம்	makilam
+மகிழினி	makilini
 மகிழ்	makil
 மகிழ்ச்சி	makilcci
+மகிழ்வன்	makilvan
 மகுடம்	makutam
 மக்கம்	makkam
 மக்களாட்சி	makkalatci
@@ -7716,6 +7739,7 @@
 மடவை	matavai
 மடிக்கணினி	matikkanini
 மடுத்தல்	matuttal
+மடை	matai
 மட்டக்களப்பு	mattakkalappu
 மட்டு	mattu
 மட்டுக்கோணம்	mattukkonam
@@ -7748,6 +7772,7 @@
 மண்ணுலகு	mannulaku
 மண்புழு	manpulu
 மண்வளம்	manvalam
+மதகு	mataku
 மதநீர்	matanir
 மதனகாந்தச்சேலை	matanakantaccelai
 மதம்	matam
@@ -7909,6 +7934,7 @@
 மர்மம்	marmam
 மற	mara
 மறதி	marati
+மறுகால்	marukal
 மறுகு	maruku
 மறுக்க	marukka
 மறுக்கம்	marukkam
@@ -8322,6 +8348,7 @@
 முற்படு	murpatu
 முற்றிலும்	murrilum
 முலை	mulai
+முலைக்காம்பு	mulaikkampu
 முலையூட்டி	mulaiyutti
 முளரி	mulari
 முளைக்கீரை	mulaikkirai
@@ -8597,6 +8624,7 @@
 ரக்பி	rakpi
 ரக்ஷகன்	raksakan
 ரங்கநாதன்	rankanatan
+ரங்கு	ranku
 ரங்கூன்	rankun
 ரசம்	racam
 ரத்தக்ஷீணரோகம்	rattaksinarokam
@@ -8940,6 +8968,7 @@
 வளர்ப்பு	valarppu
 வளர்ப்பு மகன்	valarppu makan
 வளவன்	valavan
+வளிமம்	valimam
 வளைகாப்பு	valaikappu
 வளைநகமற்ற	valainakamarra
 வளையல்	valaiyal
@@ -9330,6 +9359,7 @@
 விவாகரத்து	vivakarattu
 விவிமா	vivima
 விவிலியம்	viviliyam
+விஷம்	visam
 விஷயசூசிகை	visayacucikai
 விஷாதம்	visatam
 விஷ்ணு	visnu

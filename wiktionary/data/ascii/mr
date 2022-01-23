@@ -28,6 +28,8 @@
 अंतानानारिव्हो	antananarivho
 अंथरूण	anthrun
 अंदाज	andaj
+अंदाज़	andaj
+अंदाज़े	andaje
 अंदाजे	andaje
 अंधकार	andhkar
 अंधार	andhar
@@ -67,6 +69,7 @@
 अटकणे	atakne
 अटलांटिक महासागर	atlantik mahasagar
 अट्लॅन्टिस	atlentis
+अठरा	athra
 अडकणे	adakne
 अडणे	adne
 अडथळा	adathla
@@ -271,9 +274,15 @@
 आगाशे	agase
 आगुआस्कालिएन्तेस	aguaskalientes
 आग्रा	agra
+आचार्य	acarya
 आज	aj
 आजकाल	ajkal
 आजमावणे	ajmavne
+आज़	aj
+आज़काल	ajkal
+आज़मावणे	ajmavne
+आज़ारी	ajari
+आज़ोबा	ajoba
 आजारी	ajari
 आजी	aji
 आजोबा	ajoba
@@ -361,6 +370,7 @@
 आवळा	avla
 आवश्यक	avasyak
 आवाज	avaj
+आवाज़	avaj
 आशा	asa
 आशिया	asiya
 आसंवेग	asauveg
@@ -413,6 +423,7 @@
 इल-द-फ्रांस	ildaphrausa
 इलाची	ilaci
 इलाज	ilaj
+इलाज़	ilaj
 इलायची	ilayci
 इलेक्ट्रिक गिटार	ilektrik gitar
 इलेक्ट्रिशियन	ilektrisiyan
@@ -468,8 +479,10 @@
 उच्च	ucca
 उच्चारणे	uccarne
 उजळणे	ujalne
-उजवं	ujva
 उजवे	ujve
+उज़ळणे	ujalne
+उज़वं	ujva
+उज़वे	ujve
 उजेड	ujed
 उझबेकिस्तान	ujhbekistan
 उटणे	utne
@@ -504,10 +517,12 @@
 उपनिषद्	upnisad
 उपपर्ण	upparna
 उपवास	upvas
+उपहारगृह	uphargruh
 उप्साला	upsala
 उभं राहने	ubha rahne
 उभे	ubhe
 उमजणे	umajne
+उमज़णे	umajne
 उमटणे	umatne
 उमदं	umda
 उमदे	umde
@@ -616,6 +631,7 @@
 ऑस्ट्रेलिया	ostreliya
 ओ	o
 ओंजळ	onjal
+ओंज़ळ	onjal
 ओइता	oita
 ओक	ok
 ओकणे	okne
@@ -680,6 +696,7 @@
 कट	kat
 कटि	kati
 कट्टर	kattar
+कट्यार	katyar
 कठिण	kathin
 कठीण	kathin
 कडं	kada
@@ -838,6 +855,8 @@
 काच	kac
 काजळ	kajal
 काजवा	kajva
+काज़ळ	kajal
+काज़वा	kajva
 काटकसर	kataksar
 काटा	kata
 काठमांडू	kathmandu
@@ -851,6 +870,7 @@
 काताना	katana
 कातालोनिया	kataloniya
 कात्री	katri
+कादंबरी	kadambri
 कान	kan
 कानदुखी	kandukhi
 कानपूर	kanpur
@@ -1005,9 +1025,8 @@
 केला	kela
 केले	kele
 केल्टिक	keltik
-केळ	kel
-केळी	keli
-केळें	kele
+केळं	kela
+केळे	kele
 केवल	keval
 केवळ	keval
 केव्हा	kevha
@@ -1145,6 +1164,7 @@
 खंड	khanda
 खंडी	khandi
 खचणे	khacne
+खज़ूर	khajur
 खजिना	khajina
 खजूर	khajur
 खटला	khatla
@@ -1154,6 +1174,7 @@
 खडा	khada
 खड्डा	khadda
 खणणे	khanne
+खत्रप	khatrap
 खदखदा	khadkhada
 खदखदा हसणे	khadkhada hasne
 खदाखदा	khadakhada
@@ -1172,9 +1193,10 @@
 खरेखुरे	kharekhure
 खरेदी	kharedi
 खर्च	kharca
-खर्च करणे	kharca karne
-खर्च होणे	kharca hone
 खर्चणे	kharcane
+खर्च़	kharca
+खर्च़ करणे	kharca karne
+खर्च़णे	kharcane
 खलाशी	khalasi
 खळबळणे	khalbalne
 खशायर शाह	khasayar sah
@@ -1188,13 +1210,17 @@
 खाज	khaj
 खाजणे	khajne
 खाजवणे	khajavne
+खाज़णे	khajne
+खाज़वणे	khajavne
 खाण	khan
 खाणे	khane
+खाते	khate
 खान	khana
 खाना	khana
 खार	khar
 खाली	khali
 खिडकी	khidki
+खिमा	khima
 खिलाफत	khilaphat
 खिळा	khila
 खिसा	khisa
@@ -1245,6 +1271,8 @@
 गड्डी	gaddi
 गणपती	ganapti
 गणित	ganit
+गफलत	gaphlat
+गफलती	gaphlati
 गभ	gabh
 गमावणे	gamavne
 गमी बेयर्स	gami beyarsa
@@ -1287,6 +1315,9 @@
 गादी	gadi
 गाभारा	gabhara
 गाय	gay
+गायक	gayak
+गार	gar
+गारवा	garva
 गारुडी	garudi
 गार्फील्ड	garphilda
 गार्लिक ब्रेड	garlik bred
@@ -1321,6 +1352,8 @@
 गुदद्वार	gudadvar
 गुन्मा	gunma
 गुन्हा	gunha
+गुन्हेगार	gunhegar
+गुन्हेगारी	gunhegari
 गुपित	gupit
 गुप्त	gupta
 गुरमुखी	gurmukhi
@@ -1681,6 +1714,7 @@
 जाऊ	jau
 जाकातेकास	jakatekas
 जागणे	jagne
+जागतिक तापमानवाढ	jagtik tapmanvadh
 जागा	jaga
 जागे	jage
 जाग्रेब	jagreb
@@ -2120,6 +2154,7 @@
 तापणे	tapne
 तापमान	tapman
 तापी	tapi
+ताबा	taba
 तामिळ	tamil
 तायवान	tayvan
 तारण	taran
@@ -2297,7 +2332,6 @@
 दाइकोन	daikon
 दाइम्यो	daimyo
 दाखल	dakhal
-दाखल होणे	dakhal hone
 दाखवणे	dakhavne
 दागदागिने	dagdagine
 दागिने	dagine
@@ -2567,6 +2601,7 @@
 निराश	niras
 निराशा	nirasa
 निरोध	nirodh
+निरोप	nirop
 निर्गम	nirgam
 निर्दोष	nirdos
 निर्भय	nirbhay
@@ -2756,6 +2791,7 @@
 पहिले	pahile
 पहिले विश्व युद्ध	pahile visva yuddha
 पांगणे	pangne
+पांघरणे	pangharne
 पांघरूण	panghrun
 पांघरूण घालणे	panghrun ghalne
 पांच	panca
@@ -3026,6 +3062,7 @@
 पोल्का	polka
 पोळे	pole
 पोवाडा	povada
+पोशाख	posakh
 पोषाख	posakh
 पोहचणे	pohacne
 पोहणे	pohne
@@ -3058,6 +3095,7 @@
 प्रधान मंत्री	pradhan mantri
 प्रबळ	prabal
 प्रबळ गट	prabal gat
+प्रबोधिका	prabodhika
 प्रभा	prabha
 प्रभात	prabhat
 प्रयत्न	prayatna
@@ -3070,6 +3108,7 @@
 प्राकृत	prakrut
 प्राकृतिक वास	prakrutik vas
 प्राग	prag
+प्राचार्य	pracarya
 प्राणवायू	pranvayu
 प्राणिशास्त्र	pranisastra
 प्राणी	prani
@@ -3101,6 +3140,7 @@
 फकीर	phakir
 फक्त	phakta
 फज	phaj
+फजिती	phajiti
 फडफडणे	phadphadne
 फणस	phanas
 फतवा	phatva
@@ -3363,7 +3403,6 @@
 बुर्सा	bursa
 बुल्ला	bulla
 बुवा	buva
-बुवाबाजी	buvabaji
 बूगी-वूगी	bugivugi
 बूच	buc
 बूट	but
@@ -3539,6 +3578,8 @@
 भारतीय प्रजासत्ताक	bhartiy prajasattak
 भारतीय रानकुत्रा	bhartiy rankutra
 भावंड	bhavanda
+भावजय	bhavjay
+भावज़य	bhavjay
 भावनगर	bhavnagar
 भाषा	bhasa
 भाषा जर्मन	bhasa jarman
@@ -3675,6 +3716,7 @@
 मध्यें	madhye
 मनःशक्ती	manahsakti
 मनगट	mangat
+मनसुबा	mansuba
 मनाचा खुलेपणा	manaca khulepna
 मनुष्य	manusya
 मनोरा	manora
@@ -3911,11 +3953,13 @@
 मुंबईकर	mumbaikar
 मुकणे	mukne
 मुकुल	mukul
+मुके	muke
 मुक्काम	mukkam
 मुक्तछंद	muktachanda
 मुख	mukh
 मुख्य	mukhya
 मुख्यपृष्ठ	mukhyaprustha
+मुख्याध्यापक	mukhyadhyapak
 मुडदा	mudda
 मुतणे	mutne
 मुदत	mudat
@@ -3989,6 +4033,7 @@
 मॉर्मन	morman
 मॉस्को	mosko
 मोकळे	mokle
+मोका	moka
 मोगादिशू	mogadisu
 मोजणे	mojne
 मोजा	moja
@@ -4176,6 +4221,7 @@
 रमणे	ramne
 रमा	rama
 रम्पेलस्टिल्टस्किन	rampelastiltaskin
+रयत	rayat
 रवाना	ravana
 रविवार	ravivar
 रशियन	rasiyan
@@ -4285,6 +4331,7 @@
 रॉम्नी	romni
 रॉम्युलस	romyulas
 रॉयल नेव्ही	royal nevhi
+रोकड	rokad
 रोख	rokh
 रोखठोक	rokhthok
 रोखणे	rokhne
@@ -4649,6 +4696,7 @@
 विश्रांती	visranti
 विश्व	visva
 विश्वकोष	visvakos
+विष	vis
 विष	visa
 विषाणू	visanu
 विषुववृत्त	visuvvrutta
@@ -4839,6 +4887,8 @@
 शेकणे	sekne
 शेक्स्पीयर	sekspiyar
 शेजारी	sejari
+शेट	set
+शेठ	seth
 शेण	sen
 शेत	set
 शेतकरी	setakri
@@ -4977,6 +5027,7 @@
 सरबत	sarbat
 सरळ	saral
 सरळकोन	saralkon
+सरहद्द	sarhadda
 सराफ	saraph
 सरोवर	sarovar
 सर्जन	sarjan
@@ -5060,6 +5111,7 @@
 सारांश करणे	sarausa karne
 सारागोसा	saragosa
 सार्डिनिया	sardiniya
+सार्वजनिक अधिक्षेत्र	sarvajnik adhiksetra
 साल	sal
 साली	sali
 सालेर्नो	salerno
@@ -5145,6 +5197,8 @@
 सुफी	suphi
 सुबारु	subaru
 सुभग बींदू	subhag bindu
+सुभा	subha
+सुभेदार	subhedar
 सुमन	suman
 सुमारे	sumare
 सुमेर	sumer

@@ -1,3 +1,4 @@
+& ㅍ	p
 -가	ga
 -게	ge
 -고나	gona
@@ -46,6 +47,8 @@
 -으멍	eumeong
 -으민	eumin
 -으순	eusun
+-으시-	eusi
+-으시-	usi
 -으쿠다	eukuda
 -으크라	eukeura
 -으키여	kiyeo
@@ -67,6 +70,7 @@
 -ᄒᆞ곡	hawgok
 -ㅂ네다	mneda
 -ㅂ주	pju
+or ㅊ	ch
 가	ga
 가가비	gagabi
 가끄다	gakkeuda
@@ -273,6 +277,7 @@
 김기	jimgi
 김뀌	kimkkwi
 김끼	kimkki
+김장	gimjang
 깅이	gingi
 ᄀᆞ	gaw
 ᄀᆞ끔	gawkkeum
@@ -327,6 +332,7 @@
 ᄁᆞ늘다	kkawneulda
 ᄁᆞ장	kkawjang
 나	na
+나그네	nageune
 나끄다	nakkeuda
 나노다	nanoda
 나놔다	nanwada
@@ -521,6 +527,7 @@
 ᄃᆞᆨ궤기	dawkgwegi
 ᄃᆞᆫ물장의	dawnmuljangui
 ᄃᆞᆯ	dawl
+ᄃᆞᆯ다	dawlda
 ᄃᆞᆯ뱅이	dawlbaengi
 ᄃᆞᆯ베이	dawlbei
 ᄃᆞᆯ봥이	dawlbwangi
@@ -532,6 +539,7 @@
 ᄃᆞᆼ그다	dawnggeuda
 따	tta
 때	ttae
+떡꼿	tteokkkot
 떨다	tteolda
 떼역	tteyeok
 또	tto
@@ -711,7 +719,25 @@
 베조개	bejogae
 베치	bechi
 베치	peychi
+벡	beg
 벡	bek
+벡	peyk
+벡년초	bengnyeoncho
+벡레	bengne
+벡메	bengme
+벡몰레	bengmolle
+벡미	bengmi
+벡베	bekbe
+벡성	bekseong
+벡양목	begyangmok
+벡일헤	begilhe
+벡종날	bekjongnal
+벡종놈	bekjongnom
+벡주	bekju
+벡피염주	bekpiyeomju
+벡—	beg
+벡—	bek
+벡—	peyk
 벤소	benso
 벤호사	benhosa
 벤호사	peynhwosa
@@ -735,6 +761,7 @@
 봄	bom
 봅서	bopseo
 봉그다	bonggeuda
+부	bu
 부끈	bukkeun
 부드럽다	budeureopda
 부떰	butteom
@@ -840,6 +867,7 @@
 서답비누	seodapbinu
 서답ᄒᆞ다	seodapawda
 서답ᄒᆞ여보라!	seodapawyeobora
+서방	seobang
 서울	seoul
 서월	seowol
 서을	seoeul
@@ -851,6 +879,7 @@
 선싕	seonsuing
 선싕님	seonsuingnim
 선싱	seonsing
+선인장	seoninjang
 선풍기	seonpunggi
 섣ᄃᆞᆯ	seotdawl
 설랍	seollap
@@ -1227,6 +1256,8 @@
 으멍	eumeong
 으민	eumin
 으순	eusun
+으시	eusi
+으시	usi
 으쿠다	eukuda
 으크라	eukeura
 으키여	kiyeo
@@ -1682,10 +1713,12 @@
 —ㅂ주	pju
 ㄴ게	nge
 ㄹ	l
+ㅁ	m
 ㅂ	b
 ㅂ네까	mnekka
 ㅂ데다	pdeda
 ㅅ	s
+ㅈ	j
 ㅐ	ae
 ㅢ	ui
 ㆍ	aw

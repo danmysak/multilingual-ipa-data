@@ -254,6 +254,8 @@ diminutive טעצל	tetsl
 diminutive טעקל	tekl
 diminutive טעקל	tok
 diminutive טעקל	tokn
+diminutive טרעפּל	trep
+diminutive טרעפּל	trepl
 diminutive טײַוועלע	tayvele
 diminutive טײַוועלע	tayvl
 diminutive טײַוועלע	tayvlonem
@@ -647,6 +649,9 @@ feminine גרינדערין	grinderin
 feminine דיכטערין	dikhter
 feminine דיכטערין	dikhterin
 feminine דיכטערין	dikhters
+feminine דערציילערין	dertseyler
+feminine דערציילערין	dertseylerin
+feminine דערציילערין	dertseylers
 feminine הומאָריסטקע	humorist
 feminine הומאָריסטקע	humoristke
 feminine הומאָריסטקע	humoristn
@@ -1157,6 +1162,8 @@ plural אַקער־אײַזנס	akerayzn
 plural אַקער־אײַזנס	akerayzns
 plural אַקערס	aker
 plural אַקערס	akers
+plural אַקצידענטן	aktsident
+plural אַקצידענטן	aktsidentn
 plural אַקצענטן	aktsent
 plural אַקצענטן	aktsentn
 plural אַראַבער	araber
@@ -1281,6 +1288,10 @@ plural אָפּהאַנדלונגען	ophandlungen
 plural אָפּטימיסטן	optimist
 plural אָפּטימיסטן	optimistke
 plural אָפּטימיסטן	optimistn
+plural אָפּלייגן	opleyg
+plural אָפּלייגן	opleygn
+plural אָפּלייגעכצן	opleygekhts
+plural אָפּלייגעכצן	opleygekhtsn
 plural אָפּלען	opl
 plural אָפּלען	oplen
 plural אָפּעראַציעס	operatsye
@@ -1331,6 +1342,8 @@ plural אבֿן־נגפֿן	evnnegef
 plural אבֿן־נגפֿן	evnnegefn
 plural אבֿרים	eyver
 plural אבֿרים	eyvrem
+plural או־ער־עלן	uerel
+plural או־ער־עלן	uereln
 plural אוגערקעס	ugerke
 plural אוגערקעס	ugerkes
 plural אודקעס	udke
@@ -1366,6 +1379,8 @@ plural אויסהערערס	oysherer
 plural אויסהערערס	oyshererin
 plural אויסהערערס	oysherers
 plural אויסטערס	oyster
+plural אויסלענדער	oyslender
+plural אויסלענדער	oyslenderin
 plural אויסקוקן	oyskuk
 plural אויסקוקן	oyskukn
 plural אויערן	oyer
@@ -1610,6 +1625,8 @@ plural באַשאַפֿערס	bashafer
 plural באַשאַפֿערס	bashafers
 plural באַשטאַנדטיילן	bashtandteyl
 plural באַשטאַנדטיילן	bashtandteyln
+plural באַשטעלונגען	bashtelung
+plural באַשטעלונגען	bashtelungen
 plural באַשלוסן	bashlus
 plural באַשלוסן	bashlusn
 plural באַשעפֿענישן	bashefenish
@@ -1820,6 +1837,8 @@ plural בני־ישׂראל	bneyyisroel
 plural בני־מלכים	basmalke
 plural בני־מלכים	benmeylekh
 plural בני־מלכים	bneymelokhem
+plural בנינים	binyen
+plural בנינים	binyonim
 plural בעבלעך	bebl
 plural בעבלעך	beblekh
 plural בעדער	beder
@@ -1846,6 +1865,8 @@ plural בעלי־בתּים	balebos
 plural בעלי־בתּים	baleboste
 plural בעלי־צדקה	baletsdoke
 plural בעלי־צדקה	baltsdoke
+plural בעלי־תּשובֿה	baletshuve
+plural בעלי־תּשובֿה	baltshuve
 plural בענדער	band
 plural בענדער	bender
 plural בענטשליכט	bentshlikht
@@ -1859,6 +1880,8 @@ plural בעסער	bas
 plural בעסער	beser
 plural בעקישעס	bekishe
 plural בעקישעס	bekishes
+plural בעקנס	bekn
+plural בעקנס	bekns
 plural בעקערס	beker
 plural בעקערס	bekerin
 plural בעקערס	bekerke
@@ -1998,6 +2021,8 @@ plural גאַרבערס	garber
 plural גאַרבערס	garbers
 plural גאַרבערײַען	garberay
 plural גאַרבערײַען	garberayen
+plural גאַרטלען	gartl
+plural גאַרטלען	gartlen
 plural גאָבן	gob
 plural גאָבן	gobn
 plural גאָלדשמידן	goldshmid
@@ -2019,6 +2044,8 @@ plural גאָרגלען	gorgl
 plural גאָרגלען	gorglen
 plural גאָרילעס	gorile
 plural גאָרילעס	goriles
+plural גאָרנס	gorn
+plural גאָרנס	gorns
 plural גאונים	geoynim
 plural גאונים	goen
 plural גבאָים	gabe
@@ -2079,7 +2106,7 @@ plural גלאָקן	glekl
 plural גלאָקן	glok
 plural גלאָקן	glokn
 plural גלחים	galekh
-plural גלחים	galokhim
+plural גלחים	galokhem
 plural גלידער	glid
 plural גלידער	glider
 plural גליטשן	glitsh
@@ -2384,6 +2411,9 @@ plural דערפֿלעך	derflekh
 plural דערפֿער	derfer
 plural דערפֿער	derfl
 plural דערפֿער	dorf
+plural דערציילערס	dertseyler
+plural דערציילערס	dertseylerin
+plural דערציילערס	dertseylers
 plural דערקלערונגען	derklerung
 plural דערקלערונגען	derklerungen
 plural דערשײַנונגען	dershaynung
@@ -2624,6 +2654,8 @@ plural וואַקצינען	vaktsinen
 plural וואַרשעווערס	varshever
 plural וואַרשעווערס	varsheverin
 plural וואַרשעווערס	varshevers
+plural וואַשבעקנס	vashbekn
+plural וואַשבעקנס	vashbekns
 plural וואַשצימערן	vashtsimer
 plural וואַשצימערן	vashtsimern
 plural וואָגן	vog
@@ -2738,6 +2770,8 @@ plural וועסלעס	vesle
 plural וועסלעס	vesles
 plural וועספּן	vesp
 plural וועספּן	vespn
+plural וועקערס	veker
+plural וועקערס	vekers
 plural ווערבן	verbn
 plural ווערבעס	verbe
 plural ווערבעס	verbes
@@ -2826,6 +2860,8 @@ plural זויגערס	zoyger
 plural זויגערס	zoygers
 plural זולוס	zulu
 plural זולוס	zulus
+plural זומערהײַזער	zumerhayzer
+plural זומערהײַזער	zumerhoyz
 plural זומערס	zumer
 plural זומערס	zumern
 plural זומערס	zumers
@@ -2973,6 +3009,8 @@ plural חלומות	khaloymes
 plural חלומות	kholem
 plural חלות	khale
 plural חלות	khales
+plural חללס	kholel
+plural חללס	kholels
 plural חלקים	khalokim
 plural חלקים	kheylek
 plural חמורים	khamer
@@ -3202,6 +3240,8 @@ plural טריקן	trik
 plural טריקן	trikn
 plural טרעגערס	treger
 plural טרעגערס	tregers
+plural טרעפּ	trep
+plural טרעפּ	trepl
 plural טרערן	trer
 plural טרערן	trern
 plural טשאַטשקעס	tshatshke
@@ -3342,6 +3382,8 @@ plural יתומים	yesoymem
 plural יתומים	yesoymes
 plural יתומים	yosem
 plural יתומים	yoseml
+plural כּהנים	kehanem
+plural כּהנים	koyen
 plural כּוחות	koyekh
 plural כּוחות	koykhes
 plural כּוסות	kos
@@ -3356,8 +3398,6 @@ plural כּלבֿים	kelev
 plural כּלבֿים	klovim
 plural כּלבוניקעס	kolboynik
 plural כּלבוניקעס	kolboynikes
-plural כּלבים	keylev
-plural כּלבים	klovem
 plural כּלות	kale
 plural כּלים	keyle
 plural כּלים	keylim
@@ -3388,6 +3428,8 @@ plural כירורגן	khirurg
 plural כירורגן	khirurgn
 plural כלאָפּעס	khlop
 plural כלאָפּעס	khlopes
+plural כלבים	kelev
+plural כלבים	klovem
 plural כמאַרעס	khmare
 plural כמאַרעס	khmares
 plural כניאָקעס	khnyok
@@ -3481,6 +3523,8 @@ plural ליטעראַטורן	literaturn
 plural ליטערס	liter
 plural לייביכעס	leybikhe
 plural לייביכעס	leybikhes
+plural לייבן	leyb
+plural לייבן	leybn
 plural לייטערס	leyter
 plural לייטערס	leyters
 plural לייענונגען	leyenung
@@ -3508,10 +3552,13 @@ plural לינדזן	lindz
 plural לינדזן	lindzn
 plural לינקיסטן	linkist
 plural לינקיסטן	linkistn
+plural לינקס	link
 plural לינקע	linke
 plural לינקע	linker
 plural ליפּן	lip
 plural ליפּן	lipn
+plural ליפֿטן	lift
+plural ליפֿטן	liftn
 plural ליקעס	lik
 plural למדנים	lamdem
 plural למדנים	lamdn
@@ -3595,8 +3642,8 @@ plural לײַטן	layt
 plural לײַטן	laytn
 plural לײַכטערס	laykhter
 plural לײַכטערס	laykhters
-plural לײַלאַכער	laylakh
-plural לײַלאַכער	laylakher
+plural לײַלעכער	laylekh
+plural לײַלעכער	laylekher
 plural מאַגאַזינען	magazin
 plural מאַגאַזינען	magazinen
 plural מאַגיסטראַטן	magistrat
@@ -3953,6 +4000,8 @@ plural מענען	man
 plural מענען	menen
 plural מענער	man
 plural מענער	mener
+plural מעסער־אַקאַציעס	meserakatsye
+plural מעסער־אַקאַציעס	meserakatsyes
 plural מעסערס	meser
 plural מעסערס	meserl
 plural מעסערס	mesers
@@ -3976,6 +4025,10 @@ plural מעשיות	manse
 plural מעשיות	mansem
 plural מעשיות	mayse
 plural מעשיות	maysem
+plural מפּיל־קינדער	maplkind
+plural מפּיל־קינדער	maplkinder
+plural מפּלות	mapole
+plural מפּלות	mapoles
 plural מפֿטירים	mafter
 plural מפֿטירים	maftirem
 plural מצבֿות	matseyve
@@ -4706,6 +4759,8 @@ plural פּרינצן	printsesin
 plural פּרינצן	printsn
 plural פּרינצעסינס	printsesin
 plural פּרינצעסינס	printsesins
+plural פּריסטערס	prister
+plural פּריסטערס	pristers
 plural פּריפּעטשיקן	pripetshik
 plural פּריפּעטשיקן	pripetshikn
 plural פּרישטשעס	prishtsh
@@ -4748,6 +4803,8 @@ plural פֿאַלן	fal
 plural פֿאַלן	faln
 plural פֿאַמיליעס	familye
 plural פֿאַמיליעס	familyes
+plural פֿאַנאַטיקערס	fanatiker
+plural פֿאַנאַטיקערס	fanatikers
 plural פֿאַנטאַזיעס	fantazye
 plural פֿאַנטאַזיעס	fantazyes
 plural פֿאַנען	fan
@@ -4755,6 +4812,8 @@ plural פֿאַנען	fanen
 plural פֿאַנען	fendl
 plural פֿאַסאָליעס	fasolye
 plural פֿאַסאָליעס	fasolyes
+plural פֿאַקטאַזיעס	faktazye
+plural פֿאַקטאַזיעס	faktazyes
 plural פֿאַקטאָרן	faktor
 plural פֿאַקטאָרן	faktorn
 plural פֿאַקטן	fakt
@@ -4765,6 +4824,8 @@ plural פֿאַראיינען	fareyn
 plural פֿאַראיינען	fareynen
 plural פֿאַרבאַנדן	farband
 plural פֿאַרבאַנדן	farbandn
+plural פֿאַרבינדונגען	farbindung
+plural פֿאַרבינדונגען	farbindungen
 plural פֿאַרבן	farb
 plural פֿאַרבן	farbn
 plural פֿאַרבעסערונגען	farbeserung
@@ -5083,6 +5144,8 @@ plural צווײַגן	tsvaygn
 plural צונגען	tsinger
 plural צונגען	tsung
 plural צונגען	tsungen
+plural צופֿאַלן	tsufal
+plural צופֿאַלן	tsufaln
 plural צורות	tsure
 plural צורות	tsures
 plural צושטאַנדן	tsushtand
@@ -5117,6 +5180,8 @@ plural צייכנס	tseykhns
 plural ציין	tseyn
 plural ציין	tseyner
 plural ציין	tson
+plural ציינבערשטלעך	tseynbershtl
+plural ציינבערשטלעך	tseynbershtlekh
 plural ציינער	tseyn
 plural ציינער	tseyner
 plural ציינשטעכערס	tseynshtekher
@@ -5149,6 +5214,8 @@ plural צעדערביימער	tsederbeymer
 plural צעדערביימער	tsederboym
 plural צעלקעס	tselke
 plural צעלקעס	tselkes
+plural צעמישונגען	tsemishung
+plural צעמישונגען	tsemishungen
 plural צענדליקער	tsendlik
 plural צענדליקער	tsendliker
 plural צענזוסן	tsenzus
@@ -5288,6 +5355,8 @@ plural קאָטערס	koter
 plural קאָטערס	koters
 plural קאָכביכער	kokhbikher
 plural קאָכביכער	kokhbukh
+plural קאָלדרעס	koldre
+plural קאָלדרעס	koldres
 plural קאָלווירטן	kolvirt
 plural קאָלווירטן	kolvirtn
 plural קאָלווירטניקעס	kolvirtnik
@@ -5816,6 +5885,8 @@ plural רענצלעך	rentsl
 plural רענצלעך	rentslekh
 plural רעסטאָראַנען	restoran
 plural רעסטאָראַנען	restoranen
+plural רעפּאַראַטורן	reparatur
+plural רעפּאַראַטורן	reparaturn
 plural רעפּובליקן	republik
 plural רעפּובליקן	republikn
 plural רעפּעטיציעס	repetitsye
@@ -5964,6 +6035,7 @@ plural שטאַפֿעטן	shtafet
 plural שטאַפֿעטן	shtafetn
 plural שטאָטגערטנער	shtotgertner
 plural שטאָטגערטנער	shtotgortn
+plural שטאָק	shtok
 plural שטאָקפֿיש	shtokfish
 plural שטובן	shtiber
 plural שטובן	shtibl
@@ -5987,6 +6059,8 @@ plural שטורעמס	shturem
 plural שטורעמס	shturems
 plural שטותערײַען	shtuseray
 plural שטותערײַען	shtuserayen
+plural שטחים	shetekh
+plural שטחים	shtokhem
 plural שטיבלעך	shtibl
 plural שטיבלעך	shtiblekh
 plural שטיוול	shtivl
@@ -6046,6 +6120,8 @@ plural שילדן	shild
 plural שילדן	shildn
 plural שילדערונגען	shilderung
 plural שילדערונגען	shilderungen
+plural שילוּיעס	shiluye
+plural שילוּיעס	shiluyes
 plural שילן	shil
 plural שילן	shiln
 plural שיעורים	shier
@@ -6104,6 +6180,8 @@ plural שלימזלען	shlimazl
 plural שלימזלען	shlimazlen
 plural שליסלען	shlisl
 plural שליסלען	shlislen
+plural שלעג	shleg
+plural שלעג	shlog
 plural שלענגלעך	shlengl
 plural שלענגלעך	shlenglekh
 plural שלעסלעך	shlesl
@@ -6150,6 +6228,8 @@ plural שמשׂים	shames
 plural שמשׂים	shamosem
 plural שנאָרערס	shnorer
 plural שנאָרערס	shnorers
+plural שנויצן	shnoyts
+plural שנויצן	shnoytsn
 plural שנורן	shnir
 plural שנורן	shnirele
 plural שנורן	shnirl
@@ -6176,6 +6256,8 @@ plural שנײַדערקעס	shnayderke
 plural שנײַדערקעס	shnayderkes
 plural שעהן	sho
 plural שעהן	shoen
+plural שענק	shank
+plural שענק	shenk
 plural שעפּסן	sheps
 plural שעפּסן	shepsn
 plural שערלעך	sherl
@@ -7055,6 +7137,8 @@ singular לענד	lendn
 אַקערן	akern
 אַקערנדיק	akerndik
 אַקערס	akers
+אַקצידענט	aktsident
+אַקצידענט	aktsidentn
 אַקצענט	aktsent
 אַקצענט	aktsentn
 אַר־	ar
@@ -7307,7 +7391,7 @@ singular לענד	lendn
 אָבֿל	ovlte
 אָבֿלטע	ovlte
 אָבֿלטע	ovltes
-אָבֿלים	aveylim
+אָבֿלים	aveylem
 אָבאָע	oboe
 אָביעקט	obyekt
 אָביעקטיוו	obyektiv
@@ -7512,6 +7596,7 @@ singular לענד	lendn
 אָפּגעהיט	opgehit
 אָפּגעזאָגט	opgezogt
 אָפּגעטאָן	opgeton
+אָפּגעלייגט	opgeleygt
 אָפּגעפֿינען	opgefinen
 אָפּדוכט	opdukht
 אָפּהאַנדלונג	ophandlung
@@ -7527,6 +7612,11 @@ singular לענד	lendn
 אָפּטימיסטיש	optimistish
 אָפּל	opl
 אָפּל	oplen
+אָפּלייג	opleyg
+אָפּלייג	opleygn
+אָפּלייגן	opleygn
+אָפּלייגעכץ	opleygekhts
+אָפּלייגעכץ	opleygekhtsn
 אָפּלייקענונג	opleykenung
 אָפּנאַרן	opnarn
 אָפּענער	opener
@@ -7542,6 +7632,7 @@ singular לענד	lendn
 אָפּצװײגונגען	optsveygungen
 אָפּראַמען דעם וועג	opramen dem veg
 אָפּרוען	opruen
+אָפּשאַפֿן	opshafn
 אָפּשטאַם	opshtam
 אָפּשטאַם	opshtamen
 אָפּשיקער	opshiker
@@ -7646,6 +7737,7 @@ singular לענד	lendn
 אבסורד	absurd
 אברהם	avrohem
 אדון	adoyn
+אדוני	adoynay
 אדוני	adoyni
 אדם	odem
 אדמה	adome
@@ -7654,6 +7746,8 @@ singular לענד	lendn
 אוּוואַ	uva
 אוּוווּלע	uvule
 אוּווערטור	uvertur
+או־ער־על	uerel
+או־ער־על	uereln
 אוב	ub
 אוגערקע	ugerke
 אוגערקע	ugerkes
@@ -7836,6 +7930,14 @@ singular לענד	lendn
 אויסלייגנדיק	oysleygndik
 אויסליידיקן	oysleydikn
 אויסלינקענדיק	oyslinkendik
+אויסלענדיש	oyslendish
+אויסלענדישן	oyslendishn
+אויסלענדישס	oyslendishs
+אויסלענדישע	oyslendishe
+אויסלענדישער	oyslendisher
+אויסלענדער	oyslender
+אויסלענדער	oyslenderin
+אויסלענדערין	oyslenderin
 אויסלעשן	oysleshn
 אויסלעשנדיק	oysleshndik
 אויסלײַדן	oyslaydn
@@ -7881,6 +7983,7 @@ singular לענד	lendn
 אויף שפּיץ צונג	shpits
 אויף שפּיץ צונג	tsung
 אויףֿ	oyf
+אויףריכטנדיק	oyfrikhtndik
 אויףשנײַדנדיק	oyfshnaydndik
 אויפּס	oyps
 אויפֿברויז	oyfbroyz
@@ -7889,9 +7992,11 @@ singular לענד	lendn
 אויפֿגעהויבן	oyfgehoybn
 אויפֿגעהערט	oyfgehert
 אויפֿגעוויזן	oyfgevizn
+אויפֿגעוועקט	oyfgevekt
 אויפֿגעזוכט	oyfgezukht
 אויפֿגעטאָן	oyfgeton
 אויפֿגעלאַף	oyfgelaf
+אויפֿגעריכט	oyfgerikht
 אויפֿגעשטאַנען	oyfgeshtanen
 אויפֿגעשניטן	oyfgeshnitn
 אויפֿדערנאַכט	oyfdernakht
@@ -7899,18 +8004,23 @@ singular לענד	lendn
 אויפֿהייבנדיק	oyfheybndik
 אויפֿהערן	oyfhern
 אויפֿהערנדיק	oyfherndik
+אויפֿוועקן	oyfvekn
+אויפֿוועקנדיק	oyfvekndik
 אויפֿווײַזן	oyfvayzn
 אויפֿזוכן	oyfzukhn
 אויפֿזידן	oyfzidn
 אויפֿטאָן	oyfton
+אויפֿטרעטן	iz
 אויפֿטרעטן	oyftretn
 אויפֿן	oyfn
+אויפֿן באָרט	oyfn bort
 אויפֿנעמען	oyfnemen
 אויפֿפֿיר	oyffir
 אויפֿפֿירן	oyffirn
 אויפֿקוכן	oyfkukhn
 אויפֿרוף	oyfruf
 אויפֿרוף	oyfrufn
+אויפֿריכטן	oyfrikhtn
 אויפֿרײַס	oyfrays
 אויפֿשטאַנד	oyfshtand
 אויפֿשטאַנד	oyfshtandn
@@ -7979,6 +8089,7 @@ singular לענד	lendn
 אומעט	umetn
 אומעטום	umetum
 אומען	umen
+אומערלעך	umerlekh
 אומפּאַסיק	umpasik
 אומפּינקטלעך	umpinktlekh
 אומפּינקטלעכן	umpinktlekhn
@@ -8167,6 +8278,10 @@ singular לענד	lendn
 אוראַנוס	uranus
 אוראַניום	uranyum
 אורוגווײַ	urugvay
+אורין	urin
+אורינירט	urinirt
+אורינירן	urinirn
+אורינירנדיק	urinirndik
 אורנע	urne
 אורעלטערן	ureltern
 אות	os
@@ -8191,6 +8306,7 @@ singular לענד	lendn
 איבערגעזעצט	ibergezetst
 איבערגעלעבט	ibergelebt
 איבערגענוג	ibergenug
+איבערגעצויגן	ibergetsoygn
 איבערגעקוקט	ibergekukt
 איבערגעקערט	ibergekert
 איבערגעשפּרײַזט	ibergeshprayzt
@@ -8220,6 +8336,8 @@ singular לענד	lendn
 איבערנאַכטיקס	ibernakhtiks
 איבערנאַכטיקע	ibernakhtike
 איבערנאַכטיקער	ibernakhtiker
+איבערציִען	ibertsien
+איבערציִענדיק	ibertsiendik
 איבערצײַגונג	ibertsaygung
 איבערקויפֿן	iberkoyfn
 איבערקוקן	iberkukn
@@ -8416,7 +8534,9 @@ singular לענד	lendn
 איך אָנווער	ikh onver
 איך אויסברייטער	ikh oysbreyter
 איך אויקע	ikh oyke
+איך אוריניר	ikh urinir
 איך איינצאַם	ikh eyntsam
+איך אינדיווידואַליזיר	ikh individualizir
 איך אײַנשרומפּ	ikh aynshrump
 איך באַגין	ikh bagin
 איך באַגער	ikh bager
@@ -8435,6 +8555,7 @@ singular לענד	lendn
 איך באַשאַף	ikh bashaf
 איך באַשולדיק	ikh bashuldik
 איך באַשטיי	ikh bashtey
+איך באַשטעל	ikh bashtel
 איך באַשליס	ikh bashlis
 איך באַשרײַב	ikh bashrayb
 איך באַשײַן	ikh bashayn
@@ -8452,6 +8573,7 @@ singular לענד	lendn
 איך בין אַהערגעקומען	ikh bin ahergekumen
 איך בין אַנטלאָפֿן	ikh bin antlofn
 איך בין אַנטשטאַנען	ikh bin antshtanen
+איך בין אַנטשלאָפֿן	ikh bin antshlofn
 איך בין אַראָפּגעגאַנגען	ikh bin aropgegangen
 איך בין אַראָפּגעפֿאַלן	ikh bin aropgefaln
 איך בין אַרומגעגאַנגען	ikh bin arumgegangen
@@ -8557,6 +8679,7 @@ singular לענד	lendn
 איך דויער	ikh doyer
 איך דונער	ikh duner
 איך דין	ikh din
+איך דינג	ikh ding
 איך דישע	ikh dishe
 איך דענק	ikh denk
 איך דערוויס	ikh dervis
@@ -8592,7 +8715,6 @@ singular לענד	lendn
 איך האָב אַדמיניסטרירט	ikh hob administrirt
 איך האָב אַנולירט	ikh hob anulirt
 איך האָב אַנטשולדיקט	ikh hob antshuldikt
-איך האָב אַנטשלאָפֿן	ikh hob antshlofn
 איך האָב אַראָפּגענומען	ikh hob aropgenumen
 איך האָב אַרויסגעגעבן	ikh hob aroysgegebn
 איך האָב אַריבערגעפֿירט	ikh hob aribergefirt
@@ -8620,11 +8742,15 @@ singular לענד	lendn
 איך האָב אויסגעשריגן	ikh hob oysgeshrign
 איך האָב אויפֿגעהויבן	ikh hob oyfgehoybn
 איך האָב אויפֿגעהערט	ikh hob oyfgehert
+איך האָב אויפֿגעוועקט	ikh hob oyfgevekt
+איך האָב אויפֿגעריכט	ikh hob oyfgerikht
 איך האָב אויפֿגעשניטן	ikh hob oyfgeshnitn
 איך האָב אומגעבראַכט	ikh hob umgebrakht
+איך האָב אורינירט	ikh hob urinirt
 איך האָב איבערגעהאַקט	ikh hob ibergehakt
 איך האָב איבערגעזעצט	ikh hob ibergezetst
 איך האָב איבערגעלעבט	ikh hob ibergelebt
+איך האָב איבערגעצויגן	ikh hob ibergetsoygn
 איך האָב איבערגעקוקט	ikh hob ibergekukt
 איך האָב איבערגעקערט	ikh hob ibergekert
 איך האָב אײַןגעמאַכט	ikh hob ayngemakht
@@ -8646,6 +8772,7 @@ singular לענד	lendn
 איך האָב באַשאַפֿן	ikh hob bashafn
 איך האָב באַשולדיקט	ikh hob bashuldikt
 איך האָב באַשטאַנען	ikh hob bashtanen
+איך האָב באַשטעלט	ikh hob bashtelt
 איך האָב באַשלאָסן	ikh hob bashlosn
 איך האָב באַשריבן	ikh hob bashribn
 איך האָב באַשײַנט	ikh hob bashaynt
@@ -8700,6 +8827,7 @@ singular לענד	lendn
 איך האָב געדאַנקט	ikh hob gedankt
 איך האָב געדאַרפֿט	ikh hob gedarft
 איך האָב געדויערט	ikh hob gedoyert
+איך האָב געדונגען	ikh hob gedungen
 איך האָב געדונערט	ikh hob gedunert
 איך האָב געדינט	ikh hob gedint
 איך האָב געדישעט	ikh hob gedishet
@@ -8869,6 +8997,7 @@ singular לענד	lendn
 איך האָב געלייקנט	ikh hob geleyknt
 איך האָב געלעבט	ikh hob gelebt
 איך האָב געלעזט	ikh hob gelezt
+איך האָב געלעסטערט	ikh hob gelestert
 איך האָב געלעקט	ikh hob gelekt
 איך האָב געלערנט	ikh hob gelernt
 איך האָב געמאַכט	ikh hob gemakht
@@ -8879,9 +9008,11 @@ singular לענד	lendn
 איך האָב געמאָפט	ikh hob gemuft
 איך האָב געמוזט	ikh hob gemuzt
 איך האָב געמיינט	ikh hob gemeynt
+איך האָב געמישט	ikh hob gemisht
 איך האָב געמישפּט	ikh hob gemishpet
 איך האָב געממיתט	ikh hob gemeymest
 איך האָב געמעגט	ikh hob gemegt
+איך האָב געמפּלעט	ikh hob gemaplet
 איך האָב געמשפּט	ikh hob gemishpet
 איך האָב גענאָסן	ikh hob genosn
 איך האָב גענודיעט	ikh hob genudyet
@@ -8964,6 +9095,7 @@ singular לענד	lendn
 איך האָב גערופֿן	ikh hob gerufn
 איך האָב געריבן	ikh hob geribn
 איך האָב גערייכערט	ikh hob gereykhert
+איך האָב געריכט	ikh hob gerikht
 איך האָב געריסן	ikh hob gerisn
 איך האָב גערעדט	ikh hob geredt
 איך האָב גערעכנט	ikh hob gerekhnt
@@ -8995,6 +9127,7 @@ singular לענד	lendn
 איך האָב געשילדערט	ikh hob geshildert
 איך האָב געשיצט	ikh hob geshitst
 איך האָב געשיקט	ikh hob geshikt
+איך האָב געשלאָגן	ikh hob geshlogn
 איך האָב געשלאָסן	ikh hob geshlosn
 איך האָב געשלונגען	ikh hob geshlungen
 איך האָב געשליפֿן	ikh hob geshlifn
@@ -9058,6 +9191,7 @@ singular לענד	lendn
 איך האָב פֿאַרגעבן	ikh hob fargebn
 איך האָב פֿאַרגעסן	ikh hob fargesn
 איך האָב פֿאַרדאַמט	ikh hob fardamt
+איך האָב פֿאַרדונגען	ikh hob fardungen
 איך האָב פֿאַרדינט	ikh hob fardint
 איך האָב פֿאַרוואַנדלט	ikh hob farvandlt
 איך האָב פֿאַרזיכערט	ikh hob farzikhert
@@ -9188,14 +9322,18 @@ singular לענד	lendn
 איך וועל אויסשרײַען	ikh vel oysshrayen
 איך וועל אויפֿהייבן	ikh vel oyfheybn
 איך וועל אויפֿהערן	ikh vel oyfhern
+איך וועל אויפֿוועקן	ikh vel oyfvekn
+איך וועל אויפֿריכטן	ikh vel oyfrikhtn
 איך וועל אויפֿשנײַדן	ikh vel oyfshnaydn
 איך וועל אויקען	ikh vel oyken
 איך וועל אומברענגען	ikh vel umbrengen
 איך וועל אונטערצינדן	ikh vel untertsindn
 איך וועל אונטערשטעלן	ikh vel untershteln
+איך וועל אורינירן	ikh vel urinirn
 איך וועל איבערהאַקן	ikh vel iberhakn
 איך וועל איבערזעצן	ikh vel iberzetsn
 איך וועל איבערלעבן	ikh vel iberlebn
+איך וועל איבערציִען	ikh vel ibertsien
 איך וועל איבערקוקן	ikh vel iberkukn
 איך וועל איבערקערן	ikh vel iberkern
 איך וועל איבערשפּרײַזן	ikh vel ibershprayzn
@@ -9222,6 +9360,7 @@ singular לענד	lendn
 איך וועל באַשאַפֿן	ikh vel bashafn
 איך וועל באַשולדיקן	ikh vel bashuldikn
 איך וועל באַשטיין	ikh vel bashteyn
+איך וועל באַשטעלן	ikh vel bashteln
 איך וועל באַשליסן	ikh vel bashlisn
 איך וועל באַשרײַבן	ikh vel bashraybn
 איך וועל באַשײַנען	ikh vel bashaynen
@@ -9281,6 +9420,7 @@ singular לענד	lendn
 איך וועל דויערן	ikh vel doyern
 איך וועל דונערן	ikh vel dunern
 איך וועל דורכרײַסן	ikh vel durkhraysn
+איך וועל דינגען	ikh vel dingen
 איך וועל דינען	ikh vel dinen
 איך וועל דישען	ikh vel dishen
 איך וועל דענקען	ikh vel denken
@@ -9360,6 +9500,7 @@ singular לענד	lendn
 איך וועל האָבן געמאָפֿט	ikh vel hobn gemoft
 איך וועל האָבן געמאָפט	ikh vel hobn gemuft
 איך וועל האָבן געמוזט	ikh vel hobn gemuzt
+איך וועל האָבן געמישט	ikh vel hobn gemisht
 איך וועל האָבן געמעגט	ikh vel hobn gemegt
 איך וועל האָבן גענאָסן	ikh vel hobn genosn
 איך וועל האָבן גענייט	ikh vel hobn geneyt
@@ -9386,6 +9527,7 @@ singular לענד	lendn
 איך וועל האָבן געראָטן	ikh vel hobn gerotn
 איך וועל האָבן גערופֿן	ikh vel hobn gerufn
 איך וועל האָבן געריבן	ikh vel hobn geribn
+איך וועל האָבן געריכט	ikh vel hobn gerikht
 איך וועל האָבן געריסן	ikh vel hobn gerisn
 איך וועל האָבן גערעדט	ikh vel hobn geredt
 איך וועל האָבן געשאָטן	ikh vel hobn geshotn
@@ -9504,6 +9646,7 @@ singular לענד	lendn
 איך וועל לייקענען	ikh vel leykenen
 איך וועל לעבן	ikh vel lebn
 איך וועל לעזן	ikh vel lezn
+איך וועל לעסטערן	ikh vel lestern
 איך וועל לעקן	ikh vel lekn
 איך וועל לערנען	ikh vel lernen
 איך וועל לעשן	ikh vel leshn
@@ -9520,11 +9663,13 @@ singular לענד	lendn
 איך וועל מיטגיין	ikh vel mitgeyn
 איך וועל מיטנעמען	ikh vel mitnemen
 איך וועל מיינען	ikh vel meynen
+איך וועל מישן	ikh vel mishn
 איך וועל מישפּטן	ikh vel mishpetn
 איך וועל ממיתן	ikh vel meymesn
 איך וועל מסביר זײַן	ikh vel masber zayn
 איך וועל מעגן	ikh vel megn
 איך וועל מעסטן	ikh vel mestn
+איך וועל מפּלען	ikh vel maplen
 איך וועל משפּטן	ikh vel mishpetn
 איך וועל נאָכגיין	ikh vel nokhgeyn
 איך וועל נודיען	ikh vel nudyen
@@ -9579,6 +9724,7 @@ singular לענד	lendn
 איך וועל פֿאַרגעבן	ikh vel fargebn
 איך וועל פֿאַרגעסן	ikh vel fargesn
 איך וועל פֿאַרדאַמען	ikh vel fardamen
+איך וועל פֿאַרדינגען	ikh vel fardingen
 איך וועל פֿאַרדינען	ikh vel fardinen
 איך וועל פֿאַרוואַנדלען	ikh vel farvandlen
 איך וועל פֿאַרוויגן	ikh vel farvign
@@ -9666,6 +9812,7 @@ singular לענד	lendn
 איך וועל ראָטן	ikh vel rotn
 איך וועל רופֿן	ikh vel rufn
 איך וועל רייכערן	ikh vel reykhern
+איך וועל ריכטן	ikh vel rikhtn
 איך וועל רעדאַגירן	ikh vel redagirn
 איך וועל רעדן	ikh vel redn
 איך וועל רעוואָלטירן	ikh vel revoltirn
@@ -9702,6 +9849,7 @@ singular לענד	lendn
 איך וועל שיסן	ikh vel shisn
 איך וועל שיצן	ikh vel shitsn
 איך וועל שיקן	ikh vel shikn
+איך וועל שלאָגן	ikh vel shlogn
 איך וועל שלאָפֿן	ikh vel shlofn
 איך וועל שלינגען	ikh vel shlingen
 איך וועל שליסן	ikh vel shlisn
@@ -9734,6 +9882,7 @@ singular לענד	lendn
 איך וועל שרײַבן	ikh vel shraybn
 איך וועל שרײַען	ikh vel shrayen
 איך וועל שײַנען	ikh vel shaynen
+איך וועק אויף	ikh vek oyf
 איך ווער	ikh ver
 איך ווײַז	ikh vayz
 איך זאַלב	ikh zalb
@@ -9805,6 +9954,7 @@ singular לענד	lendn
 איך לעב איבער	ikh leb iber
 איך לעב אין מעלבאָרן	ikh leb in melborn
 איך לעז	ikh lez
+איך לעסטער	ikh lester
 איך לעק	ikh lek
 איך לערן	ikh lern
 איך לעש	ikh lesh
@@ -9821,10 +9971,12 @@ singular לענד	lendn
 איך מאָף	ikh muf
 איך מוז	ikh muz
 איך מיין	ikh meyn
+איך מיש	ikh mish
 איך מישפּט	ikh mishpet
 איך ממית	ikh meymes
 איך מעג	ikh meg
 איך מעסט	ikh mest
+איך מפּלע	ikh maple
 איך משפּט	ikh mishpet
 איך נודיע	ikh nudye
 איך ניי	ikh ney
@@ -9887,6 +10039,7 @@ singular לענד	lendn
 איך פֿאַרגעס	ikh farges
 איך פֿאַרדאַם	ikh fardam
 איך פֿאַרדין	ikh fardin
+איך פֿאַרדינג	ikh farding
 איך פֿאַרוואַנדל	ikh farvandl
 איך פֿאַרוויגט	ikh farvigt
 איך פֿאַרזיכער	ikh farzikher
@@ -9934,6 +10087,7 @@ singular לענד	lendn
 איך צחקע	ikh tsakhke
 איך צחקע	ikh tskhoke
 איך צי	ikh tsi
+איך צי איבער	ikh tsi iber
 איך ציטער	ikh tsiter
 איך צייכן	ikh tseykhn
 איך צייל	ikh tseyl
@@ -9987,6 +10141,8 @@ singular לענד	lendn
 איך רוף	ikh ruf
 איך רוף אָן	ikh ruf on
 איך רייכער	ikh reykher
+איך ריכט	ikh rikht
+איך ריכט אויף	ikh rikht oyf
 איך ריר אָן	ikh rir on
 איך רעד	ikh red
 איך רעדאַגיר	ikh redagir
@@ -10026,6 +10182,7 @@ singular לענד	lendn
 איך שיס	ikh shis
 איך שיץ	ikh shits
 איך שיק	ikh shik
+איך שלאָג	ikh shlog
 איך שלאָף	ikh shlof
 איך שלינג	ikh shling
 איך שליס	ikh shlis
@@ -10102,6 +10259,13 @@ singular לענד	lendn
 אינדיאַנאַ	indyana
 אינדיאַנע	indyane
 אינדיגאָ	indigo
+אינדיווידואַליזירט	individualizirt
+אינדיווידואַליזירטן	individualizirtn
+אינדיווידואַליזירטס	individualizirts
+אינדיווידואַליזירטע	individualizirte
+אינדיווידואַליזירטער	individualizirter
+אינדיווידואַליזירן	individualizirn
+אינדיווידואַליזירנדיק	individualizirndik
 אינדיע	indye
 אינדיק	indik
 אינדיק	indikes
@@ -10224,6 +10388,7 @@ singular לענד	lendn
 איר אָנווערט	ir onvert
 איר אויסברייטערט	ir oysbreytert
 איר אויקעט	ir oyket
+איר אורינירט	ir urinirt
 איר איינצאַמט	ir eyntsamt
 איר אײַנשרומפּט	ir aynshrumpt
 איר באַגינט	ir bagint
@@ -10243,6 +10408,7 @@ singular לענד	lendn
 איר באַשאַפֿט	ir bashaft
 איר באַשולדיקט	ir bashuldikt
 איר באַשטייט	ir bashteyt
+איר באַשטעלט	ir bashtelt
 איר באַשליסט	ir bashlist
 איר באַשרײַבט	ir bashraybt
 איר באַשײַנט	ir bashaynt
@@ -10312,6 +10478,7 @@ singular לענד	lendn
 איר דאַרפֿט	ir darft
 איר דויערט	ir doyert
 איר דונערט	ir dunert
+איר דינגט	ir dingt
 איר דינט	ir dint
 איר דישעט	ir dishet
 איר דענקט	ir denkt
@@ -10346,7 +10513,6 @@ singular לענד	lendn
 איר האָט אַדמיניסטרירט	ir hot administrirt
 איר האָט אַנולירט	ir hot anulirt
 איר האָט אַנטשולדיקט	ir hot antshuldikt
-איר האָט אַנטשלאָפֿן	ir hot antshlofn
 איר האָט אַראָפּגענומען	ir hot aropgenumen
 איר האָט אַרויסגעגעבן	ir hot aroysgegebn
 איר האָט אַריבערגעפֿירט	ir hot aribergefirt
@@ -10374,11 +10540,15 @@ singular לענד	lendn
 איר האָט אויסגעשריגן	ir hot oysgeshrign
 איר האָט אויפֿגעהויבן	ir hot oyfgehoybn
 איר האָט אויפֿגעהערט	ir hot oyfgehert
+איר האָט אויפֿגעוועקט	ir hot oyfgevekt
+איר האָט אויפֿגעריכט	ir hot oyfgerikht
 איר האָט אויפֿגעשניטן	ir hot oyfgeshnitn
 איר האָט אומגעבראַכט	ir hot umgebrakht
+איר האָט אורינירט	ir hot urinirt
 איר האָט איבערגעהאַקט	ir hot ibergehakt
 איר האָט איבערגעזעצט	ir hot ibergezetst
 איר האָט איבערגעלעבט	ir hot ibergelebt
+איר האָט איבערגעצויגן	ir hot ibergetsoygn
 איר האָט איבערגעקוקט	ir hot ibergekukt
 איר האָט איבערגעקערט	ir hot ibergekert
 איר האָט אײַןגעמאַכט	ir hot ayngemakht
@@ -10400,6 +10570,7 @@ singular לענד	lendn
 איר האָט באַשאַפֿן	ir hot bashafn
 איר האָט באַשולדיקט	ir hot bashuldikt
 איר האָט באַשטאַנען	ir hot bashtanen
+איר האָט באַשטעלט	ir hot bashtelt
 איר האָט באַשלאָסן	ir hot bashlosn
 איר האָט באַשריבן	ir hot bashribn
 איר האָט באַשײַנט	ir hot bashaynt
@@ -10455,6 +10626,7 @@ singular לענד	lendn
 איר האָט געדאַנקט	ir hot gedankt
 איר האָט געדאַרפֿט	ir hot gedarft
 איר האָט געדויערט	ir hot gedoyert
+איר האָט געדונגען	ir hot gedungen
 איר האָט געדונערט	ir hot gedunert
 איר האָט געדינט	ir hot gedint
 איר האָט געדישעט	ir hot gedishet
@@ -10522,6 +10694,7 @@ singular לענד	lendn
 איר האָט געהאַט געמאָפֿט	ir hot gehat gemoft
 איר האָט געהאַט געמאָפט	ir hot gehat gemuft
 איר האָט געהאַט געמוזט	ir hot gehat gemuzt
+איר האָט געהאַט געמישט	ir hot gehat gemisht
 איר האָט געהאַט געמעגט	ir hot gehat gemegt
 איר האָט געהאַט גענאָסן	ir hot gehat genosn
 איר האָט געהאַט גענייט	ir hot gehat geneyt
@@ -10548,6 +10721,7 @@ singular לענד	lendn
 איר האָט געהאַט געראָטן	ir hot gehat gerotn
 איר האָט געהאַט גערופֿן	ir hot gehat gerufn
 איר האָט געהאַט געריבן	ir hot gehat geribn
+איר האָט געהאַט געריכט	ir hot gehat gerikht
 איר האָט געהאַט געריסן	ir hot gehat gerisn
 איר האָט געהאַט גערעדט	ir hot gehat geredt
 איר האָט געהאַט געשאָטן	ir hot gehat geshotn
@@ -10650,6 +10824,7 @@ singular לענד	lendn
 איר האָט געלייקנט	ir hot geleyknt
 איר האָט געלעבט	ir hot gelebt
 איר האָט געלעזט	ir hot gelezt
+איר האָט געלעסטערט	ir hot gelestert
 איר האָט געלעקט	ir hot gelekt
 איר האָט געלערנט	ir hot gelernt
 איר האָט געמאַכט	ir hot gemakht
@@ -10660,9 +10835,11 @@ singular לענד	lendn
 איר האָט געמאָפט	ir hot gemuft
 איר האָט געמוזט	ir hot gemuzt
 איר האָט געמיינט	ir hot gemeynt
+איר האָט געמישט	ir hot gemisht
 איר האָט געמישפּט	ir hot gemishpet
 איר האָט געממיתט	ir hot gemeymest
 איר האָט געמעגט	ir hot gemegt
+איר האָט געמפּלעט	ir hot gemaplet
 איר האָט געמשפּט	ir hot gemishpet
 איר האָט גענאָסן	ir hot genosn
 איר האָט גענודיעט	ir hot genudyet
@@ -10745,6 +10922,7 @@ singular לענד	lendn
 איר האָט גערופֿן	ir hot gerufn
 איר האָט געריבן	ir hot geribn
 איר האָט גערייכערט	ir hot gereykhert
+איר האָט געריכט	ir hot gerikht
 איר האָט געריסן	ir hot gerisn
 איר האָט גערעדט	ir hot geredt
 איר האָט גערעכנט	ir hot gerekhnt
@@ -10776,6 +10954,7 @@ singular לענד	lendn
 איר האָט געשילדערט	ir hot geshildert
 איר האָט געשיצט	ir hot geshitst
 איר האָט געשיקט	ir hot geshikt
+איר האָט געשלאָגן	ir hot geshlogn
 איר האָט געשלאָסן	ir hot geshlosn
 איר האָט געשלונגען	ir hot geshlungen
 איר האָט געשליפֿן	ir hot geshlifn
@@ -10837,6 +11016,7 @@ singular לענד	lendn
 איר האָט פֿאַרגעבן	ir hot fargebn
 איר האָט פֿאַרגעסן	ir hot fargesn
 איר האָט פֿאַרדאַמט	ir hot fardamt
+איר האָט פֿאַרדונגען	ir hot fardungen
 איר האָט פֿאַרדינט	ir hot fardint
 איר האָט פֿאַרוואַנדלט	ir hot farvandlt
 איר האָט פֿאַרזיכערט	ir hot farzikhert
@@ -10965,14 +11145,18 @@ singular לענד	lendn
 איר וועט אויסשרײַען	ir vet oysshrayen
 איר וועט אויפֿהייבן	ir vet oyfheybn
 איר וועט אויפֿהערן	ir vet oyfhern
+איר וועט אויפֿוועקן	ir vet oyfvekn
+איר וועט אויפֿריכטן	ir vet oyfrikhtn
 איר וועט אויפֿשנײַדן	ir vet oyfshnaydn
 איר וועט אויקען	ir vet oyken
 איר וועט אומברענגען	ir vet umbrengen
 איר וועט אונטערצינדן	ir vet untertsindn
 איר וועט אונטערשטעלן	ir vet untershteln
+איר וועט אורינירן	ir vet urinirn
 איר וועט איבערהאַקן	ir vet iberhakn
 איר וועט איבערזעצן	ir vet iberzetsn
 איר וועט איבערלעבן	ir vet iberlebn
+איר וועט איבערציִען	ir vet ibertsien
 איר וועט איבערקוקן	ir vet iberkukn
 איר וועט איבערקערן	ir vet iberkern
 איר וועט איבערשפּרײַזן	ir vet ibershprayzn
@@ -10999,6 +11183,7 @@ singular לענד	lendn
 איר וועט באַשאַפֿן	ir vet bashafn
 איר וועט באַשולדיקן	ir vet bashuldikn
 איר וועט באַשטיין	ir vet bashteyn
+איר וועט באַשטעלן	ir vet bashteln
 איר וועט באַשליסן	ir vet bashlisn
 איר וועט באַשרײַבן	ir vet bashraybn
 איר וועט באַשײַנען	ir vet bashaynen
@@ -11058,6 +11243,7 @@ singular לענד	lendn
 איר וועט דויערן	ir vet doyern
 איר וועט דונערן	ir vet dunern
 איר וועט דורכרײַסן	ir vet durkhraysn
+איר וועט דינגען	ir vet dingen
 איר וועט דינען	ir vet dinen
 איר וועט דישען	ir vet dishen
 איר וועט דענקען	ir vet denken
@@ -11138,6 +11324,7 @@ singular לענד	lendn
 איר וועט האָבן געמאָפֿט	ir vet hobn gemoft
 איר וועט האָבן געמאָפט	ir vet hobn gemuft
 איר וועט האָבן געמוזט	ir vet hobn gemuzt
+איר וועט האָבן געמישט	ir vet hobn gemisht
 איר וועט האָבן געמעגט	ir vet hobn gemegt
 איר וועט האָבן גענאָסן	ir vet hobn genosn
 איר וועט האָבן גענייט	ir vet hobn geneyt
@@ -11165,6 +11352,7 @@ singular לענד	lendn
 איר וועט האָבן געראָטן	ir vet hobn gerotn
 איר וועט האָבן גערופֿן	ir vet hobn gerufn
 איר וועט האָבן געריבן	ir vet hobn geribn
+איר וועט האָבן געריכט	ir vet hobn gerikht
 איר וועט האָבן געריסן	ir vet hobn gerisn
 איר וועט האָבן גערעדט	ir vet hobn geredt
 איר וועט האָבן געשאָטן	ir vet hobn geshotn
@@ -11288,6 +11476,7 @@ singular לענד	lendn
 איר וועט לייקענען	ir vet leykenen
 איר וועט לעבן	ir vet lebn
 איר וועט לעזן	ir vet lezn
+איר וועט לעסטערן	ir vet lestern
 איר וועט לעקן	ir vet lekn
 איר וועט לערנען	ir vet lernen
 איר וועט לעשן	ir vet leshn
@@ -11304,11 +11493,13 @@ singular לענד	lendn
 איר וועט מיטגיין	ir vet mitgeyn
 איר וועט מיטנעמען	ir vet mitnemen
 איר וועט מיינען	ir vet meynen
+איר וועט מישן	ir vet mishn
 איר וועט מישפּטן	ir vet mishpetn
 איר וועט ממיתן	ir vet meymesn
 איר וועט מסביר זײַן	ir vet masber zayn
 איר וועט מעגן	ir vet megn
 איר וועט מעסטן	ir vet mestn
+איר וועט מפּלען	ir vet maplen
 איר וועט משפּטן	ir vet mishpetn
 איר וועט נאָכגיין	ir vet nokhgeyn
 איר וועט נודיען	ir vet nudyen
@@ -11363,6 +11554,7 @@ singular לענד	lendn
 איר וועט פֿאַרגעבן	ir vet fargebn
 איר וועט פֿאַרגעסן	ir vet fargesn
 איר וועט פֿאַרדאַמען	ir vet fardamen
+איר וועט פֿאַרדינגען	ir vet fardingen
 איר וועט פֿאַרדינען	ir vet fardinen
 איר וועט פֿאַרוואַנדלען	ir vet farvandlen
 איר וועט פֿאַרוויגן	ir vet farvign
@@ -11451,6 +11643,7 @@ singular לענד	lendn
 איר וועט ראָטן	ir vet rotn
 איר וועט רופֿן	ir vet rufn
 איר וועט רייכערן	ir vet reykhern
+איר וועט ריכטן	ir vet rikhtn
 איר וועט רעדאַגירן	ir vet redagirn
 איר וועט רעדן	ir vet redn
 איר וועט רעוואָלטירן	ir vet revoltirn
@@ -11487,6 +11680,7 @@ singular לענד	lendn
 איר וועט שיסן	ir vet shisn
 איר וועט שיצן	ir vet shitsn
 איר וועט שיקן	ir vet shikn
+איר וועט שלאָגן	ir vet shlogn
 איר וועט שלאָפֿן	ir vet shlofn
 איר וועט שלינגען	ir vet shlingen
 איר וועט שליסן	ir vet shlisn
@@ -11519,6 +11713,7 @@ singular לענד	lendn
 איר וועט שרײַבן	ir vet shraybn
 איר וועט שרײַען	ir vet shrayen
 איר וועט שײַנען	ir vet shaynen
+איר וועקט אויף	ir vekt oyf
 איר ווערט	ir vert
 איר ווײַזט	ir vayzt
 איר זאַלבט	ir zalbt
@@ -11542,6 +11737,7 @@ singular לענד	lendn
 איר זענט אַהערגעקומען	ir zent ahergekumen
 איר זענט אַנטלאָפֿן	ir zent antlofn
 איר זענט אַנטשטאַנען	ir zent antshtanen
+איר זענט אַנטשלאָפֿן	ir zent antshlofn
 איר זענט אַראָפּגעפֿאַלן	ir zent aropgefaln
 איר זענט אָןגעקומען	ir zent ongekumen
 איר זענט אויסגעפֿאַלן	ir zent oysgefaln
@@ -11622,6 +11818,7 @@ singular לענד	lendn
 איר לעבט	ir lebt
 איר לעבט איבער	ir lebt iber
 איר לעזט	ir lezt
+איר לעסטערט	ir lestert
 איר לעקט	ir lekt
 איר לערנט	ir lernt
 איר לעשט	ir lesht
@@ -11638,10 +11835,12 @@ singular לענד	lendn
 איר מאָפט	ir muft
 איר מוזט	ir muzt
 איר מיינט	ir meynt
+איר מישט	ir misht
 איר מישפּט	ir mishpet
 איר ממיתט	ir meymest
 איר מעגט	ir megt
 איר מעסט	ir mest
+איר מפּלעט	ir maplet
 איר משפּט	ir mishpet
 איר נודיעט	ir nudyet
 איר נייט	ir neyt
@@ -11702,6 +11901,7 @@ singular לענד	lendn
 איר פֿאַרגלײַכט	ir farglaykht
 איר פֿאַרגעסט	ir fargest
 איר פֿאַרדאַמט	ir fardamt
+איר פֿאַרדינגט	ir fardingt
 איר פֿאַרדינט	ir fardint
 איר פֿאַרוואַנדלט	ir farvandlt
 איר פֿאַרוויגט	ir farvigt
@@ -11749,6 +11949,7 @@ singular לענד	lendn
 איר צחקעט	ir tsakhket
 איר צחקעט	ir tskhoket
 איר ציט	ir tsit
+איר ציט איבער	ir tsit iber
 איר ציטערט	ir tsitert
 איר צייכנט	ir tseykhnt
 איר ציילט	ir tseylt
@@ -11802,6 +12003,8 @@ singular לענד	lendn
 איר רופֿט	ir ruft
 איר רופֿט אָן	ir ruft on
 איר רייכערט	ir reykhert
+איר ריכט	ir rikht
+איר ריכט אויף	ir rikht oyf
 איר רירט אָן	ir rirt on
 איר רעדאַגירט	ir redagirt
 איר רעדט	ir redt
@@ -11841,6 +12044,7 @@ singular לענד	lendn
 איר שיסט	ir shist
 איר שיצט	ir shitst
 איר שיקט	ir shikt
+איר שלאָגט	ir shlogt
 איר שלאָפֿט	ir shloft
 איר שלינגט	ir shlingt
 איר שליסט	ir shlist
@@ -12304,6 +12508,20 @@ singular לענד	lendn
 באַשטייטייל	bashteyteyl
 באַשטיין	bashteyn
 באַשטיינדיק	bashteyndik
+באַשטעלונג	bashtelung
+באַשטעלונג	bashtelungen
+באַשטעלט	bashtelt
+באַשטעלטן	bashteltn
+באַשטעלטס	bashtelts
+באַשטעלטע	bashtelte
+באַשטעלטער	bashtelter
+באַשטעלן	bashteln
+באַשטעלנדיק	bashtelndik
+באַשיידן	basheydn
+באַשיידנס	basheydns
+באַשיידנע	basheydne
+באַשיידנעם	basheydnem
+באַשיידנער	basheydner
 באַשיצונג	bashitsung
 באַשיצער	bashitser
 באַשלאָסן	bashlosn
@@ -12517,6 +12735,7 @@ singular לענד	lendn
 בחינם	bekhinem
 בחינם	bkhinem
 בטחון	betokhn
+בטל מאַכן	botl makhn
 ביאַלאָסטאָק	byalostok
 ביאַלי	biali
 ביאַלי	bialy
@@ -12718,6 +12937,7 @@ singular לענד	lendn
 בכור	pkhor
 בכור	pkhoyrem
 בכורה	bkhoyre
+בכורה	pkhoyre
 בכלל	bikhlal
 בכלל	bkhlal
 בלאַדבאַט	bladbat
@@ -12726,6 +12946,8 @@ singular לענד	lendn
 בלאַט	bletl
 בלאַטע	blate
 בלאָ	blo
+בלאָבלאַט־אַקאַציע	bloblatakatsye
+בלאָבלאַט־אַקאַציע	bloblatakatsyes
 בלאָג	blog
 בלאָז	bloz
 בלאָז	blozn
@@ -12839,6 +13061,8 @@ singular לענד	lendn
 בנים	bonem
 בנימין	binyomen
 בנין	binyen
+בנין	binyonim
+בנינים	binyonim
 בעבל	bebl
 בעבל	beblekh
 בעבלעך	beblekh
@@ -12881,6 +13105,8 @@ singular לענד	lendn
 בעל־מלאָכה	balmelokhes
 בעל־צדקה	baletsdoke
 בעל־צדקה	baltsdoke
+בעל־תּשובֿה	baletshuve
+בעל־תּשובֿה	baltshuve
 בעלאַרוס	belarus
 בעלאָרוס	belorus
 בעלאָרוסיע	belorusye
@@ -12934,6 +13160,8 @@ singular לענד	lendn
 בעצם	betsm
 בעקישע	bekishe
 בעקישע	bekishes
+בעקן	bekn
+בעקן	bekns
 בעקער	beker
 בעקער	bekerin
 בעקער	bekerke
@@ -13216,6 +13444,7 @@ singular לענד	lendn
 בתולה	bsules
 בתולות	bsules
 בײַ	bay
+בײַ צופֿאַל	bay tsufal
 בײַ צײַטנס	bay tsaytns
 בײַגעקומען	baygekumen
 בײַגעשטײַערט	baygeshtayert
@@ -13303,6 +13532,7 @@ singular לענד	lendn
 גאַרבערײַ	garberay
 גאַרבערײַ	garberayen
 גאַרטל	gartl
+גאַרטל	gartlen
 גאָב	gob
 גאָב	gobn
 גאָגל-מאָגל	goglmogl
@@ -13358,6 +13588,7 @@ singular לענד	lendn
 גאָרילע	goriles
 גאָרילעס	goriles
 גאָרן	gorn
+גאָרן	gorns
 גאָרנישט	gornisht
 גאווה	gayve
 גאולה	geule
@@ -13518,6 +13749,7 @@ singular לענד	lendn
 גיפֿטיקס	giftiks
 גיפֿטיקע	giftike
 גיפֿטיקער	giftiker
+גיפט	gift
 גירוש	girush
 גירוש	girushim
 גיריק	girik
@@ -13557,7 +13789,7 @@ singular לענד	lendn
 גלותדיקע	golesdike
 גלותדיקער	golesdiker
 גלח	galekh
-גלח	galokhim
+גלח	galokhem
 גלחות	galkhes
 גלחים	galokhim
 גליד	glid
@@ -13746,6 +13978,7 @@ singular לענד	lendn
 געדויערן	gedoyern
 געדויערנדיק	gedoyerndik
 געדולד	geduld
+געדונגען	gedungen
 געדונערט	gedunert
 געדיכט	gedikht
 געדיכט	gedikhtn
@@ -14004,6 +14237,7 @@ singular לענד	lendn
 געלעזט	gelezt
 געלעזן	gelezn
 געלעכטער	gelekhter
+געלעסטערט	gelestert
 געלעקט	gelekt
 געלער	geler
 געלערנט	gelernt
@@ -14017,9 +14251,11 @@ singular לענד	lendn
 געמוזט	gemuzt
 געמיאַוקעט	gemyauket
 געמיינט	gemeynt
+געמישט	gemisht
 געמישפּט	gemishpet
 געממיתט	gemeymest
 געמעגט	gemegt
+געמפּלעט	gemaplet
 געמשפּט	gemishpet
 גען	gen
 גענאַשט	genasht
@@ -14090,6 +14326,7 @@ singular לענד	lendn
 געפּוצט	geputst
 געפּיקט	gepikt
 געפּיקעט	gepiket
+געפּישט	gepisht
 געפּלאַנט	geplant
 געפּלאַצט	geplatst
 געפּלאָנטערט	geplontert
@@ -14276,6 +14513,7 @@ singular לענד	lendn
 געשילדערט	geshildert
 געשיצט	geshitst
 געשיקט	geshikt
+געשלאָגן	geshlogn
 געשלאָסן	geshlosn
 געשלאָפֿן	geshlofn
 געשלונגען	geshlungen
@@ -14637,6 +14875,7 @@ singular לענד	lendn
 דו אָנווערסט	du onverst
 דו אויסברייטערסט	du oysbreyterst
 דו אויקעסט	du oykest
+דו אורינירסט	du urinirst
 דו איינצאַמסט	du eyntsamst
 דו אײַנשרומפּסט	du aynshrumpst
 דו באַגינסט	du baginst
@@ -14656,6 +14895,7 @@ singular לענד	lendn
 דו באַשאַפֿסט	du bashafst
 דו באַשולדיקסט	du bashuldikst
 דו באַשטייסט	du bashteyst
+דו באַשטעלסט	du bashtelst
 דו באַשליסט	du bashlist
 דו באַשרײַבסט	du bashraybst
 דו באַשײַנסט	du bashaynst
@@ -14672,6 +14912,7 @@ singular לענד	lendn
 דו ביסט אַהערגעקומען	du bist ahergekumen
 דו ביסט אַנטלאָפֿן	du bist antlofn
 דו ביסט אַנטשטאַנען	du bist antshtanen
+דו ביסט אַנטשלאָפֿן	du bist antshlofn
 דו ביסט אַראָפּגעגאַנגען	du bist aropgegangen
 דו ביסט אַראָפּגעפֿאַלן	du bist aropgefaln
 דו ביסט אַרומגעגאַנגען	du bist arumgegangen
@@ -14762,6 +15003,7 @@ singular לענד	lendn
 דו דאַרפֿסט	du darfst
 דו דויערסט	du doyerst
 דו דונערסט	du dunerst
+דו דינגסט	du dingst
 דו דינסט	du dinst
 דו דישעסט	du dishest
 דו דענקסט	du denkst
@@ -14796,7 +15038,6 @@ singular לענד	lendn
 דו האָסט אַדמיניסטרירט	du host administrirt
 דו האָסט אַנולירט	du host anulirt
 דו האָסט אַנטשולדיקט	du host antshuldikt
-דו האָסט אַנטשלאָפֿן	du host antshlofn
 דו האָסט אַראָפּגענומען	du host aropgenumen
 דו האָסט אַרויסגעגעבן	du host aroysgegebn
 דו האָסט אַריבערגעפֿירט	du host aribergefirt
@@ -14824,11 +15065,15 @@ singular לענד	lendn
 דו האָסט אויסגעשריגן	du host oysgeshrign
 דו האָסט אויפֿגעהויבן	du host oyfgehoybn
 דו האָסט אויפֿגעהערט	du host oyfgehert
+דו האָסט אויפֿגעוועקט	du host oyfgevekt
+דו האָסט אויפֿגעריכט	du host oyfgerikht
 דו האָסט אויפֿגעשניטן	du host oyfgeshnitn
 דו האָסט אומגעבראַכט	du host umgebrakht
+דו האָסט אורינירט	du host urinirt
 דו האָסט איבערגעהאַקט	du host ibergehakt
 דו האָסט איבערגעזעצט	du host ibergezetst
 דו האָסט איבערגעלעבט	du host ibergelebt
+דו האָסט איבערגעצויגן	du host ibergetsoygn
 דו האָסט איבערגעקוקט	du host ibergekukt
 דו האָסט איבערגעקערט	du host ibergekert
 דו האָסט אײַןגעמאַכט	du host ayngemakht
@@ -14850,6 +15095,7 @@ singular לענד	lendn
 דו האָסט באַשאַפֿן	du host bashafn
 דו האָסט באַשולדיקט	du host bashuldikt
 דו האָסט באַשטאַנען	du host bashtanen
+דו האָסט באַשטעלט	du host bashtelt
 דו האָסט באַשלאָסן	du host bashlosn
 דו האָסט באַשריבן	du host bashribn
 דו האָסט באַשײַנט	du host bashaynt
@@ -14904,6 +15150,7 @@ singular לענד	lendn
 דו האָסט געדאַנקט	du host gedankt
 דו האָסט געדאַרפֿט	du host gedarft
 דו האָסט געדויערט	du host gedoyert
+דו האָסט געדונגען	du host gedungen
 דו האָסט געדונערט	du host gedunert
 דו האָסט געדינט	du host gedint
 דו האָסט געדישעט	du host gedishet
@@ -15073,6 +15320,7 @@ singular לענד	lendn
 דו האָסט געלייקנט	du host geleyknt
 דו האָסט געלעבט	du host gelebt
 דו האָסט געלעזט	du host gelezt
+דו האָסט געלעסטערט	du host gelestert
 דו האָסט געלעקט	du host gelekt
 דו האָסט געלערנט	du host gelernt
 דו האָסט געמאַכט	du host gemakht
@@ -15083,9 +15331,11 @@ singular לענד	lendn
 דו האָסט געמאָפט	du host gemuft
 דו האָסט געמוזט	du host gemuzt
 דו האָסט געמיינט	du host gemeynt
+דו האָסט געמישט	du host gemisht
 דו האָסט געמישפּט	du host gemishpet
 דו האָסט געממיתט	du host gemeymest
 דו האָסט געמעגט	du host gemegt
+דו האָסט געמפּלעט	du host gemaplet
 דו האָסט געמשפּט	du host gemishpet
 דו האָסט גענאָסן	du host genosn
 דו האָסט גענודיעט	du host genudyet
@@ -15168,6 +15418,7 @@ singular לענד	lendn
 דו האָסט גערופֿן	du host gerufn
 דו האָסט געריבן	du host geribn
 דו האָסט גערייכערט	du host gereykhert
+דו האָסט געריכט	du host gerikht
 דו האָסט געריסן	du host gerisn
 דו האָסט גערעדט	du host geredt
 דו האָסט גערעכנט	du host gerekhnt
@@ -15199,6 +15450,7 @@ singular לענד	lendn
 דו האָסט געשילדערט	du host geshildert
 דו האָסט געשיצט	du host geshitst
 דו האָסט געשיקט	du host geshikt
+דו האָסט געשלאָגן	du host geshlogn
 דו האָסט געשלאָסן	du host geshlosn
 דו האָסט געשלונגען	du host geshlungen
 דו האָסט געשליפֿן	du host geshlifn
@@ -15260,6 +15512,7 @@ singular לענד	lendn
 דו האָסט פֿאַרגעבן	du host fargebn
 דו האָסט פֿאַרגעסן	du host fargesn
 דו האָסט פֿאַרדאַמט	du host fardamt
+דו האָסט פֿאַרדונגען	du host fardungen
 דו האָסט פֿאַרדינט	du host fardint
 דו האָסט פֿאַרוואַנדלט	du host farvandlt
 דו האָסט פֿאַרזיכערט	du host farzikhert
@@ -15388,14 +15641,18 @@ singular לענד	lendn
 דו וועסט אויסשרײַען	du vest oysshrayen
 דו וועסט אויפֿהייבן	du vest oyfheybn
 דו וועסט אויפֿהערן	du vest oyfhern
+דו וועסט אויפֿוועקן	du vest oyfvekn
+דו וועסט אויפֿריכטן	du vest oyfrikhtn
 דו וועסט אויפֿשנײַדן	du vest oyfshnaydn
 דו וועסט אויקען	du vest oyken
 דו וועסט אומברענגען	du vest umbrengen
 דו וועסט אונטערצינדן	du vest untertsindn
 דו וועסט אונטערשטעלן	du vest untershteln
+דו וועסט אורינירן	du vest urinirn
 דו וועסט איבערהאַקן	du vest iberhakn
 דו וועסט איבערזעצן	du vest iberzetsn
 דו וועסט איבערלעבן	du vest iberlebn
+דו וועסט איבערציִען	du vest ibertsien
 דו וועסט איבערקוקן	du vest iberkukn
 דו וועסט איבערקערן	du vest iberkern
 דו וועסט איבערשפּרײַזן	du vest ibershprayzn
@@ -15422,6 +15679,7 @@ singular לענד	lendn
 דו וועסט באַשאַפֿן	du vest bashafn
 דו וועסט באַשולדיקן	du vest bashuldikn
 דו וועסט באַשטיין	du vest bashteyn
+דו וועסט באַשטעלן	du vest bashteln
 דו וועסט באַשליסן	du vest bashlisn
 דו וועסט באַשרײַבן	du vest bashraybn
 דו וועסט באַשײַנען	du vest bashaynen
@@ -15481,6 +15739,7 @@ singular לענד	lendn
 דו וועסט דויערן	du vest doyern
 דו וועסט דונערן	du vest dunern
 דו וועסט דורכרײַסן	du vest durkhraysn
+דו וועסט דינגען	du vest dingen
 דו וועסט דינען	du vest dinen
 דו וועסט דישען	du vest dishen
 דו וועסט דענקען	du vest denken
@@ -15560,6 +15819,7 @@ singular לענד	lendn
 דו וועסט האָבן געמאָפֿט	du vest hobn gemoft
 דו וועסט האָבן געמאָפט	du vest hobn gemuft
 דו וועסט האָבן געמוזט	du vest hobn gemuzt
+דו וועסט האָבן געמישט	du vest hobn gemisht
 דו וועסט האָבן געמעגט	du vest hobn gemegt
 דו וועסט האָבן גענאָסן	du vest hobn genosn
 דו וועסט האָבן גענייט	du vest hobn geneyt
@@ -15586,6 +15846,7 @@ singular לענד	lendn
 דו וועסט האָבן געראָטן	du vest hobn gerotn
 דו וועסט האָבן גערופֿן	du vest hobn gerufn
 דו וועסט האָבן געריבן	du vest hobn geribn
+דו וועסט האָבן געריכט	du vest hobn gerikht
 דו וועסט האָבן געריסן	du vest hobn gerisn
 דו וועסט האָבן גערעדט	du vest hobn geredt
 דו וועסט האָבן געשאָטן	du vest hobn geshotn
@@ -15704,6 +15965,7 @@ singular לענד	lendn
 דו וועסט לייקענען	du vest leykenen
 דו וועסט לעבן	du vest lebn
 דו וועסט לעזן	du vest lezn
+דו וועסט לעסטערן	du vest lestern
 דו וועסט לעקן	du vest lekn
 דו וועסט לערנען	du vest lernen
 דו וועסט לעשן	du vest leshn
@@ -15720,11 +15982,13 @@ singular לענד	lendn
 דו וועסט מיטגיין	du vest mitgeyn
 דו וועסט מיטנעמען	du vest mitnemen
 דו וועסט מיינען	du vest meynen
+דו וועסט מישן	du vest mishn
 דו וועסט מישפּטן	du vest mishpetn
 דו וועסט ממיתן	du vest meymesn
 דו וועסט מסביר זײַן	du vest masber zayn
 דו וועסט מעגן	du vest megn
 דו וועסט מעסטן	du vest mestn
+דו וועסט מפּלען	du vest maplen
 דו וועסט משפּטן	du vest mishpetn
 דו וועסט נאָכגיין	du vest nokhgeyn
 דו וועסט נודיען	du vest nudyen
@@ -15779,6 +16043,7 @@ singular לענד	lendn
 דו וועסט פֿאַרגעבן	du vest fargebn
 דו וועסט פֿאַרגעסן	du vest fargesn
 דו וועסט פֿאַרדאַמען	du vest fardamen
+דו וועסט פֿאַרדינגען	du vest fardingen
 דו וועסט פֿאַרדינען	du vest fardinen
 דו וועסט פֿאַרוואַנדלען	du vest farvandlen
 דו וועסט פֿאַרוויגן	du vest farvign
@@ -15866,6 +16131,7 @@ singular לענד	lendn
 דו וועסט ראָטן	du vest rotn
 דו וועסט רופֿן	du vest rufn
 דו וועסט רייכערן	du vest reykhern
+דו וועסט ריכטן	du vest rikhtn
 דו וועסט רעדאַגירן	du vest redagirn
 דו וועסט רעדן	du vest redn
 דו וועסט רעוואָלטירן	du vest revoltirn
@@ -15902,6 +16168,7 @@ singular לענד	lendn
 דו וועסט שיסן	du vest shisn
 דו וועסט שיצן	du vest shitsn
 דו וועסט שיקן	du vest shikn
+דו וועסט שלאָגן	du vest shlogn
 דו וועסט שלאָפֿן	du vest shlofn
 דו וועסט שלינגען	du vest shlingen
 דו וועסט שליסן	du vest shlisn
@@ -15934,6 +16201,7 @@ singular לענד	lendn
 דו וועסט שרײַבן	du vest shraybn
 דו וועסט שרײַען	du vest shrayen
 דו וועסט שײַנען	du vest shaynen
+דו וועקסט אויף	du vekst oyf
 דו ווערסט	du verst
 דו ווײַזסט	du vayzst
 דו זאַלבסט	du zalbst
@@ -16004,6 +16272,7 @@ singular לענד	lendn
 דו לעבסט	du lebst
 דו לעבסט איבער	du lebst iber
 דו לעזסט	du lezst
+דו לעסטערסט	du lesterst
 דו לעקסט	du lekst
 דו לערנסט	du lernst
 דו לעשסט	du leshst
@@ -16020,10 +16289,12 @@ singular לענד	lendn
 דו מאָפֿסט	du mufst
 דו מוזסט	du muzst
 דו מיינסט	du meynst
+דו מישסט	du mishst
 דו מישפּטסט	du mishpetst
 דו ממיתט	du meymest
 דו מעגסט	du megst
 דו מעסטסט	du mestst
+דו מפּלעסט	du maplest
 דו משפּטסט	du mishpetst
 דו נודיעסט	du nudyest
 דו נייסט	du neyst
@@ -16084,6 +16355,7 @@ singular לענד	lendn
 דו פֿאַרגלײַכסט	du farglaykhst
 דו פֿאַרגעסט	du fargest
 דו פֿאַרדאַמסט	du fardamst
+דו פֿאַרדינגסט	du fardingst
 דו פֿאַרדינסט	du fardinst
 דו פֿאַרוואַנדלסט	du farvandlst
 דו פֿאַרוויגטסט	du farvigtst
@@ -16136,6 +16408,7 @@ singular לענד	lendn
 דו צינדסט אָן	du tsindst on
 דו צינדסט אונטער	du tsindst unter
 דו ציסט	du tsist
+דו ציסט איבער	du tsist iber
 דו צעברעכסט	du tsebrekhst
 דו צעכאַפּסט	du tsekhapst
 דו צעממיתט	du tsemeymest
@@ -16183,6 +16456,8 @@ singular לענד	lendn
 דו רופֿסט	du rufst
 דו רופֿסט אָן	du rufst on
 דו רייכערסט	du reykherst
+דו ריכטסט	du rikhtst
+דו ריכטסט אויף	du rikhtst oyf
 דו רירסט אָן	du rirst on
 דו רעדאַגירסט	du redagirst
 דו רעדסט	du redst
@@ -16222,6 +16497,7 @@ singular לענד	lendn
 דו שיסט	du shist
 דו שיצסט	du shitsst
 דו שיקסט	du shikst
+דו שלאָגסט	du shlogst
 דו שלאָפֿסט	du shlofst
 דו שלינגסט	du shlingst
 דו שליסט	du shlist
@@ -16380,6 +16656,8 @@ singular לענד	lendn
 דינאַסטיע	dinastyes
 דינאָזאַווער	dinozaver
 דינאָזאַווער	dinozavers
+דינגען	dingen
+דינגענדיק	dingendik
 דיניע	dinye
 דיניע	dinyes
 דיניעס	dinyes
@@ -16412,6 +16690,7 @@ singular לענד	lendn
 דיסקוסיע	diskusye
 דיסקעט	disket
 דיסקרימינאַציע	diskriminatsye
+דיסקרימינירן	diskriminirn
 דיפּלאָם	diplom
 דיק	dik
 דיקדוק	dikdek
@@ -16551,6 +16830,9 @@ singular לענד	lendn
 דערציילט	dertseylt
 דערציילן	dertseyln
 דערציילנדיק	dertseylndik
+דערציילער	dertseyler
+דערציילער	dertseylerin
+דערציילער	dertseylers
 דערקאַזשען	derkazhen
 דערקלערונג	derklerung
 דערקלערונג	derklerungen
@@ -17020,6 +17302,7 @@ singular לענד	lendn
 הייסנדיק	heysndik
 הייסע	heyse
 הייסער	heyser
+הייצונג	heytsung
 הייצן	heytsn
 הייצנדיק	heytsndik
 הייראַט	heyrat
@@ -17381,6 +17664,8 @@ singular לענד	lendn
 וואַרשעווער	varshevers
 וואַרשעווערס	varshevers
 וואַש	vash
+וואַשבעקן	vashbekn
+וואַשבעקן	vashbekns
 וואַשינגטאָן	vashington
 וואַשינגטאָן די סי	vashington di si
 וואַשמאַשין	vashmashin
@@ -17419,6 +17704,8 @@ singular לענד	lendn
 וואָלף־פֿיש	volffish
 וואָלקן	volkn
 וואָלקן	volkns
+וואָלקן־קראַצער	volknkratser
+וואָלקן־קראַצער	volknkratsers
 וואָלקנבראָך	volknbrokh
 וואָלקנבראָךן	volknbrokhn
 וואָלקנדיק	volkndik
@@ -17429,7 +17716,6 @@ singular לענד	lendn
 וואָס	vos
 וואָס איז דאָס	vos iz dos
 וואָס איז מיט	vos iz mit
-וואָס הערט זיך	vos hert zikh
 וואָס מאַכט איר	vos makht ir
 וואָס מאַכט ער	vos makht er
 וואָס מאַכסטו	vos makhstu
@@ -17490,6 +17776,13 @@ singular לענד	lendn
 וווּנדער	vunder
 וווּנדער	vunders
 וווּנדערבאַר	vunderbar
+וווּנדערלעך	vunderlekh
+וווּנדערלעכן	vunderlekhn
+וווּנדערלעכס	vunderlekhs
+וווּנדערלעכע	vunderlekhe
+וווּנדערלעכער	vunderlekher
+וווּנדערן	vundern
+וווּנדערן זיך	vundern zikh
 וווּרשט	vursht
 וווּרשט	vurshtl
 וווּרשט	vurshtn
@@ -17509,9 +17802,6 @@ singular לענד	lendn
 וווינען	voynen
 וווינענדיק	voynendik
 וווינצימער	voyntsimer
-ווונדערלעך	vunderlekh
-ווונדערן	vundern
-ווונדערן זיך	vundern zikh
 ווי	vi
 ווי אַ פֿיש אין וואַסער	vi a fish in vaser
 ווי אַזוי	vi azoy
@@ -17807,6 +18097,7 @@ singular לענד	lendn
 וועספּ	vesp
 וועספּ	vespn
 וועקער	veker
+וועקער	vekers
 ווער	ver
 ווערב	verbn
 ווערבום	verbum
@@ -17912,7 +18203,6 @@ singular לענד	lendn
 ויגן־אַפּל	oygnapl
 ויטאָבוס	oytobus
 ויטאָבוס	oytobusn
-ויסלענדער	oyslender
 ויסערגעוויינלעך	oysergeveynlekh
 ויסשטעלונג	oysshtelung
 ויקרא	vayikro
@@ -18064,6 +18354,8 @@ singular לענד	lendn
 זומער־פֿייגעלע	zumerfeygelekh
 זומער־שפּרענקל	zumershprenkl
 זומערדיק	zumerdik
+זומערהויז	zumerhayzer
+זומערהויז	zumerhoyz
 זומערלעב	zumerleb
 זומערן	zumer
 זומערן	zumern
@@ -18163,6 +18455,7 @@ singular לענד	lendn
 זיי אָנווערן	zey onvern
 זיי אויסברייטערן	zey oysbreytern
 זיי אויקען	zey oyken
+זיי אורינירן	zey urinirn
 זיי איינצאַמען	zey eyntsamen
 זיי אײַנשרומפּן	zey aynshrumpn
 זיי באַגינען	zey baginen
@@ -18182,6 +18475,7 @@ singular לענד	lendn
 זיי באַשאַפֿן	zey bashafn
 זיי באַשולדיקן	zey bashuldikn
 זיי באַשטיין	zey bashteyn
+זיי באַשטעלן	zey bashteln
 זיי באַשליסן	zey bashlisn
 זיי באַשרײַבן	zey bashraybn
 זיי באַשײַנען	zey bashaynen
@@ -18251,6 +18545,7 @@ singular לענד	lendn
 זיי דאַרפֿן	zey darfn
 זיי דויערן	zey doyern
 זיי דונערן	zey dunern
+זיי דינגען	zey dingen
 זיי דינען	zey dinen
 זיי דישען	zey dishen
 זיי דענקען	zey denken
@@ -18284,7 +18579,6 @@ singular לענד	lendn
 זיי האָבן אַדאָפּטירט	zey hobn adoptirt
 זיי האָבן אַנולירט	zey hobn anulirt
 זיי האָבן אַנטשולדיקט	zey hobn antshuldikt
-זיי האָבן אַנטשלאָפֿן	zey hobn antshlofn
 זיי האָבן אַראָפּגענומען	zey hobn aropgenumen
 זיי האָבן אַרויסגעגעבן	zey hobn aroysgegebn
 זיי האָבן אָבסטרויִרט	zey hobn obstruirt
@@ -18309,8 +18603,11 @@ singular לענד	lendn
 זיי האָבן אויסגעשריגן	zey hobn oysgeshrign
 זיי האָבן אויפֿגעהויבן	zey hobn oyfgehoybn
 זיי האָבן אויפֿגעהערט	zey hobn oyfgehert
+זיי האָבן אויפֿגעוועקט	zey hobn oyfgevekt
+זיי האָבן אויפֿגעריכט	zey hobn oyfgerikht
 זיי האָבן אויפֿגעשניטן	zey hobn oyfgeshnitn
 זיי האָבן אומגעבראַכט	zey hobn umgebrakht
+זיי האָבן אורינירט	zey hobn urinirt
 זיי האָבן איבערגעהאַקט	zey hobn ibergehakt
 זיי האָבן איבערגעזעצט	zey hobn ibergezetst
 זיי האָבן איבערגעלעבט	zey hobn ibergelebt
@@ -18334,6 +18631,7 @@ singular לענד	lendn
 זיי האָבן באַשאַפֿן	zey hobn bashafn
 זיי האָבן באַשולדיקט	zey hobn bashuldikt
 זיי האָבן באַשטאַנען	zey hobn bashtanen
+זיי האָבן באַשטעלט	zey hobn bashtelt
 זיי האָבן באַשלאָסן	zey hobn bashlosn
 זיי האָבן באַשריבן	zey hobn bashribn
 זיי האָבן באַשײַנט	zey hobn bashaynt
@@ -18387,6 +18685,7 @@ singular לענד	lendn
 זיי האָבן געדאַנקט	zey hobn gedankt
 זיי האָבן געדאַרפֿט	zey hobn gedarft
 זיי האָבן געדויערט	zey hobn gedoyert
+זיי האָבן געדונגען	zey hobn gedungen
 זיי האָבן געדונערט	zey hobn gedunert
 זיי האָבן געדינט	zey hobn gedint
 זיי האָבן געדישעט	zey hobn gedishet
@@ -18495,6 +18794,7 @@ singular לענד	lendn
 זיי האָבן געלייקנט	zey hobn geleyknt
 זיי האָבן געלעבט	zey hobn gelebt
 זיי האָבן געלעזט	zey hobn gelezt
+זיי האָבן געלעסטערט	zey hobn gelestert
 זיי האָבן געלעקט	zey hobn gelekt
 זיי האָבן געלערנט	zey hobn gelernt
 זיי האָבן געמאַכט	zey hobn gemakht
@@ -18505,9 +18805,11 @@ singular לענד	lendn
 זיי האָבן געמאָפט	zey hobn gemuft
 זיי האָבן געמוזט	zey hobn gemuzt
 זיי האָבן געמיינט	zey hobn gemeynt
+זיי האָבן געמישט	zey hobn gemisht
 זיי האָבן געמישפּט	zey hobn gemishpet
 זיי האָבן געממיתט	zey hobn gemeymest
 זיי האָבן געמעגט	zey hobn gemegt
+זיי האָבן געמפּלעט	zey hobn gemaplet
 זיי האָבן געמשפּט	zey hobn gemishpet
 זיי האָבן גענאָסן	zey hobn genosn
 זיי האָבן גענודיעט	zey hobn genudyet
@@ -18590,6 +18892,7 @@ singular לענד	lendn
 זיי האָבן גערופֿן	zey hobn gerufn
 זיי האָבן געריבן	zey hobn geribn
 זיי האָבן גערייכערט	zey hobn gereykhert
+זיי האָבן געריכט	zey hobn gerikht
 זיי האָבן געריסן	zey hobn gerisn
 זיי האָבן גערעדט	zey hobn geredt
 זיי האָבן גערעכנט	zey hobn gerekhnt
@@ -18621,6 +18924,7 @@ singular לענד	lendn
 זיי האָבן געשילדערט	zey hobn geshildert
 זיי האָבן געשיצט	zey hobn geshitst
 זיי האָבן געשיקט	zey hobn geshikt
+זיי האָבן געשלאָגן	zey hobn geshlogn
 זיי האָבן געשלאָסן	zey hobn geshlosn
 זיי האָבן געשלונגען	zey hobn geshlungen
 זיי האָבן געשליפֿן	zey hobn geshlifn
@@ -18682,6 +18986,7 @@ singular לענד	lendn
 זיי האָבן פֿאַרגעבן	zey hobn fargebn
 זיי האָבן פֿאַרגעסן	zey hobn fargesn
 זיי האָבן פֿאַרדאַמט	zey hobn fardamt
+זיי האָבן פֿאַרדונגען	zey hobn fardungen
 זיי האָבן פֿאַרדינט	zey hobn fardint
 זיי האָבן פֿאַרוואַנדלט	zey hobn farvandlt
 זיי האָבן פֿאַרזיכערט	zey hobn farzikhert
@@ -18810,12 +19115,16 @@ singular לענד	lendn
 זיי וועלן אויסשרײַען	zey veln oysshrayen
 זיי וועלן אויפֿהייבן	zey veln oyfheybn
 זיי וועלן אויפֿהערן	zey veln oyfhern
+זיי וועלן אויפֿוועקן	zey veln oyfvekn
+זיי וועלן אויפֿריכטן	zey veln oyfrikhtn
 זיי וועלן אויפֿשנײַדן	zey veln oyfshnaydn
 זיי וועלן אויקען	zey veln oyken
 זיי וועלן אומברענגען	zey veln umbrengen
+זיי וועלן אורינירן	zey veln urinirn
 זיי וועלן איבערהאַקן	zey veln iberhakn
 זיי וועלן איבערזעצן	zey veln iberzetsn
 זיי וועלן איבערלעבן	zey veln iberlebn
+זיי וועלן איבערציִען	zey veln ibertsien
 זיי וועלן איבערקוקן	zey veln iberkukn
 זיי וועלן איבערקערן	zey veln iberkern
 זיי וועלן איינצאַמען	zey veln eyntsamen
@@ -18841,6 +19150,7 @@ singular לענד	lendn
 זיי וועלן באַשאַפֿן	zey veln bashafn
 זיי וועלן באַשולדיקן	zey veln bashuldikn
 זיי וועלן באַשטיין	zey veln bashteyn
+זיי וועלן באַשטעלן	zey veln bashteln
 זיי וועלן באַשליסן	zey veln bashlisn
 זיי וועלן באַשרײַבן	zey veln bashraybn
 זיי וועלן באַשײַנען	zey veln bashaynen
@@ -18900,6 +19210,7 @@ singular לענד	lendn
 זיי וועלן דויערן	zey veln doyern
 זיי וועלן דונערן	zey veln dunern
 זיי וועלן דורכרײַסן	zey veln durkhraysn
+זיי וועלן דינגען	zey veln dingen
 זיי וועלן דינען	zey veln dinen
 זיי וועלן דישען	zey veln dishen
 זיי וועלן דענקען	zey veln denken
@@ -19032,6 +19343,7 @@ singular לענד	lendn
 זיי וועלן לייקענען	zey veln leykenen
 זיי וועלן לעבן	zey veln lebn
 זיי וועלן לעזן	zey veln lezn
+זיי וועלן לעסטערן	zey veln lestern
 זיי וועלן לעקן	zey veln lekn
 זיי וועלן לערנען	zey veln lernen
 זיי וועלן לעשן	zey veln leshn
@@ -19048,11 +19360,13 @@ singular לענד	lendn
 זיי וועלן מיטגיין	zey veln mitgeyn
 זיי וועלן מיטנעמען	zey veln mitnemen
 זיי וועלן מיינען	zey veln meynen
+זיי וועלן מישן	zey veln mishn
 זיי וועלן מישפּטן	zey veln mishpetn
 זיי וועלן ממיתן	zey veln meymesn
 זיי וועלן מסביר זײַן	zey veln masber zayn
 זיי וועלן מעגן	zey veln megn
 זיי וועלן מעסטן	zey veln mestn
+זיי וועלן מפּלען	zey veln maplen
 זיי וועלן משפּטן	zey veln mishpetn
 זיי וועלן נאָכגיין	zey veln nokhgeyn
 זיי וועלן נודיען	zey veln nudyen
@@ -19107,6 +19421,7 @@ singular לענד	lendn
 זיי וועלן פֿאַרגעבן	zey veln fargebn
 זיי וועלן פֿאַרגעסן	zey veln fargesn
 זיי וועלן פֿאַרדאַמען	zey veln fardamen
+זיי וועלן פֿאַרדינגען	zey veln fardingen
 זיי וועלן פֿאַרדינען	zey veln fardinen
 זיי וועלן פֿאַרוויגן	zey veln farvign
 זיי וועלן פֿאַרזיכערן	zey veln farzikhern
@@ -19193,6 +19508,7 @@ singular לענד	lendn
 זיי וועלן ראָטן	zey veln rotn
 זיי וועלן רופֿן	zey veln rufn
 זיי וועלן רייכערן	zey veln reykhern
+זיי וועלן ריכטן	zey veln rikhtn
 זיי וועלן רעדאַגירן	zey veln redagirn
 זיי וועלן רעדן	zey veln redn
 זיי וועלן רעוואָלטירן	zey veln revoltirn
@@ -19229,6 +19545,7 @@ singular לענד	lendn
 זיי וועלן שיסן	zey veln shisn
 זיי וועלן שיצן	zey veln shitsn
 זיי וועלן שיקן	zey veln shikn
+זיי וועלן שלאָגן	zey veln shlogn
 זיי וועלן שלאָפֿן	zey veln shlofn
 זיי וועלן שלינגען	zey veln shlingen
 זיי וועלן שליסן	zey veln shlisn
@@ -19261,6 +19578,7 @@ singular לענד	lendn
 זיי וועלן שרײַבן	zey veln shraybn
 זיי וועלן שרײַען	zey veln shrayen
 זיי וועלן שײַנען	zey veln shaynen
+זיי וועקן אויף	zey vekn oyf
 זיי ווערן	zey vern
 זיי ווײַזן	zey vayzn
 זיי זאַלבן	zey zalbn
@@ -19280,6 +19598,7 @@ singular לענד	lendn
 זיי זענען	zey zenen
 זיי זענען אַנטלאָפֿן	zey zenen antlofn
 זיי זענען אַנטשטאַנען	zey zenen antshtanen
+זיי זענען אַנטשלאָפֿן	zey zenen antshlofn
 זיי זענען אַראָפּגעפֿאַלן	zey zenen aropgefaln
 זיי זענען אָןגעקומען	zey zenen ongekumen
 זיי זענען אויסגעפֿאַלן	zey zenen oysgefaln
@@ -19360,6 +19679,7 @@ singular לענד	lendn
 זיי לעבן	zey lebn
 זיי לעבן איבער	zey lebn iber
 זיי לעזן	zey lezn
+זיי לעסטערן	zey lestern
 זיי לעקן	zey lekn
 זיי לערנען	zey lernen
 זיי לעשן	zey leshn
@@ -19376,10 +19696,12 @@ singular לענד	lendn
 זיי מאָפן	zey mufn
 זיי מוזן	zey muzn
 זיי מיינען	zey meynen
+זיי מישן	zey mishn
 זיי מישפּטן	zey mishpetn
 זיי ממיתן	zey meymesn
 זיי מעגן	zey megn
 זיי מעסטן	zey mestn
+זיי מפּלען	zey maplen
 זיי משפּטן	zey mishpetn
 זיי נודיען	zey nudyen
 זיי נייען	zey neyen
@@ -19439,6 +19761,7 @@ singular לענד	lendn
 זיי פֿאַרגלײַכן	zey farglaykhn
 זיי פֿאַרגעסן	zey fargesn
 זיי פֿאַרדאַמען	zey fardamen
+זיי פֿאַרדינגען	zey fardingen
 זיי פֿאַרדינען	zey fardinen
 זיי פֿאַרוואַנדלען	zey farvandlen
 זיי פֿאַרוויגטן	zey farvigtn
@@ -19486,6 +19809,7 @@ singular לענד	lendn
 זיי צחקען	zey tsakhken
 זיי צחקען	zey tskhoken
 זיי ציִען	zey tsien
+זיי ציִען איבער	zey tsien iber
 זיי ציטערן	zey tsitern
 זיי צייכענען	zey tseykhenen
 זיי ציילן	zey tseyln
@@ -19539,6 +19863,8 @@ singular לענד	lendn
 זיי רופֿן	zey rufn
 זיי רופֿן אָן	zey rufn on
 זיי רייכערן	zey reykhern
+זיי ריכטן	zey rikhtn
+זיי ריכטן אויף	zey rikhtn oyf
 זיי רירן אָן	zey rirn on
 זיי רעדאַגירן	zey redagirn
 זיי רעדן	zey redn
@@ -19578,6 +19904,7 @@ singular לענד	lendn
 זיי שיסן	zey shisn
 זיי שיצן	zey shitsn
 זיי שיקן	zey shikn
+זיי שלאָגן	zey shlogn
 זיי שלאָפֿן	zey shlofn
 זיי שלינגען	zey shlingen
 זיי שליסן	zey shlisn
@@ -19664,6 +19991,8 @@ singular לענד	lendn
 זיכערע	zikhere
 זיכערער	zikherer
 זילבער	zilber
+זילבער־אַקאַציע	zilberakatsye
+זילבער־אַקאַציע	zilberakatsyes
 זילבערבערג	zilberberg
 זילבערדיק	zilberdik
 זילבערדיקן	zilberdikn
@@ -19821,6 +20150,7 @@ singular לענד	lendn
 זעסט	zest
 זעען	zeen
 זעענדיק	zeendik
+זעץ	zets
 זעצט	zetst
 זעצן	zetsn
 זעצנדיק	zetsndik
@@ -20038,6 +20368,8 @@ singular לענד	lendn
 חלות	khales
 חלילה	kholile
 חליצה־שוך	khalitseshukh
+חלל	kholel
+חלל	kholels
 חלק	khalokim
 חלק	kheylek
 חלש'ן	khaleshn
@@ -20270,6 +20602,7 @@ singular לענד	lendn
 טויזנטסטער	toyzntster
 טויזנטער	toyznter
 טויט	toyt
+טויט געבוירן	toyt geboyrn
 טויטן	toytn
 טויטס	toyts
 טויטע	toyte
@@ -20639,8 +20972,7 @@ singular לענד	lendn
 טרייסטן	treystn
 טרייסטנדיק	treystndik
 טרייף	treyf
-טרייףֿ	treyf
-טרייףֿס	treyfs
+טרייפֿס	treyfs
 טרייפֿענע	treyfene
 טרייפֿענעם	treyfenem
 טרייפֿענער	treyfener
@@ -20669,8 +21001,9 @@ singular לענד	lendn
 טרעגער	tregers
 טרעטן	tretn
 טרענען	trenen
+טרעפּ	trep
+טרעפּ	trepl
 טרעפּווערטער	trepverter
-טרעפּל	trepl
 טרעפֿונג	trefung
 טרעפֿן	trefn
 טרעפֿנדיק	trefndik
@@ -20822,6 +21155,7 @@ singular לענד	lendn
 יאָהרען	yoren
 יאָהרען	yorn
 יאָזש	yozh
+יאָך	yokh
 יאָלד	yold
 יאָלד	yoldn
 יאָלעפּ	yolep
@@ -21135,6 +21469,7 @@ singular לענד	lendn
 כּדאַי	keday
 כּדי	kedey
 כּהונה	kehune
+כּהן	kehanem
 כּהן	koyen
 כּוזרי	kuzri
 כּוח	koyekh
@@ -21157,7 +21492,7 @@ singular לענד	lendn
 כּלבֿ	kelev
 כּלבֿ	keylev
 כּלבֿ	klovim
-כּלבֿ שבכּלבים	keylev shebeklovem
+כּלבֿ שבכּלבים	kelev shebeklovem
 כּלבֿטע	klafte
 כּלבוניק	kolboynik
 כּלבוניק	kolboynikes
@@ -21240,7 +21575,7 @@ singular לענד	lendn
 כירורגיע	khirurgye
 כלאָפּ	khlop
 כלאָפּ	khlopes
-כלב	keylev
+כלב	kelev
 כלב	klovem
 כמאַרע	khmare
 כמאַרע	khmares
@@ -21528,8 +21863,10 @@ singular לענד	lendn
 ליטעראַרישער	literarisher
 ליטערס	liters
 לייב	leyb
+לייב	leybn
 לייביכע	leybikhe
 לייביכע	leybikhes
+לייבן	leybn
 לייג	leyg
 לייגט	leygt
 לייגן	leygn
@@ -21618,6 +21955,8 @@ singular לענד	lendn
 ליפּע	lipe
 ליפּשיץ	lipshits
 ליפֿט	lift
+ליפֿט	liftn
+ליפֿטן	liftn
 ליפֿשיץ	lifshits
 ליציטאַציע	litsitatsye
 ליק	lik
@@ -21659,6 +21998,8 @@ singular לענד	lendn
 לעבעדיקן	lebedikn
 לעבעדיקס	lebediks
 לעבעדיקע	lebedike
+לעבעדיקע אַקאַציע	lebedike akatsye
+לעבעדיקע אַקאַציע	lebedike akatsyes
 לעבעדיקער	lebediker
 לעבער	leber
 לעבער	lebers
@@ -21731,6 +22072,8 @@ singular לענד	lendn
 לעניניסטישע	leninistishe
 לעניניסטישער	leninistisher
 לעניניסטן	leninistn
+לעסטערן	lestern
+לעסטערנדיק	lesterndik
 לעפּטאָפּ	leptop
 לעפּטאָפּ	leptopn
 לעפּיש	lepish
@@ -21844,12 +22187,12 @@ singular לענד	lendn
 לײַכטערס	laykhters
 לײַכסט	laykhst
 לײַלאַך	laylakh
-לײַלאַך	laylakher
+לײַלעך	laylekh
+לײַלעך	laylekher
 לײַען	layen
 לײַענדיק	layendik
 ל״ג בעומר	lag beoymer
 מ	m
-מַפּיל זיין	mapl zeyn
 מאַגאַזין	magazin
 מאַגאַזין	magazinen
 מאַגיסטראַט	magistrat
@@ -21865,6 +22208,7 @@ singular לענד	lendn
 מאַגנעטישע	magnetishe
 מאַגנעטישער	magnetisher
 מאַגנצאַ	magntsa
+מאַדאַגאַסקאַר	madagaskar
 מאַדזשאַר	madzhar
 מאַדזשאַר	madzharn
 מאַדזשאַריש	madzharish
@@ -22418,6 +22762,7 @@ singular לענד	lendn
 מיך	mikh
 מיכאל	mikhoel
 מיכאל	mikhoyl
+מילא	meyle
 מילגרוים	milgroym
 מילגרוים	milgroymen
 מילה	mile
@@ -22533,6 +22878,7 @@ singular לענד	lendn
 מיר אָנווערן	mir onvern
 מיר אויסברייטערן	mir oysbreytern
 מיר אויקען	mir oyken
+מיר אורינירן	mir urinirn
 מיר איינצאַמען	mir eyntsamen
 מיר אײַנשרומפּן	mir aynshrumpn
 מיר באַגינען	mir baginen
@@ -22552,6 +22898,7 @@ singular לענד	lendn
 מיר באַשאַפֿן	mir bashafn
 מיר באַשולדיקן	mir bashuldikn
 מיר באַשטיין	mir bashteyn
+מיר באַשטעלן	mir bashteln
 מיר באַשליסן	mir bashlisn
 מיר באַשרײַבן	mir bashraybn
 מיר באַשײַנען	mir bashaynen
@@ -22621,6 +22968,7 @@ singular לענד	lendn
 מיר דאַרפֿן	mir darfn
 מיר דויערן	mir doyern
 מיר דונערן	mir dunern
+מיר דינגען	mir dingen
 מיר דינען	mir dinen
 מיר דישען	mir dishen
 מיר דענקען	mir denken
@@ -22654,7 +23002,6 @@ singular לענד	lendn
 מיר האָבן אַדאָפּטירט	mir hobn adoptirt
 מיר האָבן אַנולירט	mir hobn anulirt
 מיר האָבן אַנטשולדיקט	mir hobn antshuldikt
-מיר האָבן אַנטשלאָפֿן	mir hobn antshlofn
 מיר האָבן אַראָפּגענומען	mir hobn aropgenumen
 מיר האָבן אַרויסגעגעבן	mir hobn aroysgegebn
 מיר האָבן אָבסטרויִרט	mir hobn obstruirt
@@ -22679,8 +23026,11 @@ singular לענד	lendn
 מיר האָבן אויסגעשריגן	mir hobn oysgeshrign
 מיר האָבן אויפֿגעהויבן	mir hobn oyfgehoybn
 מיר האָבן אויפֿגעהערט	mir hobn oyfgehert
+מיר האָבן אויפֿגעוועקט	mir hobn oyfgevekt
+מיר האָבן אויפֿגעריכט	mir hobn oyfgerikht
 מיר האָבן אויפֿגעשניטן	mir hobn oyfgeshnitn
 מיר האָבן אומגעבראַכט	mir hobn umgebrakht
+מיר האָבן אורינירט	mir hobn urinirt
 מיר האָבן איבערגעהאַקט	mir hobn ibergehakt
 מיר האָבן איבערגעזעצט	mir hobn ibergezetst
 מיר האָבן איבערגעלעבט	mir hobn ibergelebt
@@ -22704,6 +23054,7 @@ singular לענד	lendn
 מיר האָבן באַשאַפֿן	mir hobn bashafn
 מיר האָבן באַשולדיקט	mir hobn bashuldikt
 מיר האָבן באַשטאַנען	mir hobn bashtanen
+מיר האָבן באַשטעלט	mir hobn bashtelt
 מיר האָבן באַשלאָסן	mir hobn bashlosn
 מיר האָבן באַשריבן	mir hobn bashribn
 מיר האָבן באַשײַנט	mir hobn bashaynt
@@ -22757,6 +23108,7 @@ singular לענד	lendn
 מיר האָבן געדאַנקט	mir hobn gedankt
 מיר האָבן געדאַרפֿט	mir hobn gedarft
 מיר האָבן געדויערט	mir hobn gedoyert
+מיר האָבן געדונגען	mir hobn gedungen
 מיר האָבן געדונערט	mir hobn gedunert
 מיר האָבן געדינט	mir hobn gedint
 מיר האָבן געדישעט	mir hobn gedishet
@@ -22865,6 +23217,7 @@ singular לענד	lendn
 מיר האָבן געלייקנט	mir hobn geleyknt
 מיר האָבן געלעבט	mir hobn gelebt
 מיר האָבן געלעזט	mir hobn gelezt
+מיר האָבן געלעסטערט	mir hobn gelestert
 מיר האָבן געלעקט	mir hobn gelekt
 מיר האָבן געלערנט	mir hobn gelernt
 מיר האָבן געמאַכט	mir hobn gemakht
@@ -22875,9 +23228,11 @@ singular לענד	lendn
 מיר האָבן געמאָפט	mir hobn gemuft
 מיר האָבן געמוזט	mir hobn gemuzt
 מיר האָבן געמיינט	mir hobn gemeynt
+מיר האָבן געמישט	mir hobn gemisht
 מיר האָבן געמישפּט	mir hobn gemishpet
 מיר האָבן געממיתט	mir hobn gemeymest
 מיר האָבן געמעגט	mir hobn gemegt
+מיר האָבן געמפּלעט	mir hobn gemaplet
 מיר האָבן געמשפּט	mir hobn gemishpet
 מיר האָבן גענאָסן	mir hobn genosn
 מיר האָבן גענודיעט	mir hobn genudyet
@@ -22960,6 +23315,7 @@ singular לענד	lendn
 מיר האָבן גערופֿן	mir hobn gerufn
 מיר האָבן געריבן	mir hobn geribn
 מיר האָבן גערייכערט	mir hobn gereykhert
+מיר האָבן געריכט	mir hobn gerikht
 מיר האָבן געריסן	mir hobn gerisn
 מיר האָבן גערעדט	mir hobn geredt
 מיר האָבן גערעכנט	mir hobn gerekhnt
@@ -22991,6 +23347,7 @@ singular לענד	lendn
 מיר האָבן געשילדערט	mir hobn geshildert
 מיר האָבן געשיצט	mir hobn geshitst
 מיר האָבן געשיקט	mir hobn geshikt
+מיר האָבן געשלאָגן	mir hobn geshlogn
 מיר האָבן געשלאָסן	mir hobn geshlosn
 מיר האָבן געשלונגען	mir hobn geshlungen
 מיר האָבן געשליפֿן	mir hobn geshlifn
@@ -23052,6 +23409,7 @@ singular לענד	lendn
 מיר האָבן פֿאַרגעבן	mir hobn fargebn
 מיר האָבן פֿאַרגעסן	mir hobn fargesn
 מיר האָבן פֿאַרדאַמט	mir hobn fardamt
+מיר האָבן פֿאַרדונגען	mir hobn fardungen
 מיר האָבן פֿאַרדינט	mir hobn fardint
 מיר האָבן פֿאַרוואַנדלט	mir hobn farvandlt
 מיר האָבן פֿאַרזיכערט	mir hobn farzikhert
@@ -23180,12 +23538,16 @@ singular לענד	lendn
 מיר וועלן אויסשרײַען	mir veln oysshrayen
 מיר וועלן אויפֿהייבן	mir veln oyfheybn
 מיר וועלן אויפֿהערן	mir veln oyfhern
+מיר וועלן אויפֿוועקן	mir veln oyfvekn
+מיר וועלן אויפֿריכטן	mir veln oyfrikhtn
 מיר וועלן אויפֿשנײַדן	mir veln oyfshnaydn
 מיר וועלן אויקען	mir veln oyken
 מיר וועלן אומברענגען	mir veln umbrengen
+מיר וועלן אורינירן	mir veln urinirn
 מיר וועלן איבערהאַקן	mir veln iberhakn
 מיר וועלן איבערזעצן	mir veln iberzetsn
 מיר וועלן איבערלעבן	mir veln iberlebn
+מיר וועלן איבערציִען	mir veln ibertsien
 מיר וועלן איבערקוקן	mir veln iberkukn
 מיר וועלן איבערקערן	mir veln iberkern
 מיר וועלן איינצאַמען	mir veln eyntsamen
@@ -23211,6 +23573,7 @@ singular לענד	lendn
 מיר וועלן באַשאַפֿן	mir veln bashafn
 מיר וועלן באַשולדיקן	mir veln bashuldikn
 מיר וועלן באַשטיין	mir veln bashteyn
+מיר וועלן באַשטעלן	mir veln bashteln
 מיר וועלן באַשליסן	mir veln bashlisn
 מיר וועלן באַשרײַבן	mir veln bashraybn
 מיר וועלן באַשײַנען	mir veln bashaynen
@@ -23270,6 +23633,7 @@ singular לענד	lendn
 מיר וועלן דויערן	mir veln doyern
 מיר וועלן דונערן	mir veln dunern
 מיר וועלן דורכרײַסן	mir veln durkhraysn
+מיר וועלן דינגען	mir veln dingen
 מיר וועלן דינען	mir veln dinen
 מיר וועלן דישען	mir veln dishen
 מיר וועלן דענקען	mir veln denken
@@ -23402,6 +23766,7 @@ singular לענד	lendn
 מיר וועלן לייקענען	mir veln leykenen
 מיר וועלן לעבן	mir veln lebn
 מיר וועלן לעזן	mir veln lezn
+מיר וועלן לעסטערן	mir veln lestern
 מיר וועלן לעקן	mir veln lekn
 מיר וועלן לערנען	mir veln lernen
 מיר וועלן לעשן	mir veln leshn
@@ -23418,11 +23783,13 @@ singular לענד	lendn
 מיר וועלן מיטגיין	mir veln mitgeyn
 מיר וועלן מיטנעמען	mir veln mitnemen
 מיר וועלן מיינען	mir veln meynen
+מיר וועלן מישן	mir veln mishn
 מיר וועלן מישפּטן	mir veln mishpetn
 מיר וועלן ממיתן	mir veln meymesn
 מיר וועלן מסביר זײַן	mir veln masber zayn
 מיר וועלן מעגן	mir veln megn
 מיר וועלן מעסטן	mir veln mestn
+מיר וועלן מפּלען	mir veln maplen
 מיר וועלן משפּטן	mir veln mishpetn
 מיר וועלן נאָכגיין	mir veln nokhgeyn
 מיר וועלן נודיען	mir veln nudyen
@@ -23477,6 +23844,7 @@ singular לענד	lendn
 מיר וועלן פֿאַרגעבן	mir veln fargebn
 מיר וועלן פֿאַרגעסן	mir veln fargesn
 מיר וועלן פֿאַרדאַמען	mir veln fardamen
+מיר וועלן פֿאַרדינגען	mir veln fardingen
 מיר וועלן פֿאַרדינען	mir veln fardinen
 מיר וועלן פֿאַרוויגן	mir veln farvign
 מיר וועלן פֿאַרזיכערן	mir veln farzikhern
@@ -23563,6 +23931,7 @@ singular לענד	lendn
 מיר וועלן ראָטן	mir veln rotn
 מיר וועלן רופֿן	mir veln rufn
 מיר וועלן רייכערן	mir veln reykhern
+מיר וועלן ריכטן	mir veln rikhtn
 מיר וועלן רעדאַגירן	mir veln redagirn
 מיר וועלן רעדן	mir veln redn
 מיר וועלן רעוואָלטירן	mir veln revoltirn
@@ -23599,6 +23968,7 @@ singular לענד	lendn
 מיר וועלן שיסן	mir veln shisn
 מיר וועלן שיצן	mir veln shitsn
 מיר וועלן שיקן	mir veln shikn
+מיר וועלן שלאָגן	mir veln shlogn
 מיר וועלן שלאָפֿן	mir veln shlofn
 מיר וועלן שלינגען	mir veln shlingen
 מיר וועלן שליסן	mir veln shlisn
@@ -23631,6 +24001,7 @@ singular לענד	lendn
 מיר וועלן שרײַבן	mir veln shraybn
 מיר וועלן שרײַען	mir veln shrayen
 מיר וועלן שײַנען	mir veln shaynen
+מיר וועקן אויף	mir vekn oyf
 מיר ווערן	mir vern
 מיר ווײַזן	mir vayzn
 מיר זאַלבן	mir zalbn
@@ -23650,6 +24021,7 @@ singular לענד	lendn
 מיר זענען	mir zenen
 מיר זענען אַנטלאָפֿן	mir zenen antlofn
 מיר זענען אַנטשטאַנען	mir zenen antshtanen
+מיר זענען אַנטשלאָפֿן	mir zenen antshlofn
 מיר זענען אַראָפּגעפֿאַלן	mir zenen aropgefaln
 מיר זענען אָןגעקומען	mir zenen ongekumen
 מיר זענען אויסגעפֿאַלן	mir zenen oysgefaln
@@ -23730,6 +24102,7 @@ singular לענד	lendn
 מיר לעבן	mir lebn
 מיר לעבן איבער	mir lebn iber
 מיר לעזן	mir lezn
+מיר לעסטערן	mir lestern
 מיר לעקן	mir lekn
 מיר לערנען	mir lernen
 מיר לעשן	mir leshn
@@ -23746,10 +24119,12 @@ singular לענד	lendn
 מיר מאָפן	mir mufn
 מיר מוזן	mir muzn
 מיר מיינען	mir meynen
+מיר מישן	mir mishn
 מיר מישפּטן	mir mishpetn
 מיר ממיתן	mir meymesn
 מיר מעגן	mir megn
 מיר מעסטן	mir mestn
+מיר מפּלען	mir maplen
 מיר משפּטן	mir mishpetn
 מיר נודיען	mir nudyen
 מיר נייען	mir neyen
@@ -23809,6 +24184,7 @@ singular לענד	lendn
 מיר פֿאַרגלײַכן	mir farglaykhn
 מיר פֿאַרגעסן	mir fargesn
 מיר פֿאַרדאַמען	mir fardamen
+מיר פֿאַרדינגען	mir fardingen
 מיר פֿאַרדינען	mir fardinen
 מיר פֿאַרוואַנדלען	mir farvandlen
 מיר פֿאַרוויגטן	mir farvigtn
@@ -23856,6 +24232,7 @@ singular לענד	lendn
 מיר צחקען	mir tsakhken
 מיר צחקען	mir tskhoken
 מיר ציִען	mir tsien
+מיר ציִען איבער	mir tsien iber
 מיר ציטערן	mir tsitern
 מיר צייכענען	mir tseykhenen
 מיר ציילן	mir tseyln
@@ -23909,6 +24286,8 @@ singular לענד	lendn
 מיר רופֿן	mir rufn
 מיר רופֿן אָן	mir rufn on
 מיר רייכערן	mir reykhern
+מיר ריכטן	mir rikhtn
+מיר ריכטן אויף	mir rikhtn oyf
 מיר רירן אָן	mir rirn on
 מיר רעדאַגירן	mir redagirn
 מיר רעדן	mir redn
@@ -23948,6 +24327,7 @@ singular לענד	lendn
 מיר שיסן	mir shisn
 מיר שיצן	mir shitsn
 מיר שיקן	mir shikn
+מיר שלאָגן	mir shlogn
 מיר שלאָפֿן	mir shlofn
 מיר שלינגען	mir shlingen
 מיר שליסן	mir shlisn
@@ -23992,6 +24372,8 @@ singular לענד	lendn
 מישיגן	mishign
 מישיגען	mishigen
 מישכּבֿ־זכר	mishkev zokher
+מישן	mishn
+מישנדיק	mishndik
 מישנה	mishnayes
 מישנה	mishne
 מישניש	mishnish
@@ -24219,7 +24601,8 @@ singular לענד	lendn
 מעסער	meser
 מעסער	meserl
 מעסער	mesers
-מעסערל	meserl
+מעסער־אַקאַציע	meserakatsye
+מעסער־אַקאַציע	meserakatsyes
 מעקאַ	meka
 מעקלער	mekler
 מעקלער	meklerin
@@ -24286,6 +24669,12 @@ singular לענד	lendn
 מעשים	mansem
 מעשים	mayse
 מעשים	maysem
+מפּיל־קינד	maplkind
+מפּיל־קינד	maplkinder
+מפּלה	mapole
+מפּלה	mapoles
+מפּלען	maplen
+מפּלענדיק	maplendik
 מפֿטיר	mafter
 מפֿטיר	maftirem
 מצב	matsev
@@ -25202,6 +25591,7 @@ singular לענד	lendn
 סלאָוואַקישע	slovakishe
 סלאָוואַקישער	slovakisher
 סלאָוועניע	slovenye
+סלאָוועניש	slovenish
 סלאָיק	sloik
 סלאָיק	sloikes
 סלאָװאַקײַ	slovakay
@@ -25715,12 +26105,14 @@ singular לענד	lendn
 ער אָנווערט	er onvert
 ער אויסברייטערט	er oysbreytert
 ער אויקעט	er oyket
+ער אורינירט	er urinirt
 ער איז	er iz
 ער איז אַהיימגעגאַנגען	er iz aheymgegangen
 ער איז אַהיימגעלאָפֿן	er iz aheymgelofn
 ער איז אַהערגעקומען	er iz ahergekumen
 ער איז אַנטלאָפֿן	er iz antlofn
 ער איז אַנטשטאַנען	er iz antshtanen
+ער איז אַנטשלאָפֿן	er iz antshlofn
 ער איז אַראָפּגעגאַנגען	er iz aropgegangen
 ער איז אַראָפּגעפֿאַלן	er iz aropgefaln
 ער איז אַרויסגעגאַנגען	er iz aroysgegangen
@@ -25765,6 +26157,7 @@ singular לענד	lendn
 ער איז נאָכגעגאַנגען	er iz nokhgegangen
 ער איז פֿאַרגאַנגען	er iz fargangen
 ער איינצאַמט	er eyntsamt
+ער אינדיווידואַליזירט	er individualizirt
 ער אײַנשרומפּט	er aynshrumpt
 ער באַגינט	er bagint
 ער באַגערט	er bagert
@@ -25783,6 +26176,7 @@ singular לענד	lendn
 ער באַשאַפֿט	er bashaft
 ער באַשולדיקט	er bashuldikt
 ער באַשטייט	er bashteyt
+ער באַשטעלט	er bashtelt
 ער באַשליסט	er bashlist
 ער באַשרײַבט	er bashraybt
 ער באַשײַנט	er bashaynt
@@ -25852,6 +26246,7 @@ singular לענד	lendn
 ער דאַרף	er darf
 ער דויערט	er doyert
 ער דונערט	er dunert
+ער דינגט	er dingt
 ער דינט	er dint
 ער דישעט	er dishet
 ער דענקט	er denkt
@@ -25886,7 +26281,6 @@ singular לענד	lendn
 ער האָט אַדמיניסטרירט	er hot administrirt
 ער האָט אַנולירט	er hot anulirt
 ער האָט אַנטשולדיקט	er hot antshuldikt
-ער האָט אַנטשלאָפֿן	er hot antshlofn
 ער האָט אַראָפּגענומען	er hot aropgenumen
 ער האָט אַרויסגעגעבן	er hot aroysgegebn
 ער האָט אַריבערגעפֿירט	er hot aribergefirt
@@ -25914,13 +26308,17 @@ singular לענד	lendn
 ער האָט אויסגעשריגן	er hot oysgeshrign
 ער האָט אויפֿגעהויבן	er hot oyfgehoybn
 ער האָט אויפֿגעהערט	er hot oyfgehert
+ער האָט אויפֿגעוועקט	er hot oyfgevekt
+ער האָט אויפֿגעריכט	er hot oyfgerikht
 ער האָט אויפֿגעשניטן	er hot oyfgeshnitn
 ער האָט אומגעבראַכט	er hot umgebrakht
 ער האָט אונטערגעצונדן	er hot untergetsundn
 ער האָט אונטערגעשטעלט	er hot untergeshtelt
+ער האָט אורינירט	er hot urinirt
 ער האָט איבערגעהאַקט	er hot ibergehakt
 ער האָט איבערגעזעצט	er hot ibergezetst
 ער האָט איבערגעלעבט	er hot ibergelebt
+ער האָט איבערגעצויגן	er hot ibergetsoygn
 ער האָט איבערגעקוקט	er hot ibergekukt
 ער האָט איבערגעקערט	er hot ibergekert
 ער האָט אײַןגעמאַכט	er hot ayngemakht
@@ -25942,6 +26340,7 @@ singular לענד	lendn
 ער האָט באַשאַפֿן	er hot bashafn
 ער האָט באַשולדיקט	er hot bashuldikt
 ער האָט באַשטאַנען	er hot bashtanen
+ער האָט באַשטעלט	er hot bashtelt
 ער האָט באַשלאָסן	er hot bashlosn
 ער האָט באַשריבן	er hot bashribn
 ער האָט באַשײַנט	er hot bashaynt
@@ -25997,6 +26396,7 @@ singular לענד	lendn
 ער האָט געדאַנקט	er hot gedankt
 ער האָט געדאַרפֿט	er hot gedarft
 ער האָט געדויערט	er hot gedoyert
+ער האָט געדונגען	er hot gedungen
 ער האָט געדונערט	er hot gedunert
 ער האָט געדינט	er hot gedint
 ער האָט געדישעט	er hot gedishet
@@ -26124,6 +26524,7 @@ singular לענד	lendn
 ער האָט געהאַט געמאָפט	er hot gehat gemuft
 ער האָט געהאַט געמוזט	er hot gehat gemuzt
 ער האָט געהאַט געמיינט	er hot gehat gemeynt
+ער האָט געהאַט געמישט	er hot gehat gemisht
 ער האָט געהאַט געמעגט	er hot gehat gemegt
 ער האָט געהאַט גענאָסן	er hot gehat genosn
 ער האָט געהאַט גענומען	er hot gehat genumen
@@ -26165,6 +26566,7 @@ singular לענד	lendn
 ער האָט געהאַט געראָטן	er hot gehat gerotn
 ער האָט געהאַט גערופֿן	er hot gehat gerufn
 ער האָט געהאַט געריבן	er hot gehat geribn
+ער האָט געהאַט געריכט	er hot gehat gerikht
 ער האָט געהאַט געריסן	er hot gehat gerisn
 ער האָט געהאַט גערעדט	er hot gehat geredt
 ער האָט געהאַט געשאָטן	er hot gehat geshotn
@@ -26279,6 +26681,7 @@ singular לענד	lendn
 ער האָט געלייקנט	er hot geleyknt
 ער האָט געלעבט	er hot gelebt
 ער האָט געלעזט	er hot gelezt
+ער האָט געלעסטערט	er hot gelestert
 ער האָט געלעקט	er hot gelekt
 ער האָט געלערנט	er hot gelernt
 ער האָט געמאַכט	er hot gemakht
@@ -26289,9 +26692,11 @@ singular לענד	lendn
 ער האָט געמאָפט	er hot gemuft
 ער האָט געמוזט	er hot gemuzt
 ער האָט געמיינט	er hot gemeynt
+ער האָט געמישט	er hot gemisht
 ער האָט געמישפּט	er hot gemishpet
 ער האָט געממיתט	er hot gemeymest
 ער האָט געמעגט	er hot gemegt
+ער האָט געמפּלעט	er hot gemaplet
 ער האָט געמשפּט	er hot gemishpet
 ער האָט גענאָסן	er hot genosn
 ער האָט גענודיעט	er hot genudyet
@@ -26374,6 +26779,7 @@ singular לענד	lendn
 ער האָט גערופֿן	er hot gerufn
 ער האָט געריבן	er hot geribn
 ער האָט גערייכערט	er hot gereykhert
+ער האָט געריכט	er hot gerikht
 ער האָט געריסן	er hot gerisn
 ער האָט גערעדט	er hot geredt
 ער האָט גערעכנט	er hot gerekhnt
@@ -26405,6 +26811,7 @@ singular לענד	lendn
 ער האָט געשילדערט	er hot geshildert
 ער האָט געשיצט	er hot geshitst
 ער האָט געשיקט	er hot geshikt
+ער האָט געשלאָגן	er hot geshlogn
 ער האָט געשלאָסן	er hot geshlosn
 ער האָט געשלונגען	er hot geshlungen
 ער האָט געשליפֿן	er hot geshlifn
@@ -26466,6 +26873,7 @@ singular לענד	lendn
 ער האָט פֿאַרגעבן	er hot fargebn
 ער האָט פֿאַרגעסן	er hot fargesn
 ער האָט פֿאַרדאַמט	er hot fardamt
+ער האָט פֿאַרדונגען	er hot fardungen
 ער האָט פֿאַרדינט	er hot fardint
 ער האָט פֿאַרוואַנדלט	er hot farvandlt
 ער האָט פֿאַרזיכערט	er hot farzikhert
@@ -26596,6 +27004,8 @@ singular לענד	lendn
 ער וועט אויסשרײַען	er vet oysshrayen
 ער וועט אויפֿהייבן	er vet oyfheybn
 ער וועט אויפֿהערן	er vet oyfhern
+ער וועט אויפֿוועקן	er vet oyfvekn
+ער וועט אויפֿריכטן	er vet oyfrikhtn
 ער וועט אויפֿשנײַדן	er vet oyfshnaydn
 ער וועט אויקען	er vet oyken
 ער וועט אומברענגען	er vet umbrengen
@@ -26603,9 +27013,11 @@ singular לענד	lendn
 ער וועט אונטערזינגען	er vet unterzingen
 ער וועט אונטערצינדן	er vet untertsindn
 ער וועט אונטערשטעלן	er vet untershteln
+ער וועט אורינירן	er vet urinirn
 ער וועט איבערהאַקן	er vet iberhakn
 ער וועט איבערזעצן	er vet iberzetsn
 ער וועט איבערלעבן	er vet iberlebn
+ער וועט איבערציִען	er vet ibertsien
 ער וועט איבערקוקן	er vet iberkukn
 ער וועט איבערקערן	er vet iberkern
 ער וועט איבערשפּרײַזן	er vet ibershprayzn
@@ -26632,6 +27044,7 @@ singular לענד	lendn
 ער וועט באַשאַפֿן	er vet bashafn
 ער וועט באַשולדיקן	er vet bashuldikn
 ער וועט באַשטיין	er vet bashteyn
+ער וועט באַשטעלן	er vet bashteln
 ער וועט באַשליסן	er vet bashlisn
 ער וועט באַשרײַבן	er vet bashraybn
 ער וועט באַשײַנען	er vet bashaynen
@@ -26691,6 +27104,7 @@ singular לענד	lendn
 ער וועט דויערן	er vet doyern
 ער וועט דונערן	er vet dunern
 ער וועט דורכרײַסן	er vet durkhraysn
+ער וועט דינגען	er vet dingen
 ער וועט דינען	er vet dinen
 ער וועט דישען	er vet dishen
 ער וועט דענקען	er vet denken
@@ -26730,6 +27144,7 @@ singular לענד	lendn
 ער וועט האָבן באַקומען	er vet hobn bakumen
 ער וועט האָבן באַקלערט	er vet hobn baklert
 ער וועט האָבן באַשאַפֿן	er vet hobn bashafn
+ער וועט האָבן באַשטעלט	er vet hobn bashtelt
 ער וועט האָבן באַשלאָסן	er vet hobn bashlosn
 ער וועט האָבן באַשריבן	er vet hobn bashribn
 ער וועט האָבן באַשײַנט	er vet hobn bashaynt
@@ -26845,7 +27260,9 @@ singular לענד	lendn
 ער וועט האָבן געמאָפט	er vet hobn gemuft
 ער וועט האָבן געמוזט	er vet hobn gemuzt
 ער וועט האָבן געמיינט	er vet hobn gemeynt
+ער וועט האָבן געמישט	er vet hobn gemisht
 ער וועט האָבן געמעגט	er vet hobn gemegt
+ער וועט האָבן געמפּלעט	er vet hobn gemaplet
 ער וועט האָבן גענאָסן	er vet hobn genosn
 ער וועט האָבן גענומען	er vet hobn genumen
 ער וועט האָבן גענייט	er vet hobn geneyt
@@ -26897,6 +27314,7 @@ singular לענד	lendn
 ער וועט האָבן געראָטן	er vet hobn gerotn
 ער וועט האָבן גערופֿן	er vet hobn gerufn
 ער וועט האָבן געריבן	er vet hobn geribn
+ער וועט האָבן געריכט	er vet hobn gerikht
 ער וועט האָבן געריסן	er vet hobn gerisn
 ער וועט האָבן גערעדט	er vet hobn geredt
 ער וועט האָבן גערעכנט	er vet hobn gerekhnt
@@ -26912,6 +27330,7 @@ singular לענד	lendn
 ער וועט האָבן געשטערט	er vet hobn geshtert
 ער וועט האָבן געשיצט	er vet hobn geshitst
 ער וועט האָבן געשיקט	er vet hobn geshikt
+ער וועט האָבן געשלאָגן	er vet hobn geshlogn
 ער וועט האָבן געשלאָסן	er vet hobn geshlosn
 ער וועט האָבן געשליפֿן	er vet hobn geshlifn
 ער וועט האָבן געשלעפּט	er vet hobn geshlept
@@ -27065,6 +27484,7 @@ singular לענד	lendn
 ער וועט לייקענען	er vet leykenen
 ער וועט לעבן	er vet lebn
 ער וועט לעזן	er vet lezn
+ער וועט לעסטערן	er vet lestern
 ער וועט לעקן	er vet lekn
 ער וועט לערנען	er vet lernen
 ער וועט לעשן	er vet leshn
@@ -27081,11 +27501,13 @@ singular לענד	lendn
 ער וועט מיטגיין	er vet mitgeyn
 ער וועט מיטנעמען	er vet mitnemen
 ער וועט מיינען	er vet meynen
+ער וועט מישן	er vet mishn
 ער וועט מישפּטן	er vet mishpetn
 ער וועט ממיתן	er vet meymesn
 ער וועט מסביר זײַן	er vet masber zayn
 ער וועט מעגן	er vet megn
 ער וועט מעסטן	er vet mestn
+ער וועט מפּלען	er vet maplen
 ער וועט משפּטן	er vet mishpetn
 ער וועט נאָכגיין	er vet nokhgeyn
 ער וועט נודיען	er vet nudyen
@@ -27142,6 +27564,7 @@ singular לענד	lendn
 ער וועט פֿאַרגעבן	er vet fargebn
 ער וועט פֿאַרגעסן	er vet fargesn
 ער וועט פֿאַרדאַמען	er vet fardamen
+ער וועט פֿאַרדינגען	er vet fardingen
 ער וועט פֿאַרדינען	er vet fardinen
 ער וועט פֿאַרוואַנדלען	er vet farvandlen
 ער וועט פֿאַרוויגן	er vet farvign
@@ -27230,6 +27653,7 @@ singular לענד	lendn
 ער וועט ראָטן	er vet rotn
 ער וועט רופֿן	er vet rufn
 ער וועט רייכערן	er vet reykhern
+ער וועט ריכטן	er vet rikhtn
 ער וועט רעדאַגירן	er vet redagirn
 ער וועט רעדן	er vet redn
 ער וועט רעוואָלטירן	er vet revoltirn
@@ -27266,6 +27690,7 @@ singular לענד	lendn
 ער וועט שיסן	er vet shisn
 ער וועט שיצן	er vet shitsn
 ער וועט שיקן	er vet shikn
+ער וועט שלאָגן	er vet shlogn
 ער וועט שלאָפֿן	er vet shlofn
 ער וועט שלינגען	er vet shlingen
 ער וועט שליסן	er vet shlisn
@@ -27298,6 +27723,7 @@ singular לענד	lendn
 ער וועט שרײַבן	er vet shraybn
 ער וועט שרײַען	er vet shrayen
 ער וועט שײַנען	er vet shaynen
+ער וועקט אויף	er vekt oyf
 ער ווערט	er vert
 ער ווײַזט	er vayzt
 ער זאַלבט	er zalbt
@@ -27368,6 +27794,7 @@ singular לענד	lendn
 ער לעבט	er lebt
 ער לעבט איבער	er lebt iber
 ער לעזט	er lezt
+ער לעסטערט	er lestert
 ער לעקט	er lekt
 ער לערנט	er lernt
 ער לעשט	er lesht
@@ -27384,10 +27811,12 @@ singular לענד	lendn
 ער מאָפט	er muft
 ער מוז	er muz
 ער מיינט	er meynt
+ער מישט	er misht
 ער מישפּט	er mishpet
 ער ממיתט	er meymest
 ער מעג	er meg
 ער מעסט	er mest
+ער מפּלעט	er maplet
 ער משפּט	er mishpet
 ער נודיעט	er nudyet
 ער נייט	er neyt
@@ -27448,6 +27877,7 @@ singular לענד	lendn
 ער פֿאַרגלײַכט	er farglaykht
 ער פֿאַרגעסט	er fargest
 ער פֿאַרדאַמט	er fardamt
+ער פֿאַרדינגט	er fardingt
 ער פֿאַרדינט	er fardint
 ער פֿאַרוואַנדלט	er farvandlt
 ער פֿאַרוויגט	er farvigt
@@ -27495,6 +27925,7 @@ singular לענד	lendn
 ער צחקעט	er tsakhket
 ער צחקעט	er tskhoket
 ער ציט	er tsit
+ער ציט איבער	er tsit iber
 ער ציטערט	er tsitert
 ער צייכנט	er tseykhnt
 ער ציילט	er tseylt
@@ -27548,6 +27979,8 @@ singular לענד	lendn
 ער רופֿט	er ruft
 ער רופֿט אָן	er ruft on
 ער רייכערט	er reykhert
+ער ריכט	er rikht
+ער ריכט אויף	er rikht oyf
 ער רירט אָן	er rirt on
 ער רעדאַגירט	er redagirt
 ער רעדט	er redt
@@ -27587,6 +28020,7 @@ singular לענד	lendn
 ער שיסט	er shist
 ער שיצט	er shitst
 ער שיקט	er shikt
+ער שלאָגט	er shlogt
 ער שלאָפֿט	er shloft
 ער שלינגט	er shlingt
 ער שליסט	er shlist
@@ -27657,6 +28091,12 @@ singular לענד	lendn
 ערלעדיגט	erledigt
 ערלעדיגן	erledign
 ערלעדיגנדיק	erledigndik
+ערלעך	erlekh
+ערלעכן	erlekhn
+ערלעכס	erlekhs
+ערלעכע	erlekhe
+ערלעכער	erlekher
+ערלעכקייט	erlekhkeyt
 ערנסט	ernst
 ערשט	ersht
 ערשטן	ershtn
@@ -27710,6 +28150,7 @@ singular לענד	lendn
 פּאַכוועס	pakhves
 פּאַלאַץ	palats
 פּאַלאַץ	palatsn
+פּאַלאַצן	palatsn
 פּאַליטייזאַם	paliteyzam
 פּאַלעאָגראַפֿיע	paleografye
 פּאַלעאָנטאָלאָג	paleontolog
@@ -28013,6 +28454,7 @@ singular לענד	lendn
 פּוסטער	puster
 פּוסק	poysek
 פּוענט־שוך	puentshukh
+פּוערטאָ ריקאָ	puerto riko
 פּופּיק	pupik
 פּוץ	puts
 פּוצן	putsn
@@ -28099,6 +28541,8 @@ singular לענד	lendn
 פּירושקע	pirushke
 פּירושקע	pirushkes
 פּירושקעס	pirushkes
+פּישן	pishn
+פּישעכץ	pishekhts
 פּלא	pele
 פּלאַזשע	plazhe
 פּלאַזשע	plazhes
@@ -28366,6 +28810,8 @@ singular לענד	lendn
 פּרינציפּאַלער	printsipaler
 פּרינצעסין	printsesin
 פּרינצעסין	printsesins
+פּריסטער	prister
+פּריסטער	pristers
 פּריפּעטשיק	pripetshik
 פּריפּעטשיק	pripetshikn
 פּרישטש	prishtsh
@@ -28456,6 +28902,8 @@ singular לענד	lendn
 פֿאַן	fan
 פֿאַן	fanen
 פֿאַן	fendl
+פֿאַנאַטיקער	fanatiker
+פֿאַנאַטיקער	fanatikers
 פֿאַנבאַזע	fanbaze
 פֿאַנגען	fangen
 פֿאַנגענדיק	fangendik
@@ -28474,6 +28922,8 @@ singular לענד	lendn
 פֿאַסטריגעווענדיק	fastrigevendik
 פֿאַקט	fakt
 פֿאַקט	faktn
+פֿאַקטאַזיע	faktazye
+פֿאַקטאַזיע	faktazyes
 פֿאַקטאָר	faktor
 פֿאַקטאָר	faktorn
 פֿאַקטיש	faktish
@@ -28523,6 +28973,8 @@ singular לענד	lendn
 פֿאַרביטערט	farbitert
 פֿאַרביטערן	farbitern
 פֿאַרביטערנדיק	farbiterndik
+פֿאַרבינדונג	farbindung
+פֿאַרבינדונג	farbindungen
 פֿאַרבינדונג-וואָרט	farbindungvort
 פֿאַרבינדן	farbindn
 פֿאַרבינדנדיק	farbindndik
@@ -28598,6 +29050,9 @@ singular לענד	lendn
 פֿאַרדאַמט	fardamt
 פֿאַרדאַמען	fardamen
 פֿאַרדאַמענדיק	fardamendik
+פֿאַרדונגען	fardungen
+פֿאַרדינגען	fardingen
+פֿאַרדינגענדיק	fardingendik
 פֿאַרדינט	fardint
 פֿאַרדינסט	fardinst
 פֿאַרדינען	fardinen
@@ -28642,6 +29097,11 @@ singular לענד	lendn
 פֿאַרטיליקן	fartilikn
 פֿאַרטיליקער	fartiliker
 פֿאַרטיליקער	fartilikers
+פֿאַרטיק	fartik
+פֿאַרטיקן	fartikn
+פֿאַרטיקס	fartiks
+פֿאַרטיקע	fartike
+פֿאַרטיקער	fartiker
 פֿאַרטעך	fartekh
 פֿאַרטריקנט	fartriknt
 פֿאַרטרעטער	fartreter
@@ -28718,9 +29178,16 @@ singular לענד	lendn
 פֿאַרן	farn
 פֿאַרנהײַט	farnhayt
 פֿאַרנומען	farnumen
+פֿאַרנומענס	farnumens
+פֿאַרנומענע	farnumene
+פֿאַרנומענעם	farnumenem
+פֿאַרנומענער	farnumener
+פֿאַרנעזישע אַקאַציע	farnezishe akatsye
+פֿאַרנעזישע אַקאַציע	farnezishe akatsyes
 פֿאַרנעם	farnem
 פֿאַרנעם	farnemen
 פֿאַרנעמען	farnemen
+פֿאַרס	fars
 פֿאַרסמט	farsamt
 פֿאַרסמען	farsamen
 פֿאַרסמענדיק	farsamendik
@@ -28819,6 +29286,7 @@ singular לענד	lendn
 פֿאַרשפּאַרנדיק	farshparndik
 פֿאַרשפּרייט	farshpreyt
 פֿאַרשפּרייטן	farshpreytn
+פֿאַרשרײַבן	farshraybn
 פֿאַשיזם	fashizm
 פֿאַשיסט	fashist
 פֿאַשיסט	fashistn
@@ -29650,6 +30118,8 @@ singular לענד	lendn
 צוזאַמענאַרבעטנדיק	tsuzamenarbetndik
 צוזאַמענגעאַרבעט	tsuzamengearbet
 צוזאַמענשטעלן	tsuzamenshteln
+צוזאָג	tsuzog
+צוזאָגן	tsuzogn
 צוטרוי	tsutroy
 צוטריט	tsutrit
 צוכאַפּן	tsukhapn
@@ -29661,6 +30131,7 @@ singular לענד	lendn
 צום גליק	tsum glik
 צום שפּעטסטן	tsum shpetstn
 צומי	tsumi
+צונאַמי	tsunami
 צונג	tsinger
 צונג	tsung
 צונג	tsungen
@@ -29670,7 +30141,10 @@ singular לענד	lendn
 צונויפֿקומען	tsunoyfkumen
 צופּן	tsupn
 צופּנדיק	tsupndik
+צופֿאַל	tsufal
+צופֿאַל	tsufaln
 צופֿיל	tsufil
+צופֿעליק	tsufelik
 צופֿרידן	tsufridn
 צופֿרידנס	tsufridns
 צופֿרידענע	tsufridene
@@ -29757,6 +30231,7 @@ singular לענד	lendn
 ציין	tseyn
 ציין	tseyner
 ציינבערשטל	tseynbershtl
+ציינבערשטל	tseynbershtlekh
 ציינער	tseyn
 ציינער	tseyner
 ציינער	tson
@@ -29850,6 +30325,14 @@ singular לענד	lendn
 צעלאַכן	tselakhn
 צעלקע	tselke
 צעלקע	tselkes
+צעמישונג	tsemishung
+צעמישונג	tsemishungen
+צעמישט	tsemisht
+צעמישטן	tsemishtn
+צעמישטס	tsemishts
+צעמישטע	tsemishte
+צעמישטער	tsemishter
+צעמישן	tsemishn
 צעממיתט	tsemeymest
 צעממיתן	tsemeymesn
 צעממיתנדיק	tsemeymesndik
@@ -29876,6 +30359,7 @@ singular לענד	lendn
 צענטער	tsenters
 צענטערס	tsenters
 צענטראַל	tsentral
+צענטראַל־הייצונג	tsentralheytsung
 צענטראַלבאַנק	tsentralbank
 צענטראַלן	tsentraln
 צענטראַלס	tsentrals
@@ -30208,10 +30692,12 @@ singular לענד	lendn
 קאָכנדיק	kokhndik
 קאָלאָמבאָ	kolombo
 קאָלאָמביע	kolombye
+קאָלאָניאַליזם	kolonyalizm
 קאָלאָסעום	koloseum
 קאָלאָקוויום	kolokvyum
 קאָלאָראַדאָ	kolorado
 קאָלדרע	koldre
+קאָלדרע	koldres
 קאָלווירט	kolvirt
 קאָלווירט	kolvirtn
 קאָלווירטניק	kolvirtnik
@@ -30277,6 +30763,7 @@ singular לענד	lendn
 קאָמפּאָנענט	komponent
 קאָמפּיוטער	kompyuter
 קאָמפּיוטער	kompyuters
+קאָמפּיוטערס	kompyuters
 קאָן	kon
 קאָן	konen
 קאָנגרעס	kongres
@@ -30393,6 +30880,7 @@ singular לענד	lendn
 קאָשמאַר	koshmar
 קאָשמאַר	koshmarn
 קאָשער	kosher
+קאָװיד־19	kovid
 קאספּישער ים	kaspisher yam
 קאפ	kop
 קאפעלע	kapele
@@ -30647,6 +31135,8 @@ singular לענד	lendn
 קינדערגאָרטן	kindergortn
 קינדערלעך	kinderlekh
 קינדשאַפֿט	kindshaft
+קינזשאַל־אַקאַציע	kinzhalakatsye
+קינזשאַל־אַקאַציע	kinzhalakatsyes
 קיניג	kinig
 קיניג	kinigin
 קיניג	kinign
@@ -31199,6 +31689,7 @@ singular לענד	lendn
 ראָמאַנטישע	romantishe
 ראָמאַנטישער	romantisher
 ראָמאַני	romani
+ראָמאַניסט	romanist
 ראָמאַנען	romanen
 ראָמני	romni
 ראָץ	rots
@@ -31392,9 +31883,13 @@ singular לענד	lendn
 ריכטיקס	rikhtiks
 ריכטיקע	rikhtike
 ריכטיקער	rikhtiker
+ריכטן	rikhtn
+ריכטנדיק	rikhtndik
+ריכטעווען	rikhteven
 ריכטער	rikhter
 ריכטער	rikhterin
 ריכטער	rikhters
+רימען	rimen
 רינג	ring
 רינג	ringl
 רינג	ringn
@@ -31508,6 +32003,8 @@ singular לענד	lendn
 רעסטאָראַן	restoran
 רעסטאָראַן	restoranen
 רעספּיראַטאָר	respirator
+רעפּאַראַטור	reparatur
+רעפּאַראַטור	reparaturn
 רעפּאָרטער	reporter
 רעפּאָרטערין	reporterin
 רעפּובליק	republik
@@ -31632,6 +32129,8 @@ singular לענד	lendn
 שאַנדע	shandes
 שאַנדעס	shandes
 שאַנכײַ	shankhay
+שאַנק	shank
+שאַנק	shenk
 שאַפּיראָ	shapiro
 שאַפֿן	shafn
 שאַפֿע	shafe
@@ -31713,6 +32212,7 @@ singular לענד	lendn
 שבֿט	shvotem
 שבֿטים	shvotem
 שבֿע	sheyve
+שבֿע־ברכות	shevebrokhes
 שבֿעה	shive
 שבועות	shvues
 שבת	shabes
@@ -32014,6 +32514,7 @@ singular לענד	lendn
 שטותערײַ	shtuseray
 שטותערײַ	shtuserayen
 שטח	shetekh
+שטח	shtokhem
 שטיא	shatye
 שטיבל	shtibl
 שטיבל	shtiblekh
@@ -32190,6 +32691,8 @@ singular לענד	lendn
 שילדערנדיק	shilderndik
 שילדקרויט	shildkroyt
 שילדקרעט	shildkret
+שילוּיע	shiluye
+שילוּיע	shiluyes
 שילטן	shiltn
 שילטנדיק	shiltndik
 שימל	shiml
@@ -32269,8 +32772,10 @@ singular לענד	lendn
 שלאַפֿקייט	shlafkeyt
 שלאַק	shlak
 שלאַקסרעגן	shlaksregn
+שלאָג	shleg
 שלאָג	shlog
 שלאָגן	shlogn
+שלאָגנדיק	shlogndik
 שלאָס	shleser
 שלאָס	shlos
 שלאָסער	shloser
@@ -32397,6 +32902,7 @@ singular לענד	lendn
 שמאָק	shmok
 שמאָראַק	shmorak
 שמאָראַק	shmorakn
+שמאל	shmol
 שמואל	shmuel
 שמויגער	shmoyger
 שמויש	shmoysh
@@ -32477,6 +32983,8 @@ singular לענד	lendn
 שנאָרן	shnorn
 שנאָרער	shnorer
 שנאָרער	shnorers
+שנויץ	shnoyts
+שנויץ	shnoytsn
 שנור	shnir
 שנור	shnirele
 שנור	shnirl
@@ -32662,6 +33170,10 @@ singular לענד	lendn
 שפּעטסטער	shpetster
 שפּעטע	shpete
 שפּעטער	shpeter
+שפּעטערן	shpetern
+שפּעטערס	shpeters
+שפּעטערע	shpetere
+שפּעטערער	shpeterer
 שפּעלטער	shpalt
 שפּעלטער	shpaltn
 שפּעלטער	shpelter

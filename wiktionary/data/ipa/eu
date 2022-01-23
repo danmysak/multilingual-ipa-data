@@ -269,20 +269,22 @@ Ñ	/eɲe/
 Ñ	[e̞.ɲe̞]
 O	/o/
 O	[o̞]
-OHE	/objektu eɡalaɾi es̻es̻aɡuna/
-OHE	/objektu heɡalaɾi es̻es̻aɡuna/
+OHE	/objektu eɡalaɾi es̻es̻aɡun/
+OHE	/objektu heɡalaɾi es̻es̻aɡun/
 OHE	/oe/
 OHE	/ohe/
 OHE	[o̞.e̞]
 OHE	[o̞.ɦe̞]
-OHE	[o̞.β̞je̞k.t̪u e̞.ɣ̞a.la.ɾi e̞.s̻e̞.s̻a.ɣ̞u.na]
-OHE	[o̞.β̞je̞k.t̪u ɦe̞.ɣ̞a.la.ɾi e̞.s̻e̞.s̻a.ɣ̞u.na]
+OHE	[o̞.β̞je̞k.t̪u e̞.ɣ̞a.la.ɾi e̞.s̻e̞.s̻a.ɣ̞ũn]
+OHE	[o̞.β̞je̞k.t̪u ɦe̞.ɣ̞a.la.ɾi e̞.s̻e̞.s̻a.ɣ̞ũn]
 Oñati	/oɲati/
 Oñati	[o̞.ɲa.t̪i]
 P	/pe/
 P	[pe̞]
 Pandora	/pandoɾa/
 Pandora	[pãn̪.d̪o̞.ɾa]
+Pirinioak	/piɾinioak/
+Pirinioak	[pi.ɾi.ni.o̞.ak]
 Polonia	/polonia/
 Polonia	[po̞.lo̞.ni.a]
 Polonian	/polonian/
@@ -645,6 +647,8 @@ amets	/amet͡s̺/
 amets	[a.me̞t͡s̺]
 ametz	/amet͡s̻/
 ametz	[a.me̞t͡s̻]
+anaia	/anai̯a/
+anaia	[a.nai̯.a]
 anana	/anana/
 anana	[a.na.na]
 andere	/andeɾe/
@@ -1227,8 +1231,12 @@ betor	/betor/
 betor	[be̞.t̪o̞r]
 betoz	/betos̻/
 betoz	[be̞.t̪o̞s̻]
+betza	/bet͡s̻a/
+betza	[be̞.t͡s̻a]
 beude	/beu̯de/
 beude	[be̞u̯.ð̞e̞]
+beutza	/beu̯t͡s̻a/
+beutza	[be̞u̯.t͡s̻a]
 bi	/bi/
 bi	[bi]
 bide	/bide/
@@ -1359,8 +1367,6 @@ dagonil	/daɡonil/
 dagonil	[d̪a.ɣ̞o̞.nil]
 daiteke	/dai̯teke/
 daiteke	[d̪ai̯.t̪e̞.ke̞]
-daitez	/dai̯tes̻/
-daitez	[d̪ai̯.t̪e̞s̻]
 daitezela	/dai̯tes̻ela/
 daitezela	[d̪ai̯.t̪e̞.s̻e̞.la]
 daitezke	/dai̯tes̻ke/
@@ -1511,6 +1517,14 @@ edun	/edun/
 edun	[e̞.ð̞ũn]
 efe	/efe/
 efe	[e̞.fe̞]
+egia	/eɡia/
+egia	[e̞.ɣ̞i.a]
+egiaz	/eɡias̻/
+egiaz	[e̞.ɣ̞i.as̻]
+egiazko	/eɡias̻ko/
+egiazko	[e̞.ɣ̞i.as̻.ko̞]
+egiaztatu	/eɡias̻tatu/
+egiaztatu	[e̞.ɣ̞i.as̻.t̪a.t̪u]
 egin	/eɡin/
 egin	[e̞.ɣ̞ĩn]
 egingo	/eɡinɡo/
@@ -1798,6 +1812,8 @@ etsai	/et͡s̺ai̯/
 etsai	[e̞.t͡s̺ai̯]
 etxe	/et͡ʃe/
 etxe	[e̞.t͡ʃe̞]
+etzan	/et͡s̻an/
+etzan	[e̞.t͡s̻ãn]
 etzango	/et͡s̻anɡo/
 etzango	[e̞.t͡s̻ãŋ.ɡo̞]
 etzate	/et͡s̻ate/
@@ -1912,8 +1928,6 @@ gailur	/ɡai̯lur/
 gailur	/ɡaʎur/
 gailur	[ɡa.ʎur]
 gailur	[ɡai̯.lur]
-gaitez	/ɡai̯tes̻/
-gaitez	[ɡai̯.t̪e̞s̻]
 gaitezke	/ɡai̯tes̻ke/
 gaitezke	[ɡai̯.t̪e̞s̻.ke̞]
 gaizki	/ɡai̯s̻ki/
@@ -2417,10 +2431,18 @@ hebreera	/ebreeɾa/
 hebreera	/hebreeɾa/
 hebreera	[e̞β̞.re̞.e̞.ɾa]
 hebreera	[ɦe̞β̞.re̞.e̞.ɾa]
+hega	/eɡa/
+hega	/heɡa/
+hega	[e̞.ɣ̞a]
+hega	[ɦe̞.ɣ̞a]
 hegal	/eɡal/
 hegal	/heɡal/
 hegal	[e̞.ɣ̞al]
 hegal	[ɦe̞.ɣ̞al]
+hegalari	/eɡalaɾi/
+hegalari	/heɡalaɾi/
+hegalari	[e̞.ɣ̞a.la.ɾi]
+hegalari	[ɦe̞.ɣ̞a.la.ɾi]
 hego	/eɡo/
 hego	/heɡo/
 hego	[e̞.ɣ̞o̞]
@@ -2971,8 +2993,14 @@ ixa	/iʃa/
 ixa	[i.ʃa]
 izan	/is̻an/
 izan	[i.s̻ãn]
+izango	/is̻anɡo/
+izango	[i.s̻ãŋ.ɡo̞]
 izar	/is̻ar/
 izar	[i.s̻ar]
+izate	/is̻ate/
+izate	[i.s̻a.t̪e̞]
+izaten	/is̻aten/
+izaten	[i.s̻a.t̪ẽ̞n]
 izeba	/is̻eba/
 izeba	[i.s̻e̞.β̞a]
 izeko	/is̻eko/
@@ -3090,6 +3118,8 @@ karlistada	/karlis̺tada/
 karlistada	[kar.lis̺.t̪a.ð̞a]
 karlistaldi	/karlis̺taldi/
 karlistaldi	[kar.lis̺.t̪al̪.d̪i]
+karramarro	/karamaro/
+karramarro	[ka.ra.ma.ro̞]
 katagorri	/kataɡori/
 katagorri	[ka.t̪a.ɣ̞o̞.ri]
 katagorri arrunt	/kataɡori arunt/
@@ -3360,6 +3390,8 @@ luzetasun	[lu.s̻e̞.t̪a.s̺ũn]
 ĺ	/ʎ/
 m	/eme/
 m	[e̞.me̞]
+madari	/madaɾi/
+madari	[ma.ð̞a.ɾi]
 mahai	/maai̯/
 mahai	/mahai̯/
 mahai	[ma.ai̯]
@@ -3518,6 +3550,8 @@ nauka	/nau̯ka/
 nauka	[nau̯.ka]
 nazioarteko	/nas̻ioarteko/
 nazioarteko	[na.s̻i.o̞.ar.t̪e̞.ko̞]
+neba	/neba/
+neba	[ne̞.β̞a]
 nederlandera	/nederlandeɾa/
 nederlandera	[ne̞.ð̞e̞r.lãn̪.d̪e̞.ɾa]
 neguil	/neɡui̯l/
@@ -3934,6 +3968,8 @@ taberna	/taberna/
 taberna	[t̪a.β̞e̞r.na]
 tailandiera	/tai̯landieɾa/
 tailandiera	[t̪ai̯.lãn̪.d̪i.e̞.ɾa]
+talo	/talo/
+talo	[t̪a.lo̞]
 taratulu	/taɾatulu/
 taratulu	[t̪a.ɾa.t̪u.lu]
 tarte	/tarte/
@@ -4565,6 +4601,10 @@ zuhaixka	/s̻uai̯ʃka/
 zuhaixka	/s̻uhai̯ʃka/
 zuhaixka	[s̻u.ai̯ʃ.ka]
 zuhaixka	[s̻u.ɦai̯ʃ.ka]
+zuhamu	/s̻uamu/
+zuhamu	/s̻uhamu/
+zuhamu	[s̻u.a.mu]
+zuhamu	[s̻u.ɦa.mu]
 zuhamuxka	/s̻uamuʃka/
 zuhamuxka	/s̻uhamuʃka/
 zuhamuxka	[s̻u.a.muʃ.ka]

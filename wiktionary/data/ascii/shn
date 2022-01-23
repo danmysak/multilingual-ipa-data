@@ -89,6 +89,7 @@
 ပ	pa
 ပတ်ႈတမျႃး	pat ta mjaa
 ပတ်ႈတႃး	pat taa
+ပတ်ႉ	pat
 ပပ်ႉ	pap
 ပပ်ႉဝႆႈ ၽြႃး	pap way phraa
 ပပ်ႉႁဵၼ်း	pap hen
@@ -150,6 +151,7 @@
 ပၢႆးမၢၵ်ႈမီး	paay maak mii
 ပၢႆးႁၢင်ႈ	paay haang
 ပၼ်သူး	pan suu
+ပၼ်ၵတိ	pan ka ti
 ပၼ်ႁႅင်း	pan haeng
 ပႂၢင်း	pwaang
 ပႃ	paa
@@ -242,6 +244,7 @@
 မီး	mii
 မီးပၢၼ်း	mii paan
 မီးယၢပ်ႈ	mii yaap
+မုရၼ်ႇ	mu ran
 မုၵ်ႈ	muk
 မုၼ်	mun
 မုၼ်း	mun
@@ -253,6 +256,7 @@
 မူၺ်	moy
 မေး	mee
 မေႃယႃ	moa yaa
+မေႃၽီ	moa phii
 မေႇ	mee
 မဵဝ်း	mew
 မဵၼ်ႈ	men
@@ -318,6 +322,7 @@
 ယူဝ်ႇ	yo
 ယူၼ်း	yuun
 ယေးငိုၼ်း	yee nguen
+ယေႃးၵႃႇ	yoa kaa
 ယေႇသူႉ	yee suu
 ယဵပ်ႉ	yep
 ယဵၼ်ႇ	yen
@@ -585,14 +590,29 @@
 ဢႃႇၵႃႇသႃႉ	aa kaa saa
 ဢႃႇၸရီႉယႃႉ	aa tsa rii yaa
 ဢႅဝ်	aew
+ဢႅၵ်ႇ	aek
 ဢႅၵ်ႉၶရႃႇ	aek kha raa
 ဢႆ	ay
+ၵတိ	ka ti
+ၵတိသဵတ်ႉၸႃႇ	ka ti set tsaa
 ၵတ်ႉၶႅၼ်ႇ	kat khaen
+ၵတၢၵ်း	ka taak
 ၵထိင်ႇ	ka thing
+ၵမ်ၸိုမ်း	kam tsuem
+ၵရမ်ႇ	ka ram
+ၵရဝေႇ	ka ra wee
+ၵရိယႃႇ	ka ri yaa
+ၵရုၼႃႇ	ka ru naa
+ၵလပ်ႉ	ka lap
+ၵလွင်ႇ	ka loang
+ၵလၢင်ႇ	ka laang
+ၵလၢတ်ႈ	ka laat
 ၵလႃး	ka laa
 ၵလႃးလမ်	ka laa lam
 ၵလႃးဢုၵ်ႉ	ka laa uk
+ၵလႃးဢူၵ်ႉ	ka laa uuk
 ၵလႃးၵလီး	ka laa ka lii
+ၵဝိ	ka wi
 ၵဝ်ႇ	kaw
 ၵဝ်ႈ	kaw
 ၵဝ်ႈသိပ်း	kaw sip
@@ -661,8 +681,23 @@
 ၵႂၢၼ်	kwaan
 ၵႂၢႆး	kwaay
 ၵႂႃႇ	kwaa
+ၵႃ	kaa
+ၵႃလမ်	kaa lam
+ၵႃလူၼ်ႇ	kaa luun
+ၵႃဝၢဝ်ႇ	kaa waaw
+ၵႃသႅဝ်း	kaa saew
+ၵႃဢိုဝ်ႈ	kaa ue
+ၵႃၵႄ	kaa kaae
+ၵႃၶူဝ်ႇ	kaa kho
+ၵႃၶၢပ်ႇ	kaa khaap
+ၵႃၸႆး	kaa tsay
 ၵႃၾႄ	kaa faae
+ၵႃႇထႃႇ	kaa thaa
+ၵႃႇမတၼ်ႇၼႃႇ	kaa ma tan naa
+ၵႃႇမၵုၼ်ႇ	kaa ma kun
+ၵႃႇယၵမ်ႇ	kaa ya kam
 ၵႃႇလႃႉသႃး	kaa laa saa
+ၵႃႇၽီႇ	kaa phii
 ၵႃႈတီႈ	kaa tii
 ၵႃႉၶၢႆ	kaa khaay
 ၵႄႈ	kaae
@@ -726,6 +761,7 @@
 ၸဝ်ႈမုၼ်ပူပ်ႈ	tsaw mun puup
 ၸဝ်ႈမုၼ်ပူပ်ႉ	tsaw mun puup
 ၸဝ်ႈႁဝ်း	tsaw haw
+ၸိင်ႇ	tsing
 ၸိမ်း	tsim
 ၸိုဝ်ႈ	tsue
 ၸီးၼႃႉ	tsii naa
@@ -808,6 +844,7 @@
 ၽိင်း	phing
 ၽိဝ်ၼင်	phiw nang
 ၽိုင်ႈ	phueng
+ၽိူဝ်ႉ	phoe
 ၽိၵ်ႈၶူႇ	phik khuu
 ၽိၵ်ႈၶူႇၼီႇ	phik khuu nii
 ၽိၼ်	phin

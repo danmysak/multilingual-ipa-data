@@ -5,6 +5,7 @@
 -ܝ	y
 -ܢܢ	nan
 Classical Syriac ܐܠܐ	ella
+אורשלם	urislem
 יֵשׁוּע	yesu
 סַנְיָא	sanya
 עַרְטָנִיתָא	artanita
@@ -12,7 +13,7 @@ Classical Syriac ܐܠܐ	ella
 קפלאון	qeppalleon
 רקפתא	raqepta
 ܐܐܪ	aar
-ܐܒ	ob
+ܐܒ	ab
 ܐܒܐ	aba
 ܐܒܐ	abba
 ܐܒܐ	ebba
@@ -1207,8 +1208,11 @@ Classical Syriac ܐܠܐ	ella
 ܝܠܐ	yalla
 ܝܠܕܐ	yalda
 ܝܠܕܐ	yalde
+ܝܠܘܕܐ	yalluda
+ܝܠܘܕܐ	yallude
 ܝܠܘܕܐ	yaloda
-ܝܠܘܕܐ	yaluda
+ܝܠܘܕܐ	yalode
+ܝܠܘܕܬܐ	yalludta
 ܝܠܘܕܬܐ	yalodta
 ܝܠܘܦܐ	yalopa
 ܝܠܘܦܐ	yalope
@@ -1240,10 +1244,12 @@ Classical Syriac ܐܠܐ	ella
 ܝܬܒ	iteb
 ܝܬܒ	itev
 ܝܬܡܐ	yatma
-ܝܰܠܽܘܕ݂ܳܐ	yaluda
+ܝܰܠܽܘܕ݂ܳܐ	yalluda
 ܝܲܒܼܪܘܼܚܵܐ	yabruha
+ܝܲܠܘܼܕ݂ܵܐ	yalluda
 ܝܳܠܕܰܬ ܐܰܠܳܗܳܐ	yoldath aloho
-ܝܳܠܽܘܕ݂ܳܐ	yaluda
+ܝܳܠܽܘܕ݂ܳܐ	yaloda
+ܝܵܠܘܿܕ݂ܵܐ	yaloda
 ܝܶܫܽܘܥ	iso
 ܝܶܫܽܘܥ	yesu
 ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ	yesu msiho
@@ -1259,6 +1265,7 @@ Classical Syriac ܐܠܐ	ella
 ܟܒܝܫ	kabbis
 ܟܒܪܝܬܐ	kebrita
 ܟܒܫܐ	kebsa
+ܟܒܳܒܳܐ	kebaba
 ܟܕܒܐ	kaddaba
 ܟܕܒܬܐ	kaddabta
 ܟܘܐ	kawwe
@@ -1494,7 +1501,6 @@ Classical Syriac ܐܠܐ	ella
 ܠܹܠܝܵܐ	lelya
 ܡܐ	ma
 ܡܐܐ	ma
-ܡܐܐ	mo
 ܡܐܟܢܐ	mekanne
 ܡܐܢܐ	mana
 ܡܐܢܐ	mane
@@ -1518,7 +1524,7 @@ Classical Syriac ܐܠܐ	ella
 ܡܕܢܐ	maddana
 ܡܕܢܐ	maddane
 ܡܕܢܚܐ	madneha
-ܡܕܪܫܬܐ	madresto
+ܡܕܪܫܬܐ	madresta
 ܡܕܳܟ݂ܬܴܐ	mdakta
 ܡܗܐ	meha
 ܡܗܓܪܐ	mahgera
@@ -1581,6 +1587,7 @@ Classical Syriac ܐܠܐ	ella
 ܡܠܐܟܐ	malake
 ܡܠܘܢܝܬܐ	mellonita
 ܡܠܚܐ	mallaha
+ܡܠܚܐ	mallahe
 ܡܠܚܐ	melha
 ܡܠܚܐ	milha
 ܡܠܚܐ	milhe
@@ -1695,7 +1702,6 @@ Classical Syriac ܐܠܐ	ella
 ܡܬܘܬܐ	matwata
 ܡܬܬܐ	matata
 ܡܰܝܫܳܐ	maysa
-ܡܰܠܳܚܶܐ	mallahe
 ܡܰܥ̈ܙܶܐ	maeze
 ܡܰܦ̮ܪܝܳܢܳܐ	mapryana
 ܡܰܪܩܫܺܝܬܴܐ	marqesita
@@ -1781,7 +1787,7 @@ Classical Syriac ܐܠܐ	ella
 ܢܦܛܐ	nepta
 ܢܦܠ	npal
 ܢܦܫܐ	napsa
-ܢܨܝܒܝܢ	nisibin
+ܢܨܝܒܝܢ	nasibin
 ܢܨܪܝܐ	nasraya
 ܢܨܪܝܬܐ	nasrayta
 ܢܩܒܬܐ	neqbeta
@@ -2590,6 +2596,7 @@ Classical Syriac ܐܠܐ	ella
 ܫܠܝܡܘܢ	slemon
 ܫܠܝܡܘܢ	slemun
 ܫܠܝܼܚܵܐ	sliha
+ܫܠܡ ܠܟܝ ܒܬܘܠܬܐ ܡܪܝܡ	
 ܫܠܡܐ	salma
 ܫܠܡܐ	salme
 ܫܠܡܐ	selama
@@ -2633,6 +2640,7 @@ Classical Syriac ܐܠܐ	ella
 ܫܢܬܐ	sennata
 ܫܥܐ	sa
 ܫܥܘܬܐ	seota saota
+ܫܥܬܐ	sata
 ܫܦܘܕܐ	sapuda
 ܫܩܐ	saqa
 ܫܩܐ	saqe
@@ -2719,9 +2727,9 @@ Classical Syriac ܐܠܐ	ella
 ܬܠܝܬܝܘܬܐ	tlitayuta
 ܬܠܝܬܝܘܬܐ	tlitaywata
 ܬܠܬ	tlat
-ܬܠܬܐ	tlotho
-ܬܠܬ݂	tleth
-ܬܠܳܬ݂ܳܐ	tlotho
+ܬܠܬܐ	tlata
+ܬܠܬ݂	tlat
+ܬܠܳܬ݂ܳܐ	tlata
 ܬܠܵܬ݂	tlat
 ܬܠܵܬ݂ܵܐ	tlata
 ܬܡܘܙ	tamuz

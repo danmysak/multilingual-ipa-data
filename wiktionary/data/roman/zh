@@ -3,8 +3,10 @@
 00後	línglínghòu
 1 角	Jiăo
 10 女	Nǚ
+100多MB	100 duō MB
 11 虛	Xū
 12 危	Wēi
+12路公交車 / 12路公交车	12 lù gōngjiāochē
 13 室	Shì
 14 壁	Bì
 15 奎	Kuí
@@ -32,7 +34,7 @@
 3D打印機	sāndī dǎyìnjī
 4 房	Fáng
 499網路吃到飽 / 499网路吃到饱	499 wǎnglù chīdàobǎo
-4核	4hé
+4核	4-hé
 5 心	Xīn
 6 尾	Wěi
 7 箕	Jī
@@ -188,7 +190,6 @@ tone 8 → tone 7: 藥仔	io̍h-á
 t͡siː³⁵ pʰiːn³³ jɐn²¹	Guangzhou
 t͡sʰwən⁵⁵	cun¹
 t͡ʃʰɵn⁵⁵	cun¹
-use 閃電	shǎndiàn
 web开发	wāibù kāifā
 web開發	wāibù kāifā
 while 病歷	bìnglì
@@ -278,6 +279,7 @@ while 病歷	bìnglì
 музей	muzi͡əy
 мулон	mulon
 мучин	mučin
+мәмә	məmə
 нён	ni͡on
 ни хо	ni ho
 олия	olii͡a
@@ -373,6 +375,7 @@ while 病歷	bìnglì
 җю	ži͡u
 җя	ži͡a
 җян	ži͡an
+җящя	ži͡axi͡a
 ңәлойин	ŋəloyin
 ңәңәзы	ŋəŋəzɨ
 عِيدِيَّة	ʿīdiyya
@@ -571,8 +574,6 @@ while 病歷	bìnglì
 一切	yīqiè
 一切从简	yīqiècóngjiǎn
 一切從簡	yīqiècóngjiǎn
-一切經音義	Yīqièjīng Yīnyì
-一切经音义	Yīqièjīng Yīnyì
 一切聽你的！ / 一切听你的！	Yīqiè tīng nǐ de!
 一则	yīzé
 一到OP就卡	yī dào OP jiù kǎ
@@ -726,6 +727,8 @@ while 病歷	bìnglì
 一尊大炮	yī zūn dàpào
 一尊巨像	yī zūn jùxiàng
 一對一映射 / 一对一映射	yīduìyī yìngshè
+一對夫婦 / 一对夫妇	yī duì fūfù
+一對燕子 / 一对燕子	yī duì yànzi
 一對電子 / 一对电子	yī duì diànzǐ
 一小	yīxiǎo
 一小撮	yīxiǎocuō
@@ -783,6 +786,8 @@ while 病歷	bìnglì
 一心	yīxīn
 一心一德	yīxīnyīdé
 一心一意	yīxīnyīyì
+一心无二	yīxīnwú'èr
+一心無二	yīxīnwú'èr
 一念之差	yīniànzhīchā
 一怔	yīlèng
 一总	yīzǒng
@@ -835,6 +840,7 @@ while 病歷	bìnglì
 一文不值	yīwénbùzhí
 一斑	yībān
 一方	yīfāng
+一方手帕	yī fāng shǒupà
 一方面	yīfāngmiàn
 一旁	yīpáng
 一无所得	yīwúsuǒdé
@@ -1111,6 +1117,7 @@ while 病歷	bìnglì
 一聲	yīshēng
 一聲不響	yīshēngbùxiǎng
 一聲槍響 / 一声枪响	yī shēng qiāngxiǎng
+一聲長嘆 / 一声长叹	yīshēng chángtàn
 一肚子	yīdùzi
 一肚子坏水	yīdùzi huàishuǐ
 一肚子壞水	yīdùzi huàishuǐ
@@ -1130,6 +1137,9 @@ while 病歷	bìnglì
 一致反對 / 一致反对	yīzhì fǎnduì
 一致同意	yīzhì tóngyì
 一致性	yīzhìxìng
+一臺戲 / 一台戏	yī tái xì
+一臺望遠鏡 / 一台望远镜	yī tái wàngyuǎnjìng
+一臺電腦 / 一台电脑	yī tái diànnǎo
 一舉	yījǔ
 一舉一動	yījǔyīdòng
 一舉兩得	yījǔliǎngdé
@@ -1357,6 +1367,7 @@ while 病歷	bìnglì
 一黨專政	yīdǎngzhuānzhèng
 一鼓作气	yīgǔzuòqì
 一鼓作氣	yīgǔzuòqì
+一鼓作氣 / 一鼓作气	yīgǔzuòqì
 一鼻孔出气	yī bíkǒng chūqì
 一鼻孔出氣	yī bíkǒng chūqì
 一齊	yīqí
@@ -1499,6 +1510,8 @@ while 病歷	bìnglì
 七言	qīyán
 七言絕句	qīyán juéjù
 七言绝句	qīyán juéjù
+七言联	qīyánlián
+七言聯	qīyánlián
 七言詩	qīyánshī
 七言诗	qīyánshī
 七连音	qīliányīn
@@ -1588,6 +1601,7 @@ while 病歷	bìnglì
 万州	Wànzhōu
 万年	wànnián
 万年历	wànniánlì
+万年油	wànniányóu
 万幸	wànxìng
 万店	Wàndiàn
 万念俱灰	wànniànjùhuī
@@ -1626,7 +1640,7 @@ while 病歷	bìnglì
 万荣	Wànróng
 万谢	wànxiè
 万象	wànxiàng
-万象更新	wànxiàng-gēngxīn
+万象更新	wànxiànggēngxīn
 万贯	wànguàn
 万贯家财	wànguànjiācái
 万载千秋	wànzǎiqiānqiū
@@ -1668,6 +1682,7 @@ while 病歷	bìnglì
 三七開定論	sānqīkāi dìnglùn
 三三两两	sānsānliǎngliǎng
 三三兩兩	sānsānliǎngliǎng
+三三得九	sān sān dé jiǔ
 三不五时	sānbùwǔshí
 三不五時	sānbùwǔshí
 三不管	sānbùguǎn
@@ -1796,6 +1811,7 @@ while 病歷	bìnglì
 三天两头	sāntiānliǎngtóu
 三天兩夜 / 三天两夜	sān tiān liǎng yè
 三天兩頭	sāntiānliǎngtóu
+三天後 / 三天后	sān tiān hòu
 三头两日	sāntóu liǎngrì
 三头六臂	sāntóuliùbì
 三妙丸	sānmiào wán
@@ -1882,6 +1898,8 @@ while 病歷	bìnglì
 三棱镜	sānléngjìng
 三棱髻	sānléngjì
 三樣菜 / 三样菜	sān yàng cài
+三横王	Sānhéngwáng
+三橫王	Sānhéngwáng
 三權分立	sānquánfēnlì
 三次元	sāncìyuán
 三次方程	sāncì fāngchéng
@@ -1962,6 +1980,7 @@ while 病歷	bìnglì
 三礼	Sānlǐ
 三神	sānshén
 三禮	Sānlǐ
+三秀	sānxiù
 三秦	Sānqín
 三稜鏡	sānléngjìng
 三穗	Sānsuì
@@ -2026,7 +2045,7 @@ while 病歷	bìnglì
 三觀	sānguān
 三观	sānguān
 三角	sānjiǎo
-三角不等式	sānjiǎobùděngshì
+三角不等式	sānjiǎo bùděngshì
 三角函数	sānjiǎo hánshù
 三角函數	sānjiǎo hánshù
 三角学	sānjiǎoxué
@@ -2070,6 +2089,7 @@ while 病歷	bìnglì
 三足乌	sānzúwū
 三足烏	sānzúwū
 三足鼎立	sānzúdǐnglì
+三路進軍 / 三路进军	sān lù jìnjūn
 三身	sānshēn
 三軍	sānjūn
 三輔	sānfǔ
@@ -2251,6 +2271,7 @@ while 病歷	bìnglì
 上姓	shàngxìng
 上学	shàngxué
 上學	shàngxué
+上學 / 上学	shàngxué
 上宋窑	Shàngsòngyáo
 上宋窯	Shàngsòngyáo
 上官	shàngguān
@@ -2768,6 +2789,9 @@ while 病歷	bìnglì
 下次	xiàcì
 下毒	xiàdú
 下水道	xiàshuǐdào
+下江	Xiàjiāng
+下江官話	Xiàjiāng Guānhuà
+下江官话	Xiàjiāng Guānhuà
 下決心	xià juéxīn
 下沉	xiàchén
 下河堤	Xiàhédī
@@ -3444,8 +3468,6 @@ while 病歷	bìnglì
 不敏	bùmǐn
 不敗之地	bùbàizhīdì
 不敢	bùgǎn
-不敢出声	bùgǎn chūshēng
-不敢出聲	bùgǎn chūshēng
 不敢問津	bùgǎnwènjīn
 不敢当	bùgǎndāng
 不敢恭維	bùgǎngōngwéi
@@ -3684,6 +3706,7 @@ while 病歷	bìnglì
 不羈	bùjī
 不義	bùyì
 不義之財	bùyì zhī cái
+不習水性 / 不习水性	bùxíshuǐxìng
 不老	bùlǎo
 不老少	bùlǎoshǎo
 不而过	put-jî-kò
@@ -3860,6 +3883,7 @@ while 病歷	bìnglì
 不足挂齿	bùzú guàchǐ
 不足掛齒	bùzú guàchǐ
 不足為外人道	bùzú wèi wàirén dào
+不足為外人道 / 不足为外人道	bùzú wèi wàirén dào
 不足為奇	bùzúwéiqí
 不足為怪	bùzúwéiguài
 不足為慮	bùzúwéilǜ
@@ -4092,6 +4116,7 @@ while 病歷	bìnglì
 丕显	pīxiǎn
 丕變	pībiàn
 丕顯	pīxiǎn
+世	shì
 世上	shìshàng
 世世代代	shìshìdàidài
 世业	shìyè
@@ -4493,6 +4518,7 @@ while 病歷	bìnglì
 丟棄	diūqì
 丟番圖方程	Diūfāntú fāngchéng
 丟臉	diūliǎn
+丟臉 / 丢脸	diūliǎn
 丟開	diūkāi
 丟面子	diū miànzi
 丟飯碗	diūfànwǎn
@@ -4547,6 +4573,7 @@ while 病歷	bìnglì
 两性人	liǎngxìngrén
 两性关系	liǎngxìng guānxì
 两性畸形	liǎngxìng jīxíng
+两情相悦	liǎngqíngxiāngyuè
 两手	liǎngshǒu
 两手空空	liǎngshǒukōngkōng
 两旁	liǎngpáng
@@ -4565,6 +4592,7 @@ while 病歷	bìnglì
 两用	liǎngyòng
 两码事	liǎngmǎshì
 两立	liǎnglì
+两粤	Liǎngyuè
 两翼	liǎngyì
 两老	liǎnglǎo
 两者	liǎngzhě
@@ -4835,14 +4863,10 @@ while 病歷	bìnglì
 中四	zhōngsì
 中国	1tson koq
 中国	Chûng-koet
-中国	Dô̤ng-gŏ
 中国	Dṳ̆ng-guók
 中国	Tiong-kok
 中国	Zhōngguó
-中国	zhong¹ gue⁶
 中国	zhōngguó
-中国	zung¹ gueh⁴
-中国	zung¹ guet⁶
 中国	zung¹ guêd⁵
 中国	zung¹ gwok³
 中国人	Zhōngguórén
@@ -5057,6 +5081,7 @@ while 病歷	bìnglì
 中晝	tiong-tàu
 中晝時	tiong-tàu-sî
 中暑	zhòngshǔ
+中暑	zhōngshǔ
 中書	zhōngshū
 中書省	Zhōngshūshěng
 中書省 / 中书省	Zhōngshūshěng
@@ -5159,6 +5184,7 @@ while 病歷	bìnglì
 中联办	Zhōngliánbàn
 中聯辦	Zhōngliánbàn
 中聽	zhōngtīng
+中聽 / 中听	zhōngtīng
 中肠	zhōngcháng
 中肯	zhòngkěn
 中胚层	zhōngpēicéng
@@ -5208,6 +5234,8 @@ while 病歷	bìnglì
 中西	Zhōng-Xī
 中西合璧	zhōngxīhébì
 中西文化	zhōngxī wénhuà
+中規中矩	zhòngguīzhòngjǔ
+中规中矩	zhòngguīzhòngjǔ
 中計	zhòngjì
 中譯	zhōngyì
 中譯本 / 中译本	zhōngyìběn
@@ -5526,6 +5554,7 @@ while 病歷	bìnglì
 主刑	zhǔxíng
 主力	zhǔlì
 主力军	zhǔlìjūn
+主力機 / 主力机	zhǔlì jī
 主力軍	zhǔlìjūn
 主办	zhǔbàn
 主动	zhǔdòng
@@ -5958,6 +5987,7 @@ while 病歷	bìnglì
 乌贼	wūzéi
 乌贼骨	wūzéigǔ
 乌贼鱼	wūzéiyú
+乌都语	wūdūyǔ
 乌醋	wūcù
 乌金	wūjīn
 乌青	wūqīng
@@ -6795,6 +6825,7 @@ while 病歷	bìnglì
 了事	liǎoshì
 了却	liǎoquè
 了卻	liǎoquè
+了卻 / 了却	lequè
 了后	liáu-āu
 了如指掌	liǎorúzhǐzhǎng
 了局	liǎojú
@@ -6900,6 +6931,7 @@ while 病歷	bìnglì
 事后诸葛亮	shìhòu Zhūgě Liàng
 事在人为	shìzàirénwéi
 事在人為	shìzàirénwéi
+事在人為 / 事在人为	shìzàirénwéi
 事大主义	shìdà zhǔyì
 事大主義	shìdà zhǔyì
 事头	shìtóu
@@ -7415,7 +7447,6 @@ while 病歷	bìnglì
 五大洲	Wǔdàzhōu
 五大码	wǔdàmǎ
 五大碼	wǔdàmǎ
-五天前	wǔ tiān qián
 五天竺	Wǔtiānzhú
 五子棋	wǔzǐqí
 五子衍宗丸	wǔzǐ yǎnzōng wán
@@ -7437,7 +7468,6 @@ while 病歷	bìnglì
 五彩繽紛	wǔcǎibīnfēn
 五彩纸屑	wǔcǎi zhǐxiè
 五彩缤纷	wǔcǎibīnfēn
-五成半	wǔ chéng bàn
 五成熟	wǔchéngshú
 五戒	wǔjiè
 五指	wǔzhǐ
@@ -7519,6 +7549,8 @@ while 病歷	bìnglì
 五胡	Wǔhú
 五胡乱华	Wǔhúluànhuá
 五胡亂華	Wǔhúluànhuá
+五胡十六国	Wǔhú Shíliù Guó
+五胡十六國	Wǔhú Shíliù Guó
 五脏	wǔzàng
 五脏六腑	wǔzàng liùfǔ
 五臟	wǔzàng
@@ -7788,6 +7820,7 @@ while 病歷	bìnglì
 亞鐵氰化鉀	yàtiěqínghuàjiǎ
 亞非利加	Yàfēilìjiā
 亞麻	yàmá
+亞麻 / 亚麻	yàmá
 亞麻油	yàmáyóu
 亞麻籽	yàmázǐ
 亞麻跌	yàmádiē
@@ -8834,7 +8867,6 @@ while 病歷	bìnglì
 今天我請客。 / 今天我请客。	Jīntiān wǒ qǐngkè.
 今天星期幾？ / 今天星期几？	Jīntiān xīngqījǐ?
 今天真熱。 / 今天真热。	Jīntiān zhēn rè.
-今天真陰啊。 / 今天真阴啊。	Jīntiān zhēn yīn a.
 今夫	jīnfú
 今字	jīnzì
 今宵	jīnxiāo
@@ -8920,6 +8952,7 @@ while 病歷	bìnglì
 从命	cóngmìng
 从商	cóngshāng
 从善如流	cóngshànrúliú
+从坐	cóngzuò
 从头	cóngtóu
 从头到尾	cóngtóudàowěi
 从容	cóngróng
@@ -8958,6 +8991,7 @@ while 病歷	bìnglì
 仓库	cāngkù
 仓廪	cānglǐn
 仓忙	cāngmáng
+仓房	cāngfáng
 仓皇	cānghuáng
 仓颉	Cāngjié
 仓颉篇	Cāngjiépiān
@@ -8992,6 +9026,7 @@ while 病歷	bìnglì
 他们俩	tāmen liǎ
 他们自己	tāmen zìjǐ
 他休息了一會兒。 / 他休息了一会儿。	Tā xiūxi le yīhuìr.
+他作風不正。 / 他作风不正。	Tā zuòfēng bù zhèng.
 他倆一般兒大 / 他俩一般儿大	tā liǎ yībānr dà
 他們	tāmen
 他們不理我。 / 他们不理我。	Tāmen bù lǐ wǒ.
@@ -9019,6 +9054,7 @@ while 病歷	bìnglì
 他家	tājiā
 他家裡有錢。 / 他家里有钱。	Tā jiālǐ yǒuqián.
 他屁都不是。	Tā pì dōu bùshì.
+他很會跳舞。 / 他很会跳舞。	Tā hěn huì tiàowǔ.
 他很高興。 / 他很高兴。	Tā hěn gāoxìng.
 他律	tālǜ
 他律道德	tālǜ dàodé
@@ -9186,6 +9222,7 @@ while 病歷	bìnglì
 仡佬族	Gēlǎozú
 仡佬語	gēlǎoyǔ
 仡佬语	gēlǎoyǔ
+代	dài
 代为	dàiwéi
 代书	dàishū
 代付	dàifù
@@ -9394,6 +9431,7 @@ while 病歷	bìnglì
 以小見大	yǐxiǎojiàndà
 以小见大	yǐxiǎojiàndà
 以少勝多 / 以少胜多	yǐ shǎo shèng duō
+以巴衝突 / 以巴冲突	Yǐ Bā chōngtū
 以弗所书	Yǐfúsuǒshū
 以弗所書	Yǐfúsuǒshū
 以往	yǐwǎng
@@ -9401,6 +9439,7 @@ while 病歷	bìnglì
 以後 / 以后	yǐhòu
 以德報德	yǐdébàodé
 以德報怨	yǐdébàoyuàn
+以德報怨 / 以德报怨	yǐdébàoyuàn
 以德报德	yǐdébàodé
 以德报怨	yǐdébàoyuàn
 以德服人	yǐdéfúrén
@@ -9483,6 +9522,9 @@ while 病歷	bìnglì
 以逸待勞	yǐyìdàiláo
 以邻为壑	yǐlínwéihè
 以鄰為壑	yǐlínwéihè
+以防万一	yǐfángwànyī
+以防萬一	yǐfángwànyī
+以防萬一 / 以防万一	yǐfángwànyī
 以降	yǐjiàng
 以革命的名義 / 以革命的名义	yǐ gémìng de míngyì
 仨	sā
@@ -9587,6 +9629,7 @@ while 病歷	bìnglì
 任天堂	Rèntiāntáng
 任官	rènguān
 任庄	Rénzhuāng
+任弼時 / 任弼时	Rén Bìshí
 任從	rèncóng
 任性	rènxìng
 任意	rènyì
@@ -10954,11 +10997,13 @@ while 病歷	bìnglì
 作聲	zuòshēng
 作色	zuòsè
 作茧自缚	zuòjiǎnzìfú
+作計	zuòjì
 作詞	zuòcí
 作詞家	zuòcíjiā
 作詞者	zuòcízhě
 作詩	zuòshī
 作證	zuòzhèng
+作计	zuòjì
 作证	zuòzhèng
 作词	zuòcí
 作词家	zuòcíjiā
@@ -11316,6 +11361,7 @@ while 病歷	bìnglì
 來臨	láilín
 來自	láizì
 來自於	láizìyú
+來臺旅客 / 来台旅客	lái Tái lǚkè
 來華機票 / 来华机票	láihuá jīpiào
 來著	láizhe
 來蘇糖	láisūtáng
@@ -11369,6 +11415,7 @@ while 病歷	bìnglì
 侍应生	shìyìngshēng
 侍弄	shìnòng
 侍從	shìcóng
+侍從 / 侍从	shìcóng
 侍應	shìyìng
 侍應生	shìyìngshēng
 侍立	shìlì
@@ -11461,6 +11508,8 @@ while 病歷	bìnglì
 依前	yīqián
 依力克其	Yīlìkèqí
 依吞布拉克	Yītūnbùlākè
+依地語	yīdìyǔ
+依地语	yīdìyǔ
 依奶	ĭ-nā̤
 依妈	ĭ-mă
 依存	yīcún
@@ -11671,6 +11720,7 @@ while 病歷	bìnglì
 便道	biàndào
 便雅悯	Biànyǎmǐn
 便雅憫	Biànyǎmǐn
+便面	biànmiàn
 便飯	biànfàn
 便餐	biàncān
 便饭	biànfàn
@@ -12376,6 +12426,7 @@ while 病歷	bìnglì
 俯仰无愧	fǔyǎngwúkuì
 俯仰無愧	fǔyǎngwúkuì
 俯伏	fǔfú
+俯允	fǔyǔn
 俯冲	fǔchōng
 俯卧	fǔwò
 俯卧撑	fǔwòchēng
@@ -12418,6 +12469,7 @@ while 病歷	bìnglì
 倉庫	cāngkù
 倉廩	cānglǐn
 倉忙	cāngmáng
+倉房	cāngfáng
 倉皇	cānghuáng
 倉頡	Cāngjié
 倉頡碼表 / 仓颉码表	cāngxié mǎbiǎo
@@ -13291,6 +13343,7 @@ while 病歷	bìnglì
 偷天換日	tōutiānhuànrì
 偷工减料	tōugōngjiǎnliào
 偷工減料	tōugōngjiǎnliào
+偷工減料 / 偷工减料	tōugōngjiǎnliào
 偷巧	tōuqiǎo
 偷情	tōuqíng
 偷懒	tōulǎn
@@ -13889,15 +13942,18 @@ while 病歷	bìnglì
 儉約	jiǎnyuē
 儉腸凹肚	khiām-tn̂g-neh-tō͘
 儉錢	khiām-chîⁿ
+儋县	Dānxiàn
 儋州	Dānzhōu
 儋州話	dānzhōuhuà
 儋州话	dānzhōuhuà
+儋縣	Dānxiàn
 儐從	bīncóng
 儐相	bīnxiàng
 儒医	rúyī
 儒士	rúshì
 儒学	rúxué
 儒學	rúxué
+儒學 / 儒学	rúxué
 儒家	Rújiā
 儒家	rújiā
 儒家八派	Rújiā Bā Pài
@@ -13998,6 +14054,7 @@ while 病歷	bìnglì
 儲備	chǔbèi
 儲備金	chǔbèijīn
 儲君	chǔjūn
+儲君 / 储君	chǔjūn
 儲存	chǔcún
 儲蓄	chǔxù
 儲蓄互助社	chǔxù hùzhùshè
@@ -14104,6 +14161,7 @@ while 病歷	bìnglì
 元气	yuánqì
 元气满满	yuánqì mǎnmǎn
 元氣	yuánqì
+元氣 / 元气	yuánqì
 元氣滿滿	yuánqì mǎnmǎn
 元江	Yuán Jiāng
 元知識	yuánzhīshí
@@ -14146,6 +14204,7 @@ while 病歷	bìnglì
 兄終弟及	xiōngzhōngdìjí
 兄终弟及	xiōngzhōngdìjí
 兄臺	xiōngtái
+兄臺 / 兄台	xiōngtái
 兄長	xiōngzhǎng
 兄長 / 兄长	xiōngzhǎng
 兄长	xiōngzhǎng
@@ -14278,8 +14337,6 @@ while 病歷	bìnglì
 先父	xiānfù
 先王	xiānwáng
 先生	xiānshēng
-先生们	xiānshēngmen
-先生們	xiānshēngmen
 先發	xiānfā
 先發制人	xiānfāzhìrén
 先皇	xiānhuáng
@@ -14530,7 +14587,10 @@ while 病歷	bìnglì
 克夫	kèfū
 克孜勒苏	Kèzīlèsū
 克孜勒蘇	Kèzīlèsū
+克宫	Kègōng
+克宮	Kègōng
 克尽	kèjìn
+克山病	kèshānbìng
 克州	Kèzhōu
 克己	kèjǐ
 克己主义	kèjǐ zhǔyì
@@ -14685,6 +14745,7 @@ while 病歷	bìnglì
 兒郎	érláng
 兒馬	érmǎ
 兒齒	níchǐ
+兔	tù
 兔儿爷	tùryé
 兔兒爺	tùryé
 兔唇	tùchún
@@ -15123,6 +15184,8 @@ while 病歷	bìnglì
 全套	quántào
 全家	quánjiā
 全家福	quánjiāfú
+全小将	Quán xiǎojiàng
+全小將	Quán xiǎojiàng
 全局	quánjú
 全局快捷键	quánjú kuàijiéjiàn
 全席	quánxí
@@ -15278,10 +15341,12 @@ while 病歷	bìnglì
 兩性人	liǎngxìngrén
 兩性畸形	liǎngxìng jīxíng
 兩性關係	liǎngxìng guānxì
+兩情相悅	liǎngqíngxiāngyuè
 兩手	liǎngshǒu
 兩手空空	liǎngshǒukōngkōng
 兩把掃把 / 两把扫把	liǎng bǎ sǎobǎ
 兩敗俱傷	liǎngbàijùshāng
+兩方圖章 / 两方图章	liǎng fāng túzhāng
 兩旁	liǎngpáng
 兩晉	Liǎng-Jìn
 兩本兒賬 / 两本儿账	liǎng běnr zhàng
@@ -15301,6 +15366,7 @@ while 病歷	bìnglì
 兩用	liǎngyòng
 兩碼事	liǎngmǎshì
 兩立	liǎnglì
+兩粵	Liǎngyuè
 兩翼	liǎngyì
 兩老	liǎnglǎo
 兩者	liǎngzhě
@@ -15447,8 +15513,10 @@ while 病歷	bìnglì
 八極	bājí
 八極拳	bājíquán
 八榮八恥	bā róng bā chǐ
+八正道	bāzhèngdào
 八步	Bābù
 八沟	Bāgōu
+八減三得五 / 八减三得五	bā jiǎn sān dé wǔ
 八溝	Bāgōu
 八爪魚	bāzhuǎyú
 八爪鱼	bāzhuǎyú
@@ -15780,6 +15848,7 @@ while 病歷	bìnglì
 公用牌	gōngyòngpái
 公用电话	gōngyòng diànhuà
 公用電話	gōngyòng diànhuà
+公畜	gōngchù
 公畝	gōngmǔ
 公益	gōngyì
 公益事业	gōngyì shìyè
@@ -16464,6 +16533,7 @@ while 病歷	bìnglì
 兽性	shòuxìng
 兽欲	shòuyù
 兽皮	shòupí
+兽穴	shòuxué
 兽类	shòulèi
 兽行	shòuxíng
 冀州	Jìzhōu
@@ -17198,7 +17268,9 @@ while 病歷	bìnglì
 冰袋	bīngdài
 冰醋酸	bīngcùsuān
 冰释	bīngshì
+冰释前嫌	bīngshìqiánxián
 冰釋	bīngshì
+冰釋前嫌	bīngshìqiánxián
 冰錐	bīngzhuī
 冰錐子	bīngzhuīzi
 冰鎬	bīnggǎo
@@ -17409,6 +17481,8 @@ while 病歷	bìnglì
 冷處理	lěngchǔlǐ
 冷融合	lěngrónghé
 冷血	lěngxuè
+冷血动物	lěngxuè dòngwù
+冷血動物	lěngxuè dòngwù
 冷言冷語	lěngyán lěngyǔ
 冷言冷语	lěngyán lěngyǔ
 冷語	lěngyǔ
@@ -17444,7 +17518,6 @@ while 病歷	bìnglì
 冷麵	lěngmiàn
 冻	dung3
 冻伤	dòngshāng
-冻冰	dòngbīng
 冻原	dòngyuán
 冻土	dòngtǔ
 冻土层	dòngtǔcéng
@@ -17575,7 +17648,6 @@ while 病歷	bìnglì
 凌驾	língjià
 凍傷	dòngshāng
 凍僵 / 冻僵	dòngjiāng
-凍冰	dòngbīng
 凍原	dòngyuán
 凍土	dòngtǔ
 凍土層	dòngtǔcéng
@@ -17783,6 +17855,7 @@ while 病歷	bìnglì
 凭吊	píngdiào
 凭恃	píngshì
 凭据	píngjù
+凭条	píngtiáo
 凭栏	pínglán
 凭空	píngkōng
 凭证	píngzhèng
@@ -17928,6 +18001,7 @@ while 病歷	bìnglì
 出发	chūfā
 出发点	chūfādiǎn
 出口	chūkǒu
+出口商	chūkǒushāng
 出口成章	chūkǒuchéngzhāng
 出口量	chūkǒuliàng
 出口額	chūkǒu'é
@@ -18071,6 +18145,7 @@ while 病歷	bìnglì
 出笼	chūlóng
 出籠	chūlóng
 出类拔萃	chūlèibácuì
+出糗	chūqiǔ
 出納	chūnà
 出納員	chūnàyuán
 出線	chūxiàn
@@ -18091,6 +18166,8 @@ while 病歷	bìnglì
 出處	chūchù
 出虹	chūhóng
 出血	chūxuè
+出血热	chūxuèrè
+出血熱	chūxuèrè
 出血量	chūxuèliàng
 出行	chūxíng
 出街	chūjiē
@@ -18174,7 +18251,6 @@ while 病歷	bìnglì
 击出	jīchū
 击剑	jījiàn
 击发	jīfā
-击发的声音	jīfā de shēngyīn
 击打	jīdǎ
 击掌	jīzhǎng
 击柝	jītuò
@@ -18241,6 +18317,7 @@ while 病歷	bìnglì
 刀柄	dāobǐng
 刀槍不入	dāoqiāngbùrù
 刀槍劍戟	dāoqiāngjiànjǐ
+刀法	dāofǎ
 刀片	dāopiàn
 刀笔	dāobǐ
 刀筆	dāobǐ
@@ -18375,9 +18452,11 @@ while 病歷	bìnglì
 分散計劃	fēnsàn jìhuà
 分散计划	fēnsàn jìhuà
 分数	fēnshù
+分数单	fēnshùdān
 分数段	fēnshùduàn
 分数线	fēnshùxiàn
 分數	fēnshù
+分數單	fēnshùdān
 分數段	fēnshùduàn
 分數線	fēnshùxiàn
 分文	fēnwén
@@ -18820,6 +18899,7 @@ while 病歷	bìnglì
 初冬	chūdōng
 初出茅庐	chūchūmáolú
 初出茅廬	chūchūmáolú
+初出茅廬 / 初出茅庐	chūchūmáolú
 初夏	chūxià
 初夜	chūyè
 初夜权	chūyèquán
@@ -18839,6 +18919,7 @@ while 病歷	bìnglì
 初意	chūyì
 初愿	chūyuàn
 初戀	chūliàn
+初戀 / 初恋	chūliàn
 初戀情人	chūliàn qíngrén
 初战	chūzhàn
 初戰	chūzhàn
@@ -18862,6 +18943,7 @@ while 病歷	bìnglì
 初筛	chūshāi
 初篩	chūshāi
 初級	chūjí
+初級 / 初级	chūjí
 初級中學	chūjí zhōngxué
 初級學院	chūjí xuéyuàn
 初級產品	chūjí chǎnpǐn
@@ -18962,6 +19044,7 @@ while 病歷	bìnglì
 別白	biébái
 別的	biéde
 別稱	biéchēng
+別稱 / 别称	biéchēng
 別管	biéguǎn
 別耽誤時間。 / 别耽误时间。	Bié dānwù shíjiān.
 別致	biézhì
@@ -19134,6 +19217,7 @@ while 病歷	bìnglì
 别驾从事	biéjià cóngshì
 刭	jǐng
 刮削	guāxuē
+刮削器	guāxuēqì
 刮固本	guā gùběn
 刮民党	Guāmíndǎng
 刮民黨	Guāmíndǎng
@@ -19243,6 +19327,8 @@ while 病歷	bìnglì
 制造厂	zhìzàochǎng
 制造商	zhìzàoshāng
 制造术	zhìzàoshù
+制錢	zhìqián
+制钱	zhìqián
 制限	zhìxiàn
 制高点	zhìgāodiǎn
 制高點	zhìgāodiǎn
@@ -19289,6 +19375,7 @@ while 病歷	bìnglì
 刺參	cìshēn
 刺史	cìshǐ
 刺客	cìkè
+刺心	cìxīn
 刺手	cìshǒu
 刺探	cìtàn
 刺斜	cìxié
@@ -19332,6 +19419,7 @@ while 病歷	bìnglì
 刺骨	cìgǔ
 刺鼻	cìbí
 刻	kè
+刻下	kèxià
 刻不容緩	kèbùrónghuǎn
 刻不容缓	kèbùrónghuǎn
 刻写	kèxiě
@@ -19360,6 +19448,8 @@ while 病歷	bìnglì
 刻苦	kèkǔ
 刻苦學習 / 刻苦学习	kèkǔ xuéxí
 刻薄	kèbó
+刻赤海峡	Kèchì Hǎixiá
+刻赤海峽	Kèchì Hǎixiá
 刻鏤	kèlòu
 刻镂	kèlòu
 刻骨	kègǔ
@@ -19454,6 +19544,7 @@ while 病歷	bìnglì
 前列腺癌	qiánlièxiàn'ái
 前列腺素	qiánlièxiànsù
 前列舒丸	qiánlièshū wán
+前副總統 / 前副总统	qián fùzǒngtǒng
 前功	qiángōng
 前功尽废	qiángōngjìnfèi
 前功尽弃	qiángōngjìnqì
@@ -19498,6 +19589,7 @@ while 病歷	bìnglì
 前崗	Qiángǎng
 前年	qiánnián
 前幾天	qiánjǐtiān
+前幾天 / 前几天	qián jǐ tiān
 前序	qiánxù
 前度刘郎	qiándùliúláng
 前度劉郎	qiándùliúláng
@@ -19531,6 +19623,8 @@ while 病歷	bìnglì
 前方高能	qiánfānggāonéng
 前无古人	qiánwúgǔrén
 前日	qiánrì
+前时	qiánshí
+前時	qiánshí
 前晌	qiánshǎng
 前晚	qiánwǎn
 前景	qiánjǐng
@@ -19952,6 +20046,7 @@ while 病歷	bìnglì
 創辦人	chuàngbànrén
 創辦雜誌 / 创办杂志	chuàngbàn zázhì
 創造	chuàngzào
+創造 / 创造	chuàngzào
 創造內容 / 创造内容	chuàngzào nèiróng
 創造力	chuàngzàolì
 創造幸福 / 创造幸福	chuàngzào xìngfú
@@ -19965,7 +20060,6 @@ while 病歷	bìnglì
 剽掠	piāolüè
 剽窃	piāoqiè
 剽竊	piāoqiè
-剾仔	khau-á
 剾洗	khau-sé
 剿匪	jiǎofěi
 剿戮	jiǎolù
@@ -20292,6 +20386,7 @@ while 病歷	bìnglì
 加成	jiāchéng
 加成反应	jiāchéng fǎnyìng
 加成反應	jiāchéng fǎnyìng
+加把勁兒！ / 加把劲儿！	Jiā bǎ jìnr!
 加护	jiāhù
 加护病房	jiāhù bìngfáng
 加押	jiāyā
@@ -20400,6 +20495,7 @@ while 病歷	bìnglì
 务端	Wùduān
 务虚	wùxū
 务须	wùxū
+劣	liè
 劣势	lièshì
 劣勢	lièshì
 劣化	lièhuà
@@ -20416,6 +20512,7 @@ while 病歷	bìnglì
 劣質	lièzhì
 劣质	lièzhì
 劣跡	lièjì
+劣跡 / 劣迹	lièjì
 劣迹	lièjì
 动不动	dòngbùdòng
 动乱	dòngluàn
@@ -20570,6 +20667,7 @@ while 病歷	bìnglì
 劲敌	jìngdí
 劲旅	jìnglǜ
 劲草	jìngcǎo
+劲道	jìndào
 劳什子	láoshízi
 劳伦斯	Láolúnsī
 劳作	láozuò
@@ -20647,6 +20745,7 @@ while 病歷	bìnglì
 勁敵	jìngdí
 勁旅	jìnglǜ
 勁草	jìngcǎo
+勁道	jìndào
 勁頭	jìntóu
 勃兰登堡	Bólándēngbǎo
 勃兰登堡门	Bólándēngbǎomén
@@ -20682,6 +20781,7 @@ while 病歷	bìnglì
 勇气	yǒngqì
 勇气百倍	yǒngqì bǎibèi
 勇氣	yǒngqì
+勇氣十足 / 勇气十足	yǒngqì shízú
 勇氣百倍	yǒngqì bǎibèi
 勇烈	yǒngliè
 勇猛	yǒngměng
@@ -21037,6 +21137,7 @@ while 病歷	bìnglì
 勿忘草	wùwàngcǎo
 匀出	yúnchū
 匀称	yúnchèn
+包	baau¹
 包	bāo
 包举	bāojǔ
 包乘制	bāochéngzhì
@@ -21141,11 +21242,13 @@ while 病歷	bìnglì
 包袱皮兒	bāofupír
 包装	bāozhuāng
 包装材料	bāozhuāng cáiliào
+包装物	bāozhuāngwù
 包装箱	bāozhuāngxiāng
 包装纸	bāozhuāngzhǐ
 包装车间	bāozhuāng chējiān
 包裝	bāozhuāng
 包裝材料	bāozhuāng cáiliào
+包裝物	bāozhuāngwù
 包裝箱	bāozhuāngxiāng
 包裝紙	bāozhuāngzhǐ
 包裝車間	bāozhuāng chējiān
@@ -21366,6 +21469,7 @@ while 病歷	bìnglì
 北京路	Běijīnglù
 北京鴨	běijīngyā
 北京鸭	běijīngyā
+北人	běirén
 北伐	běifá
 北伐战争	Běifá Zhànzhēng
 北伐戰爭	Běifá Zhànzhēng
@@ -21501,6 +21605,7 @@ while 病歷	bìnglì
 北瓜	běiguā
 北礵	Běishuāng
 北票	Běipiào
+北移	běi yí
 北竿	Běigān
 北管	běiguǎn
 北約	Běiyuē
@@ -21650,6 +21755,7 @@ while 病歷	bìnglì
 区域网路	qūyù wǎnglù
 区域自治	qūyù zìzhì
 区字框	qūzìkuàng
+区宇	qūyǔ
 区庄	Ōuzhuāng
 区旗	qūqí
 区段	qūduàn
@@ -21722,6 +21828,7 @@ while 病歷	bìnglì
 區域自治	qūyù zìzhì
 區塊鏈	qūkuàiliàn
 區字框	qūzìkuàng
+區宇	qūyǔ
 區旗	qūqí
 區段	qūduàn
 區莊	Ōuzhuāng
@@ -21880,6 +21987,7 @@ while 病歷	bìnglì
 千千	sian-sian
 千千万万	qiānqiānwànwàn
 千千萬萬	qiānqiānwànwàn
+千卡	qiānkǎ
 千变万化	qiānbiànwànhuà
 千古	qiāngǔ
 千古不易	qiāngǔ bùyì
@@ -21929,6 +22037,7 @@ while 病歷	bìnglì
 千斤頂	qiānjīndǐng
 千斤顶	qiānjīndǐng
 千方百計	qiānfāngbǎijì
+千方百計 / 千方百计	qiānfāngbǎijì
 千方百计	qiānfāngbǎijì
 千歲	qiānsuì
 千泉	Qiānquán
@@ -22490,6 +22599,7 @@ while 病歷	bìnglì
 单峰骆驼	dānfēng luòtuo
 单帮	dānbāng
 单引号	dānyǐnhào
+单张	dānzhāng
 单弦	dānxián
 单恋	dānliàn
 单打	dāndǎ
@@ -23003,15 +23113,18 @@ while 病歷	bìnglì
 占领	zhànlǐng
 占领军	zhànlǐngjūn
 占领者	zhànlǐngzhě
+卡	kǎ
 卡介苗	kǎjièmiáo
 卡其布	kǎqíbù
 卡其色	kǎqísè
+卡农	kǎnóng
 卡司	kǎsī
 卡图什	kǎtúshí
 卡士达	kǎshìdá
 卡士達	kǎshìdá
 卡宴	Kǎyàn
 卡宾枪	kǎbīnqiāng
+卡尺	kǎchǐ
 卡尼丁	kǎnídīng
 卡巴迪	kǎbādí
 卡布其諾	kǎbùqínuò
@@ -23044,6 +23157,7 @@ while 病歷	bìnglì
 卡車 / 卡车	kǎchē
 卡車停靠點。 / 卡车停靠点。	Kǎchē tíngkàodiǎn.
 卡车	kǎchē
+卡農	kǎnóng
 卡达	Kǎdá
 卡通	kǎtōng
 卡通片	kǎtōngpiàn
@@ -23137,6 +23251,7 @@ while 病歷	bìnglì
 卫满朝鲜	Wèi Mǎn Cháoxiǎn
 卫理宗	wèilǐzōng
 卫生	hygienic
+卫生丸	wèishēngwán
 卫生保健	wèishēng bǎojiàn
 卫生儿裤子	Muping
 卫生套	wèishēngtào
@@ -23160,6 +23275,7 @@ while 病歷	bìnglì
 卯眼	mǎoyǎn
 卯窍	Sichuan
 卯竅	Sichuan
+卯金刀	Mǎojīndāo
 印	Yìn
 印	jan3
 印	yìn
@@ -23317,6 +23433,7 @@ while 病歷	bìnglì
 危宿	Wēixiù
 危宿	Wēixiù, Wéixiù
 危局	wēijú
+危峰	wēifēng
 危急	wēijí
 危急存亡之秋	wēijícúnwángzhīqiū
 危情	wēiqíng
@@ -23466,6 +23583,7 @@ while 病歷	bìnglì
 卸货	xièhuò
 卸除	xièchú
 卻待	quèdài
+卻敵 / 却敌	quèdí
 卻是	quèshì
 卻步	quèbù
 卻說	quèshuō
@@ -23481,6 +23599,7 @@ while 病歷	bìnglì
 厂房	chǎngfáng
 厂牌	chǎngpái
 厂矿	chǎngkuàng
+厂礼拜	chǎnglǐbài
 厂长	chǎngzhǎng
 厄	è
 厄利垂亚	Èlìchuíyà
@@ -24000,6 +24119,7 @@ while 病歷	bìnglì
 县令	xiànlìng
 县份	xiànfèn
 县城	xiànchéng
+县境	xiànjìng
 县太爷	xiàntàiyé
 县官	xiànguān
 县尉	xiànwèi
@@ -24019,6 +24139,8 @@ while 病歷	bìnglì
 参与感	cānyùgǎn
 参与者	cānyùzhě
 参事	cānshì
+参会	cānhuì
+参会	sānhuì
 参保	cānbǎo
 参入	cānrù
 参军	cānjūn
@@ -24086,6 +24208,8 @@ while 病歷	bìnglì
 參政	cānzhèng
 參數	cānshù
 參數化	cānshùhuà
+參會	cānhuì
+參會	sānhuì
 參湯	shēntāng
 參照	cānzhào
 參照物	cānzhàowù
@@ -24203,6 +24327,8 @@ while 病歷	bìnglì
 双休	shuāngxiū
 双休日	shuāngxiūrì
 双体船	shuāngtǐchuán
+双倍	shuāngbèi
+双倍赔偿	shuāngbèi péicháng
 双元音	shuāngyuányīn
 双全	shuāngquán
 双六	shuāngliù
@@ -25075,6 +25201,7 @@ while 病歷	bìnglì
 变为	biànwéi
 变乱	biànluàn
 变产	biànchǎn
+变价	biànjià
 变体	biàntǐ
 变体假名	biàntǐ jiǎmíng
 变例	biànlì
@@ -25086,6 +25213,7 @@ while 病歷	bìnglì
 变卖	biànmài
 变卦	biànguà
 变压器	biànyāqì
+变口	biànkǒu
 变啥魍	pìⁿ-siáⁿ-báng
 变坏	biànhuài
 变声	biànshēng
@@ -25093,7 +25221,8 @@ while 病歷	bìnglì
 变声期	biànshēngqī
 变天	biàntiān
 变奏	biànzòu
-变奏曲	biànzòuqū
+变奏曲	biànzòuqǔ
+变局	biànjú
 变差	biànchà
 变幻	biànhuàn
 变幻莫测	biànhuànmòcè
@@ -25104,19 +25233,23 @@ while 病歷	bìnglì
 变弄	pìⁿ-lāng
 变形	biànxíng
 变形虫	biànxíngchóng
+变形金刚	biànxíng jīngāng
 变征之音	biànzhǐzhīyīn
 变徵之音	biànzhǐzhīyīn
 变心	biànxīn
 变态	biàntài
+变态反应	biàntài fǎnyìng
 变性	biànxìng
 变性人	biànxìngrén
 变性毒素	biànxìng dúsù
 变性者	biànxìngzhě
+变戏法	biàn xìfǎ
 变成	biànchéng
 变成岩	biànchéngyán
 变换	biànhuàn
 变故	biàngù
 变数	biànshù
+变文	biànwén
 变易	biànyì
 变星	biànxīng
 变更	biàngēng
@@ -25124,6 +25257,8 @@ while 病歷	bìnglì
 变样	biànyàng
 变法	biànfǎ
 变法儿	biànfǎr
+变温动物	biànwēn dòngwù
+变生肘腋	biànshēngzhǒuyè
 变电站	biàndiànzhàn
 变电箱	biàndiànxiāng
 变瘦	biànshòu
@@ -25134,7 +25269,9 @@ while 病歷	bìnglì
 变胖	biànpàng
 变脸	biànliǎn
 变色	biànsè
+变色眼镜	biànsè yǎnjìng
 变色蜥蜴	biànsè xīyì
+变色镜	biànsèjìng
 变色龙	biànsèlóng
 变节	biànjié
 变节者	biànjiézhě
@@ -25144,11 +25281,13 @@ while 病歷	bìnglì
 变调	biàndiào
 变质	biànzhì
 变质岩	biànzhìyán
+变起萧墙	biànqǐxiāoqiáng
 变身	biànshēn
 变迁	biànqiān
 变通	biàntōng
 变速	biànsù
 变速器	biànsùqì
+变速运动	biànsù yùndòng
 变面	pìⁿ-bīn
 变革	biàngé
 变频	biànpín
@@ -25224,6 +25363,8 @@ while 病歷	bìnglì
 口北	Kǒuběi
 口北	kǒuběi
 口口声声	kǒukoushēngshēng
+口口相传	kǒukǒuxiàngchuán
+口口相傳	kǒukǒuxiàngchuán
 口口聲聲	kǒukoushēngshēng
 口号	kǒuhào
 口吃	kǒuchī
@@ -25430,6 +25571,7 @@ while 病歷	bìnglì
 古史	gǔshǐ
 古国	gǔguó
 古國	gǔguó
+古圣	gǔshèng
 古坑	Gǔkēng
 古埃及	Gǔ Āijí
 古城	gǔchéng
@@ -25544,6 +25686,7 @@ while 病歷	bìnglì
 古義	gǔyì
 古老	gǔlǎo
 古者	gǔzhě
+古聖	gǔshèng
 古舊	gǔjiù
 古色古香	gǔsègǔxiāng
 古英語	Gǔyīngyǔ
@@ -25566,6 +25709,7 @@ while 病歷	bìnglì
 古诺斯语	Gǔnuòsīyǔ
 古谚	gǔyàn
 古跡	gǔjì
+古跡 / 古迹	gǔjì
 古路	Gǔlù
 古蹟	gǔjì
 古近紀	Gǔjìnjì
@@ -25966,6 +26110,7 @@ while 病歷	bìnglì
 台北	Táiběi
 台北人	táiběirén
 台南	Táinán
+台历	táilì
 台商	táishāng
 台地	táidì
 台型	táixíng
@@ -26020,6 +26165,7 @@ while 病歷	bìnglì
 台球	táiqiú
 台甫	táifǔ
 台秤	táichèng
+台窝湾	Táiwōwān
 台胞	táibāo
 台胞证	táibāozhèng
 台西	Táixī
@@ -26096,6 +26242,7 @@ while 病歷	bìnglì
 史迹	shǐjì
 史達林	Shǐdálín
 史達林格勒	Shǐdálíngélè
+右	jau⁶
 右	yòu
 右侧	yòucè
 右倾	yòuqīng
@@ -26243,6 +26390,7 @@ while 病歷	bìnglì
 司隸	sīlì
 司隸校尉	sīlì xiàowèi
 司馬	sīmǎ
+司馬懿 / 司马懿	Sīmǎ Yì
 司馬昭之心	Sīmǎ Zhāo zhī xīn
 司馬晉	Sīmǎ Jìn
 司馬遷 / 司马迁	Sīmǎ Qiān
@@ -26494,6 +26642,7 @@ while 病歷	bìnglì
 各說各話	gèshuōgèhuà
 各说各话	gèshuōgèhuà
 各路	gèlù
+各路人馬 / 各路人马	gè lù rénmǎ
 各路英雄好漢 / 各路英雄好汉	gèlù yīngxiónghǎohàn
 各适其适	gèshìqíshì
 各適其適	gèshìqíshì
@@ -26933,6 +27082,7 @@ while 病歷	bìnglì
 同父異母	tóngfù yìmǔ
 同犯	tóngfàn
 同班	tóngbān
+同班的人	tóngbān de rén
 同理	tónglǐ
 同理心	tónglǐxīn
 同甘共苦	tónggāngòngkǔ
@@ -27003,6 +27153,7 @@ while 病歷	bìnglì
 同進士出身	tóng jìnshì chūshēng
 同鄉	tóngxiāng
 同鄉會	tóngxiānghuì
+同鄉會 / 同乡会	tóngxiānghuì
 同門	tóngmén
 同门	tóngmén
 同雠敌忾	tóngchóudíkài
@@ -27011,6 +27162,7 @@ while 病歷	bìnglì
 同音詞	tóngyīncí
 同音词	tóngyīncí
 同類	tónglèi
+同類 / 同类	tónglèi
 同餘	tóngyú
 同餘的模 / 同余的模	tóngyú de mó
 同黨	tóngdǎng
@@ -27277,6 +27429,7 @@ while 病歷	bìnglì
 后晋	Hòujìn
 后晌	hòushǎng
 后晌饭	hòushangfàn
+后景	hòujǐng
 后期	hòuqī
 后来	hòulái
 后来人	hòuláirén
@@ -27335,7 +27488,6 @@ while 病歷	bìnglì
 后跟	hòugēn
 后路	hòulù
 后车厢	hòuchēxiāng
-后车戒	qiánjūfù, hòujūjiè
 后轮	hòulún
 后辈	hòubèi
 后边	hòubiān
@@ -27445,6 +27597,7 @@ while 病歷	bìnglì
 向暮	xiàngmù
 向望	ǹg-bāng
 向来	xiànglái
+向東走 / 向东走	xiàng dōng zǒu
 向格	xiànggé
 向父母出櫃 / 向父母出柜	xiàng fùmǔ chūguì
 向着	xiàngzhe
@@ -27461,6 +27614,7 @@ while 病歷	bìnglì
 向阳	xiàngyáng
 向陽	Xiàngyáng
 向陽	xiàngyáng
+向陽 / 向阳	xiàngyáng
 向隅	xiàngyú
 向隅独泣	xiàngyúdúqì
 向隅獨泣	xiàngyúdúqì
@@ -27515,6 +27669,7 @@ while 病歷	bìnglì
 吝嗇	lìnsè
 吝嗇鬼	lìnsèguǐ
 吝惜	lìnxī
+吞	tūn
 吞併	tūnbìng
 吞剝	tūnbō
 吞剥	tūnbō
@@ -27681,12 +27836,14 @@ while 病歷	bìnglì
 启动费	qǐdòngfèi
 启发	qǐfā
 启导	qǐdǎo
+启封	qǐfēng
 启明	qǐmíng
 启浪	Qǐlàng
 启用	qǐyòng
 启示	qǐshì
 启示录	qǐshìlù
 启程	qǐchéng
+启航	qǐháng
 启蒙	qǐméng
 启蒙时代	Qǐméng Shídài
 启蒙运动	qǐméng yùndòng
@@ -28047,6 +28204,7 @@ while 病歷	bìnglì
 周岁	zhōusuì
 周巷	Zhōuxiàng
 周年	zhōunián
+周年庆	zhōuniánqìng
 周延	zhōuyán
 周急	zhōují
 周恩來 / 周恩来	Zhōu Ēnlái
@@ -28178,6 +28336,7 @@ while 病歷	bìnglì
 呼吸器官	hūxī qìguān
 呼吸困难	hūxī kùnnan
 呼吸困難	hūxī kùnnan
+呼吸困難 / 呼吸困难	hūxī kùnnan
 呼吸困難 / 呼吸困难	hūxī kùnnán
 呼吸急促	hūxī jícù
 呼吸性碱中毒	hūxīxìng jiǎnzhòngdú
@@ -28233,6 +28392,8 @@ while 病歷	bìnglì
 呼風喚雨	hūfēnghuànyǔ
 呼风唤雨	hūfēnghuànyǔ
 呼鹼	hūjiǎn
+呼麥	hūmài
+呼麦	hūmài
 命世	mìngshì
 命世之才	mìngshì zhī cái
 命中	mìngzhòng
@@ -28520,6 +28681,9 @@ while 病歷	bìnglì
 咬牙切齿	yǎoyáqièchǐ
 咬耳朵	yǎo ěrduo
 咬肌	yǎojī
+咬舌儿	yǎoshér
+咬舌兒	yǎoshér
+咬舌子	yǎoshézi
 咭吱咯吱	jīzhīgēzhī
 咯吱	gēzhī
 咯咯	gēgē
@@ -28595,6 +28759,7 @@ while 病歷	bìnglì
 哀兵必勝	āibīngbìshèng
 哀兵必胜	āibīngbìshèng
 哀凄	āiqī
+哀切	āiqiè
 哀号	āiháo
 哀启	āiqǐ
 哀告	āigào
@@ -28679,6 +28844,7 @@ while 病歷	bìnglì
 品蓝	pǐnlán
 品藍	pǐnlán
 品行	pǐnxíng
+品行端方	pǐnxíng duānfāng
 品評	pǐnpíng
 品議	pǐnyì
 品议	pǐnyì
@@ -28892,6 +29058,7 @@ while 病歷	bìnglì
 哥萨克人	gēsàkè rén
 哥薩克	gēsàkè
 哥薩克人	gēsàkè rén
+哥薩克騎兵 / 哥萨克骑兵	Gēsàkè qíbīng
 哦	é
 哨兵	shàobīng
 哨声	shàoshēng
@@ -29034,7 +29201,6 @@ while 病歷	bìnglì
 唐古拉	Tánggǔlā
 唐古拉山	Tánggǔlā Shān
 唐君毅	Táng Jūnyì
-唐城	tángchéng
 唐宁街	Tángníng Jiē
 唐宋变革	Tángsòng Biàngé
 唐宋變革	Tángsòng Biàngé
@@ -29095,6 +29261,7 @@ while 病歷	bìnglì
 唠叨	láodao
 唠嗑	làokē
 唢呐	suǒnà
+唤	huàn
 唤礼	huànlǐ
 唤起	huànqǐ
 唤醒	huànxǐng
@@ -29223,6 +29390,7 @@ while 病歷	bìnglì
 唾液腺	tuòyèxiàn
 唾盂	tuòyú
 唾腺	tuòxiàn
+啁哳	zhāozhā
 啃書本 / 啃书本	kěn shūběn
 啃老族	kěnlǎozú
 啄木冠	zhuómùguān
@@ -29406,6 +29574,7 @@ while 病歷	bìnglì
 啟動	qǐdòng
 啟動機關 / 启动机关	qǐdòng jīguān
 啟動費	qǐdòngfèi
+啟封	qǐfēng
 啟導	qǐdǎo
 啟明	qǐmíng
 啟會 / 启会	qǐhuì
@@ -29416,6 +29585,7 @@ while 病歷	bìnglì
 啟示	qǐshì
 啟示錄	qǐshìlù
 啟程	qǐchéng
+啟航	qǐháng
 啟蒙	qǐméng
 啟蒙 / 启蒙	qǐméng
 啟蒙教育 / 启蒙教育	qǐméng jiàoyù
@@ -29610,6 +29780,7 @@ while 病歷	bìnglì
 喙	chhuì
 喙	chói, ché̤ṳ
 喙䫌	chhùi-phóe
+喚	huàn
 喚禮	huànlǐ
 喚起	huànqǐ
 喚醒	huànxǐng
@@ -29687,6 +29858,7 @@ while 病歷	bìnglì
 喝叱	hēchì
 喝墨水	hē mòshuǐ
 喝彩	hècǎi
+喝得一滴不剩	hē dé yīdībùshèng
 喝悶酒	hē mènjiǔ
 喝止	hèzhǐ
 喝水	hēshuǐ
@@ -29802,6 +29974,7 @@ while 病歷	bìnglì
 單幫	dānbāng
 單引號	dānyǐnhào
 單弦	dānxián
+單張	dānzhāng
 單戀	dānliàn
 單打	dāndǎ
 單打獨鬥	dāndǎdúdòu
@@ -30012,8 +30185,10 @@ while 病歷	bìnglì
 嘆惋	tànwǎn
 嘆惜	tànxī
 嘆服	tànfú
+嘆服 / 叹服	tànfú
 嘆氣	tànqì
 嘆為觀止	tànwéiguānzhǐ
+嘆為觀止 / 叹为观止	tànwèiguānzhǐ
 嘆美	tànměi
 嘆詞	tàncí
 嘈乱	cáoluàn
@@ -30303,6 +30478,7 @@ while 病歷	bìnglì
 嚇呆	xiàdāi
 嚇唬	xiàhu
 嚇壞	xiàhuài
+嚇壞了 / 吓坏了	xià huài le
 嚇得半死 / 吓得半死	xià de bànsǐ
 嚇死	xiàsǐ
 嚇死寶寶了！ / 吓死宝宝了！	Xià sǐ bǎobao le!
@@ -30510,6 +30686,7 @@ while 病歷	bìnglì
 四字頭	sìzìtóu
 四季	sìjì
 四季分明	sìjì fēnmíng
+四季橘	sìjìjú
 四季豆	sìjìdòu
 四小龍	Sìxiǎolóng
 四小龙	Sìxiǎolóng
@@ -30551,6 +30728,7 @@ while 病歷	bìnglì
 四會	Sìhuì
 四月	sìyuè
 四月份	Sìyuèfèn
+四月初	sìyuè chū
 四杠子	sìgàngzǐ
 四格	sìgé
 四棱豆	sìléngdòu
@@ -30673,8 +30851,10 @@ while 病歷	bìnglì
 回中	huízhōng
 回乡	huíxiāng
 回书	huíshū
+回他個電話 / 回他个电话	huí tā ge diànhuà
 回來	huílái
 回信	huíxìn
+回光返照	huíguāngfǎnzhào
 回击	huíjī
 回到	huídào
 回到原來 / 回到原来	huídào yuánlái
@@ -30745,6 +30925,7 @@ while 病歷	bìnglì
 回憶 / 回忆	huíyì
 回憶錄	huíyìlù
 回應	huíyìng
+回應 / 回应	huíyìng
 回手	huíshǒu
 回扣	huíkòu
 回执	huízhí
@@ -30839,6 +31020,7 @@ while 病歷	bìnglì
 回车	huíchē
 回车键	huíchējiàn
 回转	huízhuǎn
+回過身來 / 回过身来	huí guò shēn lái
 回避	huíbì
 回部	Huíbù
 回鄉	huíxiāng
@@ -30846,9 +31028,11 @@ while 病歷	bìnglì
 回銷	huíxiāo
 回鋒	huífēng
 回鍋	huíguō
+回鍋油	huíguōyóu
 回鍋肉	huíguōròu
 回销	huíxiāo
 回锅	huíguō
+回锅油	huíguōyóu
 回锅肉	huíguōròu
 回锋	huífēng
 回電	huídiàn
@@ -30862,6 +31046,7 @@ while 病歷	bìnglì
 回頭率	huítóulǜ
 回頭率百分百 / 回头率百分百	huítóulǜ bǎifēnbǎi
 回頭看 / 回头看	huítóu kàn
+回頭看了一眼 / 回头看了一眼	huítóu kàn le yī yǎn
 回頭見	huítóu jiàn
 回頭見！ / 回头见！	Huítóu jiàn!
 回顧	huígù
@@ -31031,6 +31216,7 @@ while 病歷	bìnglì
 困难	kùnnan
 困難	kùnnan
 困難兒童 / 困难儿童	kùnnan értóng
+困難的事情	kùnnan de shìqing
 困頓	kùndùn
 困頓 / 困顿	kùndùn
 困顿	kùndùn
@@ -31159,6 +31345,8 @@ while 病歷	bìnglì
 国务院	Guówùyuàn
 国势	guóshì
 国医	guóyī
+国华	guóhuá
+国博	Guóbó
 国历	guólì
 国史	guóshǐ
 国号	guóhào
@@ -31208,6 +31396,7 @@ while 病歷	bìnglì
 国小	guóxiǎo
 国庆	guóqìng
 国庆日	guóqìngrì
+国庆节	Guóqìngjié
 国库	guókù
 国库券	guókùquàn
 国府	Guófǔ
@@ -31469,6 +31658,7 @@ while 病歷	bìnglì
 國務卿	guówùqīng
 國務院	Guówùyuàn
 國勢	guóshì
+國博	Guóbó
 國史	guóshǐ
 國名	guómíng
 國君	guójūn
@@ -31528,6 +31718,7 @@ while 病歷	bìnglì
 國慶假期 / 国庆假期	guóqìng jiàqī
 國慶慶祝 / 国庆庆祝	guóqìng qìngzhù
 國慶日	guóqìngrì
+國慶節	Guóqìngjié
 國戚	guóqī
 國手	guóshǒu
 國技	guójì
@@ -31599,6 +31790,7 @@ while 病歷	bìnglì
 國色	guósè
 國色天香	guósètiānxiāng
 國花	guóhuā
+國華	guóhuá
 國葬	guózàng
 國藥	guóyào
 國號	guóhào
@@ -32154,6 +32346,7 @@ while 病歷	bìnglì
 在劫难逃	zàijiénántáo
 在劫難逃	zàijiénántáo
 在即	zàijí
+在嗎？ / 在吗？	Zài ma?
 在在	zàizài
 在地	zàidì
 在场	zàichǎng
@@ -32197,6 +32390,7 @@ while 病歷	bìnglì
 在职	zàizhí
 在职贫穷	zàizhí pínqióng
 在職	zàizhí
+在職 / 在职	zàizhí
 在職訓練 / 在职训练	zàizhí xùnliàn
 在職貧窮	zàizhí pínqióng
 在行	zàiháng
@@ -32400,6 +32594,7 @@ while 病歷	bìnglì
 地目	dìmù
 地磅	dìbàng
 地磅站	dìbàngzhàn
+地祇	dìqí
 地租	dìzū
 地秤	dìchèng
 地窖	dìjiào
@@ -32507,6 +32702,7 @@ while 病歷	bìnglì
 均州路	Jūnzhōulù
 均摊	jūntān
 均攤	jūntān
+均攤 / 均摊	jūntān
 均方差	jūnfāngchā
 均方根	jūnfānggēn
 均沾	jūnzhān
@@ -32576,6 +32772,7 @@ while 病歷	bìnglì
 坐台小姐	zuòtái xiǎojiě
 坐商	zuòshāng
 坐困	zuòkùn
+坐在窗邊 / 坐在窗边	zuò zài chuāng biān
 坐地	zuòdì
 坐地起价	zuòdìqǐjià
 坐地起價	zuòdìqǐjià
@@ -32610,6 +32807,7 @@ while 病歷	bìnglì
 坐監	zuòjiān
 坐禅	zuòchán
 坐禪	zuòchán
+坐立不安	zuòlìbù'ān
 坐等	zuòděng
 坐臥不寧	zuòwòbùníng
 坐药	zuòyào
@@ -32660,6 +32858,7 @@ while 病歷	bìnglì
 坚决	jiānjué
 坚固	jiāngù
 坚壁	jiānbì
+坚壁清野	jiānbìqīngyě
 坚如磐石	jiānrúpánshí
 坚守	jiānshǒu
 坚定	jiāndìng
@@ -32707,6 +32906,8 @@ while 病歷	bìnglì
 坠毁	zhuìhuǐ
 坠胎	zhuìtāi
 坠落	zhuìluò
+坡币	pōbì
+坡幣	pōbì
 坡度	pōdù
 坡道	pōdào
 坤包	kūnbāo
@@ -32839,6 +33040,7 @@ while 病歷	bìnglì
 垓心	gāixīn
 垛子	duǒzi
 垣墉	yuányōng
+垦地	kěndì
 垦殖	kěnzhí
 垦荒	kěnhuāng
 垫付	diànfù
@@ -32859,6 +33061,7 @@ while 病歷	bìnglì
 垲垲	kǎikǎi
 垸子	yuànzi
 垻子	bàzi
+埃佛勒斯峰	Āifólèsī Fēng
 埃博拉出血热	Āibólā chūxuèrè
 埃博拉出血熱	Āibólā chūxuèrè
 埃及	Āijí
@@ -33229,6 +33432,7 @@ while 病歷	bìnglì
 堅固	jiāngù
 堅執	jiānzhí
 堅壁	jiānbì
+堅壁清野	jiānbìqīngyě
 堅如磐石	jiānrúpánshí
 堅守	jiānshǒu
 堅定	jiāndìng
@@ -33287,6 +33491,7 @@ while 病歷	bìnglì
 堡壘 / 堡垒	bǎolěi
 堡子	bǔzi
 堡礁	bǎojiāo
+堤	dī
 堤坝	dībà
 堤坝路	dībàlù
 堤壩	dībà
@@ -33422,6 +33627,8 @@ while 病歷	bìnglì
 堵城	Dǔchéng
 堵塞	dǔsè
 堵得慌	dǔdehuāng
+堵心	dǔxīn
+堵車 / 堵车	dǔchē
 塊	kuài
 塊根	kuàigēn
 塊莖	kuàijīng
@@ -33799,6 +34006,7 @@ while 病歷	bìnglì
 墳墩	féndūn
 墳墩頭	féndūntou
 墳頭	féntóu
+墾地	kěndì
 墾殖	kěnzhí
 墾荒	kěnhuāng
 壁	bì
@@ -33906,8 +34114,10 @@ while 病歷	bìnglì
 壙穴	kuàngxué
 壚坶	lúmǔ
 壞	huài
+壞了大事 / 坏了大事	huài le dàshì
 壞事	huàishì
 壞人	huàirén
+壞人 / 坏人	huàirén
 壞分子	huàifènzǐ
 壞包兒	huàibāor
 壞小子	huàixiǎozi
@@ -33915,6 +34125,7 @@ while 病歷	bìnglì
 壞死性筋膜炎	huàisǐxìng jīnmóyán
 壞水	huàishuǐ
 壞疽	huàijū
+壞習慣 / 坏习惯	huài xíguàn
 壞處	huàichù
 壞蛋	huàidàn
 壞血病	huàixuèbìng
@@ -33922,6 +34133,7 @@ while 病歷	bìnglì
 壞賬	huàizhàng
 壞運	huàiyùn
 壞運氣	huài yùnqì
+壞雞蛋 / 坏鸡蛋	huài jīdàn
 壟斷	lǒngduàn
 壟溝	lǒnggōu
 壤土	rǎngtǔ
@@ -33984,6 +34196,7 @@ while 病歷	bìnglì
 壮语	zhuàngyǔ
 壮阔	zhuàngkuò
 壮阳	zhuàngyáng
+壮阳药	zhuàngyángyào
 壯丁	zhuàngdīng
 壯丁 / 壮丁	zhuàngdīng
 壯侗語系	zhuàngdòngyǔxì
@@ -34010,6 +34223,7 @@ while 病歷	bìnglì
 壯語	zhuàngyǔ
 壯闊	zhuàngkuò
 壯陽	zhuàngyáng
+壯陽藥	zhuàngyángyào
 壯麗	zhuànglì
 声	shēng
 声	sing¹, seng¹
@@ -34230,6 +34444,7 @@ while 病歷	bìnglì
 复杂	fùzá
 复杂	ho̍k-cha̍p
 复杂化	fùzáhuà
+复杂度	fùzádù
 复杂性	fùzáxìng
 复查	fùchá
 复核	fùhé
@@ -34322,6 +34537,7 @@ while 病歷	bìnglì
 夕阳	xīyáng
 夕阳西下	xīyáng-xīxià
 夕陽	xīyáng
+夕陽 / 夕阳	xīyáng
 夕陽西下	xīyáng-xīxià
 外东北	Wài Dōngběi
 外乡	wàixiāng
@@ -34624,6 +34840,7 @@ while 病歷	bìnglì
 外阴	wàiyīn
 外阴前庭炎	wàiyīn qiántíngyán
 外陰	wàiyīn
+外陰 / 外阴	wàiyīn
 外陰前庭炎	wàiyīn qiántíngyán
 外雙	wàishuāng
 外雙眼皮	wàishuāngyǎnpí
@@ -34662,7 +34879,9 @@ while 病歷	bìnglì
 多余	duōyú
 多來特巴格	Duōláitè Bāgé
 多保他命	duōbǎotāmìng
+多俾亚	Duōbǐyà
 多俾亚传	Duōbǐyàzhuàn
+多俾亞	Duōbǐyà
 多俾亞傳	Duōbǐyàzhuàn
 多倫	Duōlún
 多倫多	Duōlúnduō
@@ -34909,6 +35128,7 @@ while 病歷	bìnglì
 夜婆仔	iā-pô-á
 夜学	yèxué
 夜學	yèxué
+夜宴	yèyàn
 夜尿症	yèniàozhèng
 夜工	yègōng
 夜市	yèshì
@@ -35062,6 +35282,7 @@ while 病歷	bìnglì
 大乘	Dàchéng
 大乘佛教	Dàchéng Fójiào
 大书	dàshū
+大书特书	dàshūtèshū
 大乱	dàluàn
 大亂	dàluàn
 大事	dàshì
@@ -35556,6 +35777,7 @@ while 病歷	bìnglì
 大把	dàbǎ
 大报	dàbào
 大抵	dàdǐ
+大担岛	Dàdāndǎo
 大拇哥	dàmǔgē
 大拇指	dàmǔzhǐ
 大拇指头	dàmǔzhǐtou
@@ -35576,6 +35798,7 @@ while 病歷	bìnglì
 大搖大擺	dàyáodàbǎi
 大摇大摆	dàyáodàbǎi
 大摩	Dàmó
+大擔島	Dàdāndǎo
 大支坪	Dàzhīpíng
 大放厥詞	dà fàng jué cí
 大放厥詞	dàfàngjuécí
@@ -35634,6 +35857,7 @@ while 病歷	bìnglì
 大曲	dàqǔ
 大書	dàshū
 大書法家 / 大书法家	dà shūfǎjiā
+大書特書	dàshūtèshū
 大會	dàhuì
 大會堂	dàhuìtáng
 大月	dàyuè
@@ -35785,8 +36009,10 @@ while 病歷	bìnglì
 大炮仙	dàpàoxiān
 大為不滿 / 大为不满	dàwéi bùmǎn
 大烟	dàyān
+大烟鬼	dàyānguǐ
 大無畏	dàwúwèi
 大煙	dàyān
+大煙鬼	dàyānguǐ
 大煞風景	dàshāfēngjǐng
 大煞风景	dàshāfēngjǐng
 大熊座	Dàxióngzuò
@@ -35939,6 +36165,7 @@ while 病歷	bìnglì
 大肠镜	dàchángjìng
 大肠镜检查	dàchángjìng jiǎnchá
 大胆	dàdǎn
+大胆岛	Dàdǎndǎo
 大背头	dàbēitóu
 大背頭	dàbēitóu
 大胜	dàshèng
@@ -35976,6 +36203,7 @@ while 病歷	bìnglì
 大腿襪	dàtuǐwà
 大膽	dàdǎn
 大膽 / 大胆	dàdǎn
+大膽島	Dàdǎndǎo
 大臣	dàchén
 大自流盆地	Dà Zìliú Péndì
 大自然	dàzìrán
@@ -36047,12 +36275,14 @@ while 病歷	bìnglì
 大計	dàjì
 大話	dàhuà
 大語	dàyǔ
+大課	dàkè
 大調	dàdiào
 大謬不然	dàmiùbùrán
 大變	dàbiàn
 大计	dàjì
 大话	dàhuà
 大语	dàyǔ
+大课	dàkè
 大调	dàdiào
 大谬不然	dàmiùbùrán
 大豆	dàdòu
@@ -36150,6 +36380,7 @@ while 病歷	bìnglì
 大错特错	dàcuòtècuò
 大键琴	dàjiànqín
 大門	dàmén
+大門向南 / 大门向南	dàmén xiàng nán
 大閆各莊	Dàyángèzhuāng
 大開殺戒	dàkāishājiè
 大開眼界	dàkāiyǎnjiè
@@ -36505,11 +36736,9 @@ while 病歷	bìnglì
 天機	tiānjī
 天機不可洩漏	tiānjī bùkě xièlòu
 天機不可洩漏。 / 天机不可泄漏。	Tiānjī bùkě xièlòu.
-天气	tiānqì
 天气图	tiānqìtú
 天气预告	tiānqì yùgào
 天气预报	tiānqì yùbào
-天氣	tiānqì
 天氣圖	tiānqìtú
 天氣怎麽樣？ / 天气怎么样？	Tiānqì zěnmeyàng?
 天氣是冷。 / 天气是冷。	Tiānqì shì lěng.
@@ -36620,6 +36849,7 @@ while 病歷	bìnglì
 天罡	tiāngāng
 天罰	tiānfá
 天羅地網	tiānluódìwǎng
+天羅地網 / 天罗地网	tiānluódìwǎng
 天老儿	tiānlǎor
 天老兒	tiānlǎor
 天职	tiānzhí
@@ -36675,6 +36905,7 @@ while 病歷	bìnglì
 天际	tiānjì
 天际线	tiānjìxiàn
 天险	tiānxiǎn
+天陰了。 / 天阴了。	Tiān yīn le.
 天際	tiānjì
 天際線	tiānjìxiàn
 天險	tiānxiǎn
@@ -36874,6 +37105,7 @@ while 病歷	bìnglì
 太阴	tàiyīn
 太阴月	tàiyīnyuè
 太陰	tàiyīn
+太陰 / 太阴	tàiyīn
 太陰月	tàiyīnyuè
 太陽	tàiyáng
 太陽 / 太阳	tàiyáng
@@ -36932,6 +37164,8 @@ while 病歷	bìnglì
 夫妻肺片	fūqīfèipiàn
 夫妻間的情趣 / 夫妻间的情趣	fūqī jiān de qíngqù
 夫妻關係 / 夫妻关系	fūqī guānxì
+夫妻魚	fūqīyú
+夫妻鱼	fūqīyú
 夫娘	fūniáng
 夫婦	fūfù
 夫婦 / 夫妇	fūfù
@@ -37343,6 +37577,7 @@ while 病歷	bìnglì
 奇缘	qíyuán
 奇耻大辱	qíchǐdàrǔ
 奇聞	qíwén
+奇聞 / 奇闻	qíwén
 奇花异草	qíhuāyìcǎo
 奇花異卉 / 奇花异卉	qíhuāyìhuì
 奇花異草	qíhuāyìcǎo
@@ -37363,6 +37598,7 @@ while 病歷	bìnglì
 奇貨可居	qíhuòkějū
 奇货可居	qíhuòkějū
 奇跡	qíjì
+奇跡 / 奇迹	qíjì
 奇迹	qíjì
 奇遇	qíyù
 奇闻	qíwén
@@ -37938,6 +38174,8 @@ while 病歷	bìnglì
 奶罩	nǎizhào
 奶膀子	nǎipāngzi
 奶茶	nǎichá
+奶茶联盟	Nǎichá Liánméng
+奶茶聯盟	Nǎichá Liánméng
 奶製品	nǎizhìpǐn
 奶酪	nǎilào
 奶酪蛋糕	nǎilào dàngāo
@@ -38229,6 +38467,7 @@ while 病歷	bìnglì
 如坐針氈	rúzuòzhēnzhān
 如坐针毡	rúzuòzhēnzhān
 如夢初醒	rúmèngchūxǐng
+如夢初醒 / 如梦初醒	rúmèngchūxǐng
 如夢方醒	rúmèngfāngxǐng
 如字	rúzì
 如实	rúshí
@@ -38372,6 +38611,8 @@ while 病歷	bìnglì
 妒忌	dùjì
 妒忌心	dùjìxīn
 妓女	jìnǚ
+妓楼	jìlóu
+妓樓	jìlóu
 妓男	jìnán
 妓院	jìyuàn
 妓館	jìguǎn
@@ -38878,6 +39119,8 @@ while 病歷	bìnglì
 娼妓	chāngjì
 娼婦	chāngfù
 娼寮	chāngliáo
+娼楼	chānglóu
+娼樓	chānglóu
 婀娜	ēnuó
 婀娜多姿	ēnuóduōzī
 婁子	lóuzi
@@ -38921,6 +39164,7 @@ while 病歷	bìnglì
 婊生仔	piáu-siⁿ-á
 婊砸	biǎoza
 婚丧	hūnsāng
+婚丧喜庆	hūnsāngxǐqìng
 婚事	hūnshì
 婚介所	hūnjièsuǒ
 婚前	hūnqián
@@ -38931,6 +39175,7 @@ while 病歷	bìnglì
 婚变	hūnbiàn
 婚后	hūnhòu
 婚喪	hūnsāng
+婚喪喜慶	hūnsāngxǐqìng
 婚外	hūnwài
 婚外恋	hūnwàiliàn
 婚外戀	hūnwàiliàn
@@ -39072,6 +39317,7 @@ while 病歷	bìnglì
 嫁禍於人 / 嫁祸于人	jiàhuòyúrén
 嫂嫂	sǎosao
 嫂子	sǎozi
+嫉	jí
 嫉妒	jídù
 嫉恨	jíhèn
 嫉賢	jíxián
@@ -39502,6 +39748,7 @@ while 病歷	bìnglì
 孜然	zīrán
 孝	xiào
 孝义	xiàoyì
+孝养	xiàoyàng
 孝南	Xiàonán
 孝呆	hàu-tai
 孝女	xiàonǚ
@@ -39524,6 +39771,7 @@ while 病歷	bìnglì
 孝道	xiàodào
 孝順	xiàoshùn
 孝顺	xiàoshùn
+孝養	xiàoyàng
 孟买	Mèngmǎi
 孟什維克	mèngshíwéikè
 孟什维克	mèngshíwéikè
@@ -39725,7 +39973,6 @@ while 病歷	bìnglì
 学潮	xuécháo
 学理	xuélǐ
 学生	xuéshēng
-学生们	xuéshēngmen
 学生会	xuéshenghuì
 学生腔	xuéshēngqiāng
 学生装	xuéshēngzhuāng
@@ -39869,7 +40116,6 @@ while 病歷	bìnglì
 學無止境	xuéwúzhǐjìng
 學理	xuélǐ
 學生	xuéshēng
-學生們	xuéshēngmen
 學生手冊 / 学生手册	xuéshēng shǒucè
 學生時代 / 学生时代	xuéshēng shídài
 學生會	xuéshenghuì
@@ -39887,7 +40133,6 @@ while 病歷	bìnglì
 學系	xuéxì
 學級	xuéjí
 學習	xuéxí
-學習 / 学习	xuéxí
 學習小組	xuéxí xiǎozǔ
 學習環境 / 学习环境	xuéxí huánjìng
 學習知識 / 学习知识	xuéxí zhīshí
@@ -40192,10 +40437,12 @@ while 病歷	bìnglì
 安家立业	ānjiālìyè
 安家立業	ānjiālìyè
 安家落戶	ānjiāluòhù
+安家落戶 / 安家落户	ānjiāluòhù
 安家落户	ānjiāluòhù
 安寝	ānqǐn
 安寢	ānqǐn
 安寧	ānníng
+安寧 / 安宁	ānníng
 安居	ānjū
 安居乐业	ānjūlèyè
 安居樂業	ānjūlèyè
@@ -40203,8 +40450,11 @@ while 病歷	bìnglì
 安帖	āntiē
 安平	ānpíng
 安广	ānguǎng
+安庆	Ānqìng
 安度	āndù
 安康	ānkāng
+安康医院	ānkāng yīyuàn
+安康醫院	ānkāng yīyuàn
 安廣	ānguǎng
 安得	āndé
 安德烈	Āndéliè
@@ -40227,6 +40477,7 @@ while 病歷	bìnglì
 安慰劑	ānwèijì
 安慰賽	ānwèisài
 安慰赛	ānwèisài
+安慶	Ānqìng
 安打	āndǎ
 安抚	ānfǔ
 安抚奶嘴	ānfǔ nǎizuǐ
@@ -40244,6 +40495,7 @@ while 病歷	bìnglì
 安於	ānyú
 安於現狀	ānyúxiànzhuàng
 安於現狀 / 安于现状	ānyú xiànzhuàng
+安於現狀 / 安于现状	ānyúxiànzhuàng
 安曼	Ānmàn
 安村	Āncūn
 安東	Āndōng
@@ -40271,6 +40523,7 @@ while 病歷	bìnglì
 安然	ānrán
 安然无恙	ānránwúyàng
 安然無恙	ānránwúyàng
+安然無恙 / 安然无恙	ānránwúyàng
 安營	ānyíng
 安營下寨	ānyíngxiàzhài
 安營紮寨	ānyíngzhāzhài
@@ -40314,6 +40567,7 @@ while 病歷	bìnglì
 安详	ānxiáng
 安谧	ānmì
 安貧樂道	ānpínlèdào
+安貧樂道 / 安贫乐道	ānpínyuèdào
 安贫乐道	ānpínlèdào
 安身	ānshēn
 安身立命	ānshēnlìmìng
@@ -40342,6 +40596,7 @@ while 病歷	bìnglì
 安陵	Ānlíng
 安陸	Ānlù
 安陽	Ānyáng
+安電燈 / 安电灯	ān diàndēng
 安靖	ānjìng
 安静	ānjìng
 安靜	ānjìng
@@ -40407,6 +40662,8 @@ while 病歷	bìnglì
 完形填空	wánxíng tiánkòng
 完成	wánchéng
 完成任務 / 完成任务	wánchéng rènwù
+完成学业	wánchéng xuéyè
+完成學業	wánchéng xuéyè
 完敗	wánbài
 完整	wánzhěng
 完整性	wánzhěngxìng
@@ -40639,6 +40896,7 @@ while 病歷	bìnglì
 定义	dìngyì
 定乡	Dìngxiāng
 定乾坤	dìng qiánkūn
+定于一尊	dìngyúyīzūn
 定产	dìngchǎn
 定亲	dìngqīn
 定价	dìngjià
@@ -40686,6 +40944,7 @@ while 病歷	bìnglì
 定情	dìngqíng
 定数	dìngshù
 定數	dìngshù
+定於一尊	dìngyúyīzūn
 定旋律	dìngxuánlǜ
 定日	Dìngrì
 定时	dìngshí
@@ -41053,6 +41312,7 @@ while 病歷	bìnglì
 宣戰	xuānzhàn
 宣扬	xuānyáng
 宣揚	xuānyáng
+宣揚 / 宣扬	xuānyáng
 宣教	xuānjiào
 宣教士	xuānjiàoshì
 宣教师	xuānjiàoshī
@@ -41066,6 +41326,7 @@ while 病歷	bìnglì
 宣禮塔	xuānlǐtǎ
 宣称	xuānchēng
 宣稱	xuānchēng
+宣稱 / 宣称	xuānchēng
 宣紙	xuānzhǐ
 宣統	Xuāntǒng
 宣纸	xuānzhǐ
@@ -41157,6 +41418,7 @@ while 病歷	bìnglì
 宫禁	gōngjìn
 宫腔镜	gōngqiāngjìng
 宫西	Gōngxī
+宫词	gōngcí
 宫闱	gōngwéi
 宫阙	gōngquè
 宫院	gōngyuàn
@@ -41187,6 +41449,7 @@ while 病歷	bìnglì
 宮禁	gōngjìn
 宮腔鏡	gōngqiāngjìng
 宮西	Gōngxī
+宮詞	gōngcí
 宮闈	gōngwéi
 宮闕	gōngquè
 宮院	gōngyuàn
@@ -41194,10 +41457,13 @@ while 病歷	bìnglì
 宮頸塗片	gōngjǐng túpiàn
 宮頸糜爛	gōngjǐng mílàn
 宮鬥劇	gōngdòujù
+宰了一頭豬 / 宰了一头猪	zǎi le yī tóu zhū
 宰制	zǎizhì
 宰割	zǎigē
+宰客	zǎikè
 宰杀	zǎishā
 宰殺	zǎishā
+宰殺 / 宰杀	zǎishā
 宰相	zǎixiàng
 宰衡	zǎihéng
 害人	hàirén
@@ -41321,7 +41587,9 @@ while 病歷	bìnglì
 家幽靈蛛	jiāyōulíngzhū
 家底	jiādǐ
 家庙	jiāmiào
+家庭	gaa¹ ting⁴
 家庭	jiātíng
+家庭	ka-têng
 家庭主义	jiātíngzhǔyì
 家庭主妇	jiātíng zhǔfù
 家庭主婦	jiātíng zhǔfù
@@ -41373,6 +41641,7 @@ while 病歷	bìnglì
 家政	jiāzhèng
 家教	jiājiào
 家族	jiāzú
+家族	ka-cho̍k
 家族世襲 / 家族世袭	jiāzú shìxí
 家无担石	jiāwúdànshí
 家暴	jiābào
@@ -41414,6 +41683,7 @@ while 病歷	bìnglì
 家蝇	jiāyíng
 家蠅	jiāyíng
 家蠶	jiācán
+家裝設計 / 家装设计	jiāzhuāng shèjì
 家裡	jiālǐ
 家裡人	jiālǐrén
 家裡有礦	jiālǐ yǒu kuàng
@@ -41476,6 +41746,7 @@ while 病歷	bìnglì
 容光	róngguāng
 容光焕发	róngguānghuànfā
 容光煥發	róngguānghuànfā
+容光煥發 / 容光焕发	róngguānghuànfā
 容县	Róngxiàn
 容受	róngshòu
 容器	róngqì
@@ -41573,6 +41844,7 @@ while 病歷	bìnglì
 宿營地	sùyíngdì
 宿生	sùshēng
 宿疾	sùjí
+宿管阿姨	sùguǎn āyí
 宿緣	sùyuán
 宿缘	sùyuán
 宿舍	sùshè
@@ -41771,6 +42043,7 @@ while 病歷	bìnglì
 富戶	fùhù
 富户	fùhù
 富拉	Fùlā
+富文本	fùwénběn
 富於	fùyú
 富昌	fùchāng
 富有	fùyǒu
@@ -41796,8 +42069,10 @@ while 病歷	bìnglì
 富豪	fùháo
 富貴	fùguì
 富貴病	fùguìbìng
+富貴險中求	fùguì xiǎn zhōng qiú
 富贵	fùguì
 富贵病	fùguìbìng
+富贵险中求	fùguì xiǎn zhōng qiú
 富足	fùzú
 富農	fùnóng
 富里	Fùlǐ
@@ -41870,6 +42145,7 @@ while 病歷	bìnglì
 寒鴉	hányā
 寒鸦	hányā
 寓	yù
+寓居	yùjū
 寓意	yùyì
 寓所	yùsuǒ
 寓言	yùyán
@@ -42121,6 +42397,7 @@ while 病歷	bìnglì
 寬宏大度	kuānhóng dàdù
 寬宏大量	kuānhóng dàliàng
 寬容	kuānróng
+寬容 / 宽容	kuānróng
 寬寬仔	khoaⁿ-khoaⁿ-á
 寬帶	kuāndài
 寬度	kuāndù
@@ -42165,6 +42442,7 @@ while 病歷	bìnglì
 寵信	chǒngxìn
 寵幸	chǒngxìng
 寵物	chǒngwù
+寵物 / 宠物	chǒngwù
 寶兮兮	Sichuan
 寶典	bǎodiǎn
 寶刀	bǎodāo
@@ -42474,6 +42752,7 @@ while 病歷	bìnglì
 封条	fēngtiáo
 封條	fēngtiáo
 封殺	fēngshā
+封爵	fēngjué
 封牛	fēngniú
 封疆	fēngjiāng
 封皮	fēngpí
@@ -42771,6 +43050,7 @@ while 病歷	bìnglì
 對不起，打錯了。 / 对不起，打错了。	Duìbuqǐ, dǎ cuò le.
 對了	duìle
 對了，就這樣。 / 对了，就这样。	Duìle, jiù zhèyàng.
+對事不對人 / 对事不对人	duì shì bù duì rén
 對他開刀 / 对他开刀	duì tā kāidāo
 對仗	duìzhàng
 對付	duìfu
@@ -42781,25 +43061,28 @@ while 病歷	bìnglì
 對口型	duìkǒuxíng
 對合	duìhé
 對唱	duìchàng
+對啊！ / 对啊！	Duì a!
 對嘴	duìzuǐ
 對圓	duìyuán
 對壘	duìlěi
 對外債務 / 对外债务	duìwài zhàiwù
 對外漢語	duìwài hànyǔ
 對外貿易	duìwài màoyì
-對她來說 / 对她来说	duì tā láishuō
 對子	duìzi
 對對和	duìduìhú
+對對子 / 对对子	duì duìzǐ
 對峙	duìzhì
 對帳單	duìzhàngdān
 對弈	duìyì
 對待	duìdài
 對得住	duìdezhù
 對得起	duìdeqǐ
+對心思 / 对心思	duì xīnsī
 對應	duìyìng
 對應陰性 / 对应阴性	duìyìng yīnxìng
 對我來說	duì wǒ lái shuō
 對手	duìshǒu
+對手 / 对手	duìshǒu
 對打	duìdǎ
 對抗	duìkàng
 對抗性	duìkàngxìng
@@ -42812,6 +43095,7 @@ while 病歷	bìnglì
 對數函數	duìshùhánshù
 對數螺線	duìshù luóxiàn
 對方	duìfāng
+對方 / 对方	duìfāng
 對於	duìyú
 對易算符 / 对易算符	duìyì suànfú
 對映異構	duìyìngyìgòu
@@ -42833,6 +43117,7 @@ while 病歷	bìnglì
 對牛彈琴	duìniútánqín
 對症	duìzhèng
 對症下藥	duìzhèngxiàyào
+對症下藥 / 对症下药	duìzhèngxiàyào
 對白 / 对白	duìbái
 對眼	duìyǎn
 對稱	duìchèn
@@ -42840,8 +43125,10 @@ while 病歷	bìnglì
 對稱性	duìchènxìng
 對稱軸	duìchènzhóu
 對立	duìlì
+對立 / 对立	duìlì
 對立統一法則	duìlì tǒngyī fǎzé
 對立統一規律	duìlì tǒngyī guīlǜ
+對筆跡 / 对笔迹	duì bǐjì
 對等	duìděng
 對答	duìdá
 對答如流	duìdárúliú
@@ -42863,6 +43150,7 @@ while 病歷	bìnglì
 對話框	duìhuàkuàng
 對話者	duìhuàzhě
 對調	duìdiào
+對調 / 对调	duìdiào
 對談	duìtán
 對談者	duìtánzhě
 對講機	duìjiǎngjī
@@ -42873,7 +43161,6 @@ while 病歷	bìnglì
 對質	duìzhì
 對賬 / 对账	duìzhàng
 對路	duìlù
-對身體好 / 对身体好	duì shēntǐ hǎo
 對身體的危害 / 对身体的危害	duì shēntǐ de wēihài
 對轉	duìzhuǎn
 對過	duìguò
@@ -43099,6 +43386,7 @@ while 病歷	bìnglì
 小孩子	xiǎoháizi
 小孩子家	xiǎoháizijiā
 小學	xiǎoxué
+小學 / 小学	xiǎoxué
 小學校	xiǎoxuéxiào
 小學生	xiǎoxuéshēng
 小學雞	xiǎoxuéjī
@@ -43746,6 +44034,7 @@ while 病歷	bìnglì
 就業	jiùyè
 就業 / 就业	jiùyè
 就業合同	jiùyè hétóng
+就業困難 / 就业困难	jiùyè kùnnan
 就業困難 / 就业困难	jiùyè kùnnán
 就業培訓 / 就业培训	jiùyè péixùn
 就業市場 / 就业市场	jiùyè shìchǎng
@@ -43803,6 +44092,7 @@ while 病歷	bìnglì
 尸骨未寒	shīgǔwèihán
 尸骸	shīhái
 尹吉甫	Yǐn Jífǔ
+尹志平	Yǐn Zhìpíng
 尹集	Yǐnjí
 尺	chǐ
 尺八	chǐbā
@@ -44044,6 +44334,7 @@ while 病歷	bìnglì
 居喪	jūsāng
 居士	jūshì
 居多	jūduō
+居奇	jūqí
 居委会	jūwěihuì
 居委會	jūwěihuì
 居官	jūguān
@@ -44329,6 +44620,7 @@ while 病歷	bìnglì
 屬意	zhǔyì
 屬文	zhǔwén
 屬於	shǔyú
+屬於 / 属于	shǔyú
 屬於微胖界 / 属于微胖界	shǔyú wēipàngjiè
 屬格	shǔgé
 屬相	shǔxiang
@@ -44538,6 +44830,7 @@ while 病歷	bìnglì
 山重水複	shān chóng shuǐ fù
 山野	shānyě
 山险	shānxiǎn
+山陰 / 山阴	shānyīn
 山陵	shānlíng
 山險	shānxiǎn
 山难	shānnàn
@@ -44551,6 +44844,7 @@ while 病歷	bìnglì
 山頂	shāndǐng
 山頂 / 山顶	shāndǐng
 山頭	shāntóu
+山頭 / 山头	shāntóu
 山顶	shāndǐng
 山體滑坡	shāntǐhuápō
 山鶉	shānchún
@@ -44578,6 +44872,7 @@ while 病歷	bìnglì
 岁月	suìyuè
 岁月不饶人	suìyuè bù ráorén
 岁月如梭	suìyuèrúsuō
+岁朝	suìzhāo
 岁物	suìwù
 岁荒	suìhuāng
 岂	qǐ
@@ -44770,6 +45065,7 @@ while 病歷	bìnglì
 崑崙奴	kūnlúnnú
 崑崙山	Kūnlún Shān
 崑曲	kūnqǔ
+崑玉	kūnyù
 崑笛	kūndí
 崑腔	kūnqiāng
 崒	zú
@@ -44814,6 +45110,7 @@ while 病歷	bìnglì
 崭然	zhǎnrán
 崭露	zhǎnlù
 崭露头角	zhǎnlùtóujiǎo
+崴子	wǎizi
 崽子	zǎizi
 嵌入	qiànrù
 嵌造	qiànzào
@@ -45125,12 +45422,15 @@ while 病歷	bìnglì
 工藝流程	gōngyì liúchéng
 工藝美術	gōngyì měishù
 工蜂	gōngfēng
+工装	gōngzhuāng
+工裝	gōngzhuāng
 工讀	gōngdú
 工讀生	gōngdúshēng
 工读	gōngdú
 工读生	gōngdúshēng
 工資	gōngzī
 工资	gōngzī
+工農 / 工农	gōngnóng
 工農兵	gōngnóngbīng
 工農聯盟	gōng-nóng liánméng
 工農路	Gōngnónglù
@@ -45140,6 +45440,7 @@ while 病歷	bìnglì
 工錢	gōngqián
 工钱	gōngqián
 工頭	gōngtóu
+工頭 / 工头	gōngtóu
 工餘	gōngyú
 工齡	gōnglíng
 工龄	gōnglíng
@@ -45186,6 +45487,7 @@ while 病歷	bìnglì
 左撇子	zuǒpiězi
 左擁右抱	zuǒyōngyòubào
 左旋	zuǒxuán
+左氧氟沙星	zuǒyǎngfúshāxīng
 左江	Zuǒjiāng
 左派	zuǒpài
 左海	zuǒhǎi
@@ -45432,6 +45734,7 @@ while 病歷	bìnglì
 已經沒了 / 已经没了	yǐjīng méi le
 已经	yǐjīng
 已脫稿付印 / 已脱稿付印	yǐ tuōgǎo fùyìn
+已讀不回 / 已读不回	yǐdúbùhuí
 巳 蛇 四月	sìyuè
 巳时	sìshí
 巳時	sìshí
@@ -45992,6 +46295,8 @@ while 病歷	bìnglì
 帕金森氏症	Pàjīnsēnshì zhèng
 帕金森病	Pàjīnsēn bìng
 帖子	tiězi
+帖学	Tièxué
+帖學	Tièxué
 帖撒罗尼迦	Tiěsāluóníjiā
 帖撒罗尼迦后书	Tiěsāluóníjiā Hòushū
 帖撒羅尼迦	Tiěsāluóníjiā
@@ -46101,6 +46406,7 @@ while 病歷	bìnglì
 師爺	shīye
 師生	shīshēng
 師生戀	shīshēngliàn
+師生比 / 师生比	shīshēng bǐ
 師範	shīfàn
 師範大學	shīfàn dàxué
 師範學校	shīfàn xuéxiào
@@ -46340,6 +46646,7 @@ while 病歷	bìnglì
 幣帛	bìbó
 幫	bāng
 幫一把手 / 帮一把手	bāng yī bǎ shǒur
+幫你一把 / 帮你一把	bāng nǐ yī bǎ
 幫倒忙	bāng dào máng
 幫傭	bāngyōng
 幫兇	bāngxiōng
@@ -46490,6 +46797,7 @@ while 病歷	bìnglì
 平乐	Pínglè
 平乱	píngluàn
 平亂	píngluàn
+平了世界紀錄 / 平了世界纪录	píng le shìjiè jìlù
 平人	píngrén
 平仄	píngzè
 平仓	píngcāng
@@ -46568,6 +46876,7 @@ while 病歷	bìnglì
 平手	píngshǒu
 平抚	píngfǔ
 平撫	píngfǔ
+平放	píng fàng
 平政院	píngzhèngyuàn
 平整	píngzhěng
 平文	píngwén
@@ -46609,6 +46918,7 @@ while 病歷	bìnglì
 平民主义	píngmínzhǔyì
 平民主義	píngmínzhǔyì
 平民出身	píngmín chūshēn
+平民憤 / 平民愤	píng mínfèn
 平民教育	píngmín jiàoyù
 平民英雄	píngmín yīngxióng
 平水韵	Píngshuǐyùn
@@ -46616,6 +46926,7 @@ while 病歷	bìnglì
 平河	Pínghé
 平治	ping4 zi6
 平治	píngzhì
+平津戰役 / 平津战役	Píng Jīn zhànyì
 平流层	píngliúcéng
 平流層	píngliúcéng
 平淡	píngdàn
@@ -46687,6 +46998,7 @@ while 病歷	bìnglì
 平躺	píngtǎng
 平車	píngchē
 平輩	píngbèi
+平輩 / 平辈	píngbèi
 平车	píngchē
 平辈	píngbèi
 平遙	Píngyáo
@@ -47002,6 +47314,7 @@ while 病歷	bìnglì
 幼苗	yòumiáo
 幼虫	yòuchóng
 幼蟲	yòuchóng
+幼象	yòu xiàng
 幼面	yòumiàn
 幼體	yòutǐ
 幼麵	yòumiàn
@@ -47158,11 +47471,14 @@ while 病歷	bìnglì
 庆典	qìngdiǎn
 庆功	qìnggōng
 庆功宴	qìnggōngyàn
+庆寿	qìngshòu
 庆幸	qìngxìng
 庆生	qìngshēng
+庆生会	qìngshēnghuì
 庆祝	qìngzhù
 庆贺	qìnghè
 庆赏	qìngshǎng
+庆辉	qìnghuī
 庇佑	bìyòu
 庇护	bìhù
 庇护所	bìhùsuǒ
@@ -47209,6 +47525,7 @@ while 病歷	bìnglì
 床虱	chuángshī
 床蝨	chuángshī
 床褥	chuángrù
+床邊 / 床边	chuáng biān
 床鋪	chuángpù
 床铺	chhn̂g-pho͘
 床铺	chuángpù
@@ -47344,6 +47661,7 @@ while 病歷	bìnglì
 底数	dǐshù
 底數	dǐshù
 底本	dǐběn
+底板	dǐbǎn
 底比斯	Dǐbǐsī
 底气	dǐqì
 底氣	dǐqì
@@ -47585,6 +47903,7 @@ while 病歷	bìnglì
 康樂球	kānglèqiú
 康樂設施 / 康乐设施	kānglè shèshī
 康橋	Kāngqiáo
+康泰	kāngtài
 康涅狄格	Kāngnièdígé
 康熙	Kāngxī
 康熙字典	Kāngxī Zìdiǎn
@@ -47665,6 +47984,7 @@ while 病歷	bìnglì
 廟宇	miàoyǔ
 廟島	Miàodǎo
 廟會	miàohuì
+廟會 / 庙会	miàohuì
 廟河	Miàohé
 廟灘	Miàotān
 廟祝	miàozhù
@@ -47680,6 +48000,7 @@ while 病歷	bìnglì
 廠房	chǎngfáng
 廠牌	chǎngpái
 廠礦	chǎngkuàng
+廠禮拜	chǎnglǐbài
 廠長	chǎngzhǎng
 廢主	fèizhǔ
 廢人	fèirén
@@ -47698,7 +48019,6 @@ while 病歷	bìnglì
 廢止	fèizhǐ
 廢死	fèisǐ
 廢氣	fèiqì
-廢氣處理設備 / 废气处理设备	fèichǔ chùlǐ shèbèi
 廢氣處理設備 / 废气处理设备	fèiqì chǔlǐ shèbèi
 廢水	fèishuǐ
 廢物	fèiwù
@@ -47799,8 +48119,10 @@ while 病歷	bìnglì
 延年	yánnián
 延年益壽	yánniányìshòu
 延年益寿	yánniányìshòu
+延庆	Yánqìng
 延後	yánhòu
 延性	yánxìng
+延慶	Yánqìng
 延揽	yánlǎn
 延搁	yángē
 延擱	yángē
@@ -47818,6 +48140,8 @@ while 病歷	bìnglì
 延缓	yánhuǎn
 延聘	yánpìn
 延胡索酸	yánhúsuǒsuān
+延脑	yánnǎo
+延腦	yánnǎo
 延誤	yánwù
 延請	yánqǐng
 延误	yánwù
@@ -47882,6 +48206,7 @@ while 病歷	bìnglì
 建筑	jiànzhù
 建筑业	jiànzhùyè
 建筑学	jiànzhùxué
+建筑工	jiànzhùgōng
 建筑工地	jiànzhù gōngdì
 建筑师	jiànzhùshī
 建筑材料	jiànzhù cáiliào
@@ -47890,6 +48215,7 @@ while 病歷	bìnglì
 建筑面积	jiànzhù miànjī
 建築	jiànzhù
 建築學	jiànzhùxué
+建築工	jiànzhùgōng
 建築工人 / 建筑工人	jiànzhù gōngrén
 建築工地	jiànzhù gōngdì
 建築師	jiànzhùshī
@@ -47938,7 +48264,7 @@ while 病歷	bìnglì
 开价	kāijià
 开会	kāihuì
 开倒车	kāidàochē
-开元	Kāiyuán
+开元	kāiyuán
 开光	kāiguāng
 开关	kāiguān
 开具	kāijù
@@ -48073,6 +48399,7 @@ while 病歷	bìnglì
 开示	kāishì
 开票	kāipiào
 开禁	kāijìn
+开科取士	kāikēqǔshì
 开窍	kāiqiào
 开窍药	kāiqiàoyào
 开端	kāiduān
@@ -49476,7 +49803,6 @@ while 病歷	bìnglì
 很多	hěnduō
 很好很強大	hěn hǎo hěn qiángdà
 很好很强大	hěn hǎo hěn qiángdà
-很容易壞 / 很容易坏	hěn róngyì huài
 很少	hěn shǎo
 很少	hěnshǎo
 很快地	hěn kuài de
@@ -49519,6 +49845,7 @@ while 病歷	bìnglì
 律诗	lǜshī
 後世	hòushì
 後事	hòushì
+後五名 / 后五名	hòu wǔ míng
 後人	hòurén
 後代	hòudài
 後任	hòurèn
@@ -49583,6 +49910,7 @@ while 病歷	bìnglì
 後晉	Hòujìn
 後晌	hòushǎng
 後晌飯	hòushangfàn
+後景	hòujǐng
 後會有期	hòuhuìyǒuqī
 後期	hòuqī
 後果	hòuguǒ
@@ -49656,6 +49984,7 @@ while 病歷	bìnglì
 後門	hòumén
 後閘	hòuzhá
 後院	hòuyuàn
+後院 / 后院	hòuyuàn
 後面	hòumiàn
 後頭	hòutou
 後頭灣	Hòutouwān
@@ -49823,6 +50152,7 @@ while 病歷	bìnglì
 得陇望蜀	délǒngwàngshǔ
 得隴望蜀	délǒngwàngshǔ
 得體	détǐ
+得體 / 得体	détǐ
 得！	dé
 徘徊	páihuái
 徙动	xǐdòng
@@ -49853,16 +50183,20 @@ while 病歷	bìnglì
 從善如流	cóngshànrúliú
 從嚴	cóngyán
 從嚴治黨 / 从严治党	cóngyán zhìdǎng
+從坐	cóngzuò
 從字面上看 / 从字面上看	cóng zìmiànshàng kàn
 從容	cóngróng
 從容不迫	cóngróngbùpò
 從容就義	cóngróngjiùyì
 從實際出發 / 从实际出发	cóng shíjì chūfā
 從寬	cóngkuān
+從寬處理 / 从宽处理	cóngkuān chùlǐ
 從小	cóngxiǎo
 從屬	cóngshǔ
+從屬 / 从属	cóngshǔ
 從屬國	cóngshǔguó
 從師	cóngshī
+從師 / 从师	cóngshī
 從弟	cóngdì
 從影	cóngyǐng
 從心所欲	cóngxīnsuǒyù
@@ -49886,6 +50220,7 @@ while 病歷	bìnglì
 從者	cóngzhě
 從良	cóngliáng
 從軍	cóngjūn
+從軍 / 从军	cóngjūn
 從輕發落	cóngqīngfāluò
 從輕發落 / 从轻发落	cóngqīng fāluò
 從速	cóngsù
@@ -49893,6 +50228,7 @@ while 病歷	bìnglì
 從零開始 / 从零开始	cóng líng kāishǐ
 從頭	cóngtóu
 從頭到尾	cóngtóudàowěi
+從頭開始 / 从头开始	cóng tóu kāishǐ
 御世	yùshì
 御仗	yùzhàng
 御侮	yùwǔ
@@ -50021,6 +50357,7 @@ while 病歷	bìnglì
 循環線	xúnhuánxiàn
 循環論證	xúnhuán lùnzhèng
 循規蹈矩	xúnguīdǎojǔ
+循規蹈矩 / 循规蹈矩	xúnguīdǎojǔ
 循规蹈矩	xúnguīdǎojǔ
 循證醫學	xúnzhèng yīxué
 循证医学	xúnzhèng yīxué
@@ -50322,6 +50659,7 @@ while 病歷	bìnglì
 心寬體胖	xīn kuān tǐ pán
 心平气和	xīnpíngqìhé
 心平氣和	xīnpíngqìhé
+心平氣和 / 心平气和	xīnpíngqìhé
 心广体胖	xīnguǎngtǐpán
 心底	xīndǐ
 心廣體胖	xīnguǎngtǐpán
@@ -50675,6 +51013,7 @@ while 病歷	bìnglì
 忆昔抚今	yìxīfǔjīn
 忉忉	dāodāo
 忉怛	dāodá
+忌	jì
 忌刻	jìkè
 忌口	jìkǒu
 忌嘴	jìzuǐ
@@ -50762,6 +51101,7 @@ while 病歷	bìnglì
 忘乎所以	wànghūsuǒyǐ
 忘却	wàngquè
 忘卻	wàngquè
+忘卻 / 忘却	wàngquè
 忘年	wàngnián
 忘年之交	wàngniánzhījiāo
 忘年交	wàngniánjiāo
@@ -51148,6 +51488,7 @@ while 病歷	bìnglì
 思華力腸	sīhuálìcháng
 思虑	sīlǜ
 思裁	Sichuan
+思裁	sīcái
 思覺失調	sījuéshītiáo
 思覺失調症	sījuéshītiáozhèng
 思觉失调	sījuéshītiáo
@@ -51493,6 +51834,7 @@ while 病歷	bìnglì
 怵場	chùchǎng
 怵惕	chùtì
 总之	zǒngzhī
+总书记	zǒngshūjì
 总人口	zǒngrénkǒu
 总会	zǒnghuì
 总体	zǒngtǐ
@@ -51584,6 +51926,7 @@ while 病歷	bìnglì
 恆河猴	hénghéhóu
 恆河鱷	hénghé'è
 恆溫	héngwēn
+恆溫動物	héngwēn dòngwù
 恆溫器	héngwēnqì
 恆牙	héngyá
 恆生指數 / 恒生指数	Héng Shēng zhǐshù
@@ -51684,6 +52027,7 @@ while 病歷	bìnglì
 恒河猴	hénghéhóu
 恒河鳄	hénghé'è
 恒温	héngwēn
+恒温动物	héngwēn dòngwù
 恒温器	héngwēnqì
 恒牙	héngyá
 恒等式	héngděngshì
@@ -51995,9 +52339,11 @@ while 病歷	bìnglì
 患處	huànchù
 患部	huànbù
 患难	huànnàn
+患难与共	huànnànyǔgòng
 患难之交	huànnànzhījiāo
 患難	huànnàn
 患難之交	huànnànzhījiāo
+患難與共	huànnànyǔgòng
 悦服	yuèfú
 悦目	yuèmù
 您	nín
@@ -52328,6 +52674,8 @@ while 病歷	bìnglì
 惠泽	huìzé
 惠澤	huìzé
 惠灵顿	Huìlíngdùn
+惠阳	Huìyáng
+惠陽	Huìyáng
 惠靈頓	Huìlíngdùn
 惠顧	huìgù
 惠顧 / 惠顾	huìgù
@@ -52811,6 +53159,7 @@ while 病歷	bìnglì
 愛輝	Àihuī
 愛達荷	Àidáhé
 愛面子	ài miànzi
+愛面子 / 爱面子	ài miànzǐ
 愛顧	àigù
 愛麗斯	Àilìsī
 愛麗絲	Àilìsī
@@ -52884,6 +53233,7 @@ while 病歷	bìnglì
 感觸	gǎnchù
 感觸頗深 / 感触颇深	gǎnchù pō shēn
 感謝	gǎnxiè
+感謝 / 感谢	gǎnxiè
 感謝信	gǎnxièxìn
 感謝得很！ / 感谢得很！	Gǎnxiè de hěn!
 感讚安拉 / 感赞安拉	gǎnzàn Ānlā
@@ -53074,12 +53424,16 @@ while 病歷	bìnglì
 慶典	qìngdiǎn
 慶功	qìnggōng
 慶功宴	qìnggōngyàn
+慶壽	qìngshòu
 慶幸	qìngxìng
 慶生	qìngshēng
 慶生 / 庆生	qìngshēng
+慶生會	qìngshēnghuì
 慶祝	qìngzhù
+慶祝 / 庆祝	qìngzhù
 慶賀	qìnghè
 慶賞	qìngshǎng
+慶輝	qìnghuī
 慶雲	qìngyún
 慷他人之慨	kāng tārén zhī kǎi
 慷慨	kāngkǎi
@@ -53140,6 +53494,7 @@ while 病歷	bìnglì
 憑憑	Sichuan
 憑憑椅	Sichuan
 憑據	píngjù
+憑條	píngtiáo
 憑欄	pínglán
 憑準	píngzhǔn
 憑票入場。 / 凭票入场。	Píng piào rùchǎng.
@@ -53224,8 +53579,10 @@ while 病歷	bìnglì
 應屆畢業生 / 应届毕业生	yīngjiè bìyèshēng
 應山	Yīngshān
 應市	yìngshì
+應得 / 应得	yīngdé
 應徵	yìngzhēng
 應急	yìngjí
+應急 / 应急	yìngjí
 應急車道 / 应急车道	yìngjí chēdào
 應戰	yìngzhàn
 應手	yìngshǒu
@@ -53274,6 +53631,7 @@ while 病歷	bìnglì
 應酬	yìngchou
 應門	yìngmén
 應驗	yìngyàn
+應驗 / 应验	yìngyàn
 應鼓	yìnggǔ
 應龍	yìnglóng
 懊丧	àosàng
@@ -53429,6 +53787,7 @@ while 病歷	bìnglì
 戊糖	wùtáng
 戊酮	wùtóng
 戊酸	wùsuān
+戋戋	jiānjiān
 戌 狗 九月	jiǔyuè
 戌时	xūshí
 戌時	xūshí
@@ -53439,6 +53798,7 @@ while 病歷	bìnglì
 戍衛	shùwèi
 戍边	shùbiān
 戍邊	shùbiān
+戍邊 / 戍边	shùbiān
 戎机	róngjī
 戎機	róngjī
 戎狄	róngdí
@@ -53518,6 +53878,7 @@ while 病歷	bìnglì
 成功神學	chénggōngshénxué
 成千上万	chéngqiānshàngwàn
 成千上萬	chéngqiānshàngwàn
+成千上萬 / 成千上万	chéngqiānshàngwàn
 成千成万	chéngqiānchéngwàn
 成千成萬	chéngqiānchéngwàn
 成双	chéngshuāng
@@ -53621,12 +53982,15 @@ while 病歷	bìnglì
 成虫	chéngchóng
 成蟲	chéngchóng
 成行	chéngxíng
+成衣	chéngyī
 成見	chéngjiàn
+成見 / 成见	chéngjiàn
 成規	chéngguī
 成親	chéngqīn
 成见	chéngjiàn
 成规	chéngguī
 成語	chéngyǔ
+成語 / 成语	chéngyǔ
 成誦	chéngsòng
 成语	chéngyǔ
 成诵	chéngsòng
@@ -53643,6 +54007,7 @@ while 病歷	bìnglì
 成长率	chéngzhǎnglǜ
 成雙	chéngshuāng
 成雙成對	chéngshuāngchéngduì
+成雙成對 / 成双成对	chéngshuāngchéngduì
 成風	chéngfēng
 成风	chéngfēng
 成骨細胞	chénggǔxìbāo
@@ -53734,6 +54099,7 @@ while 病歷	bìnglì
 我很想睡。	Wǒ hěn xiǎng shuì.
 我很氣。 / 我很气。	Wǒ hěn qì.
 我很累。	Wǒ hěn lèi.
+我得了亞軍。 / 我得了亚军。	Wǒ dé le yàjūn.
 我得走了。	Wǒ děi zǒu le.
 我從不吃肉。 / 我从不吃肉。	Wǒ cóngbù chī ròu.
 我從不違約。 / 我从不违约。	Wǒ cóngbù wéiyuē.
@@ -53777,7 +54143,6 @@ while 病歷	bìnglì
 我沒有朋友。 / 我没有朋友。	Wǒ méiyǒu péngyǒu.
 我沒有錢。 / 我没有钱。	Wǒ méiyǒu qián.
 我沒有零錢。 / 我没有零钱。	Wǒ méiyǒu língqián.
-我混得不好。	Wǒ hùn de bù hǎo.
 我無求於你。 / 我无求于你。	Wǒ wú qiú yú nǐ.
 我爱你	wǒ ài nǐ
 我父親信佛教。 / 我父亲信佛教。	Wǒ fùqīn xìn fójiào.
@@ -53865,6 +54230,7 @@ while 病歷	bìnglì
 戒除	jièchú
 戒飭	jièchì
 戒饬	jièchì
+戔戔	jiānjiān
 戕害	qiānghài
 戕害不辜	qiānghàibùgū
 戕賊	qiāngzéi
@@ -53897,6 +54263,7 @@ while 病歷	bìnglì
 战争舞	zhànzhēngwǔ
 战争贩子	zhànzhēng fànzi
 战事	zhànshì
+战伐	zhànfá
 战例	zhànlì
 战俘	zhànfú
 战具	zhànjù
@@ -54011,6 +54378,7 @@ while 病歷	bìnglì
 戮力同心	lùlìtóngxīn
 戰亂	zhànluàn
 戰事	zhànshì
+戰伐	zhànfá
 戰例	zhànlì
 戰俘	zhànfú
 戰備	zhànbèi
@@ -54027,6 +54395,7 @@ while 病歷	bìnglì
 戰史	zhànshǐ
 戰國	Zhànguó
 戰國七雄	Zhànguó Qīxióng
+戰國七雄 / 战国七雄	Zhànguó qī xióng
 戰國時代	Zhànguó Shídài
 戰國策	Zhànguócè
 戰地	zhàndì
@@ -54623,6 +54992,7 @@ while 病歷	bìnglì
 才略	cáilüè
 才疏学浅	cáishūxuéqiǎn
 才疏學淺	cáishūxuéqiǎn
+才疏學淺 / 才疏学浅	cáishūxuéqiǎn
 才能	cáinéng
 才色	cáisè
 才色兼備 / 才色兼备	cáisè jiānbèi
@@ -55177,6 +55547,7 @@ while 病歷	bìnglì
 托尼老師	tuōní lǎoshī
 托幼	tuōyòu
 托庇	tuōbì
+托彼特	Tuōbǐtè
 托故	tuōgù
 托斯卡尼	Tuōsīkǎní
 托斯卡納	Tuōsīkǎnà
@@ -55326,6 +55697,7 @@ while 病歷	bìnglì
 扬州	Yángzhōu
 扬州十日	Yángzhōu-shírì
 扬州炒饭	Yángzhōu chǎofàn
+扬帆	yángfān
 扬弃	yángqì
 扬汤止沸	yángtāngzhǐfèi
 扬琴	yángqín
@@ -55397,6 +55769,7 @@ while 病歷	bìnglì
 扳倒	verb-complement
 扳子	bānzi
 扳手	bānshǒu
+扳指	bānzhi
 扳本	bānběn
 扳机	bānjī
 扳機	bānjī
@@ -55555,6 +55928,7 @@ while 病歷	bìnglì
 承继	chéngjì
 承续	chéngxù
 承蒙	chéngméng
+承蒙惠顧 / 承蒙惠顾	chéngméng huìgù
 承行	chéngxíng
 承袭	chéngxí
 承製	chéngzhì
@@ -55674,6 +56048,7 @@ while 病歷	bìnglì
 把A翻譯成B / 把A翻译成B	bǎ A fānyì chéng B
 把他帶走。 / 把他带走。	Bǎ tā dàizǒu.
 把他給我拿下！ / 把他给我拿下！	Bǎ tā gěi wǒ náxià!
+把他給打蒙了 / 把他给打蒙了	bǎ tā gěi dǎ mēng le
 把位	bǎwèi
 把住	bǎzhù
 把來	bǎlái
@@ -55708,6 +56083,7 @@ while 病歷	bìnglì
 把斋	bǎzhāi
 把来	bǎlái
 把柄	bǎbǐng
+把橋炸了 / 把桥炸了	bǎ qiáo zhà le
 把水搅浑	bǎshuǐjiǎohún
 把水攪渾	bǎshuǐjiǎohún
 把活幹掉！ / 把活干掉！	Bǎ huó gàndiào!
@@ -55718,12 +56094,14 @@ while 病歷	bìnglì
 把牢	bǎláo
 把玩	bǎwán
 把瓶口塞緊。 / 把瓶口塞紧。	Bǎ píngkǒu sāi jǐn.
+把畫掛正。 / 把画挂正。	Bǎ huà guà zhèng.
 把盏	bǎzhǎn
 把盞	bǎzhǎn
 把眼睛閤上。 / 把眼睛合上。	Bǎ yǎnjīng hé shàng.
 把石子甩出去	bǎ shízǐ shuǎi chūqù
 把稳	bǎwěn
 把穩	bǎwěn
+把罐子封上	bǎ guànzi fēng shàng
 把脈	bǎmài
 把脉	bǎmài
 把舵	bǎduò
@@ -55739,6 +56117,7 @@ while 病歷	bìnglì
 把门	bǎmén
 把雪化掉	bǎ xuě huàdiào
 把頭	bǎtóu
+把頭剃光 / 把头剃光	bǎ tóu tì guāng
 把風	bǎfēng
 把风	bǎfēng
 把齋	bǎzhāi
@@ -55863,6 +56242,7 @@ while 病歷	bìnglì
 投機分子	tóujī fènzǐ
 投機取巧	tóujīqǔqiǎo
 投檔線	tóudàngxiàn
+投水	tóushuǐ
 投注	tóuzhù
 投献	tóuxiàn
 投獻	tóuxiàn
@@ -56127,6 +56507,7 @@ while 病歷	bìnglì
 抛光	pāoguāng
 抛出異常 / 抛出异常	pāochū yìcháng
 抛售	pāoshòu
+抛头露面	pāotóulùmiàn
 抛头颅洒热血	pāotóulúsǎrèxuè
 抛妻弃子	pāoqīqìzǐ
 抛媚眼	pāomèiyǎn
@@ -56181,6 +56562,7 @@ while 病歷	bìnglì
 护卫	hùwèi
 护卫舰	hùwèijiàn
 护发素	hùfàsù
+护唇膏	hùchúngāo
 护国佑民	hùguóyòumín
 护坡	hùpō
 护城壕	hùchéngháo
@@ -56336,6 +56718,7 @@ while 病歷	bìnglì
 披风	pīfēng
 披髮	pīfà
 披髮左衽	pīfàzuǒrèn
+披麻戴孝	pīmádàixiào
 抬举	táijǔ
 抬价	táijià
 抬價	táijià
@@ -56574,6 +56957,8 @@ while 病歷	bìnglì
 抽象畫	chōuxiànghuà
 抽身	chōushēn
 抽頭	chōutóu
+抽鴉片 / 抽鸦片	chōu yāpiàn
+抽鴉片煙 / 抽鸦片烟	chōu yāpiànyān
 抽鼻子	chōubízi
 抿嘴	mǐnzuǐ
 拂塵	fúchén
@@ -56675,6 +57060,7 @@ while 病歷	bìnglì
 拉伤	lāshāng
 拉依喀	Lāyīkā
 拉倒	lādǎo
+拉偏架	lāpiānjià
 拉傷	lāshāng
 拉关系	lā guānxi
 拉力	lālì
@@ -56692,6 +57078,7 @@ while 病歷	bìnglì
 拉坯輪	lāpīlún
 拉坯轮	lāpīlún
 拉場子	lā chǎngzi
+拉多加湖	Lāduōjiā Hú
 拉夫	lāfū
 拉子	lāzǐ
 拉客	lākè
@@ -56714,8 +57101,6 @@ while 病歷	bìnglì
 拉扯	lāche
 拉拉	lālā
 拉拉扯扯	lālāchěchě
-拉拉队员	lālāduìyuán
-拉拉隊員	lālāduìyuán
 拉拔	lābá
 拉拢	lālǒng
 拉撒路	Lāsālù
@@ -56826,9 +57211,12 @@ while 病歷	bìnglì
 拋輾斗	pha-liàn-táu
 拋錨	pāomáo
 拋開	pāokāi
+拋頭露面	pāotóulùmiàn
 拋頭顱灑熱血	pāotóulúsǎrèxuè
+拌	bàn
 拌勻	bànyún
 拌匀	bànyún
+拌和	bànhuò
 拌嘴	bànzuǐ
 拌蒜	bànsuàn
 拌面	bànmiàn
@@ -57633,6 +58021,8 @@ while 病歷	bìnglì
 指甲蓋	zhǐjiagài
 指甲鉗	zhǐjiaqián
 指甲钳	zhǐjiaqián
+指画	zhǐhuà
+指畫	zhǐhuà
 指目	zhǐmù
 指示	zhǐshì
 指示代詞	zhǐshì dàicí
@@ -57846,6 +58236,7 @@ while 病歷	bìnglì
 挨凍	áidòng
 挨剋	áikēi
 挨台	Sichuan
+挨宰	ái zǎi
 挨戶	āihù
 挨户	āihù
 挨打	áidǎ
@@ -58043,7 +58434,6 @@ while 病歷	bìnglì
 捕鳥蛛	bǔniǎozhū
 捕鸟蛛	bǔniǎozhū
 捕鼠器	bǔshǔqì
-捘	zùn
 捙倒	chhia-tó
 捙拚	chhia-piàⁿ
 捙畚斗	chhia-pùn-táu
@@ -58180,7 +58570,6 @@ while 病歷	bìnglì
 捷足先登	jiézúxiāndēng
 捷运	jiéyùn
 捷運	jiéyùn
-捻	niǎn
 捻儿	niǎnr
 捻兒	niǎnr
 捻子	niǎnzi
@@ -58421,6 +58810,7 @@ while 病歷	bìnglì
 排除	páichú
 排除万难	páichúwànnán
 排除萬難	páichúwànnán
+排除萬難 / 排除万难	páichúwànnán
 排隊	páiduì
 排隊買票 / 排队买票	páiduì mǎipiào
 排雲	páiyún
@@ -58780,6 +59170,7 @@ while 病歷	bìnglì
 推卸	tuīxiè
 推卸責任 / 推卸责任	tuīxiè zérèn
 推卻	tuīquè
+推卻 / 推却	tuīquè
 推土机	tuītǔjī
 推土機	tuītǔjī
 推头	tuītóu
@@ -58881,6 +59272,7 @@ while 病歷	bìnglì
 推阻	tuīzǔ
 推陈出新	tuīchénchūxīn
 推陳出新	tuīchénchūxīn
+推陳出新 / 推陈出新	tuīchénchūxīn
 推頭	tuītóu
 掩体	yǎntǐ
 掩埋	yǎnmái
@@ -58966,6 +59358,7 @@ while 病歷	bìnglì
 提交	tíjiāo
 提交答案	tíjiāo dá'àn
 提亲	tíqīn
+提亲事	tí qīnshì
 提价	tíjià
 提供	tígōng
 提供商	tígōngshāng
@@ -59005,6 +59398,7 @@ while 病歷	bìnglì
 提婆	típó
 提婆达多	Típódáduō
 提婆達多	Típódáduō
+提婚	tíhūn
 提子	tízi
 提审	tíshěn
 提審	tíshěn
@@ -59063,6 +59457,7 @@ while 病歷	bìnglì
 提要	tíyào
 提要求	tí yāoqiú
 提親	tíqīn
+提親事	tí qīnshì
 提詞	tící
 提議	tíyì
 提议	tíyì
@@ -59092,6 +59487,7 @@ while 病歷	bìnglì
 插入	chārù
 插入語	chārùyǔ
 插入语	chārùyǔ
+插入鑰匙卡。 / 插入钥匙卡。	Chārù yàoshikǎ.
 插口	chākǒu
 插嘴	chāzuǐ
 插图	chātú
@@ -59143,6 +59539,8 @@ while 病歷	bìnglì
 揚州 / 扬州	Yángzhōu
 揚州十日	Yángzhōu-shírì
 揚州炒飯	Yángzhōu chǎofàn
+揚帆	yángfān
+揚手 / 扬手	yángshǒu
 揚棄	yángqì
 揚湯止沸	yángtāngzhǐfèi
 揚琴	yángqín
@@ -59151,6 +59549,7 @@ while 病歷	bìnglì
 揚聲器	yángshēngqì
 揚言	yángyán
 揚鞭	yángbiān
+揚鞭 / 扬鞭	yángbiān
 換一種說法 / 换一种说法	huàn yī zhǒng shuōfǎ
 換乘	huànchéng
 換代	huàndài
@@ -59260,6 +59659,7 @@ while 病歷	bìnglì
 搁浅	gēqiǎn
 搁笔	gēbǐ
 搁置	gēzhì
+搂	lōu
 搂	lǒu
 搂住	lǒuzhù
 搂抱	lǒubào
@@ -59328,6 +59728,7 @@ while 病歷	bìnglì
 搖擺	yáobǎi
 搖擺不定	yáobǎibùdìng
 搖擺州	yáobǎizhōu
+搖旗吶喊	yáoqínàhǎn
 搖旗擂鼓	yáo qí léigǔ
 搖晃	yáohuàng
 搖曳	yáoyè
@@ -59378,6 +59779,7 @@ while 病歷	bìnglì
 搜索機	sōusuǒjī
 搜罗	sōuluó
 搜羅	sōuluó
+搜羅 / 搜罗	sōuluó
 搜证	sōuzhèng
 搜身	sōushēn
 搜身	to frisk
@@ -59450,6 +59852,7 @@ while 病歷	bìnglì
 搭便车	dābiànchē
 搭台	dātái
 搭夥	dāhuǒ
+搭客	dākè
 搭帐篷	dā zhàngpéng
 搭帳篷	dā zhàngpéng
 搭建	dājiàn
@@ -59484,6 +59887,7 @@ while 病歷	bìnglì
 搴芳	qiānfāng
 搵	wèn
 搶修	qiǎngxiū
+搶修 / 抢修	qiǎngxiū
 搶先	qiǎngxiān
 搶劫	qiǎngjié
 搶劫犯	qiǎngjiéfàn
@@ -59506,6 +59910,7 @@ while 病歷	bìnglì
 搶購	qiǎnggòu
 搶運物資 / 抢运物资	qiǎngyùn wùzī
 搶鋒頭	qiǎng fēngtou
+搶錢 / 抢钱	qiǎngqián
 搶鏡	qiǎngjìng
 搶鏡頭	qiǎng jìngtóu
 搶風	qiāngfēng
@@ -59549,6 +59954,7 @@ while 病歷	bìnglì
 摆	pái
 摆乌龙	baai2 wu1 lung4-2
 摆乌龙	bǎiwūlóng
+摆供	bǎigòng
 摆划	bǎihua
 摆列	bǎiliè
 摆动	bǎidòng
@@ -59600,6 +60006,7 @@ while 病歷	bìnglì
 摇摇	yáoyáo
 摇摇晃晃	yáoyáohuànghuàng
 摇摇欲坠	yáoyáoyùzhuì
+摇旗呐喊	yáoqínàhǎn
 摇旗擂鼓	yáo qí léigǔ
 摇晃	yáohuàng
 摇曳	yáoyè
@@ -59654,6 +60061,7 @@ while 病歷	bìnglì
 摘錄	zhāilù
 摘除	zhāichú
 摜蛋	guàndàn
+摟	lōu
 摟	lǒu
 摟住	lǒuzhù
 摟抱	lǒubào
@@ -59717,9 +60125,11 @@ while 病歷	bìnglì
 摩門	Mómén
 摩門教	Móménjiào
 摩門經	Móménjīng
+摩闊崴	Mókuòwǎi
 摩门	Mómén
 摩门教	Móménjiào
 摩门经	Móménjīng
+摩阔崴	Mókuòwǎi
 摯友	zhìyǒu
 摳	kōu
 摳住	kōuzhù
@@ -59845,6 +60255,7 @@ while 病歷	bìnglì
 撒马利亚	Sāmǎlìyà
 撒马利亚人	sāmǎlìyàrén
 撓癢	náoyǎng
+撓癢 / 挠痒	náoyǎng
 撓癢癢	náo yǎngyang
 撕	sī
 撕屄	sībī
@@ -60333,6 +60744,7 @@ while 病歷	bìnglì
 擺	bǎi
 擺一個造型 / 摆一个造型	bǎi yī ge zàoxíng
 擺佈	bǎibù
+擺供	bǎigòng
 擺列	bǎiliè
 擺劃	bǎihua
 擺動	bǎidòng
@@ -60414,6 +60826,8 @@ while 病歷	bìnglì
 攏	lǒng
 攏共	lǒnggòng
 攏總	lǒngzǒng
+攒	cuán
+攒	zǎn
 攒盒	cuánhé
 攒钱	zǎnqián
 攔住	lánzhù
@@ -60465,6 +60879,8 @@ while 病歷	bìnglì
 攝護腺	shèhùxiàn
 攝食	shèshí
 攞	lo2
+攢	cuán
+攢	zǎn
 攢盒	cuánhé
 攢錢	zǎnqián
 攣縮症	luánsuōzhèng
@@ -60918,7 +61334,7 @@ while 病歷	bìnglì
 放射線	fàngshèxiàn
 放射线	fàngshèxiàn
 放對	fàngduì
-放尿	pàng-jiō
+放尿	pàng-jiō / pàng-liō
 放屁	fàngpì
 放屁坐垫	fàngpì zuòdiàn
 放屁坐墊	fàngpì zuòdiàn
@@ -61352,6 +61768,7 @@ while 病歷	bìnglì
 敗仗	bàizhàng
 敗兵折將	bàibīngzhéjiàng
 敗北	bàiběi
+敗北 / 败北	bàiběi
 敗卻	bàiquè
 敗壞	bàihuài
 敗壞德行 / 败坏德行	bàihuài déxíng
@@ -61404,7 +61821,6 @@ while 病歷	bìnglì
 教书	jiāoshū
 教书匠	jiāoshūjiàng
 教书育人	jiāoshūyùrén
-教人笑話 / 教人笑话	jiàorén xiàohuà
 教会	jiàohuì
 教会拉丁语	jiàohuì lādīngyǔ
 教会罗马字	jiàohuì luómǎzì
@@ -62124,6 +62540,7 @@ while 病歷	bìnglì
 文林	wénlín
 文武	wénwǔ
 文武双全	wénwǔshuāngquán
+文武百官	wénwǔbǎiguān
 文武雙全	wénwǔshuāngquán
 文殊师利	Wénshūshīlì
 文殊師利	Wénshūshīlì
@@ -62754,6 +63171,7 @@ while 病歷	bìnglì
 新社	Xīnshè
 新福	Xīnfú
 新禧	xīnxǐ
+新秀	xīnxiù
 新穎	xīnyǐng
 新竹	Xīnzhú
 新笛	xīndí
@@ -62782,6 +63200,7 @@ while 病歷	bìnglì
 新義州	Xīnyìzhōu
 新聚	Xīnjù
 新聞	xīnwén
+新聞 / 新闻	xīnwén
 新聞價值	xīnwén jiàzhí
 新聞媒體	xīnwén méitǐ
 新聞學	xīnwénxué
@@ -62824,7 +63243,9 @@ while 病歷	bìnglì
 新蘆	Xīnlú
 新街	Xīnjiē
 新西兰	Xīnxīlán
+新西兰元	xīnxīlányuán
 新西蘭	Xīnxīlán
+新西蘭元	xīnxīlányuán
 新詞	xīncí
 新詞語	xīncíyǔ
 新語	xīnyǔ
@@ -62869,6 +63290,7 @@ while 病歷	bìnglì
 新電腦 / 新电脑	xīn diànnǎo
 新颖	xīnyǐng
 新風機房 / 新风机房	xīnfēng jīfáng
+新風氣 / 新风气	xīn fēngqì
 新馬	Xīn-Mǎ
 新馬泰	Xīn-Mǎ-Tài
 新马	Xīn-Mǎ
@@ -63153,6 +63575,7 @@ while 病歷	bìnglì
 旅宿汽車	lǚsù qìchē
 旅宿汽车	lǚsù qìchē
 旅居	lǚjū
+旅居美國紐約 / 旅居美国纽约	lǚjū Měiguó Niǔyuē
 旅店	lǚdiàn
 旅游	lǚyóu
 旅游业	lǚyóuyè
@@ -63777,6 +64200,7 @@ while 病歷	bìnglì
 日本菜	Rìběn cài
 日本血吸虫	Rìběn xuèxīchóng
 日本血吸蟲	Rìběn xuèxīchóng
+日本製商品 / 日本制商品	Rìběn zhì shāngpǐn
 日本話	rìběnhuà
 日本語	rìběnyǔ
 日本话	rìběnhuà
@@ -63920,6 +64344,7 @@ while 病歷	bìnglì
 旧社会	Jiùshèhuì
 旧称	jiùchēng
 旧约	jiùyuē
+旧约全书	Jiùyuē Quánshū
 旧约圣经	Jiùyuē Shèngjīng
 旧臣	jiùchén
 旧街	Jiùjiē
@@ -63989,6 +64414,7 @@ while 病歷	bìnglì
 早起時	chái-khí-sî
 早退	zǎotuì
 早逝	zǎoshì
+早造	zǎozào
 早霞	zǎoxiá
 早頓	chá-tǹg
 早顿	chá-tǹg
@@ -64043,7 +64469,10 @@ while 病歷	bìnglì
 时代	shídài
 时代广场	Shídàiguǎngchǎng
 时代精神	shídài jīngshén
+时令	shíling
 时令	shílìng
+时令河	shílìnghé
+时令病	shílìngbìng
 时俗	shísú
 时候	shíhou
 时候	shíhòu
@@ -64118,7 +64547,7 @@ while 病歷	bìnglì
 时间	sṳ̀-kiên, sṳ̀-kiân
 时间	zr ji
 时间囊	shíjiānnáng
-时间复杂度	shíjiān fùzá dù
+时间复杂度	shíjiān fùzádù
 时间差	shíjiānchā
 时间序列	shíjiān xùliè
 时间戳	shíjiānchuō
@@ -64188,7 +64617,7 @@ while 病歷	bìnglì
 昆明山海棠	Kūnmíng shānhǎitáng
 昆明湖	Kūnmíng Hú
 昆曲	kūnqǔ
-昆玉	Kūnyù
+昆玉	kūnyù
 昆笛	kūndí
 昆腔	kūnqiāng
 昆虫	kūnchóng
@@ -64526,6 +64955,7 @@ while 病歷	bìnglì
 星級飯店 / 星级饭店	xīngjí fàndiàn
 星罗棋布	xīngluóqíbù
 星羅棋布	xīngluóqíbù
+星羅棋布 / 星罗棋布	xīngluóqíbù
 星群	xīngqún
 星聞	xīngwén
 星號	xīnghào
@@ -64744,6 +65174,7 @@ while 病歷	bìnglì
 显眼	xiǎnyǎn
 显眼处	xiǎnyǎnchù
 显示	xiǎnshì
+显示卡	xiǎnshìkǎ
 显示器	xiǎnshìqì
 显示屏	xiǎnshìpíng
 显祖	xiǎnzǔ
@@ -64769,7 +65200,11 @@ while 病歷	bìnglì
 時代廣場	Shídàiguǎngchǎng
 時代氣息 / 时代气息	shídài qìxī
 時代精神	shídài jīngshén
+時令	shíling
 時令	shílìng
+時令水果 / 时令水果	shílìng shuǐguǒ
+時令河	shílìnghé
+時令病	shílìngbìng
 時俗	shísú
 時候	shíhou
 時值	shízhí
@@ -64850,7 +65285,7 @@ while 病歷	bìnglì
 時間線	shíjiānxiàn
 時間膠囊	shíjiān jiāonáng
 時間表	shíjiānbiǎo
-時間複雜度	shíjiān fùzá dù
+時間複雜度	shíjiān fùzádù
 時間軸	shíjiānzhóu
 時間還來得及。 / 时间还来得及。	Shíjiān hái láidejí.
 時限	shíxiàn
@@ -65635,6 +66070,7 @@ while 病歷	bìnglì
 曬衣服 / 晒衣服	shài yīfú
 曬黑	shàihēi
 曬黑族	shàihēizú
+曱甴	yuēzhá
 曲	qū
 曲	qǔ
 曲別針	qūbiézhēn
@@ -66064,6 +66500,7 @@ while 病歷	bìnglì
 會面 / 会面	huìmiàn
 會須	huìxū
 會餐	huìcān
+會餐 / 会餐	huìcān
 會館	huìguǎn
 會黨	huìdǎng
 會齊	huìqí
@@ -66257,7 +66694,7 @@ while 病歷	bìnglì
 有勇无谋	yǒuyǒngwúmóu
 有勇無謀	yǒuyǒngwúmóu
 有勞	yǒuláo
-有口才	yǒukǒucái
+有口才	yǒu kǒucái
 有口无心	yǒukǒuwúxīn
 有口無心	yǒukǒuwúxīn
 有口皆碑	yǒukǒujiēbēi
@@ -66397,6 +66834,7 @@ while 病歷	bìnglì
 有权威的	yǒu quánwēi de
 有条不紊	yǒutiáobùwèn
 有条件	yǒutiáojiàn
+有条理	yǒu tiáolǐ
 有来有往	yǒuláiyǒuwǎng
 有板有眼	yǒubǎnyǒuyǎn
 有极	yǒují
@@ -66405,6 +66843,7 @@ while 病歷	bìnglì
 有條不紊	yǒutiáobùwèn
 有條件	yǒutiáojiàn
 有條件錄取 / 有条件录取	yǒutiáojiàn lùqǔ
+有條理	yǒu tiáolǐ
 有極	yǒují
 有樣學樣	yǒuyàngxuéyàng
 有機	yǒujī
@@ -66428,6 +66867,7 @@ while 病歷	bìnglì
 有氧運動	yǒuyǎng yùndòng
 有求必应	yǒuqiúbìyìng
 有求必應	yǒuqiúbìyìng
+有求必應 / 有求必应	yǒuqiúbìyìng
 有沒有	yǒu méiyǒu
 有洁癖的人	yǒu jiépǐ de rén
 有淑女氣質 / 有淑女气质	yǒu shūnǚ qìzhì
@@ -66463,6 +66903,7 @@ while 病歷	bìnglì
 有的没的	yǒudeméide
 有益	yǒuyì
 有益处	yǒu yìchu
+有益於健康 / 有益于健康	yǒuyì yú jiànkāng
 有益處	yǒu yìchu
 有目共睹	yǒumùgòngdǔ
 有目共見	yǒumùgòngjiàn
@@ -66527,6 +66968,8 @@ while 病歷	bìnglì
 有血有肉	yǒuxuèyǒuròu
 有袋动物	yǒudài dòngwù
 有袋動物	yǒudài dòngwù
+有袋类	yǒudàilèi
+有袋類	yǒudàilèi
 有解	yǒujiě
 有言在先	yǒuyán zàixiān
 有話好說	yǒuhuàhǎoshuō
@@ -66609,8 +67052,6 @@ while 病歷	bìnglì
 朋党	péngdǎng
 朋友	péngyou
 朋友	péngyǒu
-朋友们	péngyoumen
-朋友們	péngyoumen
 朋友区间	péngyou qūjiān
 朋友區間	péngyou qūjiān
 朋友圈	péngyouquān
@@ -66732,6 +67173,7 @@ while 病歷	bìnglì
 望子成龙	wàngzǐchénglóng
 望尘莫及	wàngchénmòjí
 望府座	Wàngfǔzuò
+望廈條約 / 望厦条约	Wàngxià Tiáoyuē
 望文生义	wàngwénshēngyì
 望文生義	wàngwénshēngyì
 望族	wàngzú
@@ -66893,8 +67335,10 @@ while 病歷	bìnglì
 期满	qīmǎn
 期滿	qīmǎn
 期盼	qīpàn
+期終	qīzhōng
 期終考	qīzhōngkǎo
 期終考試	qīzhōng kǎoshì
+期终	qīzhōng
 期终考	qīzhōngkǎo
 期终考试	qīzhōng kǎoshì
 期考	qīkǎo
@@ -67006,6 +67450,7 @@ while 病歷	bìnglì
 木結構	mùjiégòu
 木结构	mùjiégòu
 木耙	mùpá
+木芙蓉	mùfúróng
 木莓	mùméi
 木莲	mùlián
 木菠萝	mùbōluó
@@ -67755,6 +68200,7 @@ while 病歷	bìnglì
 杜皮	Dùpí
 杜絕	dùjué
 杜绝	dùjué
+杜若	dùruò
 杜詩韓文	dùshīhánwén
 杜诗韩文	dùshīhánwén
 杜郎度	Dùlángdù
@@ -67816,6 +68262,7 @@ while 病歷	bìnglì
 条形码阅读器	tiáoxíngmǎ yuèdúqì
 条支	Tiáozhī
 条文	tiáowén
+条条框框	tiáotiáokuàngkuàng
 条款	tiáokuǎn
 条理	tiáolǐ
 条畅	tiáochàng
@@ -67988,6 +68435,7 @@ while 病歷	bìnglì
 東京鐵塔	Dōngjīng Tiětǎ
 東人	dōngrén
 東側	dōngcè
+東儀天主教 / 东仪天主教	dōng yí tiānzhǔjiào
 東光	Dōngguāng
 東加	Dōngjiā
 東加語	Dōngjiāyǔ
@@ -68637,6 +69085,7 @@ while 病歷	bìnglì
 架锅山	Jiàguōshān
 枷鎖	jiāsuǒ
 枷锁	jiāsuǒ
+枸地氯雷他定	jǔdìlǜléitādìng
 枸杞	gǒuqǐ
 枸杞子	gǒuqǐzǐ
 枸橼	jǔyuán
@@ -69594,10 +70043,13 @@ while 病歷	bìnglì
 桥段	qiáoduàn
 桥洞	qiáodòng
 桥牌	qiáopái
+桥脑	qiáonǎo
 桥边	Qiáobiān
 桦太	Huàtài
 桧	guì
 桩脚	zhuāngjiǎo
+桫椤	suōluó
+桫欏	suōluó
 桶盘	tǒngpán
 桶盤	tǒngpán
 桿秤	gǎnchèng
@@ -69690,6 +70142,7 @@ while 病歷	bìnglì
 條支	Tiáozhī
 條文	tiáowén
 條暢	tiáochàng
+條條框框	tiáotiáokuàngkuàng
 條款	tiáokuǎn
 條理	tiáolǐ
 條目	tiáomù
@@ -70219,8 +70672,8 @@ while 病歷	bìnglì
 楮紙	chǔzhǐ
 楮纸	chǔzhǐ
 極	jí
+極不滿意 / 极不满意	jí bù mǎnyì
 極了	jíle
-極了 / 极了	jíle
 極低密度脂蛋白	jídīmìdù zhīdànbái
 極值點	jízhídiǎn
 極光	jíguāng
@@ -70497,6 +70950,7 @@ while 病歷	bìnglì
 樂捐	lèjuān
 樂於	lèyú
 樂於助人 / 乐于助人	lèyú zhùrén
+樂於助人 / 乐于助人	yuè yú zhùrén
 樂普	lèpǔ
 樂曲	yuèqǔ
 樂業	lèyè
@@ -70624,6 +71078,7 @@ while 病歷	bìnglì
 樞機	shūjī
 樞機主教	shūjī zhǔjiào
 樞紐	shūniǔ
+樞紐 / 枢纽	shūniǔ
 樞軸	shūzhóu
 樟村坪	Zhāngcūnpíng
 樟树	zhāngshù
@@ -70823,6 +71278,7 @@ while 病歷	bìnglì
 樹輪年代學	shùlún niándàixué
 樹鋪冷子	Xi'an
 樹陰	shùyīn
+樹陰 / 树阴	shùyīn
 樹頭	shùtóu
 樺太	Huàtài
 樽俎	zūnzǔ
@@ -70859,6 +71315,7 @@ while 病歷	bìnglì
 橋段	qiáoduàn
 橋洞	qiáodòng
 橋牌	qiáopái
+橋腦	qiáonǎo
 橋邊	Qiáobiān
 橋頭	qiáotóu
 橋頭堡	qiáotóubǎo
@@ -71150,6 +71607,7 @@ while 病歷	bìnglì
 檯布	táibù
 檯式機	táishìjī
 檯式麥克風 / 台式麦克风	táishì màikèfēng
+檯曆	táilì
 檯燈	táidēng
 檯球	táiqiú
 檯秤	táichèng
@@ -71688,6 +72146,8 @@ while 病歷	bìnglì
 止息	zhǐxī
 止戈为武	zhǐgēwéiwǔ
 止戈為武	zhǐgēwéiwǔ
+止损	zhǐsǔn
+止損	zhǐsǔn
 止於至善	zhǐyúzhìshàn
 止步	zhǐbù
 止水	zhǐshuǐ
@@ -71742,6 +72202,7 @@ while 病歷	bìnglì
 正像	zhèngxiàng
 正儿八经	zhèngrbājǐng
 正兒八經	zhèngrbājǐng
+正六邊形 / 正六边形	zhèng liùbiānxíng
 正写	zhèngxiě
 正写法	zhèngxiěfǎ
 正冲	Zhèngchōng
@@ -71751,9 +72212,12 @@ while 病歷	bìnglì
 正則座標 / 正则座标	zhèngzé zuòbiāo
 正則系綜 / 正则系综	zhèngzé xìzōng
 正則表達式 / 正则表达式	zhèngzé biǎodáshì
+正前方	zhèng qiánfāng
+正副主任	zhèng fù zhǔrèn
 正割	zhènggē
 正午	zhèngwǔ
 正卒	zhèngzú
+正南	zhèng nán
 正反应	zhèngfǎnyìng
 正反應	zhèngfǎnyìng
 正取	zhèngqǔ
@@ -71763,10 +72227,10 @@ while 病歷	bìnglì
 正告	zhènggào
 正味	zhèngwèi
 正品	zhèngpǐn
+正四面體 / 正四面体	zhèng sìmiàntǐ
 正在	zhèngzài
 正在維修。 / 正在维修。	Zhèngzài wéixiū.
 正坐	zhèngzuò
-正塗	zhèngtú
 正声	zhèngshēng
 正多边形	zhèngduōbiānxíng
 正多邊形	zhèngduōbiānxíng
@@ -71823,6 +72287,7 @@ while 病歷	bìnglì
 正手筆	Mandalay Taishanese
 正教	zhèngjiào
 正数	zhèngshù
+正整數 / 正整数	zhèng zhěngshù
 正數	zhèngshù
 正文	zhèng wén
 正文	zhèngwén
@@ -71842,6 +72307,7 @@ while 病歷	bìnglì
 正极	zhèngjí
 正業	zhèngyè
 正極	zhèngjí
+正極 / 正极	zhèngjí
 正楷	zhèngkǎi
 正歌	zhènggē
 正正經經	zhèngzhèngjīngjīng
@@ -71854,7 +72320,6 @@ while 病歷	bìnglì
 正氣歌	Zhèngqìgē
 正沖	Zhèngchōng
 正派	zhèngpài
-正涂	zhèngtú
 正港	chiàⁿ-káng
 正点	zhèngdiǎn
 正片	zhèngpiàn
@@ -71872,12 +72337,14 @@ while 病歷	bìnglì
 正眼	zhèngyǎn
 正矢	zhèngshǐ
 正确	zhèngquè
+正确	zing³ kok³
 正確	zhèngquè
 正离子	zhènglízǐ
 正立	zhènglì
 正简	zhèngjiǎn
 正簡	zhèngjiǎn
 正簡轉換 / 正简转换	zhèngjiǎn zhuǎnhuàn
+正紅色 / 正红色	zhèng hóngsè
 正統	zhèngtǒng
 正經	zhèngjīng
 正經八百	zhèngjīngbābǎi
@@ -71896,6 +72363,7 @@ while 病歷	bìnglì
 正襟危坐	zhèngjīnwēizuò
 正要	zhèngyào
 正規	zhèngguī
+正規 / 正规	zhèngguī
 正規化	zhèngguīhuà
 正規軍	zhèngguījūn
 正視	zhèngshì
@@ -71912,7 +72380,9 @@ while 病歷	bìnglì
 正轨	zhèngguǐ
 正途	zhèngtú
 正道	zhèngdào
-正道`	zhèngdào
+正長石	zhèngchángshí
+正长石	zhèngchángshí
+正門 / 正门	zhèngmén
 正阳门	Zhèngyángmén
 正陽門	Zhèngyángmén
 正離子	zhènglízǐ
@@ -71920,6 +72390,7 @@ while 病歷	bìnglì
 正面	zhèngmiàn
 正面形象	zhèngmiàn xíngxiàng
 正面衝突 / 正面冲突	zhèngmiàn chōngtū
+正音	zhèngyīn
 正音学	zhèngyīnxué
 正音學	zhèngyīnxué
 正題	zhèngtí
@@ -72158,6 +72629,7 @@ while 病歷	bìnglì
 歲月	suìyuè
 歲月不饒人	suìyuè bù ráorén
 歲月如梭	suìyuèrúsuō
+歲朝	suìzhāo
 歲物	suìwù
 歲荒	suìhuāng
 歷久	lìjiǔ
@@ -72565,6 +73037,7 @@ while 病歷	bìnglì
 殘疾人電梯 / 残疾人电梯	cánjírén diàntī
 殘破	cánpò
 殘篇斷簡	cánpiānduànjiǎn
+殘紅 / 残红	cánhóng
 殘缺	cánquē
 殘缺不全	cánquēbùquán
 殘羹剩飯	cángēngshèngfàn
@@ -72579,6 +73052,8 @@ while 病歷	bìnglì
 殘障	cánzhàng
 殘障人士 / 残障人士	cánzhàng rénshì
 殘餘	cányú
+殘餘勢力 / 残余势力	cányú shìlì
+殘餘雜質 / 残余杂质	cányú zázhì
 殘骸	cánhái
 殘體	cántǐ
 殘體字	cántǐzì
@@ -72706,6 +73181,7 @@ while 病歷	bìnglì
 毀壞	huǐhuài
 毀容	huǐróng
 毀屍滅跡	huǐshīmièjì
+毀屍滅跡 / 毁尸灭迹	huǐshīmièjì
 毀掉	huǐ diào
 毀掉	huǐdiào
 毀損	huǐsǔn
@@ -72785,6 +73261,7 @@ while 病歷	bìnglì
 母机	mǔjī
 母权	mǔquán
 母权制	mǔquánzhì
+母板	mǔbǎn
 母校	mǔxiào
 母機	mǔjī
 母權	mǔquán
@@ -72793,6 +73270,7 @@ while 病歷	bìnglì
 母狗	mǔgǒu
 母猪	mǔzhū
 母獸	mǔshòu
+母畜	mǔchù
 母範	mǔfàn
 母系	mǔxì
 母細胞	mǔxìbāo
@@ -72947,9 +73425,11 @@ while 病歷	bìnglì
 比岁	bǐsuì
 比年	bǐnián
 比得上	bǐdeshàng
+比得上	bǐdéshàng
 比心	bǐxīn
 比手画脚	bǐshǒuhuàjiǎo
 比手畫腳	bǐshǒuhuàjiǎo
+比手畫腳 / 比手画脚	bǐshǒuhuàjiǎo
 比托拉	Bǐtuōlā
 比拉魚	bǐlāyú
 比拉鱼	bǐlāyú
@@ -73097,6 +73577,7 @@ while 病歷	bìnglì
 毛妹	máomèi
 毛子	máozi
 毛孔	máokǒng
+毛孩	máohái
 毛家港	Máojiāgǎng
 毛巾	máojīn
 毛巾被	máojīnbèi
@@ -73137,6 +73618,7 @@ while 病歷	bìnglì
 毛細支氣管	máoxì zhīqìguǎn
 毛細支氣管炎	máoxìzhīqìguǎnyán
 毛細淋巴管	máoxì línbāguǎn
+毛細現象	máoxì xiànxiàng
 毛細管	máoxìguǎn
 毛細管回流	máoxìguǎn huíliú
 毛細血管	máoxì xuèguǎn
@@ -73152,6 +73634,7 @@ while 病歷	bìnglì
 毛细支气管	máoxì zhīqìguǎn
 毛细支气管炎	máoxìzhīqìguǎnyán
 毛细淋巴管	máoxì línbāguǎn
+毛细现象	máoxì xiànxiàng
 毛细管	máoxìguǎn
 毛细管回流	máoxìguǎn huíliú
 毛细血管	máoxì xuèguǎn
@@ -73515,6 +73998,7 @@ while 病歷	bìnglì
 气流	qìliú
 气温	qìwēn
 气溶胶	qìróngjiāo
+气炸	qìzhà
 气炸锅	qìzháguō
 气焰	qìyàn
 气球	qìqiú
@@ -73615,6 +74099,7 @@ while 病歷	bìnglì
 氣味	qìwèi
 氣味 / 气味	qìwèi
 氣呼呼	qìhūhū
+氣哭了 / 气哭了	qì kū le
 氣喘	qìchuǎn
 氣喘吁吁	qìchuǎnxūxū
 氣喘如牛	qìchuǎnrúniú
@@ -73645,6 +74130,7 @@ while 病歷	bìnglì
 氣旋	qìxuán
 氣根	qìgēn
 氣概	qìgài
+氣概 / 气概	qìgài
 氣槍	qìqiāng
 氣樓	qìlóu
 氣死	qìsǐ
@@ -73662,6 +74148,7 @@ while 病歷	bìnglì
 氣流 / 气流	qìliú
 氣溫	qìwēn
 氣溶膠	qìróngjiāo
+氣炸	qìzhà
 氣炸鍋	qìzháguō
 氣焰	qìyàn
 氣球	qìqiú
@@ -73679,6 +74166,7 @@ while 病歷	bìnglì
 氣絕	qìjué
 氣胸	qìxiōng
 氣色	qìsè
+氣虛 / 气虚	qì xū
 氣血	qìxuè
 氣誼相投	qìyìxiāngtóu
 氣象	qìxiàng
@@ -73894,6 +74382,7 @@ while 病歷	bìnglì
 水上飛機	shuǐshàng fēijī
 水上飞机	shuǐshàng fēijī
 水下	shuǐxià
+水中	shuǐ zhōng
 水中捞月	shuǐzhōng-lāoyuè
 水中撈月	shuǐzhōng-lāoyuè
 水中毒	shuǐzhòngdú
@@ -74351,6 +74840,7 @@ while 病歷	bìnglì
 求他別走 / 求他别走	qiú tā bié zǒu
 求全	qiúquán
 求助	qiúzhù
+求助於人 / 求助于人	qiúzhù yú rén
 求勝	qiúshèng
 求医	qiúyī
 求同存异	qiútóngcúnyì
@@ -74361,6 +74851,7 @@ while 病歷	bìnglì
 求学	qiúxué
 求学问	qiú xuéwèn
 求學	qiúxué
+求學 / 求学	qiúxué
 求學問	qiú xuéwèn
 求官	qiúguān
 求得	qiúdé
@@ -74627,6 +75118,7 @@ while 病歷	bìnglì
 江门	Jiāngmén
 江阴	Jiāngyīn
 江陰	Jiāngyīn
+江陰 / 江阴	jiāngyīn
 江陵	Jiānglíng
 池	chí
 池上	Chíshàng
@@ -74934,6 +75426,7 @@ while 病歷	bìnglì
 沒精打采	méijīngdǎcǎi
 沒老沒少	Harbin
 沒脾氣	méi píqi
+沒臉見人 / 没脸见人	méi liǎn jiàn rén
 沒良心	méiliángxīn
 沒良心 / 没良心	méi liángxīn
 沒落	mòluò
@@ -74995,6 +75488,7 @@ while 病歷	bìnglì
 沙乌地阿拉伯	Shāwūdì Ālābó
 沙仑	Shālún
 沙僧	Shāsēng
+沙劘	suōmó
 沙功那空	Shāgōngnàkōng
 沙加緬度	Shājiāmiǎnduó
 沙加缅度	Shājiāmiǎnduó
@@ -75680,8 +76174,10 @@ while 病歷	bìnglì
 法外	fǎwài
 法子	fǎzi
 法学	fǎxué
+法学家	fǎxuéjiā
 法学院	fǎxuéyuàn
 法學	fǎxué
+法學家	fǎxuéjiā
 法學院	fǎxuéyuàn
 法官	fǎguān
 法定	fǎdìng
@@ -75738,6 +76234,7 @@ while 病歷	bìnglì
 法律学	fǎlǜxué
 法律學	fǎlǜxué
 法律实证主义	fǎlǜ shízhèngzhǔyì
+法律家	fǎlǜjiā
 法律實證主義	fǎlǜ shízhèngzhǔyì
 法律援助	fǎlǜ yuánzhù
 法律效力	fǎlǜ xiàolì
@@ -76133,10 +76630,12 @@ while 病歷	bìnglì
 泰国人	tàiguórén
 泰国湾	Tàiguówān
 泰国话	tàiguóhuà
+泰国语	tàiguóyǔ
 泰國	Tàiguó
 泰國人	tàiguórén
 泰國灣	Tàiguówān
 泰國話	tàiguóhuà
+泰國語	tàiguóyǔ
 泰坦尼克	Tàitǎnníkè
 泰山	Tài Shān
 泰山	Tàishān
@@ -76256,6 +76755,7 @@ while 病歷	bìnglì
 洋洋得意	yángyángdéyì
 洋洋洒洒	yángyángsǎsǎ
 洋洋灑灑	yángyángsǎsǎ
+洋洋自得	yángyángzìdé
 洋洋萬言 / 洋洋万言	yángyángwànyán
 洋津畈	Yángjīnfàn
 洋涇浜	Yángjīngbāng
@@ -76406,6 +76906,7 @@ while 病歷	bìnglì
 洗腎	xǐshèn
 洗腦	xǐnǎo
 洗臉	xǐliǎn
+洗臉 / 洗脸	xǐliǎn
 洗臉盆	xǐliǎnpén
 洗血	xǐxuè
 洗衣	xǐyī
@@ -76735,6 +77236,7 @@ while 病歷	bìnglì
 流变	liúbiàn
 流口水	liú kǒushuǐ
 流向	liúxiàng
+流向大海	liú xiàng dàhǎi
 流域	liúyù
 流失	liúshī
 流失生	liúshīshēng
@@ -76927,6 +77429,7 @@ while 病歷	bìnglì
 浅近	qiǎnjìn
 浅陋	qiǎnlòu
 浆果	jiāngguǒ
+浆洗	jiāngxǐ
 浆溪店	Jiāngxīdiàn
 浆石	Sichuan
 浆细胞	jiāngxìbāo
@@ -77036,6 +77539,7 @@ while 病歷	bìnglì
 浦东	Pǔdōng
 浦口	Pǔkǒu
 浦東	Pǔdōng
+浦西	Pǔxī
 浩劫	hàojié
 浩博	hàobó
 浩大	hàodà
@@ -77098,6 +77602,7 @@ while 病歷	bìnglì
 浮华	fúhuá
 浮图	Fútú
 浮圖	Fútú
+浮土	fútǔ
 浮在水面	fú zài shuǐmiàn
 浮塵	fúchén
 浮塵子	fúchénzǐ
@@ -77147,14 +77652,17 @@ while 病歷	bìnglì
 浮薸	Sichuan
 浮言	fúyán
 浮誇	fúkuā
+浮誇 / 浮夸	fúkuā
 浮議	fúyì
 浮议	fúyì
 浮財	fúcái
+浮財 / 浮财	fúcái
 浮财	fúcái
 浮躁	fúzào
 浮躁的時代 / 浮躁的时代	fúzào de shídài
 浮雕	fúdiāo
 浮雲	fúyún
+浮雲 / 浮云	fúyún
 浮面	fúmiàn
 浮頭	fútóu
 浯屿	Wúyǔ
@@ -77272,7 +77780,9 @@ while 病歷	bìnglì
 海底撈針	hǎidǐlāozhēn
 海底針	hǎidǐzhēn
 海底针	hǎidǐzhēn
+海废	hǎifèi
 海康	Hǎikāng
+海廢	hǎifèi
 海建	Hǎijiàn
 海归	hǎiguī
 海德公园	Hǎidé Gōngyuán
@@ -77553,6 +78063,7 @@ while 病歷	bìnglì
 消導藥	xiāodǎoyào
 消弭	xiāomǐ
 消息	xiāoxi
+消息不確 / 消息不确	xiāoxī bù què
 消拯员	xiāozhěngyuán
 消拯員	xiāozhěngyuán
 消拯局	xiāozhěngjú
@@ -77569,6 +78080,7 @@ while 病歷	bìnglì
 消氣	xiāoqì
 消沉	xiāochén
 消泗	Xiāosì
+消消氣 / 消消气	xiāo xiāoqì
 消渴症	xiāokězhèng
 消滅	xiāomiè
 消火	xiāohuǒ
@@ -77890,6 +78402,7 @@ while 病歷	bìnglì
 淚骨	lèigǔ
 淚點	lèidiǎn
 淚點低 / 泪点低	lèidiǎn dī
+淜滂	píngpāng
 淝水之戰 / 淝水之战	Féishuǐ zhī zhàn
 淡仓	dàncāng
 淡倉	dàncāng
@@ -78112,6 +78625,7 @@ while 病歷	bìnglì
 深静脉血栓	shēnjìngmàixuèshuān
 深靜脈血栓	shēnjìngmàixuèshuān
 淳于	Chúnyú
+淳化	Chúnhuà
 淳厚	chúnhòu
 淳朴	chúnpǔ
 淳樸	chúnpǔ
@@ -78173,6 +78687,7 @@ while 病歷	bìnglì
 混混日子而已	hùnhùn rìzi éryǐ
 混濁	hùnzhuó
 混為一談	hùnwéiyītán
+混為一談 / 混为一谈	hùnwéiyītán
 混球	húnqiú
 混社會 / 混社会	hùn shèhuì
 混紡	hùnfǎng
@@ -78264,7 +78779,10 @@ while 病歷	bìnglì
 清北复交	Qīng-Běi-Fù-Jiāo
 清北復交	Qīng-Běi-Fù-Jiāo
 清华	Qīnghuá
+清华园	Qīnghuáyuán
 清单	qīngdān
+清君侧	qīngjūncè
+清君側	qīngjūncè
 清和	Qīnghé
 清咖啡	qīngkāfēi
 清咽丸	qīngyàn wán
@@ -78401,6 +78919,7 @@ while 病歷	bìnglì
 清苦	qīngkǔ
 清茶	qīngchá
 清華	Qīnghuá
+清華園	Qīnghuáyuán
 清蒸	qīngzhēng
 清規	qīngguī
 清规	qīngguī
@@ -78581,6 +79100,8 @@ while 病歷	bìnglì
 渣滓	zhāzǐ
 渣男	zhānán
 渤海	Bó Hǎi
+渤海国	Bóhǎiguó
+渤海國	Bóhǎiguó
 渤海海峡	Bóhǎi Hǎixiá
 渤海海峽	Bóhǎi Hǎixiá
 渤海湾	Bóhǎiwān
@@ -78630,6 +79151,7 @@ while 病歷	bìnglì
 温热	wēnrè
 温煦	wēnxù
 温良	wēnliáng
+温血动物	wēnxuè dòngwù
 温酒	wēnjiǔ
 温里药	wēnlǐyào
 温雅	wēnyǎ
@@ -78812,6 +79334,7 @@ while 病歷	bìnglì
 渾天儀	húntiānyí
 渾家	húnjiā
 渾樸	húnpǔ
+渾樸 / 浑朴	húnpǔ
 渾水	húnshuǐ
 渾水摸魚	hún shǔi mō yú
 渾水摸魚	húnshuǐmōyú
@@ -78918,7 +79441,6 @@ while 病歷	bìnglì
 湠種	thòaⁿ-chéng
 湠草	thòaⁿ-chháu
 湠開	thòaⁿ--khui
-湢浴	bìyù
 湧入	yǒngrù
 湧出	yǒngchū
 湧湍	yǒngtuān
@@ -79027,10 +79549,12 @@ while 病歷	bìnglì
 準時	zhǔnshí
 準晶	zhǔnjīng
 準確	zhǔnquè
+準確 / 准确	zhǔnquè
 準確度	zhǔnquèdù
 準確性	zhǔnquèxìng
 準線	zhǔnxiàn
 準繩	zhǔnshéng
+溚	tǎ
 溜	liū
 溜之大吉	liūzhīdàjí
 溜冰	liūbīng
@@ -79136,6 +79660,7 @@ while 病歷	bìnglì
 溫熱	wēnrè
 溫習	wēnxí
 溫良	wēnliáng
+溫血動物	wēnxuè dòngwù
 溫裡藥	wēnlǐyào
 溫酒	wēnjiǔ
 溫雅	wēnyǎ
@@ -79190,6 +79715,7 @@ while 病歷	bìnglì
 滁州	Chúzhōu
 滂沱	pāngtuó
 滂沱大雨	pāngtuódàyǔ
+滂濞	pēngpì
 滄桑	cāngsāng
 滄浪	Cāngláng
 滄海	cānghǎi
@@ -79224,7 +79750,9 @@ while 病歷	bìnglì
 滇劇	diānjù
 滇南	Diānnán
 滇池	Diānchí
+滇紅	diānhóng
 滇緬公路	Diān Miǎn Gōnglù
+滇红	diānhóng
 滇缅公路	Diān Miǎn Gōnglù
 滇西	Diānxī
 滋事	zīshì
@@ -79459,6 +79987,7 @@ while 病歷	bìnglì
 滥觞	lànshāng
 滥调	làndiào
 滦州	Luánzhōu
+滦河	Luánhé
 滨州	Bīnzhōu
 滨海	bīnhǎi
 滨海边疆区	Bīnhǎi Biānjiāngqū
@@ -79615,6 +80144,7 @@ while 病歷	bìnglì
 滿身	mǎnshēn
 滿身是傷 / 满身是伤	mǎnshēn shì shāng
 滿身是血 / 满身是血	mǎn shēn shì xuè
+滿身酒氣 / 满身酒气	mǎnshēn jiǔ qì
 滿載	mǎnzài
 滿門	mǎnmén
 滿門抄斬	mǎnménchāozhǎn
@@ -79922,6 +80452,7 @@ while 病歷	bìnglì
 漲水	zhǎngshuǐ
 漲渡湖	Zhǎngdùhú
 漲潮	zhǎngcháo
+漲潮 / 涨潮	zhàngcháo
 漲跌	zhǎngdiē
 漲跌互見 / 涨跌互见	zhàngdiē hùjiàn
 漳州	Zhāngzhōu
@@ -79937,11 +80468,13 @@ while 病歷	bìnglì
 漸近線	jiànjìnxiàn
 漸進	jiànjìn
 漿果	jiāngguǒ
+漿洗	jiāngxǐ
 漿溪店	Jiāngxīdiàn
 漿石	Sichuan
 漿細胞	jiāngxìbāo
 漿膜	jiāngmó
 潁川	Yǐngchuān
+潇水	Xiāoshuǐ
 潇洒	xiāosǎ
 潇湘	Xiāoxiāng
 潇潇	xiāoxiāo
@@ -79998,6 +80531,7 @@ while 病歷	bìnglì
 潛艇三明治	qiántǐng sānmíngzhì
 潛藏	qiáncáng
 潛血	qiánxuè
+潛行	qiánxíng
 潛規則	qiánguīzé
 潛蹤	qiánzōng
 潛躲	qiánduǒ
@@ -80030,6 +80564,7 @@ while 病歷	bìnglì
 潜艇三明治	qiántǐng sānmíngzhì
 潜藏	qiáncáng
 潜血	qiánxuè
+潜行	qiánxíng
 潜规则	qiánguīzé
 潜踪	qiánzōng
 潜躲	qiánduǒ
@@ -80146,20 +80681,22 @@ while 病歷	bìnglì
 澈悟	chèwù
 澍	shù
 澎大海	péngdàhǎi
-澎湃	péngpài
+澎湃	pēngpài
 澎湖	Pénghú
-澎湖列岛	Pénghú lièdǎo
-澎湖列島	Pénghú lièdǎo
+澎湖列岛	Pénghú Lièdǎo
+澎湖列島	Pénghú Lièdǎo
 澎湖岛	Pénghúdǎo
 澎湖島	Pénghúdǎo
-澎湖群岛	Pénghú qúndǎo
-澎湖群島	Pénghú qúndǎo
+澎湖群岛	Pénghú Qúndǎo
+澎湖群島	Pénghú Qúndǎo
+澎濞	pēngpì
 澗	jiàn
 澗口	Jiànkǒu
 澗池	Jiànchí
 澜沧江	Láncāng Jiāng
 澠池	Miǎnchí
 澡堂	zǎotáng
+澡堂子	zǎotángzi
 澡盆	zǎopén
 澡盆盆	Sichuan
 澡雪	zǎoxuě
@@ -80200,7 +80737,7 @@ while 病歷	bìnglì
 澳式足球	Àoshì zúqiú
 澳抗	àokàng
 澳新	Ào-Xīn
-澳新银行	àoxīnyínxíng
+澳新銀行 / 澳新银行	Ào Xīn Yínháng
 澳氹大橋 / 澳氹大桥	Ào Dàng Dàqiáo
 澳洲	Àozhōu
 澳洲	Ò-chiu
@@ -80452,6 +80989,7 @@ while 病歷	bìnglì
 瀝酒	lìjiǔ
 瀝青	lìqīng
 瀝青鈾礦	lìqīng yóukuàng
+瀟水	Xiāoshuǐ
 瀟湘	Xiāoxiāng
 瀟瀟	xiāoxiāo
 瀟灑	xiāosǎ
@@ -80513,6 +81051,7 @@ while 病歷	bìnglì
 灣潭	Wāntán
 灣灣	Wānwān
 灤州	Luánzhōu
+灤河	Luánhé
 火	fo²
 火	fó
 火	hóe, hé
@@ -80587,6 +81126,7 @@ while 病歷	bìnglì
 火枪	huǒqiāng
 火柴	huǒchái
 火柴盒	huǒcháihé
+火柴頭 / 火柴头	huǒchái tóu
 火柿子	huǒshìzi
 火树银花	huǒshùyínhuā
 火槍	huǒqiāng
@@ -80595,6 +81135,7 @@ while 病歷	bìnglì
 火氣	huǒqì
 火油	huǒyóu
 火海	huǒhǎi
+火漆	huǒqī
 火災	huǒzāi
 火灾	huǒzāi
 火炉	huǒlú
@@ -80785,7 +81326,7 @@ while 病歷	bìnglì
 灰泥	huīní
 灰浆	huījiāng
 灰漿	huījiāng
-灰濛蒙	huīméngméng
+灰濛濛	huīméngméng
 灰烬	huījìn
 灰熊	huīxióng
 灰燼	huījìn
@@ -80843,6 +81384,7 @@ while 病歷	bìnglì
 灵物	língwù
 灵犀	língxī
 灵猫	língmāo
+灵界	língjiè
 灵芝	língzhī
 灵车	língchē
 灵通	língtōng
@@ -81143,6 +81685,7 @@ while 病歷	bìnglì
 為什麼	wèishénme
 為伍	wéiwǔ
 為何	wèihé
+為公平起見 / 为公平起见	wèi gōngpíng qǐjiàn
 為叢驅爵 / 为丛驱爵	wèicóngqūjué
 為叢驅雀	wèicóngqūquè
 為咗	wai6 zo2
@@ -81162,6 +81705,7 @@ while 病歷	bìnglì
 為期	wéiqī
 為止	wéizhǐ
 為此	wèicǐ
+為民服務 / 为民服务	wèi mín fúwù
 為淵驅魚	wèiyuānqūyú
 為生	wéishēng
 為著	wèizhe
@@ -81251,6 +81795,7 @@ while 病歷	bìnglì
 烏桕	wūjiù
 烏梁海	Wūliánghǎi
 烏梅	wūméi
+烏梅 / 乌梅	wūméi
 烏江	Wūjiāng
 烏泰他尼	Wūtàitāní
 烏洛侯	Wūluòhóu
@@ -81279,6 +81824,7 @@ while 病歷	bìnglì
 烏賊	wūzéi
 烏賊骨	wūzéigǔ
 烏賊魚	wūzéiyú
+烏都語	wūdūyǔ
 烏醋	wūcù
 烏金	wūjīn
 烏雞	wūjī
@@ -81504,6 +82050,7 @@ while 病歷	bìnglì
 热力瑜伽	rèlì yújiā
 热加工	rèjiāgōng
 热化学	rèhuàxué
+热化学卡	rèhuàxuékǎ
 热可可	rèkěkě
 热和	rèhuo
 热天	rètiān
@@ -81517,6 +82064,7 @@ while 病歷	bìnglì
 热带气旋	rèdài qìxuán
 热带雨林	rèdài yǔlín
 热带风暴	rèdài fēngbào
+热带鱼	rèdàiyú
 热干面	règānmiàn
 热度	rèdù
 热心	rèxīn
@@ -81562,6 +82110,7 @@ while 病歷	bìnglì
 热能	rènéng
 热菜	rècài
 热血	rèxuè
+热血动物	rèxuè dòngwù
 热补	rèbǔ
 热衰竭	rèshuāijié
 热衷	rèzhōng
@@ -81605,6 +82154,9 @@ while 病歷	bìnglì
 烹龙煮凤	pēnglóngzhǔfèng
 烽	fēng
 烽火	fēnghuǒ
+烽火台	fēnghuǒtái
+烽火臺	fēnghuǒtái
+烽火臺 / 烽火台	fēnghuǒtái
 烽烟	fēngyān
 烽烟四起	fēngyānsìqǐ
 烽煙	fēngyān
@@ -81981,6 +82533,7 @@ while 病歷	bìnglì
 無解	wújiě
 無言	wúyán
 無言以對	wúyányǐduì
+無言以對 / 无言以对	wúyányǐduì
 無計	wújì
 無計可施	wújìkěshī
 無記名投票	wújìmíng tóupiào
@@ -82010,6 +82563,7 @@ while 病歷	bìnglì
 無邊	wúbiān
 無邊 / 无边	wúbiān
 無邊無際	wúbiānwújì
+無邊無際 / 无边无际	wúbiānwújì
 無邪	wúxié
 無酬	wúchóu
 無重力	wúzhònglì
@@ -82202,6 +82756,7 @@ while 病歷	bìnglì
 煙霧彈	yānwùdàn
 煙霧探測器	yānwù tàncèqì
 煙頭	yāntóu
+煙頭 / 烟头	yāntóu
 煙館	yānguǎn
 煙鬼	yānguǐ
 煙鬼 / 烟鬼	yānguǐ
@@ -82224,6 +82779,7 @@ while 病歷	bìnglì
 煤氣	méiqì
 煤氣灶	méiqìzào
 煤氣爐	méiqìlú
+煤氣罐炸了。 / 煤气罐炸了。	Méiqì guàn zhà le.
 煤油	méiyóu
 煤油取暖器	méiyóu qǔnuǎnqì
 煤渣	méizhā
@@ -82493,6 +83049,7 @@ while 病歷	bìnglì
 熱力瑜伽	rèlì yújiā
 熱加工	rèjiāgōng
 熱化學	rèhuàxué
+熱化學卡	rèhuàxuékǎ
 熱可可	rèkěkě
 熱和	rèhuo
 熱天	rètiān
@@ -82504,6 +83061,7 @@ while 病歷	bìnglì
 熱帶氣旋	rèdài qìxuán
 熱帶雨林	rèdài yǔlín
 熱帶風暴	rèdài fēngbào
+熱帶魚	rèdàiyú
 熱度	rèdù
 熱得要命 / 热得要命	rè de yàomìng
 熱心	rèxīn
@@ -82554,6 +83112,7 @@ while 病歷	bìnglì
 熱能	rènéng
 熱菜	rècài
 熱血	rèxuè
+熱血動物	rèxuè dòngwù
 熱血青年 / 热血青年	rèxuè qīngnián
 熱衰竭	rèshuāijié
 熱衷	rèzhōng
@@ -83307,9 +83866,9 @@ while 病歷	bìnglì
 牛人	niúrén
 牛仔	niúzǎi
 牛仔布	niúzǎibù
-牛仔毋捌虎	gû-á m̄-pat hó͘
 牛仔裤	niúzǎikù
 牛仔褲	niúzǎikù
+牛仔骨	niúzǎigǔ
 牛刀	niúdāo
 牛叉	niúchā
 牛圈	niújuàn
@@ -84052,6 +84611,7 @@ while 病歷	bìnglì
 狗咬吕洞宾	gǒu yǎo Lǚ Dòngbīn
 狗咬呂洞賓	gǒu yǎo Lǚ Dòngbīn
 狗咬狗	gǒuyǎogǒu
+狗子	gǒuzi
 狗官	gǒuguān
 狗尾巴草	gǒuwěibacǎo
 狗尾草	gǒuwěicǎo
@@ -84670,6 +85230,7 @@ while 病歷	bìnglì
 獲益	huòyì
 獲益匪淺	huòyìfěiqiǎn
 獲益良多	huòyìliángduō
+獲知	huòzhī
 獲罪	huòzuì
 獲聘	huòpìn
 獲致	huòzhì
@@ -84696,6 +85257,7 @@ while 病歷	bìnglì
 獸性	shòuxìng
 獸慾	shòuyù
 獸皮	shòupí
+獸穴	shòuxué
 獸行	shòuxíng
 獸迷 / 兽迷	shòumí
 獸醫	shòuyī
@@ -84785,6 +85347,7 @@ while 病歷	bìnglì
 玉搔头	yùsāotóu
 玉搔頭	yùsāotóu
 玉枕薯	yùzhěnshǔ
+玉林	Yùlín
 玉树	yùshù
 玉树临风	yùshùlínfēng
 玉楼	yùlóu
@@ -84951,9 +85514,11 @@ while 病歷	bìnglì
 王滩	Wángtān
 王灘	Wángtān
 王爷	wángye
+王爷庙	wángyémiào
 王爷府	wángyefǔ
 王爺	wángye
 王爺府	wángyefǔ
+王爺廟	wángyémiào
 王牌	wángpái
 王畿	wángjī
 王綱	wánggāng
@@ -85364,6 +85929,7 @@ while 病歷	bìnglì
 現出	xiànchū
 現在	xiànzài
 現在分詞	xiànzài fēncí
+現在幾比幾？ / 现在几比几？	Xiànzài jǐ bǐ jǐ?
 現在幾點了？ / 现在几点了？	Xiànzài jǐdiǎn le?
 現在時	xiànzàishí
 現在的情況 / 现在的情况	xiànzài de qíngkuàng
@@ -85521,6 +86087,7 @@ while 病歷	bìnglì
 理想社會 / 理想社会	lǐxiǎng shèhuì
 理想鄉	lǐxiǎngxiāng
 理應	lǐyīng
+理應如此 / 理应如此	lǐyīng rúcǐ
 理所当然	lǐsuǒdāngrán
 理所當然	lǐsuǒdāngrán
 理据	lǐjù
@@ -85892,9 +86459,12 @@ while 病歷	bìnglì
 瓦埠	Wǎbù
 瓦屋	wǎwū
 瓦工	wǎgōng
+瓦当	wǎdāng
 瓦房	wǎfáng
 瓦拉多利德	Wǎlāduōlìdé
 瓦斯	wǎsī
+瓦斯炉	wǎsīlú
+瓦斯爐	wǎsīlú
 瓦杜兹	Wǎdùzī
 瓦杜茲	Wǎdùzī
 瓦松	wǎsōng
@@ -85903,6 +86473,7 @@ while 病歷	bìnglì
 瓦格纳	Wǎgénà
 瓦片	wǎpiàn
 瓦特	wǎtè
+瓦當	wǎdāng
 瓦石峡	Wǎshíxiá
 瓦石峽	Wǎshíxiá
 瓦砾	wǎlì
@@ -85971,6 +86542,7 @@ while 病歷	bìnglì
 甕	wèng
 甕中捉鱉	wèngzhōngzhuōbiē
 甕城	wèngchéng
+甘	gān
 甘える	amaeru
 甘井先竭	gānjǐngxiānjié
 甘休	gānxiū
@@ -86044,6 +86616,7 @@ while 病歷	bìnglì
 甚至于	shènzhìyú
 甚至於	shènzhìyú
 甚麼	shénme
+甜	tián
 甜不辣	tiánbùlà
 甜味	tiánwèi
 甜味剂	tiánwèijì
@@ -86171,7 +86744,6 @@ while 病歷	bìnglì
 生命體徵	shēngmìng tǐzhēng
 生員	shēngyuán
 生啤	shēngpí
-生啤酒	shēngpíjiǔ
 生地	shēngdì
 生地黃	shēngdìhuáng
 生地黄	shēngdìhuáng
@@ -86799,6 +87371,7 @@ while 病歷	bìnglì
 甲乙丙丁	jiǎyǐbǐngdīng
 甲亢	jiǎkàng
 甲仙	Jiǎxiān
+甲促素	jiǎcùsù
 甲兵	jiǎbīng
 甲功報告 / 甲功报告	jiǎgōng bàogào
 甲午战争	Jiǎwǔ Zhànzhēng
@@ -86820,6 +87393,7 @@ while 病歷	bìnglì
 甲壳动物	jiǎqiào dòngwù
 甲壳虫	jiǎqiàochóng
 甲子	jiǎzǐ
+甲方	jiǎ fāng
 甲方	jiǎfāng
 甲板	jiǎbǎn
 甲殼	jiǎqiào
@@ -86827,11 +87401,13 @@ while 病歷	bìnglì
 甲殼蟲	jiǎqiàochóng
 甲烷	jiǎwán
 甲状旁腺	jiǎzhuàngpángxiàn
+甲状旁腺素	jiǎzhuàngpángxiànsù
 甲状腺	jiǎzhuàngxiàn
 甲状腺素	jiǎzhuàngxiànsù
 甲状腺肿	jiǎzhuàngxiànzhǒng
 甲状软骨	jiǎzhuàng ruǎngǔ
 甲狀旁腺	jiǎzhuàngpángxiàn
+甲狀旁腺素	jiǎzhuàngpángxiànsù
 甲狀腺	jiǎzhuàngxiàn
 甲狀腺素	jiǎzhuàngxiànsù
 甲狀腺腫	jiǎzhuàngxiànzhǒng
@@ -87220,6 +87796,9 @@ while 病歷	bìnglì
 男子組合	nánzǐ zǔhé
 男子组合	nánzǐ zǔhé
 男孩	nánhái
+男孩儿	nánháir
+男孩兒	nánháir
+男孩兒 / 男孩儿	nánháir
 男孩子	nánháizi
 男寝	nánqǐn
 男寢	nánqǐn
@@ -87392,6 +87971,7 @@ while 病歷	bìnglì
 畏難苟安	wèinángǒu'ān
 畏首畏尾	wèishǒuwèiwěi
 畏𢸣	ùi-ngiau
+畔	pàn
 留	Liǔ
 留⫽下	verb-complement
 留下	liúxià
@@ -87434,6 +88014,8 @@ while 病歷	bìnglì
 留班	liúbān
 留白	liúbái
 留神	liúshén
+留種公豬 / 留种公猪	liúzhǒng gōngzhū
+留種繁殖 / 留种繁殖	liúzhǒng fánzhí
 留級	liújí
 留级	liújí
 留置	liúzhì
@@ -87483,6 +88065,7 @@ while 病歷	bìnglì
 畢業 / 毕业	bìyè
 畢業以來 / 毕业以来	bìyè yǐlái
 畢業典禮 / 毕业典礼	bìyè diǎnlǐ
+畢業後 / 毕业后	bìyè hòu
 畢業生	bìyèshēng
 畢業紀念冊 / 毕业纪念册	bìyè jìniàncè
 畢業論文	bìyè lùnwén
@@ -87531,6 +88114,7 @@ while 病歷	bìnglì
 番禺	Pānyú
 番紅花	fānhónghuā
 番红花	fānhónghuā
+番舶	fānbó
 番芋	fānyù
 番芫荽	fānyánsuī
 番茄	fānqié
@@ -87964,6 +88548,8 @@ while 病歷	bìnglì
 疾行	jíxíng
 疾視	jíshì
 疾视	jíshì
+疾言厉色	jíyánlìsè
+疾言厲色	jíyánlìsè
 疾走	jízǒu
 疾風	jífēng
 疾風勁草	jífēngjìngcǎo
@@ -88160,6 +88746,7 @@ while 病歷	bìnglì
 痛脚	tòngjiǎo
 痛腳	tòngjiǎo
 痛苦	tòngkǔ
+痛苦極了 / 痛苦极了	tòngkǔ jíle
 痛處	tòngchù
 痛覺	tòngjué
 痛觉	tòngjué
@@ -88505,6 +89092,7 @@ while 病歷	bìnglì
 發展不平衡 / 发展不平衡	fāzhǎn bù pínghéng
 發展中	fāzhǎnzhōng
 發展中國家	fāzhǎnzhōng guójiā
+發展中國家 / 发展中国家	fāzhǎn zhōng guójiā
 發展史	fāzhǎnshǐ
 發展壯大 / 发展壮大	fāzhǎn zhuàngdà
 發展太陽能 / 发展太阳能	fāzhǎn tàiyángnéng
@@ -89286,8 +89874,8 @@ while 病歷	bìnglì
 百年不遇	bǎinián-bùyù
 百年之后	bǎiniánzhīhòu
 百年之後	bǎiniánzhīhòu
-百年国耻	bǎinián guóchǐ
-百年國恥	bǎinián guóchǐ
+百年国耻	Bǎinián Guóchǐ
+百年國恥	Bǎinián Guóchǐ
 百年大計	bǎiniándàjì
 百年大计	bǎiniándàjì
 百年好合	bǎiniánhǎohé
@@ -89333,7 +89921,7 @@ while 病歷	bìnglì
 百无一失	bǎiwú-yīshī
 百无一是	bǎiwú-yīshì
 百无禁忌	bǎiwújìnjì
-百无聊赖	bǎiwú-liáolài
+百无聊赖	bǎiwúliáolài
 百日	bǎirì
 百日咳	bǎirìké
 百日咳杆菌	bǎirìké gānjūn
@@ -89359,7 +89947,7 @@ while 病歷	bìnglì
 百無一失	bǎiwú-yīshī
 百無一是	bǎiwú-yīshì
 百無禁忌	bǎiwújìnjì
-百無聊賴	bǎiwú-liáolài
+百無聊賴	bǎiwúliáolài
 百物	bǎiwù
 百獸	bǎishòu
 百病	bǎibìng
@@ -89381,8 +89969,8 @@ while 病歷	bìnglì
 百端待舉	bǎiduān dàijǔ
 百笕河	Bǎijiǎnhé
 百筧河	Bǎijiǎnhé
-百粤	Bǎi Yuè
-百粵	Bǎi Yuè
+百粤	Bǎiyuè
+百粵	Bǎiyuè
 百老匯	Bǎilǎohuì
 百老汇	Bǎilǎohuì
 百聞不如一見	bǎi wén bùrú yī jiàn
@@ -89425,7 +90013,7 @@ while 病歷	bìnglì
 百货公司	bǎihuò gōngsī
 百货商店	bǎihuò shāngdiàn
 百货店	bǎihuòdiàn
-百越	Bǎi Yuè
+百越	Bǎiyuè
 百足	bǎizú
 百足之虫	bǎizúzhīchóng
 百足之蟲	bǎizúzhīchóng
@@ -89870,6 +90458,7 @@ while 病歷	bìnglì
 盘子	pánzi
 盘存	páncún
 盘尼西林	pánníxīlín
+盘山	Pánshān
 盘川	pánchuān
 盘式桥牌	pán shì qiáopái
 盘心	Sichuan
@@ -90059,6 +90648,7 @@ while 病歷	bìnglì
 盤子	pánzi
 盤存	páncún
 盤尼西林	pánníxīlín
+盤山	Pánshān
 盤川	pánchuān
 盤式橋牌	pán shì qiáopái
 盤心	Sichuan
@@ -90203,6 +90793,7 @@ while 病歷	bìnglì
 盲干	mánggàn
 盲幹	mánggàn
 盲從	mángcóng
+盲從 / 盲从	mángcóng
 盲文	mángwén
 盲棋	mángqí
 盲点	mángdiǎn
@@ -90410,6 +91001,7 @@ while 病歷	bìnglì
 相合	xiānghé
 相同	xiāngtóng
 相向	xiāngxiàng
+相向而行	xiàng xiàng ér xíng
 相命	xiàngmìng
 相命者	xiàngmìngzhě
 相和	xiānghè
@@ -90417,6 +91009,7 @@ while 病歷	bìnglì
 相因	xiāngyīn
 相国	xiàngguó
 相國	xiàngguó
+相坐	xiāngzuò
 相声	xiàngsheng
 相处	xiāngchǔ
 相夫教子	xiàngfūjiàozǐ
@@ -90486,11 +91079,13 @@ while 病歷	bìnglì
 相框	xiàngkuàng
 相機	xiàngjī
 相欺	Sichuan
+相比	xiàngbǐ
 相比	xiāngbǐ
 相比之下	xiāngbǐ zhīxià
 相比而言	xiāngbǐ éryán
 相求	xiāngqiú
 相济	xiāngjì
+相激	xiāngjī
 相濟	xiāngjì
 相濡以沫	xiāngrúyǐmò
 相為	xiāngwéi
@@ -90664,6 +91259,7 @@ while 病歷	bìnglì
 眉開眼笑	méikāiyǎnxiào
 眉頭	méitóu
 眉飛色舞	méifēisèwǔ
+眉飛色舞 / 眉飞色舞	méifēisèwǔ
 眉飞色舞	méifēisèwǔ
 眉黛	méidài
 看	kàn
@@ -90682,6 +91278,9 @@ while 病歷	bìnglì
 看不见	kànbujiàn
 看不起	kànbuqǐ
 看不起	kànbùqǐ
+看不过去	kànbuguòqù
+看不過去	kànbuguòqù
+看不開 / 看不开	kàn bù kāi
 看中	kànzhòng
 看书	kànshū
 看似	kànsì
@@ -90708,6 +91307,7 @@ while 病歷	bìnglì
 看家	kānjiā
 看庄	Kànzhuāng
 看座	kànzuò
+看开	kànkāi
 看待	kàndài
 看得懂	kàndedǒng
 看得見	kàndejiàn
@@ -90776,6 +91376,7 @@ while 病歷	bìnglì
 看門	kānmén
 看門人	kānménrén
 看門狗	kānméngǒu
+看開	kànkāi
 看门	kānmén
 看门人	kānménrén
 看门狗	kānméngǒu
@@ -90794,6 +91395,7 @@ while 病歷	bìnglì
 真个	zhēngè
 真主	zhēnzhǔ
 真主党	Zhēnzhǔdǎng
+真主至大	Zhēnzhǔ zhìdà
 真主黨	Zhēnzhǔdǎng
 真书	zhēnshū
 真事	zhēnshì
@@ -90898,8 +91500,6 @@ while 病歷	bìnglì
 真谛	zhēndì
 真跡	zhēnjì
 真迹	zhēnjì
-真金不怕火炼	zhēnjīnbùpàhuǒliàn
-真金不怕火煉	zhēnjīnbùpàhuǒliàn
 真面目	zhēnmiànmù
 眠	mián
 眠床	bîn-chhn̂g
@@ -90998,8 +91598,6 @@ while 病歷	bìnglì
 眼神	yǎnshén
 眼福	yǎnfú
 眼科	yǎnkē
-眼科医生	yǎnkē yīshēng
-眼科醫生	yǎnkē yīshēng
 眼窝	yǎnwō
 眼窩	yǎnwō
 眼簾	yǎnlián
@@ -91144,6 +91742,7 @@ while 病歷	bìnglì
 睡地鋪 / 睡地铺	shuì dìpū
 睡夢	shuìmèng
 睡大覺 / 睡大觉	shuì dàjiào
+睡帽	shuìmào
 睡得很沉	shuì de hěn chén
 睡得很香	shuì de hěn xiāng
 睡得着	shuìdezháo
@@ -91166,6 +91765,7 @@ while 病歷	bìnglì
 睡著	shuìzháo
 睡著	verb-complement
 睡蓮	shuìlián
+睡蓮 / 睡莲	shuìlián
 睡衣	shuìyī
 睡袋	shuìdài
 睡袍	shuìpáo
@@ -91746,7 +92346,7 @@ while 病歷	bìnglì
 石破天驚	shípòtiānjīng
 石硖尾	Shíxiáwěi
 石硤尾	Shíxiáwěi
-石碇	Shídìng
+石碇	shídìng
 石碑	shíbēi
 石碛	Shíqì
 石碱	shíjiǎn
@@ -91766,6 +92366,7 @@ while 病歷	bìnglì
 石胡荽	shíhúsuī
 石膏	shígāo
 石膏工	shígāogōng
+石舫	shífǎng
 石花	shíhuā
 石花菜	shíhuācài
 石苇	shíwěi
@@ -92040,6 +92641,8 @@ while 病歷	bìnglì
 破綻	pòzhàn
 破约	pòyuē
 破绽	pòzhàn
+破罐子破摔	pò guànzi pò shuāi
+破罐破摔	pò guàn pò shuāi
 破舊	pòjiù
 破获	pòhuò
 破落	pòluò
@@ -92373,6 +92976,7 @@ while 病歷	bìnglì
 碑铭	bēimíng
 碑阴	bēiyīn
 碑陰	bēiyīn
+碑陰 / 碑阴	bēiyīn
 碓臼	duìjiù
 碗仔翅	wǎnzǎichì
 碗儿糕	wǎnrgāo
@@ -92390,6 +92994,7 @@ while 病歷	bìnglì
 碗粿	wǎnguǒ
 碗糕	wǎngāo
 碗豚底	Huizhou
+碗邊兒 / 碗边儿	wǎn biānr
 碘乙烷	diǎnyǐwán
 碘仿	diǎnfǎng
 碘化氢	diǎnhuàqīng
@@ -92555,6 +93160,7 @@ while 病歷	bìnglì
 確保	quèbǎo
 確保安全 / 确保安全	quèbǎo ānquán
 確信	quèxìn
+確信 / 确信	quèxìn
 確切	quèqiè
 確定	quèdìng
 確定性	quèdìngxìng
@@ -92754,6 +93360,7 @@ while 病歷	bìnglì
 礦夫	kuàngfū
 礦山	kuàngshān
 礦工	kuànggōng
+礦工 / 矿工	kuànggōng
 礦床	kuàngchuáng
 礦業	kuàngyè
 礦泉	kuàngquán
@@ -92897,7 +93504,7 @@ while 病歷	bìnglì
 社会行为	shèhuì xíngwéi
 社会规范	shèhuì guīfàn
 社会角色	shèhuì juésè
-社会语言学	shèhuìyǔyánxué
+社会语言学	shèhuì yǔyánxué
 社会问题	shèhuì wèntí
 社会阶层	shèhuì jiēcéng
 社会阶级	shèhuì jiējí
@@ -92986,7 +93593,7 @@ while 病歷	bìnglì
 社會行為	shèhuì xíngwéi
 社會規範	shèhuì guīfàn
 社會角色	shèhuì juésè
-社會語言學	shèhuìyǔyánxué
+社會語言學	shèhuì yǔyánxué
 社會階層	shèhuì jiēcéng
 社會階級	shèhuì jiējí
 社會青年	shèhuì qīngnián
@@ -93020,7 +93627,9 @@ while 病歷	bìnglì
 祁巷	Qíxiàng
 祁曼塔格	Qímàntǎgé
 祁東	Qídōng
+祁紅	qíhóng
 祁縣	Qíxiàn
+祁红	qíhóng
 祁连	Qílián
 祁连山	Qílián Shān
 祁連	Qílián
@@ -93267,7 +93876,7 @@ while 病歷	bìnglì
 神經纖維	shénjīngxiānwéi
 神經衝動	shénjīng chōngdòng
 神經衰弱	shénjīng shuāiruò
-神經語言學	shénjīngyǔyánxué
+神經語言學	shénjīng yǔyánxué
 神經質	shénjīngzhì
 神經過敏	shénjīng guòmǐn
 神經鞘瘤	shénjīngqiàoliú
@@ -93301,7 +93910,7 @@ while 病歷	bìnglì
 神经网络	shénjīng wǎngluò
 神经网路	shénjīng wǎnglù
 神经衰弱	shénjīng shuāiruò
-神经语言学	shénjīngyǔyánxué
+神经语言学	shénjīng yǔyánxué
 神经质	shénjīngzhì
 神经过敏	shénjīng guòmǐn
 神经鞘瘤	shénjīngqiàoliú
@@ -93435,6 +94044,7 @@ while 病歷	bìnglì
 祸根	huògēn
 祸殃	huòyāng
 祸水	huòshuǐ
+祸生肘腋	huòshēngzhǒuyè
 祸祟	huòsuì
 祸福	huòfú
 祸胎	huòtāi
@@ -93548,6 +94158,7 @@ while 病歷	bìnglì
 禍根	huògēn
 禍殃	huòyāng
 禍水	huòshuǐ
+禍生肘腋	huòshēngzhǒuyè
 禍祟	huòsuì
 禍福	huòfú
 禍胎	huòtāi
@@ -93627,6 +94238,7 @@ while 病歷	bìnglì
 福田河	Fútiánhé
 福相	fúxiàng
 福祉	fúzhǐ
+福祚	fúzuò
 福祿	fúlù
 福祿壽	Fú-Lù-Shòu
 福祿考	fúlùkǎo
@@ -93858,6 +94470,7 @@ while 病歷	bìnglì
 私奔	sībēn
 私娼	sīchāng
 私学	sīxué
+私孩子	sīháizi
 私學	sīxué
 私家	sījiā
 私家侦探	sījiā zhēntàn
@@ -94222,6 +94835,7 @@ while 病歷	bìnglì
 秤盤子	chèngpánzi
 秤砣	chèngtuó
 秤紐	chèngniǔ
+秤紐 / 秤纽	chèngniǔ
 秤纽	chèngniǔ
 秤鉤	chènggōu
 秤錘	chèngchuí
@@ -94311,6 +94925,7 @@ while 病歷	bìnglì
 称	chēng
 称为	chēngwéi
 称义	chēngyì
+称兄道弟	chēngxiōngdàodì
 称号	chēnghào
 称呼	chēnghū
 称孤	chēnggū
@@ -94599,14 +95214,18 @@ while 病歷	bìnglì
 種花	zhònghuā
 種花 / 种花	zhònghuā
 種花家	Zhònghuājiā
+種茶 / 种茶	zhǒng chá
 種草	zhòngcǎo
 種質資源 / 种质资源	zhǒngzhì zīyuán
 種類	zhǒnglèi
 種馬	zhǒngmǎ
+稱兄道弟	chēngxiōngdàodì
+稱兄道弟 / 称兄道弟	chēngxiōngdàodì
 稱呼	chēnghū
 稱孤	chēnggū
 稱尊	chēngzūn
 稱帝	chēngdì
+稱帝 / 称帝	chēngdì
 稱引	chēngyǐn
 稱得上	chēngdeshàng
 稱心	chènxīn
@@ -94637,6 +95256,7 @@ while 病歷	bìnglì
 稱雄	chēngxióng
 稱霸	chēngbà
 稱頌	chēngsòng
+稱頌 / 称颂	chēngsòng
 稳	wěn
 稳住	wěnzhù
 稳便	wěnbiàn
@@ -94651,6 +95271,7 @@ while 病歷	bìnglì
 稳态	wěntài
 稳扎稳打	wěnzhāwěndǎ
 稳操胜券	wěncāoshèngquàn
+稳赚不赔	wěnzhuànbùpéi
 稳重	wěnzhòng
 稳阵	wan2 zan6
 稻	dào
@@ -94752,6 +95373,7 @@ while 病歷	bìnglì
 積蓄	jīxù
 積遜	Jīxùn
 積重難返	jīzhòngnánfǎn
+積陰德 / 积阴德	jī yīndé
 積雨雲	jīyǔyún
 積雪	jīxuě
 積雪草	jīxuěcǎo
@@ -94788,6 +95410,7 @@ while 病歷	bìnglì
 穩操勝券	wěncāoshèngquàn
 穩當	wěndang
 穩紮穩打	wěnzhāwěndǎ
+穩賺不賠	wěnzhuànbùpéi
 穩重	wěnzhòng
 穩陣	wan2 zan6
 穰	ráng
@@ -94938,6 +95561,7 @@ while 病歷	bìnglì
 空白	kòngbái
 空白点	kòngbáidiǎn
 空白點	kòngbáidiǎn
+空穴	kǒngxué
 空穴來風	kōngxuéláifēng
 空穴来风	kōngxuéláifēng
 空空如也	kōngkōngrúyě
@@ -95003,10 +95627,12 @@ while 病歷	bìnglì
 空間科學	kōngjiān kēxué
 空間站	kōngjiānzhàn
 空間群	kōngjiānqún
+空間複雜度	kōngjiān fùzádù
 空闊	kōngkuò
 空闲	kòngxián
 空间	kōngjiān
 空间主义	kōngjiānzhǔyì
+空间复杂度	kōngjiān fùzádù
 空间实验室	kōngjiān shíyànshì
 空间技术	kōngjiān jìshù
 空间探测器	kōngjiān tàncèqì
@@ -95038,6 +95664,7 @@ while 病歷	bìnglì
 穿凿	chuānzáo
 穿凿附会	chuānzáofùhuì
 穿刺	chuāncì
+穿堂	chuāntáng
 穿孔	chuānkǒng
 穿孝	chuānxiào
 穿小鞋	chuān xiǎoxié
@@ -95047,6 +95674,7 @@ while 病歷	bìnglì
 穿幫	chuānbāng
 穿心莲	chuānxīnlián
 穿心蓮	chuānxīnlián
+穿心蓮 / 穿心莲	chuānxīnlián
 穿戴	chuāndài
 穿插	chhēng-chhah
 穿插	chuānchā
@@ -95522,6 +96150,7 @@ while 病歷	bìnglì
 章鱼	zhāngyú
 章鱼烧	zhāngyúshāo
 竣工	jùngōng
+童便	tóngbiàn
 童党	tóngdǎng
 童养媳	tóngyǎngxí
 童军	tóngjūn
@@ -95545,6 +96174,7 @@ while 病歷	bìnglì
 童牛角馬	tóng niú jué mǎ
 童牛角马	tóng niú jué mǎ
 童生	tóngshēng
+童男童女	tóngnántóngnǚ
 童真	tóngzhēn
 童稚	tóngzhì
 童童	tóngtóng
@@ -95757,6 +96387,7 @@ while 病歷	bìnglì
 笋	sǔn
 笋子	sǔnzi
 笋干	sǔngān
+笋粿	sǔnguǒ
 笏	hù
 笑剧	xiàojù
 笑劇	xiàojù
@@ -96085,6 +96716,7 @@ while 病歷	bìnglì
 筆資	bǐzī
 筆走龍蛇	bǐzǒulóngshé
 筆跡	bǐjì
+筆跡 / 笔迹	bǐjì
 筆路	bǐlù
 筆鉛	bǐqiān
 筆鋒	bǐfēng
@@ -96133,6 +96765,8 @@ while 病歷	bìnglì
 等比中项	děngbǐ zhōngxiàng
 等比数列	děngbǐ shùliè
 等比數列	děngbǐ shùliè
+等温线	děngwēnxiàn
+等溫線	děngwēnxiàn
 等离子体	děnglízǐtǐ
 等等	děngděng
 等級	děngjí
@@ -96170,6 +96804,7 @@ while 病歷	bìnglì
 筍	sǔn
 筍乾	sǔngān
 筍子	sǔnzi
+筍粿	sǔnguǒ
 筏子	fázi
 筐	kuāng
 筐子	kuāngzi
@@ -96618,6 +97253,7 @@ while 病歷	bìnglì
 篩骨	shāigǔ
 篮协	lánxié
 篮圈	lánquān
+篮坛	lántán
 篮子	lánzi
 篮板球	lánbǎnqiú
 篮框	lánkuàng
@@ -96761,6 +97397,7 @@ while 病歷	bìnglì
 籀書	zhòushū
 籃協	lánxié
 籃圈	lánquān
+籃壇	lántán
 籃子	lánzi
 籃板球	lánbǎnqiú
 籃框	lánkuàng
@@ -96899,8 +97536,6 @@ while 病歷	bìnglì
 籿	cùn
 粀	zhàng
 粁	qiān
-粄条	bǎntiáo
-粄條	bǎntiáo
 粉	fěn
 粉专	fěnzhuān
 粉丝	fan² si¹, fen¹ si²
@@ -97060,12 +97695,14 @@ while 病歷	bìnglì
 粤东	Yuèdōng
 粤剧	yuèjù
 粤北	Yuèběi
+粤匪	yuèfěi
 粤拼	yuèpīn
 粤教中	yuèjiàozhōng
 粤方言	yuèfāngyán
 粤曲	yuèqǔ
 粤江	Yuèjiāng
 粤海	Yuèhǎi
+粤省	Yuèshěng
 粤胡	yuèhú
 粤菜	yuècài
 粤西	Yuèxī
@@ -97113,6 +97750,7 @@ while 病歷	bìnglì
 粳米	jīngmǐ
 粵劇	yuèjù
 粵北	Yuèběi
+粵匪	yuèfěi
 粵拼	yuèpīn
 粵教中	yuèjiàozhōng
 粵方言	yuèfāngyán
@@ -97120,6 +97758,7 @@ while 病歷	bìnglì
 粵東	Yuèdōng
 粵江	Yuèjiāng
 粵海	Yuèhǎi
+粵省	Yuèshěng
 粵胡	yuèhú
 粵菜	yuècài
 粵西	Yuèxī
@@ -97422,6 +98061,7 @@ while 病歷	bìnglì
 糞門	fènmén
 糞青	fènqīng
 糟坊	zāofáng
+糟朽	zāoxiǔ
 糟粕	zāopò
 糟糕	zāogāo
 糟糠	zāokāng
@@ -97699,6 +98339,7 @@ while 病歷	bìnglì
 紅細胞	hóngxìbāo
 紅絳絳	âng-kòng-kòng
 紅綠燈	hónglǜdēng
+紅綠色盲 / 红绿色盲	hónglǜ sèmáng
 紅線	hóngxiàn
 紅肉	hóngròu
 紅脖子	hóngbózi
@@ -97793,6 +98434,7 @@ while 病歷	bìnglì
 紋章	wénzhāng
 紋章學	wénzhāngxué
 紋路	wénlù
+紋路 / 纹路	wénlù
 紋身	wénshēn
 紋身 纹身	wénshēn
 紋身藝術家	wénshēn yìshùjiā
@@ -97834,11 +98476,14 @@ while 病歷	bìnglì
 納鴻	Nàhóng
 紐京	Niǔjīng
 紐修威	Niǔxiūwēi
+紐元	niǔyuán
 紐卡斯爾	Niǔkǎsī'ěr
 紐卡素	Niǔkǎsù
 紐奧良	Niǔ-Àoliáng
 紐威士緬士打	Niǔ Wēishìmiǎnshìdǎ
 紐帶	niǔdài
+紐帶 / 纽带	niǔdài
+紐幣	niǔbì
 紐扣	niǔkòu
 紐扣 / 纽扣	niǔkòu
 紐澤西	Niǔzéxī
@@ -97852,6 +98497,7 @@ while 病歷	bìnglì
 紐華克	Niǔhuákè
 紐襻	niǔpàn
 紐西蘭	Niǔxīlán
+紐西蘭元	niǔxīlányuán
 紐賓士域	Niǔ-Bīnshìyù
 紓困	shūkùn
 紓解	shūjiě
@@ -97875,6 +98521,7 @@ while 病歷	bìnglì
 純情	chúnqíng
 純摯	chúnzhì
 純文學	chúnwénxué
+純文本	chúnwénběn
 純棉	chúnmián
 純樸	chúnpǔ
 純正	chúnzhèng
@@ -97941,6 +98588,7 @@ while 病歷	bìnglì
 紙牌卜卦	zhǐpái bǔguà
 紙牌占卜	zhǐpái zhānbǔ
 紙牌遊戲	zhǐpái yóuxì
+紙皮	zhǐpí
 紙盒	zhǐhé
 紙盤遊戲	zhǐpán yóuxì
 紙箱	zhǐxiāng
@@ -97979,6 +98627,7 @@ while 病歷	bìnglì
 紛繁	fēnfán
 紛至沓來	fēnzhìtàlái
 紛雜	fēnzá
+素不往來 / 素不往来	sù bù wǎnglái
 素不相識	sùbùxiāngshí
 素不相识	sùbùxiāngshí
 素人	sùrén
@@ -98009,6 +98658,7 @@ while 病歷	bìnglì
 素油	sùyóu
 素淡	sùdàn
 素淨	sùjing
+素淨 / 素净	sùjìng
 素王	sùwáng
 素知	sùzhī
 素色	sùsè
@@ -98016,6 +98666,7 @@ while 病歷	bìnglì
 素菜館	sùcàiguǎn
 素菜馆	sùcàiguǎn
 素質	sùzhì
+素質 / 素质	sùzhì
 素質差！ / 素质差！	Sùzhì chā!
 素質教育	sùzhì jiàoyù
 素质	sùzhì
@@ -98309,7 +98960,9 @@ while 病歷	bìnglì
 紹介	shàojiè
 紹興	Shàoxīng
 紹興酒	Shàoxīngjiǔ
+紹酒	shàojiǔ
 紺	gàn
+終	zhōng
 終久	zhōngjiǔ
 終了	zhōngliǎo
 終南山	Zhōngnán Shān
@@ -98426,6 +99079,7 @@ while 病歷	bìnglì
 結末	jiémò
 結束	jiéshù
 結束 / 结束	jiéshù
+結束學習	jiéshù xuéxí
 結束語	jiéshùyǔ
 結果	jiéguǒ
 結果 / 结果	jiéguǒ
@@ -98595,6 +99249,7 @@ while 病歷	bìnglì
 給予 / 给予	jǐyǔ
 給予財政資助 / 给予财政资助	jǐyǔ cáizhèng zīzhù
 給他一個驚喜 / 给他一个惊喜	gěi tā yī ge jīngxǐ
+給他留面子 / 给他留面子	gěi tā liú miànzǐ
 給付	jǐfù
 給以	gěiyǐ
 給你一個吻 / 给你一个吻	gěi nǐ yīge wěn
@@ -98720,6 +99375,7 @@ while 病歷	bìnglì
 經典力學	jīngdiǎn lìxué
 經典版 / 经典版	jīngdiǎn bǎn
 經典老歌 / 经典老歌	jīngdiǎn lǎogē
+經卷	jīngjuàn
 經受	jīngshòu
 經史子集	jīngshǐzǐjí
 經合組織	Jīnghé Zǔzhī
@@ -98960,6 +99616,7 @@ while 病歷	bìnglì
 維生	wéishēng
 維生工資	wéishēng gōngzī
 維生素	wéishēngsù
+維生素 / 维生素	wéishēngsù
 維生素D	wéishēngsù-dì
 維管束	wéiguǎnshù
 維納斯	Wéinàsī
@@ -98992,9 +99649,11 @@ while 病歷	bìnglì
 網市	Wǎngshì
 網店	wǎngdiàn
 網文	wǎngwén
+網暴	wǎngbào
 網格	wǎnggé
 網格 / 网格	wǎnggé
 網民	wǎngmín
+網爆	wǎngbào
 網狀細胞	wǎngzhuàng xìbāo
 網狀結構	wǎngzhuàng jiégòu
 網狀網絡	wǎngzhuàng wǎngluò
@@ -99332,8 +99991,10 @@ while 病歷	bìnglì
 縣令	xiànlìng
 縣份	xiànfèn
 縣城	xiànchéng
+縣境	xiànjìng
 縣太爺	xiàntàiyé
 縣官	xiànguān
+縣宰 / 县宰	xiànzǎi
 縣尉	xiànwèi
 縣府	xiànfǔ
 縣志	xiànzhì
@@ -99355,6 +100016,7 @@ while 病歷	bìnglì
 縫縫補補	féngféngbǔbǔ
 縫補	féngbǔ
 縫製	féngzhì
+縫製 / 缝制	féngzhì
 縫隙	fèngxì
 縮	suō
 縮印	suōyìn
@@ -99445,6 +100107,7 @@ while 病歷	bìnglì
 總攬	zǒnglǎn
 總數	zǒngshù
 總是	zǒngshì
+總書記	zǒngshūjì
 總會	zǒnghuì
 總有一天 / 总有一天	zǒng yǒu yītiān
 總機	zǒngjī
@@ -99536,6 +100199,8 @@ while 病歷	bìnglì
 繁體	fántǐ
 繁體中文	fántǐ zhōngwén
 繁體字	fántǐzì
+繃	bèng
+繃	bēng
 繃不住	bēngbùzhù
 繃場面	bēng chǎngmiàn
 繃子	bēngzi
@@ -99610,6 +100275,7 @@ while 病歷	bìnglì
 繳稅	jiǎoshuì
 繳納	jiǎonà
 繳費	jiǎofèi
+繳費憑條 / 缴费凭条	jiǎofèi píngtiáo
 繳費窗口 / 缴费窗口	jiǎofèi chuāngkǒu
 繳還	jiǎohuán
 繼任	jìrèn
@@ -100011,6 +100677,7 @@ while 病歷	bìnglì
 纯情	chúnqíng
 纯挚	chúnzhì
 纯文学	chúnwénxué
+纯文本	chúnwénběn
 纯朴	chúnpǔ
 纯棉	chúnmián
 纯正	chúnzhèng
@@ -100163,6 +100830,7 @@ while 病歷	bìnglì
 纸牌卜卦	zhǐpái bǔguà
 纸牌占卜	zhǐpái zhānbǔ
 纸牌游戏	zhǐpái yóuxì
+纸皮	zhǐpí
 纸盒	zhǐhé
 纸盘游戏	zhǐpán yóuxì
 纸箱	zhǐxiāng
@@ -100209,12 +100877,14 @@ while 病歷	bìnglì
 纽丝纶	Niǔsīlún
 纽京	Niǔjīng
 纽修威	Niǔxiūwēi
+纽元	niǔyuán
 纽华克	Niǔhuákè
 纽卡斯尔	Niǔkǎsī'ěr
 纽卡素	Niǔkǎsù
 纽奥良	Niǔ-Àoliáng
 纽威士缅士打	Niǔ Wēishìmiǎnshìdǎ
 纽宾士域	Niǔ-Bīnshìyù
+纽币	niǔbì
 纽带	niǔdài
 纽扣	niǔkòu
 纽泽西	Niǔzéxī
@@ -100225,6 +100895,7 @@ while 病歷	bìnglì
 纽英伦	Niǔyīnglún
 纽襻	niǔpàn
 纽西兰	Niǔxīlán
+纽西兰元	niǔxīlányuán
 纾困	shūkùn
 纾解	shūjiě
 线	xiàn
@@ -100396,6 +101067,7 @@ while 病歷	bìnglì
 织物柔软剂	zhīwù róuruǎnjì
 织补	zhībǔ
 织锦	zhījǐn
+终	zhōng
 终久	zhōngjiǔ
 终了	zhōngliǎo
 终于	zhōngyú
@@ -100442,6 +101114,7 @@ while 病歷	bìnglì
 绍介	shàojiè
 绍兴	Shàoxīng
 绍兴酒	Shàoxīngjiǔ
+绍酒	shàojiǔ
 经不起	jīngbùqǐ
 经世	jīngshì
 经世济民	jīngshìjìmín
@@ -100453,6 +101126,7 @@ while 病歷	bìnglì
 经典	jīngdiǎn
 经典力学	jīngdiǎn lìxué
 经办	jīngbàn
+经卷	jīngjuàn
 经历	jīnglì
 经受	jīngshòu
 经史子集	jīngshǐzǐjí
@@ -100606,6 +101280,7 @@ while 病歷	bìnglì
 结晶水	jiéjīngshuǐ
 结末	jiémò
 结束	jiéshù
+结束学习	jiéshù xuéxí
 结束语	jiéshùyǔ
 结构	jiégòu
 结构主义	jiégòuzhǔyì
@@ -100951,6 +101626,8 @@ while 病歷	bìnglì
 绵长	miáncháng
 绵阳	Miányáng
 绶带	shòudài
+绷	bèng
+绷	bēng
 绷不住	bēngbùzhù
 绷场面	bēng chǎngmiàn
 绷子	bēngzi
@@ -101305,8 +101982,10 @@ while 病歷	bìnglì
 网开一面	wǎngkāiyīmiàn
 网志	wǎngzhì
 网文	wǎngwén
+网暴	wǎngbào
 网格	wǎnggé
 网民	wǎngmín
+网爆	wǎngbào
 网状细胞	wǎngzhuàng xìbāo
 网状结构	wǎngzhuàng jiégòu
 网状网络	wǎngzhuàng wǎngluò
@@ -101548,6 +102227,7 @@ while 病歷	bìnglì
 罷兵	bàbīng
 罷官	bàguān
 罷工	bàgōng
+罷工 / 罢工	bàgōng
 罷市	bàshì
 罷戰	bàzhàn
 罷手	bàshǒu
@@ -101572,6 +102252,7 @@ while 病歷	bìnglì
 羁绊	jībàn
 羅克斯普林	Luókèsīpǔlín
 羅列	luóliè
+羅列 / 罗列	luóliè
 羅剎	Luóchà
 羅剎	luóchà
 羅勒	luólè
@@ -102172,6 +102853,7 @@ while 病歷	bìnglì
 翌日	yìrì
 習主席 / 习主席	Xí zhǔxí
 習以為常	xíyǐwéicháng
+習以為常 / 习以为常	xíyǐwéicháng
 習作	xízuò
 習俗	xísú
 習包子	Xí Bāozi
@@ -102185,10 +102867,12 @@ while 病歷	bìnglì
 習慣法	xíguànfǎ
 習慣用語	xíguàn yòngyǔ
 習武	xíwǔ
+習武 / 习武	xíwǔ
 習氣	xíqì
 習用	xíyòng
 習習	xíxí
 習見	xíjiàn
+習見 / 习见	xíjiàn
 習近平 / 习近平	Xí Jìnpíng
 習非成是	xífēichéngshì
 習題	xítí
@@ -102374,6 +103058,7 @@ while 病歷	bìnglì
 老中医	lǎozhōngyī
 老中醫	lǎozhōngyī
 老中醫 / 老中医	lǎozhōngyī
+老中青	lǎozhōngqīng
 老么	lǎoyāo
 老乡	lǎoxiāng
 老乾媽	lǎogānmā
@@ -102526,10 +103211,8 @@ while 病歷	bìnglì
 老山東 / 老山东	lǎoshāndōng
 老布什	Lǎo Bùshí
 老师	lǎoshī
-老师们	lǎoshīmen
 老師	lǎoshī
 老師 / 老师	lǎoshī
-老師們	lǎoshīmen
 老師好 / 老师好	lǎoshī hǎo
 老師早！ / 老师早！	Lǎoshī zǎo!
 老干妈	lǎogānmā
@@ -103020,7 +103703,6 @@ while 病歷	bìnglì
 耳穴	ěrxué
 耳空	hīⁿ-khang
 耳空重	hīⁿ-khang-tāng
-耳筒	ěrtǒng
 耳罩	ěrzhào
 耳聋	ěrlóng
 耳聞	ěrwén
@@ -103199,6 +103881,7 @@ while 病歷	bìnglì
 联共	liángòng
 联共（布）	Liángòng Bù
 联军	liánjūn
+联句	liánjù
 联合	liánhé
 联合体	liánhétǐ
 联合国	Liánhéguó
@@ -103388,7 +104071,6 @@ while 病歷	bìnglì
 聚斂	jùliǎn
 聚星	jùxīng
 聚會	jùhuì
-聚會 / 聚会	jùhuì
 聚氯乙烯	jùlǜyǐxī
 聚沙成塔	jùshāchéngtǎ
 聚焦	jùjiāo
@@ -103416,7 +104098,7 @@ while 病歷	bìnglì
 聚齐	jùqí
 聞一下 / 闻一下	wén yīxià
 聞一知十	wényīzhīshí
-聞人	wénrén
+聞人	wènrén
 聞名	wénmíng
 聞名天下	wénmíngtiānxià
 聞名於世	wénmíngyúshì
@@ -103439,6 +104121,7 @@ while 病歷	bìnglì
 聪颖	cōngyǐng
 聯共	liángòng
 聯共（布）	Liángòng Bù
+聯句	liánjù
 聯合	liánhé
 聯合國	Liánhéguó
 聯合國大會	Liánhéguó Dàhuì
@@ -103723,6 +104406,7 @@ while 病歷	bìnglì
 肇事	zhàoshì
 肇事者	zhàoshìzhě
 肇事逃逸	zhàoshì táoyì
+肇因	zhàoyīn
 肇基	zhàojī
 肇始	zhàoshǐ
 肇庆	Zhàoqìng
@@ -104277,6 +104961,8 @@ while 病歷	bìnglì
 胃液	wèiyè
 胃溃疡	wèikuìyáng
 胃潰瘍	wèikuìyáng
+胃灼热	wèizhuórè
+胃灼熱	wèizhuórè
 胃炎	wèiyán
 胃病	wèibìng
 胃痉挛	wèijìngluán
@@ -104372,6 +105058,7 @@ while 病歷	bìnglì
 背弃	bèiqì
 背影	bèiyǐng
 背後	bèihòu
+背後 / 背后	bèihòu
 背後的故事 / 背后的故事	bèihòu de gùshi
 背後的目的 / 背后的目的	bèihòu de mùdì
 背心	bèixīn
@@ -104433,6 +105120,7 @@ while 病歷	bìnglì
 背阔肌	bèikuòjī
 背阴	bèiyīn
 背陰	bèiyīn
+背陰 / 背阴	bèiyīn
 背離	bèilí
 背静	bèijìng
 背靜	bèijìng
@@ -105039,7 +105727,6 @@ while 病歷	bìnglì
 脚气	kiok-hi
 脚气病	jiǎoqìbìng
 脚注	jiǎozhù
-脚湿气	Wenzhounese
 脚炉	jiǎolú
 脚瓜	goek3 gwaa1
 脚瓜	goek³ gwaa¹
@@ -105053,7 +105740,6 @@ while 病歷	bìnglì
 脚膝腕	Huizhou
 脚船	jiǎochuán
 脚色	juésè
-脚蚀	Muping
 脚费	Xinzhou
 脚趾	jiǎozhǐ
 脚趾头	jiǎozhǐtóu
@@ -105086,6 +105772,7 @@ while 病歷	bìnglì
 脫位	tuōwèi
 脫俗	tuōsú
 脫光	tuōguāng
+脫光光	tuōguāngguāng
 脫北者	tuōběizhě
 脫去 / 脱去	tuōqù
 脫口	tuōkǒu
@@ -105153,6 +105840,7 @@ while 病歷	bìnglì
 脱位	tuōwèi
 脱俗	tuōsú
 脱光	tuōguāng
+脱光光	tuōguāngguāng
 脱北者	tuōběizhě
 脱单	tuōdān
 脱发	tuōfà
@@ -105520,7 +106208,6 @@ while 病歷	bìnglì
 腳氣	jiǎoqì
 腳氣	kiok-hi
 腳氣病	jiǎoqìbìng
-腳濕氣	Wenzhounese
 腳爐	jiǎolú
 腳瓜	goek3 gwaa1
 腳癬	jiǎoxuǎn
@@ -105533,7 +106220,6 @@ while 病歷	bìnglì
 腳膝腕	Huizhou
 腳船	jiǎochuán
 腳色	juésè
-腳蝕	Muping
 腳註	jiǎozhù
 腳費	Xinzhou
 腳趾	jiǎozhǐ
@@ -106043,6 +106729,7 @@ while 病歷	bìnglì
 自供	zìgòng
 自供状	zìgòngzhuàng
 自供狀	zìgòngzhuàng
+自保	zìbǎo
 自信	zìxìn
 自信心	zìxìnxīn
 自信豁達 / 自信豁达	zìxìn huòdá
@@ -106085,6 +106772,7 @@ while 病歷	bìnglì
 自动提款机	zìdòng tíkuǎnjī
 自动柜员机	zìdòng guìyuánjī
 自动楼梯	zìdòng lóutī
+自动步枪	zìdòng bùqiāng
 自动词	zìdòngcí
 自动贩卖机	zìdòng fànmàijī
 自动车	chū-tōng-chhia
@@ -106120,6 +106808,7 @@ while 病歷	bìnglì
 自動樓梯	zìdòng lóutī
 自動檢票機 / 自动检票机	zìdòng jiǎnpiàojī
 自動櫃員機	zìdòng guìyuánjī
+自動步槍	zìdòng bùqiāng
 自動步行道 / 自动步行道	zìdòng bùxíngdào
 自動沖洗 / 自动冲洗	zìdòng chōngxǐ
 自動詞	zìdòngcí
@@ -106410,6 +107099,7 @@ while 病歷	bìnglì
 自由島	Zìyóudǎo
 自由市场	zìyóu shìchǎng
 自由市場	zìyóu shìchǎng
+自由度	zìyóudù
 自由意志	zìyóu yìzhì
 自由意志主义	zìyóuyìzhìzhǔyì
 自由意志主義	zìyóuyìzhìzhǔyì
@@ -106419,6 +107109,7 @@ while 病歷	bìnglì
 自由战士	zìyóu zhànshì
 自由戰士	zìyóu zhànshì
 自由投票	zìyóu tóupiào
+自由插畫師 / 自由插画师	zìyóu chāhuàshī
 自由操	zìyóucāo
 自由放任	zìyóufàngrèn
 自由文化	zìyóu wénhuà
@@ -106527,6 +107218,7 @@ while 病歷	bìnglì
 自衛隊 / 自卫队	zìwèiduì
 自裁	zìcái
 自製	zìzhì
+自製 / 自制	zìzhì
 自西徂東 / 自西徂东	zì xī cú dōng
 自視	zìshì
 自覺	zìjué
@@ -106668,6 +107360,7 @@ while 病歷	bìnglì
 至急	zhìjí
 至情	zhìqíng
 至於	zhìyú
+至於 / 至于	zhìyú
 至於嗎	zhìyu ma
 至日	zhìrì
 至极	zhìjí
@@ -106694,6 +107387,7 @@ while 病歷	bìnglì
 致使	zhìshǐ
 致冷	zhìlěng
 致力	zhìlì
+致力於創新 / 致力于创新	zhìlì yú chuàngxīn
 致命	zhìmìng
 致命伤	zhìmìngshāng
 致命傷	zhìmìngshāng
@@ -106774,6 +107468,7 @@ while 病歷	bìnglì
 臺獨史觀 / 台独史观	táidú shǐguān
 臺甫	táifǔ
 臺甫 / 台甫	táifǔ
+臺窩灣	Táiwōwān
 臺胞	táibāo
 臺胞證	táibāozhèng
 臺西	Táixī
@@ -106971,6 +107666,7 @@ while 病歷	bìnglì
 舊社會	Jiùshèhuì
 舊稱	jiùchēng
 舊約	jiùyuē
+舊約全書	Jiùyuē Quánshū
 舊約聖經	Jiùyuē Shèngjīng
 舊縣	Jiùxiàn
 舊聞	jiùwén
@@ -107022,6 +107718,7 @@ while 病歷	bìnglì
 舌面	shémiàn
 舌音	shéyīn
 舌頭	shétou
+舌頭發麻 / 舌头发麻	shétóu fāmá
 舌骨	shégǔ
 舍下	shèxià
 舍不得	shěbude
@@ -107074,6 +107771,7 @@ while 病歷	bìnglì
 舒適	shūshì
 舒適區	shūshìqū
 舒適圈	shūshìquān
+舔狗	tiǎngǒu
 舜华	shùnhuá
 舜華	shùnhuá
 舜陵	Shùnlíng
@@ -107109,9 +107807,11 @@ while 病歷	bìnglì
 舞狮	wǔshī
 舞狮子	wǔshīzi
 舞獅	wǔshī
+舞獅 / 舞狮	wǔshī
 舞獅子	wǔshīzi
 舞者	wǔzhě
 舞臺	wǔtái
+舞臺 / 舞台	wǔtái
 舞臺劇	wǔtáijù
 舞臺美術	wǔtái měishù
 舞艺	wǔyì
@@ -107610,6 +108310,7 @@ while 病歷	bìnglì
 芝士堡	zhīshìbǎo
 芝士蛋糕	zhīshì dàngāo
 芝罘	Zhīfú
+芝草	zhīcǎo
 芝麻	zhīma
 芝麻官	zhīmaguān
 芝麻油	zhīmayóu
@@ -107708,6 +108409,7 @@ while 病歷	bìnglì
 花东纵谷	Huādōng Zònggǔ
 花丝	huāsī
 花会	huāhuì
+花体	huātǐ
 花侨	Huāqiáo
 花俏	huāqiào
 花僑	Huāqiáo
@@ -107798,7 +108500,7 @@ while 病歷	bìnglì
 花朵	huāduǒ
 花東縱谷	Huādōng Zònggǔ
 花林寺	Huālínsì
-花果	Huāguǒ
+花果	huāguǒ
 花果园	Huāguǒyuán
 花果園	Huāguǒyuán
 花枝	huāzhī
@@ -107836,8 +108538,10 @@ while 病歷	bìnglì
 花環	huāhuán
 花瓣	huābàn
 花瓶	huāpíng
+花瓶党	huāpíngdǎng
 花瓶屿	Huāpíngyǔ
 花瓶嶼	Huāpíngyǔ
+花瓶黨	huāpíngdǎng
 花生仁	huāshēngrén
 花生四烯酸	huāshēngsìxīsuān
 花生奶	huāshēngnǎi
@@ -107904,6 +108608,7 @@ while 病歷	bìnglì
 花言巧語	huāyánqiǎoyǔ
 花言巧语	huāyánqiǎoyǔ
 花語	huāyǔ
+花謝了。 / 花谢了。	Huā xiè le.
 花语	huāyǔ
 花費	huāfei
 花費	huāfèi
@@ -107938,6 +108643,7 @@ while 病歷	bìnglì
 花飾	huāshì
 花饰	huāshì
 花香	huāxiāng
+花體	huātǐ
 花魁	huākuí
 花魚湖	Huāyúhú
 花鰱	huālián
@@ -108102,6 +108808,7 @@ while 病歷	bìnglì
 苔麩	táifū
 苔麸	táifū
 苕子	tiáozi
+苗	miáo
 苗圃	miáopǔ
 苗头	miáotou
 苗子	miáozi
@@ -108185,9 +108892,11 @@ while 病歷	bìnglì
 若隐若现	ruòyǐnruòxiàn
 若隱若現	ruòyǐnruòxiàn
 若非	ruòfēi
+苦	kǔ
 苦不堪言	kǔbùkānyán
 苦中作乐	kǔzhōngzuòlè
 苦中作樂	kǔzhōngzuòlè
+苦于	kǔyú
 苦刑	kǔxíng
 苦力	kǔlì
 苦劝	kǔquàn
@@ -108218,6 +108927,7 @@ while 病歷	bìnglì
 苦惱	kǔnǎo
 苦战	kǔzhàn
 苦戰	kǔzhàn
+苦於	kǔyú
 苦旱	kǔhàn
 苦杏仁	kǔxìngrén
 苦果	kǔguǒ
@@ -108679,6 +109389,7 @@ while 病歷	bìnglì
 草堆	cǎoduī
 草場	cǎochǎng
 草墊子	cǎodiànzi
+草头黄	Cǎotóuhuáng
 草寇	cǎokòu
 草屋	cǎowū
 草履虫	cǎolǚchóng
@@ -108762,9 +109473,11 @@ while 病歷	bìnglì
 草醯乙酸	cǎoxīyǐsuān
 草里	Cǎolǐ
 草野	cǎoyě
+草金魚 / 草金鱼	cǎojīnyú
 草问荆	cǎo wèn jīng
 草雞	cǎojī
 草鞋	cǎoxié
+草頭黃	Cǎotóuhuáng
 草食	cǎoshí
 草食动物	cǎoshí dòngwù
 草食動物	cǎoshí dòngwù
@@ -108843,6 +109556,7 @@ while 病歷	bìnglì
 荞麦面条	qiáomài miàntiáo
 荟萃	huìcuì
 荠菜	jìcài
+荡	dàng
 荡妇	dàngfù
 荡平	dàngpíng
 荡漾	dàngyàng
@@ -108920,6 +109634,7 @@ while 病歷	bìnglì
 药方儿	yàofāngr
 药末	yàomò
 药材	yàocái
+药材铺	yàocáipù
 药柜	yàoguì
 药检	yàojiǎn
 药水	yàoshuǐ
@@ -109082,6 +109797,7 @@ while 病歷	bìnglì
 莫大	mòdà
 莫大的鼓勵 / 莫大的鼓励	mòdà de gǔlì
 莫如	mòrú
+莫差特	Mòchātè
 莫希托	mòxītuō
 莫干山	Mògān Shān
 莫当	mòdāng
@@ -109104,6 +109820,7 @@ while 病歷	bìnglì
 莫衷一是	mòzhōngyīshì
 莫过于	mòguòyú
 莫逆	mònì
+莫逆之交	mònìzhījiāo
 莫過於	mòguòyú
 莫邪	Mòyé
 莫非	mòfēi
@@ -109168,6 +109885,7 @@ while 病歷	bìnglì
 获益	huòyì
 获益匪浅	huòyìfěiqiǎn
 获益良多	huòyìliángduō
+获知	huòzhī
 获罪	huòzuì
 获聘	huòpìn
 获胜	huòshèng
@@ -109264,6 +109982,7 @@ while 病歷	bìnglì
 菜販子	càifànzi
 菜贩子	càifànzi
 菜農	càinóng
+菜農 / 菜农	càinóng
 菜頭	càitóu
 菜餚	càiyáo
 菜館	càiguǎn
@@ -109520,6 +110239,7 @@ while 病歷	bìnglì
 萧墙	xiāoqiáng
 萧山	Xiāoshān
 萧条	xiāotiáo
+萧洒	xiāosǎ
 萧瑟	xiāosè
 萧疏	xiāoshū
 萧索	xiāosuǒ
@@ -109562,6 +110282,7 @@ while 病歷	bìnglì
 萬一	wànyī
 萬丈	wànzhàng
 萬不得已	wànbùdéyǐ
+萬不得已 / 万不得已	wànbùdéyǐ
 萬世	wànshì
 萬中無一	wànzhōngwúyī
 萬丹	Wàndān
@@ -109618,6 +110339,7 @@ while 病歷	bìnglì
 萬州	Wànzhōu
 萬年	wànnián
 萬年曆	wànniánlì
+萬年油	wànniányóu
 萬幸	wànxìng
 萬幾	wànjī
 萬店	Wàndiàn
@@ -109642,6 +110364,7 @@ while 病歷	bìnglì
 萬用	wànyòng
 萬用錶	wànyòngbiǎo
 萬眾一心	wànzhòngyīxīn
+萬眾一心 / 万众一心	wànzhòngyīxīn
 萬福	wànfú
 萬福店	Wànfúdiàn
 萬端	wànduān
@@ -109665,7 +110388,7 @@ while 病歷	bìnglì
 萬葉假名	wànyè jiǎmíng
 萬謝	wànxiè
 萬象	wànxiàng
-萬象更新	wànxiàng-gēngxīn
+萬象更新	wànxiànggēngxīn
 萬貫	wànguàn
 萬貫家財	wànguànjiācái
 萬載千秋	wànzǎiqiānqiū
@@ -109768,8 +110491,11 @@ while 病歷	bìnglì
 落第	luòdì
 落筆	luòbǐ
 落紅	luòhóng
+落紅 / 落红	luòhóng
+落紙	luòzhǐ
 落網	luòwǎng
 落红	luòhóng
+落纸	luòzhǐ
 落网	luòwǎng
 落胆	luòdǎn
 落胎	luòtāi
@@ -109975,10 +110701,12 @@ while 病歷	bìnglì
 葫芦丝	húlusī
 葫芦儿	húlur
 葫芦岛	Húlúdǎo
+葫芦瓶	húlupíng
 葫芦笙	húlúshēng
 葫蘆	húlu
 葫蘆兒	húlur
 葫蘆島	Húlúdǎo
+葫蘆瓶	húlupíng
 葫蘆笙	húlúshēng
 葫蘆絲	húlusī
 葬仪	zàngyí
@@ -110033,6 +110761,7 @@ while 病歷	bìnglì
 蒓菜	chúncài
 蒔蘿	shíluó
 蒙上	méngshàng
+蒙东	měngdōng
 蒙元	Méngyuán
 蒙受	méngshòu
 蒙受損失 / 蒙受损失	méngshòu sǔnshī
@@ -110074,6 +110803,7 @@ while 病歷	bìnglì
 蒙昧	méngmèi
 蒙昧主义	méngmèizhǔyì
 蒙昧主義	méngmèizhǔyì
+蒙東	měngdōng
 蒙混	ménghùn
 蒙特內哥羅	Méngtènèigēluó
 蒙特内哥罗	Méngtènèigēluó
@@ -110447,6 +111177,7 @@ while 病歷	bìnglì
 蕓薹	yúntái
 蕨类	juélèi
 蕨類	juélèi
+蕩	dàng
 蕩婦	dàngfù
 蕩平	dàngpíng
 蕩漾	dàngyàng
@@ -110460,6 +111191,7 @@ while 病歷	bìnglì
 蕪雜	wúzá
 蕭山	Xiāoshān
 蕭條	xiāotiáo
+蕭灑	xiāosǎ
 蕭牆	xiāoqiáng
 蕭瑟	xiāosè
 蕭疏	xiāoshū
@@ -110839,6 +111571,7 @@ while 病歷	bìnglì
 藥方兒	yàofāngr
 藥末	yàomò
 藥材	yàocái
+藥材鋪	yàocáipù
 藥檢	yàojiǎn
 藥櫃	yàoguì
 藥水	yàoshuǐ
@@ -111025,6 +111758,7 @@ while 病歷	bìnglì
 蘿蔔糕	luóbogāo
 蘿蔔頭	luóbotóu
 虀粉	jīfěn
+虎	hǔ
 虎不拉	hùbulǎ
 虎井	Hǔjǐng
 虎井蜜	hó͘-chíⁿ-bi̍t
@@ -111083,6 +111817,7 @@ while 病歷	bìnglì
 虎鑼	hǔluó
 虎钳	hǔqián
 虎锣	hǔluó
+虎門銷煙 / 虎门销烟	Hǔmén xiāo yān
 虎頭蛇尾	hǔtóushéwěi
 虎頭蜂	hǔtóufēng
 虎頭鉗	hǔtóuqián
@@ -111415,7 +112150,6 @@ while 病歷	bìnglì
 蚍蜉撼樹	pífúhànshù
 蚕丝	cánsī
 蚕农	cánnóng
-蚕卵	cánluǎn
 蚕子	cánzǐ
 蚕宝宝	cánbǎobǎo
 蚕室刑	cánshì xíng
@@ -111432,7 +112166,6 @@ while 病歷	bìnglì
 蚕蚁	cányǐ
 蚕蛹	cányǒng
 蚕蛹油	cányǒngyóu
-蚕蛾儿	Jinhua Wu
 蚕豆	cándòu
 蚕豆病	cándòubìng
 蚕豆症	cándòuzhèng
@@ -111443,6 +112176,7 @@ while 病歷	bìnglì
 蚝油	háoyóu
 蚝烙	háolào
 蚝煎	háojiān
+蚝田	háotián
 蚝菇	háogū
 蚝豉	háochǐ
 蚣蝑	zhōngxū
@@ -111477,6 +112211,7 @@ while 病歷	bìnglì
 蛆虫疗法	qūchóng liáofǎ
 蛆蟲	qūchóng
 蛆蟲療法	qūchóng liáofǎ
+蛇	shé
 蛇壳	Huizhou
 蛇头	shétóu
 蛇殼	Huizhou
@@ -111511,9 +112246,11 @@ while 病歷	bìnglì
 蛋壳	dànké
 蛋奶冻	dànnǎidòng
 蛋奶凍	dànnǎidòng
+蛋奶酒	dànnǎijiǔ
 蛋批	daan6 pai1
 蛋挞	dàntà
 蛋撻	dàntà
+蛋散	dànsǎn
 蛋殼	dànké
 蛋殼 / 蛋壳	dànké
 蛋浆	dànjiāng
@@ -111543,6 +112280,7 @@ while 病歷	bìnglì
 蛋花汤	dànhuātāng
 蛋花湯	dànhuātāng
 蛋花羹	dànhuāgēng
+蛋酒	dànjiǔ
 蛋雞	dànjī
 蛋餅	dànbǐng
 蛋饼	dànbǐng
@@ -111614,6 +112352,7 @@ while 病歷	bìnglì
 蛾绿	élǜ
 蜀汉	Shǔ Hàn
 蜀漢	Shǔ Hàn
+蜀犬吠日	shǔquǎnfèirì
 蜀芹	shǔqín
 蜀葵	shǔkuí
 蜀道	Shǔdào
@@ -111720,6 +112459,7 @@ while 病歷	bìnglì
 蜡烛线	làzhúxiàn
 蜡笔	làbǐ
 蜡笔画	làbǐhuà
+蜡笺	làjiān
 蜡纸	làzhǐ
 蜡蜂	làfēng
 蜡黄	làhuáng
@@ -112037,6 +112777,7 @@ while 病歷	bìnglì
 蠔油	háoyóu
 蠔烙	háolào
 蠔煎	háojiān
+蠔田	háotián
 蠔菇	háogū
 蠔豉	háochǐ
 蠕动	rúdòng
@@ -112056,6 +112797,7 @@ while 病歷	bìnglì
 蠟燭線	làzhúxiàn
 蠟筆	làbǐ
 蠟筆畫	làbǐhuà
+蠟箋	làjiān
 蠟紙	làzhǐ
 蠟臺	làtái
 蠟蜂	làfēng
@@ -112089,7 +112831,6 @@ while 病歷	bìnglì
 蠱術	gǔshù
 蠵龜	xīguī
 蠵龟	xīguī
-蠶卵	cánluǎn
 蠶子	cánzǐ
 蠶室刑	cánshì xíng
 蠶寶寶	cánbǎobǎo
@@ -112106,8 +112847,6 @@ while 病歷	bìnglì
 蠶蔟	cáncù
 蠶蛹	cányǒng
 蠶蛹油	cányǒngyóu
-蠶蛾兒	Jinhua Wu
-蠶蛾子／蚕蛾子	Jinan, Nanjing
 蠶蟻	cányǐ
 蠶豆	cándòu
 蠶豆病	cándòubìng
@@ -112240,6 +112979,7 @@ while 病歷	bìnglì
 血玛丽	xuèmǎlì
 血球	xuèqiú
 血瑪麗	xuèmǎlì
+血痂	xuèjiā
 血痕	xuèhén
 血瘀	xuèyū
 血石	xuèshí
@@ -112596,6 +113336,7 @@ while 病歷	bìnglì
 街谈巷说	jiētánxiàngshuō
 街边	jiēbiān
 街道	jiēdào
+街道兩邊 / 街道两边	jiēdào liǎng biān
 街邊	jiēbiān
 街頭	jiētóu
 街頭小吃 / 街头小吃	jiētóu xiǎochī
@@ -112629,6 +113370,7 @@ while 病歷	bìnglì
 衛滿朝鮮	Wèi Mǎn Cháoxiǎn
 衛理宗	wèilǐzōng
 衛生	hygienic
+衛生丸	wèishēngwán
 衛生保健	wèishēng bǎojiàn
 衛生兒褲子	Muping
 衛生套	wèishēngtào
@@ -112835,6 +113577,7 @@ while 病歷	bìnglì
 表扬	biǎoyáng
 表报	biǎobào
 表揚	biǎoyáng
+表揚 / 表扬	biǎoyáng
 表文	biǎowén
 表日本	Biǎorìběn
 表明	biǎomíng
@@ -112855,7 +113598,7 @@ while 病歷	bìnglì
 表現型	biǎoxiànxíng
 表白	biǎobái
 表皮	biǎopí
-表砸	biǎozá
+表砸	biǎoza
 表示	biǎoshì
 表示恭喜	biǎoshì gōngxǐ
 表示感謝 / 表示感谢	biǎoshì gǎnxiè
@@ -112927,6 +113670,7 @@ while 病歷	bìnglì
 衬里	chènlǐ
 衰亡	shuāiwáng
 衰变	shuāibiàn
+衰年	shuāinián
 衰弱	shuāiruò
 衰微	shuāiwēi
 衰敗	shuāibài
@@ -113092,6 +113836,7 @@ while 病歷	bìnglì
 袭取	xíqǔ
 袯襫	bóshì
 袼褙	gēbei
+裁	cái
 裁人	cáirén
 裁军	cáijūn
 裁决	cáijué
@@ -113130,6 +113875,7 @@ while 病歷	bìnglì
 裁軍	cáijūn
 裁軍 / 裁军	cáijūn
 裁量	cáiliáng
+裂	liè
 裂变	lièbiàn
 裂口	lièkǒu
 裂开	lièkāi
@@ -113423,6 +114169,7 @@ while 病歷	bìnglì
 製藥	zhìyào
 製藥廠	zhìyàochǎng
 製造	zhìzào
+製造 / 制造	zhìzào
 製造商	zhìzàoshāng
 製造廠	zhìzàochǎng
 製造恐慌 / 制造恐慌	zhìzào kǒnghuāng
@@ -113479,6 +114226,7 @@ while 病歷	bìnglì
 複選框	fùxuǎnkuàng
 複雜	fùzá
 複雜化	fùzáhuà
+複雜度	fùzádù
 複雜性	fùzáxìng
 複鹽	fùyán
 褊急	biǎnjí
@@ -113504,7 +114252,9 @@ while 病歷	bìnglì
 褒词	bāocí
 褒貶	bāobiǎn
 褒貶人物 / 褒贬人物	bāobiǎn rénwù
+褒賞	bāoshǎng
 褒贬	bāobiǎn
+褒赏	bāoshǎng
 褙子	bèizi
 褡裢	dālian
 褡褳	dālian
@@ -113825,9 +114575,11 @@ while 病歷	bìnglì
 西貝柳斯	Xībèiliǔsī
 西貝流士	Xībèiliúshì
 西貢	Xīgòng
+西貢河	Xīgònghé
 西贝柳斯	Xībèiliǔsī
 西贝流士	Xībèiliúshì
 西贡	Xīgòng
+西贡河	Xīgònghé
 西赵湖	Xīzhàohú
 西趙湖	Xīzhàohú
 西边	xībiān
@@ -114234,6 +114986,7 @@ while 病歷	bìnglì
 覺著	juézhe
 覺醒	juéxǐng
 覺醒 / 觉醒	juéxǐng
+覺青 / 觉青	juéqīng
 覽古	lǎngǔ
 覿面	dímiàn
 觀世音	Guānshìyīn
@@ -114286,6 +115039,7 @@ while 病歷	bìnglì
 觀音壋	Guānyīndàng
 觀音大士	Guānyīn Dàshì
 觀音菩薩	Guānyīn Púsà
+觀音誕	Guānyīndàn
 觀鯨	guānjīng
 觀鳥	guānniǎo
 觀點	guāndiǎn
@@ -114400,6 +115154,7 @@ while 病歷	bìnglì
 观音垱	Guānyīndàng
 观音大士	Guānyīn Dàshì
 观音菩萨	Guānyīn Púsà
+观音诞	Guānyīndàn
 观鲸	guānjīng
 观鸟	guānniǎo
 规	guī
@@ -114572,6 +115327,7 @@ while 病歷	bìnglì
 解家沖	Xièjiāchōng
 解密	jiěmì
 解小手	jiě xiǎoshǒu
+解廌	xièzhì
 解开	jiěkāi
 解忧	jiěyōu
 解恨	jiěhèn
@@ -115582,6 +116338,7 @@ while 病歷	bìnglì
 說和	shuōhé
 說唱	shuōchàng
 說唱家	shuōchàngjiā
+說嘴	shuōzuǐ
 說夢話	shuō mènghuà
 說大話	shuōdàhuà
 說好	shuōhǎo
@@ -115713,6 +116470,7 @@ while 病歷	bìnglì
 調查報告	diàochá bàogào
 調查工作	diàochá gōngzuò
 調查組	diàocházǔ
+調查者	diàocházhě
 調查表	diàochábiǎo
 調治	tiáozhì
 調派	diàopài
@@ -115798,6 +116556,7 @@ while 病歷	bìnglì
 請上車。 / 请上车。	Qǐng shàng chē.
 請人客	chhiáⁿ-lâng-kheh
 請仔細聽。 / 请仔细听。	Qǐng zǐxì tīng.
+請你立刻離開。 / 请你立刻离开。	Qǐng nǐ lìkè líkāi.
 請便	qǐngbiàn
 請假	qǐngjià
 請假條	qǐngjiàtiáo
@@ -116063,6 +116822,7 @@ while 病歷	bìnglì
 講習班	jiǎngxíbān
 講耶穌	jiǎng Yēsū
 講臺	jiǎngtái
+講臺 / 讲台	jiǎngtái
 講英語 / 讲英语	jiǎng yīngyǔ
 講衛生 / 讲卫生	jiǎng wèishēng
 講解	jiǎngjiě
@@ -116077,8 +116837,10 @@ while 病歷	bìnglì
 講題	jiǎngtí
 謝不邀	xièbùyāo
 謝世	xièshì
+謝世 / 谢世	xièshì
 謝別	xièbié
 謝天謝地	xiètiānxièdì
+謝天謝地 / 谢天谢地	xiètiānxièdì
 謝師宴	xièshīyàn
 謝幕	xièmù
 謝忱	xièchén
@@ -116086,7 +116848,9 @@ while 病歷	bìnglì
 謝棚	Xièpéng
 謝票	xièpiào
 謝絕	xièjué
+謝絕 / 谢绝	xièjué
 謝罪	xièzuì
+謝罪 / 谢罪	xièzuì
 謝謝	xièxie
 謝謝你提醒我。 / 谢谢你提醒我。	Xièxie nǐ tíxǐng wǒ.
 謝謝你的好意！ / 谢谢你的好意！	Xièxie nǐ de hǎoyì!
@@ -116324,6 +117088,7 @@ while 病歷	bìnglì
 護目鏡 / 护目镜	hùmùjìng
 護短	hùduǎn
 護符	hùfú
+護脣膏	hùchúngāo
 護腿	hùtuǐ
 護膚品	hùfūpǐn
 護膚霜	hùfūshuāng
@@ -116372,18 +117137,21 @@ while 病歷	bìnglì
 變	biàn
 變亂	biànluàn
 變例	biànlì
+變價	biànjià
 變分法	biànfēnfǎ
 變動	biàndòng
 變化	biànhuà
 變化多端	biànhuàduōduān
 變化莫測	biànhuàmòcè
 變卦	biànguà
+變口	biànkǒu
 變啥魍	pìⁿ-siáⁿ-báng
 變壓器	biànyāqì
 變壞	biànhuài
 變天	biàntiān
 變奏	biànzòu
-變奏曲	biànzòuqū
+變奏曲	biànzòuqǔ
+變局	biànjú
 變差	biànchà
 變幻	biànhuàn
 變幻莫測	biànhuànmòcè
@@ -116392,6 +117160,7 @@ while 病歷	bìnglì
 變彎 / 变弯	biàn wān
 變形	biànxíng
 變形蟲	biànxíngchóng
+變形金剛	biànxíng jīngāng
 變徵之音	biànzhǐzhīyīn
 變心	biànxīn
 變性	biànxìng
@@ -116399,13 +117168,16 @@ while 病歷	bìnglì
 變性毒素	biànxìng dúsù
 變性者	biànxìngzhě
 變態	biàntài
+變態反應	biàntài fǎnyìng
 變應原	biànyìngyuán
 變應性	biànyìngxìng
 變成	biànchéng
 變成岩	biànchéngyán
+變戲法	biàn xìfǎ
 變換	biànhuàn
 變故	biàngù
 變數	biànshù
+變文	biànwén
 變易	biànyì
 變星	biànxīng
 變更	biàngēng
@@ -116413,7 +117185,9 @@ while 病歷	bìnglì
 變樣	biànyàng
 變法	biànfǎ
 變法兒	biànfǎr
+變溫動物	biànwēn dòngwù
 變為	biànwéi
+變生肘腋	biànshēngzhǒuyè
 變產	biànchǎn
 變異	biànyì
 變瘦	biànshòu
@@ -116431,7 +117205,9 @@ while 病歷	bìnglì
 變胖	biànpàng
 變臉	biànliǎn
 變色	biànsè
+變色眼鏡	biànsè yǎnjìng
 變色蜥蜴	biànsè xīyì
+變色鏡	biànsèjìng
 變色龍	biànsèlóng
 變裝	biànzhuāng
 變裝皇后	biànzhuāng huánghòu
@@ -116440,10 +117216,12 @@ while 病歷	bìnglì
 變賣	biànmài
 變質	biànzhì
 變質岩	biànzhìyán
+變起蕭牆	biànqǐxiāoqiáng
 變身	biànshēn
 變通	biàntōng
 變速	biànsù
 變速器	biànsùqì
+變速運動	biànsù yùndòng
 變道不打燈 / 变道不打灯	biàndào bù dǎdēng
 變遷	biànqiān
 變電站	biàndiànzhàn
@@ -116480,6 +117258,7 @@ while 病歷	bìnglì
 讕言	lányán
 讕言	slander
 讖緯	chènwěi
+讚	zàn
 讚不絕口	zànbùjuékǒu
 讚嘆	zàntàn
 讚揚	zànyáng
@@ -117336,6 +118115,7 @@ while 病歷	bìnglì
 说和	shuōhé
 说唱	shuōchàng
 说唱家	shuōchàngjiā
+说嘴	shuōzuǐ
 说大话	shuōdàhuà
 说好	shuōhǎo
 说媒	shuōméi
@@ -117560,6 +118340,7 @@ while 病歷	bìnglì
 调查工作	diàochá gōngzuò
 调查报告	diàochá bàogào
 调查组	diàocházǔ
+调查者	diàocházhě
 调查表	diàochábiǎo
 调治	tiáozhì
 调派	diàopài
@@ -117946,7 +118727,6 @@ while 病歷	bìnglì
 象床	xiàngchuáng
 象形	xiàngxíng
 象形: pictogram	xiàngxíng
-象形字	xiàngxíngzì
 象形文字	xiàngxíng wénzì
 象征	xiàngzhēng
 象征主义	xiàngzhēngzhǔyì
@@ -118286,6 +119066,7 @@ while 病歷	bìnglì
 貧困線	pínkùnxiàn
 貧困陷阱	pínkùn xiànjǐng
 貧富	pínfù
+貧富不均 / 贫富不均	pínfù bùjūn
 貧富分化 / 贫富分化	pínfù fēnhuà
 貧富差距	pínfù chājù
 貧富差距 / 贫富差距	pínfù chājù
@@ -118448,6 +119229,7 @@ while 病歷	bìnglì
 貴體	guìtǐ
 貶低	biǎndī
 貶值	biǎnzhí
+貶價	biǎnjià
 貶官	biǎnguān
 貶抑	biǎnyì
 貶損	biǎnsǔn
@@ -118521,10 +119303,12 @@ while 病歷	bìnglì
 貼切	tiēqiè
 貼吧	Tiēbā
 貼吧 / 贴吧	tiēbā
+貼對子 / 贴对子	tiē duìzi
 貼己	tiējǐ
 貼心	tiēxīn
 貼息	tiēxī
 貼換	tiēhuàn
+貼春聯 / 贴春联	tiē chūnlián
 貼紙	tiēzhǐ
 貼補	tiēbǔ
 貼身	tiēshēn
@@ -118683,6 +119467,7 @@ while 病歷	bìnglì
 賞罰	shǎngfá
 賞罰分明	shǎngfá fēnmíng
 賞臉	shǎngliǎn
+賞臉 / 赏脸	shǎngliǎn
 賞花	shǎnghuā
 賞識	shǎngshí
 賞賜	shǎngcì
@@ -119281,6 +120066,7 @@ while 病歷	bìnglì
 贫铀	pínyóu
 贬义	biǎnyì
 贬义词	biǎnyìcí
+贬价	biǎnjià
 贬低	biǎndī
 贬值	biǎnzhí
 贬官	biǎnguān
@@ -119870,6 +120656,7 @@ while 病歷	bìnglì
 走私	zǒusī
 走私貨	zǒusīhuò
 走私货	zǒusīhuò
+走穴	zǒuxué
 走紅	zǒuhóng
 走红	zǒuhóng
 走肉行尸	zǒuròuxíngshī
@@ -119928,6 +120715,7 @@ while 病歷	bìnglì
 赴死	fùsǐ
 赴汤蹈火	fùtāngdǎohuǒ
 赴湯蹈火	fùtāngdǎohuǒ
+赴湯蹈火 / 赴汤蹈火	fùtāngdǎohuǒ
 赴約	fùyuē
 赴约	fùyuē
 赴难	fùnàn
@@ -120356,6 +121144,7 @@ while 病歷	bìnglì
 趕早	gǎnzǎo
 趕時間	gǎn shíjiān
 趕時髦	gǎn shímáo
+趕會 / 赶会	gǎnhuì
 趕盡殺絕	gǎnjìnshājué
 趕緊	gǎnjǐn
 趕緊把他拉開 / 赶紧把他拉开	gǎnjǐn bǎ tā lākāi
@@ -120454,6 +121243,7 @@ while 病歷	bìnglì
 足跟	zúgēn
 足跟血	zúgēnxuè
 足跡	zújì
+足跡 / 足迹	zújì
 足踝	zúhuái
 足迹	zújì
 足部	zúbù
@@ -120777,6 +121567,7 @@ while 病歷	bìnglì
 路鞀	lùtáo
 路鼗	lùtáo
 跳	tiào
+跳一個舞 / 跳一个舞	tiào yīge wǔ
 跳下深淵 / 跳下深渊	tiàoxià shēnyuān
 跳井	tiàojǐng
 跳伞	tiàosǎn
@@ -120956,6 +121747,7 @@ while 病歷	bìnglì
 蹈袭	dǎoxí
 蹈袭故常	dǎoxígùcháng
 蹈襲	dǎoxí
+蹈襲 / 蹈袭	dǎoxí
 蹈襲故常	dǎoxígùcháng
 蹉跌	cuōdiē
 蹉跎	cuōtuó
@@ -120975,6 +121767,7 @@ while 病歷	bìnglì
 蹣跼	pánjú
 蹤影	zōngyǐng
 蹤跡	zōngjì
+蹦	bèng
 蹦儿	bèngr
 蹦兒	bèngr
 蹦床	bèngchuáng
@@ -121024,6 +121817,7 @@ while 病歷	bìnglì
 躁狂症	zàokuángzhèng
 躁郁症	zàoyùzhèng
 躁鬱症	zàoyùzhèng
+躄踊	bìyǒng
 躉售	dǔnshòu
 躉批	dǔnpī
 躉船	dǔnchuán
@@ -121191,6 +121985,7 @@ while 病歷	bìnglì
 車公	Chēgōng
 車前	chēqián
 車前子	chēqiánzǐ
+車匠	chējiàng
 車卡	chēkǎ
 車厘子	chēlízi
 車單	chhia-toaⁿ
@@ -121206,6 +122001,7 @@ while 病歷	bìnglì
 車家店	Chējiādiàn
 車尾	chēwěi
 車工	chēgōng
+車帶	chēdài
 車幫	chēbāng
 車床	chēchuáng
 車庫	chēkù
@@ -121620,6 +122416,7 @@ while 病歷	bìnglì
 輪埠	lúnbù
 輪姦	lúnjiān
 輪子	lúnzi
+輪帶	lúndài
 輪廓	lúnkuò
 輪換	lúnhuàn
 輪暴	lúnbào
@@ -121749,7 +122546,7 @@ while 病歷	bìnglì
 轉法輪	zhuǎn fǎlún
 轉注	zhuǎnzhù
 轉燈	zhuàndēng
-轉瓶子	zhuǎnpíngzi
+轉瓶子	zhuǎn píngzi
 轉生	zhuǎnshēng
 轉發	zhuǎnfā
 轉盤	zhuànpán
@@ -121823,6 +122620,7 @@ while 病歷	bìnglì
 车况	chēkuàng
 车前	chēqián
 车前子	chēqiánzǐ
+车匠	chējiàng
 车单	chhia-toaⁿ
 车卡	chēkǎ
 车厂	chēchǎng
@@ -121841,6 +122639,7 @@ while 病歷	bìnglì
 车尘	chēchén
 车尾	chēwěi
 车工	chēgōng
+车带	chēdài
 车帮	chēbāng
 车床	chēchuáng
 车库	chēkù
@@ -121984,7 +122783,7 @@ while 病歷	bìnglì
 转法轮	zhuǎn fǎlún
 转注	zhuǎnzhù
 转灯	zhuàndēng
-转瓶子	zhuǎnpíngzi
+转瓶子	zhuǎn píngzi
 转生	zhuǎnshēng
 转盘	zhuànpán
 转眼	zhuǎnyǎn
@@ -122031,6 +122830,7 @@ while 病歷	bìnglì
 轮埠	lúnbù
 轮奸	lúnjiān
 轮子	lúnzi
+轮带	lúndài
 轮廓	lúnkuò
 轮换	lúnhuàn
 轮暴	lúnbào
@@ -122321,6 +123121,7 @@ while 病歷	bìnglì
 辞呈	cíchéng
 辞官	cíguān
 辞旧迎新	cíjiùyíngxīn
+辞林	cílín
 辞气	cíqì
 辞海	Cíhǎi
 辞源	cíyuán
@@ -122434,6 +123235,7 @@ while 病歷	bìnglì
 辭書	císhū
 辭書 / 辞书	císhū
 辭書學	císhūxué
+辭林	cílín
 辭氣	cíqì
 辭海	Cíhǎi
 辭源	cíyuán
@@ -122568,6 +123370,7 @@ while 病歷	bìnglì
 边塞	biānsài
 边塞诗	biānsàishī
 边境	biānjìng
+边境牧羊犬	biānjìng mùyángquǎn
 边境贸易	biānjìng màoyì
 边头	biāntóu
 边寨	biānzhài
@@ -122793,6 +123596,7 @@ while 病歷	bìnglì
 过言	guòyán
 过誉	guòyù
 过访	guòfǎng
+过话	guòhuà
 过谦	guòqiān
 过路	guòlù
 过路人	guòlùrén
@@ -123076,6 +123880,7 @@ while 病歷	bìnglì
 进发	jìnfā
 进取	jìnqǔ
 进口	jìnkǒu
+进口商	jìnkǒushāng
 进口税	jìnkǒushuì
 进口货	jìnkǒuhuò
 进口量	jìnkǒuliàng
@@ -123256,6 +124061,7 @@ while 病歷	bìnglì
 连续体	liánxùtǐ
 连续剧	liánxùjù
 连续变调	liánxù biàntiáo
+连续性	liánxùxìng
 连续统	liánxùtǒng
 连绵	liánmián
 连绵不断	liánmiánbùduàn
@@ -123382,6 +124188,7 @@ while 病歷	bìnglì
 迳启者	jìngqǐzhě
 迳直	jìngzhí
 迳自	jìngzì
+迴光返照	huíguāngfǎnzhào
 迴圈經濟	huíquān jīngjì
 迴廊	huíláng
 迴形針	huíxíngzhēn
@@ -123562,6 +124369,7 @@ while 病歷	bìnglì
 退化	tuìhuà
 退却	tuìquè
 退卻	tuìquè
+退卻 / 退却	tuìquè
 退后	tuìhòu
 退回	tuìhuí
 退团	tuìtuán
@@ -123838,6 +124646,7 @@ while 病歷	bìnglì
 选美	xuǎnměi
 选词	xuǎncí
 选读	xuǎndú
+选课	xuǎnkè
 选调	xuǎndiào
 选贤与能	xuǎnxiányǔnéng
 选购	xuǎngòu
@@ -123858,6 +124667,7 @@ while 病歷	bìnglì
 透你媽！ / 透你妈！	Tòu nǐ mā!
 透光	tòuguāng
 透写纸	tòuxiězhǐ
+透地雨	tòudìyǔ
 透天厝	tòutiāncuò
 透寫紙	tòuxiězhǐ
 透平机	tòupíngjī
@@ -124002,12 +124812,11 @@ while 病歷	bìnglì
 這樣做不行。 / 这样做不行。	Zhèyàng zuò bùxíng.
 這樣大丈夫？ / 这样大丈夫？	Zhèyàng dàzhàngfū?
 這樣子	zhèyàngzi
-這樣才對嘛！ / 这样才对嘛！	Zhèyàng cái duì ma!
 這次	zhècì
-這水果壞了。 / 这水果坏了。	Zhè shuǐguǒ huài le.
 這的	zhède
 這等	zhèděng
 這般	zhèbān
+這蘋果壞了。 / 这苹果坏了。	Zhè píngguǒ huài le.
 這裡	zhèlǐ
 這裡 / 这里	zhèlǐ
 這說明什麼？ / 这说明什么？	Zhè shuōmíng shénme?
@@ -124256,6 +125065,7 @@ while 病歷	bìnglì
 通风器	tōngfēngqì
 通风报信	tōngfēngbàoxìn
 通體	tōngtǐ
+逛廟會 / 逛庙会	guàng miàohuì
 逛窯子 / 逛窑子	guàng yáozi
 逛荡	guàngdàng
 逛蕩	guàngdàng
@@ -124305,11 +125115,13 @@ while 病歷	bìnglì
 速食	sùshí
 速食面	sùshímiàn
 速食麵	sùshímiàn
+造一臺手機 / 造一台手机	zào yī tái shǒujī
 造人	zàorén
 造价	zàojià
 造作	zàozuo
 造作	zàozuò
 造假	zàojiǎ
+造假帳 / 造假帐	zào jiǎzhàng
 造價	zàojià
 造势	zàoshì
 造势大会	zàoshìdàhuì
@@ -124332,6 +125144,7 @@ while 病歷	bìnglì
 造影劑	zàoyǐngjì
 造成	zàochéng
 造成後果 / 造成后果	zàochéng hòuguǒ
+造房子	zào fángzǐ
 造林	zàolín
 造林学	zàolínxué
 造林學	zàolínxué
@@ -124353,8 +125166,11 @@ while 病歷	bìnglì
 造血干细胞	zàoxuè gànxìbāo
 造血幹細胞	zàoxuè gànxìbāo
 造訪	zàofǎng
+造訪 / 造访	zàofǎng
 造詣	zàoyì
+造詣 / 造诣	zàoyì
 造謠	zàoyáo
+造謠 / 造谣	zàoyáo
 造謠惑眾	zàoyáo huòzhòng
 造謠生事	zàoyáoshēngshì
 造謠生非	zàoyáoshēngfēi
@@ -124364,6 +125180,7 @@ while 病歷	bìnglì
 造谣惑众	zàoyáo huòzhòng
 造谣生事	zàoyáoshēngshì
 造谣生非	zàoyáoshēngfēi
+造輿論 / 造舆论	zào yúlùn
 造馬	zàomǎ
 造马	zàomǎ
 逡巡	qūnxún
@@ -124435,6 +125252,7 @@ while 病歷	bìnglì
 連續創業者 / 连续创业者	liánxù chuàngyèzhě
 連續劇	liánxùjù
 連續彎路。 / 连续弯路。	Liánxù wānlù.
+連續性	liánxùxìng
 連續統	liánxùtǒng
 連續變調	liánxù biàntiáo
 連續體	liánxùtǐ
@@ -124450,6 +125268,7 @@ while 病歷	bìnglì
 連襟	liánjīn
 連襠褲	liándāngkù
 連詞	liáncí
+連說帶比 / 连说带比	lián shuō dài bǐ
 連讀變調	liándú biàntiáo
 連貫	liánguàn
 連貫性	liánguànxìng
@@ -124482,6 +125301,7 @@ while 病歷	bìnglì
 週刊	zhōukān
 週四	zhōusì
 週報	zhōubào
+週年慶	zhōuniánqìng
 週日	zhōurì
 週期	zhōuqī
 週期函數	zhōuqī hánshù
@@ -124519,6 +125339,7 @@ while 病歷	bìnglì
 進去	verb-complement
 進取	jìnqǔ
 進口	jìnkǒu
+進口商	jìnkǒushāng
 進口稅	jìnkǒushuì
 進口貨	jìnkǒuhuò
 進口量	jìnkǒuliàng
@@ -124909,6 +125730,7 @@ while 病歷	bìnglì
 過街老鼠	guòjiē lǎoshǔ
 過言	guòyán
 過訪	guòfǎng
+過話	guòhuà
 過謙	guòqiān
 過譽	guòyù
 過路	guòlù
@@ -125105,6 +125927,7 @@ while 病歷	bìnglì
 違誤	wéiwù
 違逆	wéinì
 遗世	yíshì
+遗书	wèishū
 遗书	yíshū
 遗事	yíshì
 遗产	yíchǎn
@@ -125441,6 +126264,7 @@ while 病歷	bìnglì
 選舉文宣 / 选举文宣	xuǎnjǔ wénxuān
 選舉權	xuǎnjǔquán
 選詞	xuǎncí
+選課	xuǎnkè
 選調	xuǎndiào
 選讀	xuǎndú
 選賢與能	xuǎnxiányǔnéng
@@ -125485,6 +126309,7 @@ while 病歷	bìnglì
 遺恨	yíhèn
 遺憾	yíhàn
 遺族	yízú
+遺書	wèishū
 遺書	yíshū
 遺棄	yíqì
 遺毒	yídú
@@ -125529,6 +126354,7 @@ while 病歷	bìnglì
 遼遠	liáoyuǎn
 遼遼	liáoliáo
 遼闊	liáokuò
+遽然	jùrán
 避世	bìshì
 避乱	bìluàn
 避亂	bìluàn
@@ -125572,6 +126398,7 @@ while 病歷	bìnglì
 避雷	bìléi
 避雷器	bìléiqì
 避雷針	bìléizhēn
+避雷針 / 避雷针	bìléizhēn
 避雷针	bìléizhēn
 避震	bìzhèn
 避震器	bìzhènqì
@@ -125619,6 +126446,7 @@ while 病歷	bìnglì
 還嘴 / 还嘴	huánzuǐ
 還報	huánbào
 還好	háihǎo
+還好不是x / 还好不是x	háihǎo bùshì x
 還家 / 还家	huánjiā
 還手	huánshǒu
 還手 / 还手	huánshǒu
@@ -125650,6 +126478,7 @@ while 病歷	bìnglì
 邊塞	biānsài
 邊塞詩	biānsàishī
 邊境	biānjìng
+邊境牧羊犬	biānjìng mùyángquǎn
 邊境貿易	biānjìng màoyì
 邊寨	biānzhài
 邊將	biānjiàng
@@ -125668,6 +126497,7 @@ while 病歷	bìnglì
 邊界條件	biānjiè tiáojiàn
 邊界線	biānjièxiàn
 邊疆	biānjiāng
+邊疆 / 边疆	biānjiāng
 邊緣	biānyuán
 邊緣人	biānyuánrén
 邊緣化	biānyuánhuà
@@ -125899,6 +126729,7 @@ while 病歷	bìnglì
 郁卒	yùzú
 郁垒	Yùlǜ
 郁愤	yùfèn
+郁抑	yùyì
 郁李	yùlǐ
 郁李仁	yùlǐrén
 郁江	Yùjiāng
@@ -125968,6 +126799,7 @@ while 病歷	bìnglì
 郧阳	Yúnyáng
 部下	bùxià
 部件	bùjiàn
+部众	bùzhòng
 部会	bùhuì
 部位	bùwèi
 部分	bùfen
@@ -125980,6 +126812,7 @@ while 病歷	bìnglì
 部族	bùzú
 部曲	bùqū
 部會	bùhuì
+部眾	bùzhòng
 部类	bùlèi
 部署	bùshǔ
 部署兵力	bùshǔ bīnglì
@@ -126056,6 +126889,7 @@ while 病歷	bìnglì
 都指揮使	dūzhǐhuīshǐ
 都是我的不是。	Dōu shì wǒ de bùshì.
 都會	dūhuì
+都會 / 都会	dōuhuì
 都會區	dūhuìqū
 都柏林	Dūbólín
 都江堰	Dūjiāngyàn
@@ -126213,7 +127047,9 @@ while 病歷	bìnglì
 鄱陽	Póyáng
 鄱陽湖	Póyáng Hú
 鄲城	Dānchéng
+酂阳	Cuóyáng
 酂阳	Zànyáng
+酇陽	Cuóyáng
 酇陽	Zànyáng
 酉	yǒu
 酉 雞	bāyuè
@@ -126360,6 +127196,7 @@ while 病歷	bìnglì
 酒樓	jiǔlóu
 酒樽	jiǔzūn
 酒母	jiǔmǔ
+酒水	jiǔshuǐ
 酒池肉林	jiǔchíròulín
 酒泉	jiǔquán
 酒渣鼻	jiǔzhābí
@@ -126761,6 +127598,7 @@ while 病歷	bìnglì
 采摘	cǎizhāi
 采撷	cǎijié
 采样率	cǎiyànglǜ
+采椽	cǎichuán
 采用	cǎiyòng
 采石场	cǎishíchǎng
 采矿	cǎikuàng
@@ -126927,6 +127765,7 @@ while 病歷	bìnglì
 重庆	Chóngqìng
 重建	chóngjiàn
 重建古史	chóngjiàn gǔshǐ
+重建家園 / 重建家园	chóngjiàn jiāyuán
 重心	jūshin
 重心	zhòngxīn
 重感情	zhòng gǎnqíng
@@ -127392,7 +128231,9 @@ while 病歷	bìnglì
 金砖五国: BRICS	Jīnzhuānwǔguó
 金砖四国: BRIC	Jīnzhuānsìguó
 金砖国家	Jīnzhuānguójiā
+金碧輝映	jīnbìhuīyìng
 金碧輝煌	jīnbìhuīhuáng
+金碧辉映	jīnbìhuīyìng
 金碧辉煌	jīnbìhuīhuáng
 金磚	Jīnzhuān
 金磚五國	Jīnzhuānwǔguó
@@ -127843,6 +128684,7 @@ while 病歷	bìnglì
 銷售額	xiāoshòu'é
 銷售點	xiāoshòudiǎn
 銷毀	xiāohuǐ
+銷毀罪證 / 销毁罪证	xiāohuǐ zuìzhèng
 銷聲匿跡	xiāoshēngnìjì
 銷蝕	xiāoshí
 銷路	xiāolù
@@ -127930,6 +128772,7 @@ while 病歷	bìnglì
 鋼琴熱	gāngqínrè
 鋼琴熱 / 钢琴热	gāngqín rè
 鋼盔	gāngkuī
+鋼盔魚	tiěkuīyú
 鋼筆	gāngbǐ
 鋼筋	gāngjīn
 鋼管	gāngguǎn
@@ -128068,6 +128911,7 @@ while 病歷	bìnglì
 錯誤信息 / 错误信息	cuòwù xìnxī
 錯譯	cuòyì
 錯過	cuòguò
+錯金	cuòjīn
 錯雜	cuòzá
 錶仔	pió-á
 錶帶	biǎodài
@@ -128211,9 +129055,11 @@ while 病歷	bìnglì
 鏟車	chǎnchē
 鏟運車	chǎnyùnchē
 鏟除	chǎnchú
+鏡	jìng
 鏡像	jìngxiàng
 鏡子	jìngzi
 鏡子 / 镜子	jìngzi
+鏡子摔壞了 / 镜子摔坏了	jìngzǐ shuāi huài le
 鏡框	jìngkuàng
 鏡泊湖	Jìngpō Hú
 鏡片	jìngpiàn
@@ -128262,6 +129108,7 @@ while 病歷	bìnglì
 鐵人三項	tiěrén sān xiàng
 鐵公雞	tiěgōngjī
 鐵則	tiězé
+鐵勒	Tiělè
 鐵匠	tiějiàng
 鐵匠鋪	tiějiàngpù
 鐵嘴	Tiězuǐ
@@ -128387,7 +129234,9 @@ while 病歷	bìnglì
 鑪	lú
 鑪卡	lu-ká
 鑰匙	yàoshi
+鑰匙 / 钥匙	yàoshi
 鑰匙兒童	yàochí értóng
+鑰匙卡	yàoshikǎ
 鑰匙圈	yàoshiquān
 鑰匙扣	yàoshikòu
 鑰匙鏈	yàoshiliàn
@@ -128542,6 +129391,7 @@ while 病歷	bìnglì
 钢琴家	gāngqínjiā
 钢琴热	gāngqínrè
 钢盔	gāngkuī
+钢盔鱼	tiěkuīyú
 钢笔	gāngbǐ
 钢笔尖	gāngbǐjiān
 钢筋	gāngjīn
@@ -128564,6 +129414,7 @@ while 病歷	bìnglì
 钥匙	yàoshi
 钥匙	yeh⁴ si³
 钥匙儿童	yàochí értóng
+钥匙卡	yàoshikǎ
 钥匙圈	yàoshiquān
 钥匙扣	yàoshikòu
 钥匙链	yàoshiliàn
@@ -128659,6 +129510,7 @@ while 病歷	bìnglì
 铁公鸡	tiěgōngjī
 铁则	tiězé
 铁制品	tiězhìpǐn
+铁勒	Tiělè
 铁匠	tiējiàng
 铁匠	tiějiàng
 铁匠铺	tiějiàngpù
@@ -128787,6 +129639,7 @@ while 病歷	bìnglì
 铌	ní
 铐子	kàozi
 铓锣	mángluó
+铔	yā
 铗子	jiázi
 铙钹	náobó
 铜像	tóngxiàng
@@ -129054,6 +129907,7 @@ while 病歷	bìnglì
 错译	cuòyì
 错误	cuòwù
 错过	cuòguò
+错金	cuòjīn
 锚	máo
 锚地	máodì
 锛子	bēnzi
@@ -129193,6 +130047,7 @@ while 病歷	bìnglì
 镚	bèng
 镚儿	bèngr
 镚子	bèngzi
+镜	jìng
 镜像	jìngxiàng
 镜头	jìngtóu
 镜头盖	jìngtóugài
@@ -129317,6 +130172,7 @@ while 病歷	bìnglì
 長濱	Chángbīn
 長灘	Chángtān
 長焦距鏡頭	chángjiāojù jìngtóu
+長物	zhàngwù
 長生不老	chángshēngbùlǎo
 長生果	chángshēngguǒ
 長生殿	Chángshēng Diàn
@@ -129351,7 +130207,7 @@ while 病歷	bìnglì
 長虹	chánghóng
 長蟲	chángchong
 長衫	chángshān
-長袍	chángpào
+長袍	chángpáo
 長袖	chángxiù
 長褲	chángkù
 長襪	chángwà
@@ -129482,6 +130338,7 @@ while 病歷	bìnglì
 长滩	Chángtān
 长潭河	Chángtánhé
 长焦距镜头	chángjiāojù jìngtóu
+长物	zhàngwù
 长生不老	chángshēngbùlǎo
 长生果	chángshēngguǒ
 长生殿	Chángshēng Diàn
@@ -129511,7 +130368,7 @@ while 病歷	bìnglì
 长虫	chángchong
 长虹	chánghóng
 长衫	chángshān
-长袍	chángpào
+长袍	chángpáo
 长袖	chángxiù
 长袜	chángwà
 长裤	chángkù
@@ -129552,6 +130409,7 @@ while 病歷	bìnglì
 門口 / 门口	ménkǒu
 門古寺	Méngǔsì
 門可羅雀	ménkěluóquè
+門可羅雀 / 门可罗雀	ménkěluóquè
 門吏	ménlì
 門地	méndì
 門墩	méndūn
@@ -129707,6 +130565,8 @@ while 病歷	bìnglì
 閉門	bìmén
 閉門思過	bìménsīguò
 閉門羹	bìméngēng
+閉門謝客	bìménxièkè
+閉門謝客 / 闭门谢客	bìménxièkè
 閉門造車	bìménzàochē
 閉關	bìguān
 閉關鎖國	bìguānsuǒguó
@@ -129718,7 +130578,7 @@ while 病歷	bìnglì
 開倉	kāicāng
 開倒車	kāidàochē
 開價	kāijià
-開元	Kāiyuán
+開元	kāiyuán
 開光	kāiguāng
 開公司 / 开公司	kāi gōngsī
 開具	kāijù
@@ -129866,6 +130726,7 @@ while 病歷	bìnglì
 開票	kāipiào
 開禁	kāijìn
 開禁 / 开禁	kāijìn
+開科取士	kāikēqǔshì
 開竅	kāiqiào
 開竅藥	kāiqiàoyào
 開端	kāiduān
@@ -130005,6 +130866,7 @@ while 病歷	bìnglì
 間歇熱	jiànxiērè
 間腦	jiānnǎo
 間苗	jiànmiáo
+間苗 / 间苗	jiānmiáo
 間行	jiànxíng
 間諜	jiàndié
 間諜活動	jiàndié huódòng
@@ -130116,6 +130978,7 @@ while 病歷	bìnglì
 闊大爺	kuòdàyé
 闊少	kuòshào
 闊步	kuòbù
+闊步 / 阔步	kuòbù
 闊氣	kuòqì
 闊筋膜張肌	kuòjīnmózhāngjī
 闊綽	kuòchuò
@@ -130385,6 +131248,7 @@ while 病歷	bìnglì
 闭门	bìmén
 闭门思过	bìménsīguò
 闭门羹	bìméngēng
+闭门谢客	bìménxièkè
 闭门造车	bìménzàochē
 闭音节	bìyīnjié
 闭馆	bìguǎn
@@ -130533,7 +131397,7 @@ while 病歷	bìnglì
 闺蜜	guīmì
 闺阁	guīgé
 闻一知十	wényīzhīshí
-闻人	wénrén
+闻人	wènrén
 闻名	wénmíng
 闻名于世	wénmíngyúshì
 闻名天下	wénmíngtiānxià
@@ -130793,6 +131657,7 @@ while 病歷	bìnglì
 防齲	fángqǔ
 防龋	fángqǔ
 阳	yáng
+阳世	yángshì
 阳乌	yángwū
 阳伞	yángsǎn
 阳光	yángguāng
@@ -130872,8 +131737,10 @@ while 病歷	bìnglì
 阴毛	yīnmáo
 阴沉	yīnchén
 阴沟	yīngōu
+阴河	yīnhé
 阴湿	yīnshī
 阴爻	yīnyáo
+阴物	yīnwù
 阴电	yīndiàn
 阴盛阳衰	yīnshèngyángshuāi
 阴离子	yīnlízǐ
@@ -130899,6 +131766,7 @@ while 病歷	bìnglì
 阴阜	yīnfù
 阴阳	yīnyáng
 阴阳人	yīnyángrén
+阴阳历	yīnyánglì
 阴阳家	yīnyángjiā
 阴阳怪气	yīnyángguàiqì
 阴阳烛	yīnyángzhú
@@ -130986,6 +131854,7 @@ while 病歷	bìnglì
 阿依庫勒	Āyīkùlè
 阿修罗	āxiūluó
 阿修羅	āxiūluó
+阿僧祇	āsēngqí
 阿兄	āxiōng
 阿克塞	Ākèsài
 阿克托海	Ākètuōhǎi
@@ -131151,6 +132020,7 @@ while 病歷	bìnglì
 阿民念主義	Āmínniànzhǔyì
 阿波罗	Ābōluó
 阿波羅	Ābōluó
+阿波羅13號 / 阿波罗13号	Ābōluó13 hào
 阿洛酮糖	āluòtóngtáng
 阿洪魯庫木	Āhóng Lǔkùmù
 阿洪鲁库木	Āhóng Lǔkùmù
@@ -131511,9 +132381,12 @@ while 病歷	bìnglì
 限定词	xiàndìngcí
 限度	xiàndù
 限於	xiànyú
+限於條件 / 限于条件	xiàn yú tiáojiàn
 限日	xiànrì
 限时	xiànshí
+限时信	xiànshíxìn
 限時	xiànshí
+限時信	xiànshíxìn
 限時搶購 / 限时抢购	xiànshí qiǎnggòu
 限期	xiànqī
 限期已滿。 / 限期已满。	Xiànqī yǐ mǎn.
@@ -131524,12 +132397,16 @@ while 病歷	bìnglì
 限量	xiànliàng
 限電	xiàndiàn
 陕北	Shǎnběi
+陕县	Shǎnxiàn
+陕州	Shǎnzhōu
 陕庄	Shǎnzhuāng
 陕西	Shǎnxī
 陛下	bìxià
 陝北	Shǎnběi
 陝北民歌 / 陕北民歌	Shǎnběi míngē
+陝州	Shǎnzhōu
 陝甘寧邊區 / 陕甘宁边区	Shǎn-Gān-Níng Biānqū
+陝縣	Shǎnxiàn
 陝莊	Shǎnzhuāng
 陝西	Shǎnxī
 陟罚	zhìfá
@@ -131596,6 +132473,7 @@ while 病歷	bìnglì
 除掉	chúdiào
 除数	chúshù
 除數	chúshù
+除旧布新	chújiùbùxīn
 除服	chúfú
 除权	chúquán
 除根	chúgēn
@@ -131608,6 +132486,7 @@ while 病歷	bìnglì
 除籍	chújí
 除臭剂	chúchòujì
 除臭劑	chúchòujì
+除舊布新	chújiùbùxīn
 除草	chúcǎo
 除草剂	chúcǎojì
 除草劑	chúcǎojì
@@ -131669,6 +132548,7 @@ while 病歷	bìnglì
 陪讀	péidú
 陪话	péihuà
 陪读	péidú
+陪送	péisong
 陪送	péisòng
 陪都	péidū
 陬月	Zōuyuè
@@ -131683,7 +132563,6 @@ while 病歷	bìnglì
 陰地	Sichuan
 陰壽	yīnshòu
 陰天	yīntiān
-陰天 / 阴天	yīntiān
 陰宅	yīnzhái
 陰山	Yīnshān
 陰差陽錯	yīnchāyángcuò
@@ -131697,6 +132576,7 @@ while 病歷	bìnglì
 陰悄悄	Sichuan
 陰戶	yīnhù
 陰文	yīnwén
+陰文 / 阴文	yīnwén
 陰晦	yīnhuì
 陰晴	yīnqíng
 陰晴圓缺	yīnqíngyuánquē
@@ -131713,11 +132593,12 @@ while 病歷	bìnglì
 陰毒	yīndú
 陰毛	yīnmáo
 陰沉	yīnchén
-陰沉 / 阴沉	yīnchén
+陰河	yīnhé
 陰涼	yīnliáng
 陰溝	yīngōu
 陰濕	yīnshī
 陰爻	yīnyáo
+陰物	yīnwù
 陰盛陽衰	yīnshèngyángshuāi
 陰私	yīnsī
 陰線	yīnxiàn
@@ -131734,7 +132615,9 @@ while 病歷	bìnglì
 陰謀家	yīnmóujiā
 陰謀論	yīnmóulùn
 陰賊	yīnzé
+陰轉晴 / 阴转晴	yīn zhuǎn qíng
 陰道	yīndào
+陰道 / 阴道	yīndào
 陰部	yīnbù
 陰部神經	yīnbù shénjīng
 陰間	yīnjiān
@@ -131744,9 +132627,12 @@ while 病歷	bìnglì
 陰陽人	yīnyángrén
 陰陽家	yīnyángjiā
 陰陽怪氣	yīnyángguàiqì
+陰陽曆	yīnyánglì
 陰陽燭	yīnyángzhú
 陰險	yīnxiǎn
+陰險 / 阴险	yīnxiǎn
 陰離子	yīnlízǐ
+陰離子 / 阴离子	yīnlízǐ
 陰雨	yīnyǔ
 陰電	yīndiàn
 陰霾	yīnmái
@@ -131884,6 +132770,8 @@ while 病歷	bìnglì
 陸離	lùlí
 陸風	lùfēng
 陽	yáng
+陽世	yángshì
+陽世 / 阳世	yángshì
 陽傘	yángsǎn
 陽傘 / 阳伞	yángsǎn
 陽光	yángguāng
@@ -131893,11 +132781,16 @@ while 病歷	bìnglì
 陽去	yángqù
 陽塘	Yángtáng
 陽壽	yángshòu
+陽壽 / 阳寿	yángshòu
 陽奉陰違	yángfèngyīnwéi
+陽奉陰違 / 阳奉阴违	yángfèngyīnwéi
 陽宅	yángzhái
 陽平	yángpíng
+陽平 / 阳平	yángpíng
 陽性	yángxìng
+陽性反應 / 阳性反应	yángxìng fǎnyìng
 陽文	yángwén
+陽文 / 阳文	yángwén
 陽新	Yángxīn
 陽日	yángrì
 陽明	yángmíng
@@ -131905,6 +132798,7 @@ while 病歷	bìnglì
 陽春白雪	yángchūnbáixuě
 陽春麵	yángchūnmiàn
 陽曆	yánglì
+陽曆 / 阳历	yánglì
 陽月	Yángyuè
 陽朔	Yángshuò
 陽極	yángjí
@@ -131918,6 +132812,7 @@ while 病歷	bìnglì
 陽物 / 阳物	yángwù
 陽珓	yángjiào
 陽痿	yángwěi
+陽痿 / 阳痿	yángwěi
 陽秋	yángqiū
 陽線	yángxiàn
 陽臺	yángtái
@@ -131928,6 +132823,7 @@ while 病歷	bìnglì
 陽關大道	yángguān dàdào
 陽關道	yángguāndào
 陽離子	yánglízǐ
+陽離子 / 阳离子	yánglízǐ
 陽電	yángdiàn
 陽電子	yángdiànzǐ
 隆中	Lóngzhōng
@@ -132016,6 +132912,7 @@ while 病歷	bìnglì
 隐函数	yǐnhánshù
 隐匿	yǐnnì
 隐君子	yǐnjūnzǐ
+隐含	yǐnhán
 隐含的	yǐnhánde
 隐喻	yǐnyù
 隐士	yǐnshì
@@ -132186,6 +133083,7 @@ while 病歷	bìnglì
 隱函數	yǐnhánshù
 隱匿	yǐnnì
 隱君子	yǐnjūnzǐ
+隱含	yǐnhán
 隱喻	yǐnyù
 隱士	yǐnshì
 隱姓埋名	yǐnxìngmáimíng
@@ -132362,6 +133260,7 @@ while 病歷	bìnglì
 雄圖	xióngtú
 雄壮	xióngzhuàng
 雄壯	xióngzhuàng
+雄壯 / 雄壮	xióngzhuàng
 雄奇	xióngqí
 雄姿	xióngzī
 雄师	xióngshī
@@ -132382,6 +133281,7 @@ while 病歷	bìnglì
 雄脱	xióngtuō
 雄花	xiónghuā
 雄蕊	xióngruǐ
+雄虎	xióng hǔ
 雄蜂	xióngfēng
 雄赳赳	xióngjiūjiū
 雄起	xióngqǐ
@@ -132516,7 +133416,6 @@ while 病歷	bìnglì
 集成顯卡	jíchéng xiǎnkǎ
 集显	jíxiǎn
 集會	jíhuì
-集會 / 集会	jíhuì
 集會自由	jíhuì zìyóu
 集权	jíquán
 集權	jíquán
@@ -132645,6 +133544,8 @@ while 病歷	bìnglì
 雙人間 / 双人间	shuāngrénjiān
 雙休	shuāngxiū
 雙休日	shuāngxiūrì
+雙倍	shuāngbèi
+雙倍賠償	shuāngbèi péicháng
 雙元音	shuāngyuányīn
 雙全	shuāngquán
 雙六	shuāngliù
@@ -132767,6 +133668,7 @@ while 病歷	bìnglì
 雙車道	shuāngchēdào
 雙週	shuāngzhōu
 雙邊	shuāngbiān
+雙邊會談 / 双边会谈	shuāng biān huìtán
 雙邊貿易 / 双边贸易	shuāngbiān màoyì
 雙邊關係 / 双边关系	shuāngbiān guānxì
 雙鄉	Shuāngxiāng
@@ -133381,6 +134283,7 @@ while 病歷	bìnglì
 雷托-罗曼语	Léituō-Luómànyǔ
 雷托-羅曼語	Léituō-Luómànyǔ
 雷擊	léijī
+雷擊 / 雷击	léijī
 雷暴	léibào
 雷根	Léigēn
 雷根主义	léigēnzhǔyì
@@ -133761,6 +134664,7 @@ while 病歷	bìnglì
 霍去病	Huò Qùbìng
 霍巴特	Huòbātè
 霍林郭勒	Huòlínguōlè
+霍然	huòrán
 霍邱	Huòqiū
 霍閃	huòshǎn
 霍闪	huòshǎn
@@ -133931,6 +134835,7 @@ while 病歷	bìnglì
 靈牌	língpái
 靈物	língwù
 靈犀	língxī
+靈界	língjiè
 靈異	língyì
 靈聖	lêng-siàⁿ
 靈臺	língtái
@@ -133966,6 +134871,7 @@ while 病歷	bìnglì
 青少年	qīngshàonián
 青少年犯罪	qīngshàonián fànzuì
 青山綠水	qīngshānlǜshuǐ
+青山綠水 / 青山绿水	qīngshānlǜshuǐ
 青山绿水	qīngshānlǜshuǐ
 青岛	Qīngdǎo
 青峰	Qīngfēng
@@ -134030,6 +134936,7 @@ while 病歷	bìnglì
 青紅皂白	qīnghóngzàobái
 青紫	qīngzǐ
 青絲	qīngsī
+青絲 / 青丝	qīngsī
 青綠	qīnglǜ
 青红灯	chheⁿ-âng-teng
 青红皂白	qīnghóngzàobái
@@ -134060,6 +134967,7 @@ while 病歷	bìnglì
 青蔥	qīngcōng
 青蔥 / 青葱	qīngcōng
 青蔥歲月	qīngcōng suìyuè
+青藏鐵路 / 青藏铁路	Qīng Cáng tiělù
 青藏高原	Qīng-Zàng Gāoyuán
 青藜	qīnglí
 青虫	qīngchóng
@@ -134348,6 +135256,7 @@ while 病歷	bìnglì
 面具	miànjù
 面前	miànqián
 面包	miànbāo
+面包	min⁶ baau¹
 面包圈	miànbāoquān
 面包屑	miànbāoxiè
 面包店	miànbāodiàn
@@ -134401,6 +135310,7 @@ while 病歷	bìnglì
 面板	miàn bǎn
 面板	miànbǎn
 面汤	miàntāng
+面煎粿	miànjiānguǒ
 面熟	miànshú
 面珠	min6 zyu1
 面生	miànshēng
@@ -134745,6 +135655,7 @@ while 病歷	bìnglì
 音像圖書	yīnxiàng túshū
 音叉	yīnchā
 音变	yīnbiàn
+音名	yīnmíng
 音响	yīnxiǎng
 音场	yīnchǎng
 音域	yīnyù
@@ -134965,6 +135876,7 @@ while 病歷	bìnglì
 順延	shùnyán
 順式	shùnshì
 順從	shùncóng
+順從 / 顺从	shùncóng
 順德	Shùndé
 順心	shùnxīn
 順性別	shùnxìngbié
@@ -135099,6 +136011,7 @@ while 病歷	bìnglì
 頓時	dùnshí
 頓河	Dùn Hé
 頓涅茨克	Dùnniècíkè
+頓然	dùnrán
 頓腳	dùnjiǎo
 頓號	dùnhào
 頓足	dùnzú
@@ -135186,7 +136099,9 @@ while 病歷	bìnglì
 頦	kē
 頭	tóu
 頭一名	tóuyīmíng
+頭一遍 / 头一遍	tóu yī biàn
 頭七	tóuqī
+頭三天 / 头三天	tóu sān tiān
 頭上	tóushàng
 頭份	Tóufèn
 頭像	tóuxiàng
@@ -135209,6 +136124,7 @@ while 病歷	bìnglì
 頭屋	Tóuwū
 頭屑	tóuxiè
 頭巾	tóujīn
+頭幾個 / 头几个	tóu jǐge
 頭彩	tóucǎi
 頭文字	tóuwénzì
 頭昏	tóuhūn
@@ -135222,6 +136138,8 @@ while 病歷	bìnglì
 頭版	tóubǎn
 頭版新聞 / 头版新闻	tóubǎn xīnwén
 頭獎	tóujiǎng
+頭獎 / 头奖	tóujiǎng
+頭班車 / 头班车	tóu bān chē
 頭由	tóuyóu
 頭疼	tóuténg
 頭疼腦熱	tóuténgnǎorè
@@ -135464,6 +136382,7 @@ while 病歷	bìnglì
 顯眼	xiǎnyǎn
 顯眼處	xiǎnyǎnchù
 顯示	xiǎnshì
+顯示卡	xiǎnshìkǎ
 顯示器	xiǎnshìqì
 顯示屏	xiǎnshìpíng
 顯示心理 / 显示心理	xiǎnshì xīnlǐ
@@ -135660,6 +136579,7 @@ while 病歷	bìnglì
 顿时	dùnshí
 顿河	Dùn Hé
 顿涅茨克	Dùnniècíkè
+顿然	dùnrán
 顿脚	dùnjiǎo
 顿足	dùnzú
 顿首	dùnshǒu
@@ -135940,6 +136860,7 @@ while 病歷	bìnglì
 風勸 / 风劝	fěngquàn
 風口	fēngkǒu
 風向	fēngxiàng
+風向 / 风向	fēngxiàng
 風向標	fēngxiàngbiāo
 風吹草動	fēngchuīcǎodòng
 風吹雨打	fēngchuīyǔdǎ
@@ -135966,6 +136887,7 @@ while 病歷	bìnglì
 風帆	fēngfān
 風帽	fēngmào
 風平浪靜	fēngpínglàngjìng
+風平浪靜 / 风平浪静	fēngpínglàngjìng
 風度	fēngdù
 風度 / 风度	fēngdù
 風急雨驟	fēngjíyǔzhòu
@@ -136113,6 +137035,7 @@ while 病歷	bìnglì
 颮線	biāoxiàn
 颮颮	pòpò
 颯爽	sàshuǎng
+颯爽 / 飒爽	sàshuǎng
 颯秣建	Sàmòjiàn
 颯颯	sàsà
 颱風	táifēng
@@ -136126,6 +137049,7 @@ while 病歷	bìnglì
 飄忽不定	piāohūbùdìng
 飄拂	piāofú
 飄揚	piāoyáng
+飄揚 / 飘扬	piāoyáng
 飄搖	piāoyáo
 飄散	piāosàn
 飄浮	piāofú
@@ -136679,7 +137603,6 @@ while 病歷	bìnglì
 飲恨	yǐnhèn
 飲料	yǐnliào
 飲水	yǐnshuǐ
-飲水台	yǐnshuǐtái
 飲水思源	yǐnshuǐsīyuán
 飲水機	yǐnshuǐjī
 飲水臺	yǐnshuǐtái
@@ -136729,6 +137652,7 @@ while 病歷	bìnglì
 飽讀	bǎodú
 飽讀詩書	bǎodúshīshū
 飽足	bǎozú
+飽雨	bǎoyǔ
 飽食	bǎoshí
 飽食終日	bǎoshí-zhōngrì
 飽餐	bǎocān
@@ -137043,6 +137967,7 @@ while 病歷	bìnglì
 饱读	bǎodú
 饱读诗书	bǎodúshīshū
 饱足	bǎozú
+饱雨	bǎoyǔ
 饱食	bǎoshí
 饱食终日	bǎoshí-zhōngrì
 饱餐	bǎocān
@@ -137355,7 +138280,6 @@ while 病歷	bìnglì
 馬友魚	mǎyǒuyú
 馬口鐵	mǎkǒutiě
 馬可	Mǎkě
-馬可居先說	Mǎkě jūxiān shuō
 馬可福音	Mǎkě Fúyīn
 馬嘶	mǎsī
 馬圈	mǎjuàn
@@ -137444,7 +138368,7 @@ while 病歷	bìnglì
 馬留	mǎliú
 馬眼	mǎyǎn
 馬祖	Mǎzǔ
-馬祖列島	Mǎzǔ lièdǎo
+馬祖列島	Mǎzǔ Lièdǎo
 馬票	mǎpiào
 馬競	Mǎ-Jìng
 馬糞	mǎfèn
@@ -137475,6 +138399,7 @@ while 病歷	bìnglì
 馬路	mǎlù
 馬路中央 / 马路中央	mǎlù zhōngyāng
 馬路如虎口	mǎlùrúhǔkǒu
+馬路很平。 / 马路很平。	Mǎlù hěn píng.
 馬路牙子	mǎlù yázi
 馬蹄	mǎtí
 馬蹄 / 马蹄	mǎtí
@@ -137514,6 +138439,7 @@ while 病歷	bìnglì
 馬面	mǎmiàn
 馬靴	mǎxuē
 馬鞭	mǎbiān
+馬韉	mǎjiān
 馬韓	Mǎhán
 馬頭	Mezu
 馬頭琴	mǎtóuqín
@@ -137629,6 +138555,7 @@ while 病歷	bìnglì
 騊駼	táotú
 騍馬	kèmǎ
 騎兵	qíbīng
+騎呢	ke4 le4
 騎士	jìshì
 騎士	qíshì
 騎射	qíshè
@@ -137874,7 +138801,6 @@ while 病歷	bìnglì
 马友鱼	mǎyǒuyú
 马口铁	mǎkǒutiě
 马可	Mǎkě
-马可居先说	Mǎkě jūxiān shuō
 马可福音	Mǎkě Fúyīn
 马号	Mǎhào
 马后炮	mǎhòupào
@@ -137973,7 +138899,7 @@ while 病歷	bìnglì
 马留	mǎliú
 马眼	mǎyǎn
 马祖	Mǎzǔ
-马祖列岛	Mǎzǔ lièdǎo
+马祖列岛	Mǎzǔ Lièdǎo
 马票	mǎpiào
 马竞	Mǎ-Jìng
 马粪	mǎfèn
@@ -138034,6 +138960,7 @@ while 病歷	bìnglì
 马面	mǎmiàn
 马靴	mǎxuē
 马鞭	mǎbiān
+马鞯	mǎjiān
 马韩	Mǎhán
 马首是瞻	mǎshǒushìzhān
 马马虎虎	mǎmǎhǔhǔ
@@ -138210,6 +139137,7 @@ while 病歷	bìnglì
 骐骥	qíjì
 骐𬴊	qílín
 骑兵	qíbīng
+骑呢	ke4 le4
 骑墙	qíqiáng
 骑士	jìshì
 骑士	qíshì
@@ -138275,6 +139203,7 @@ while 病歷	bìnglì
 骨力	gǔlì
 骨力	kut-la̍t
 骨化	gúhuà
+骨化三醇	gǔhuà sānchún
 骨坛	gǔtán
 骨头	gǔtou
 骨头	gǔtou, gútou
@@ -138304,7 +139233,9 @@ while 病歷	bìnglì
 骨牌效应	gǔpái xiàoyìng
 骨牌效應	gǔpái xiàoyìng
 骨痛热	gǔtòngrè
+骨痛热症	gǔtòngrèzhèng
 骨痛熱	gǔtòngrè
+骨痛熱症	gǔtòngrèzhèng
 骨瘦如柴	gǔshòurúchái
 骨盆	gǔpén
 骨盘	gǔpán
@@ -138416,6 +139347,7 @@ while 病歷	bìnglì
 體操	tǐcāo
 體操運動員	tǐcāo yùndòngyuán
 體會	tǐhuì
+體會 / 体会	tǐhuì
 體格	tǐgé
 體格檢查	tǐgé jiǎnchá
 體檢	tǐjiǎn
@@ -139006,6 +139938,7 @@ while 病歷	bìnglì
 鬱悶	yùmèn
 鬱悶！ / 郁闷！	Yùmèn!
 鬱憤	yùfèn
+鬱抑	yùyì
 鬱李仁	yùlǐrén
 鬱江	Yùjiāng
 鬱然	yùrán
@@ -139236,6 +140169,7 @@ while 病歷	bìnglì
 魚白	yúbái
 魚皮花生	yúpí huāshēng
 魚目混珠	yúmùhùnzhū
+魚目混珠 / 鱼目混珠	yúmùhùnzhū
 魚眼	yúyǎn
 魚種	yúzhǒng
 魚窩頭	Yúwōtóu
@@ -139727,6 +140661,7 @@ while 病歷	bìnglì
 鴉嘴筆	yāzuǐbǐ
 鴉片	yāpiàn
 鴉片戰爭	Yāpiàn Zhànzhēng
+鴉片煙	yāpiànyān
 鴉片癮	yāpiànyǐn
 鴉片館	yāpiànguǎn
 鴉膽子	yādǎnzǐ
@@ -139739,6 +140674,7 @@ while 病歷	bìnglì
 鴛鴦	yuānyāng
 鴛鴦 / 鸳鸯	yuānyāng
 鴛鴦鍋	yuānyāngguō
+鴛鴦魚	yuānyāngyú
 鴝鵒	qúyù
 鴟吻	chīwěn
 鴟鴞	chīxiāo
@@ -140068,6 +141004,7 @@ while 病歷	bìnglì
 鸦嘴笔	yāzuǐbǐ
 鸦片	yāpiàn
 鸦片战争	Yāpiàn Zhànzhēng
+鸦片烟	yāpiànyān
 鸦片瘾	yāpiànyǐn
 鸦片馆	yāpiànguǎn
 鸦胆子	yādǎnzǐ
@@ -140109,6 +141046,7 @@ while 病歷	bìnglì
 鸲鹆	qúyù
 鸳鸯	yuānyāng
 鸳鸯锅	yuānyāngguō
+鸳鸯鱼	yuānyāngyú
 鸴鸠	xuéjiū
 鸴鸠笑鹏	xuéjiūxiàopéng
 鸵鸟	tuóniǎo
@@ -140597,15 +141535,18 @@ while 病歷	bìnglì
 麻糖	mátáng
 麻糬	máshǔ
 麻繩	máshéng
+麻繩 / 麻绳	máshéng
 麻绳	máshéng
 麻脸	máliǎn
 麻臉	máliǎn
+麻臉 / 麻脸	máliǎn
 麻芋果	máyùguǒ
 麻花	máhuā
 麻药	máyào
 麻萨诸塞	Másàzhūsài
 麻薩諸塞	Másàzhūsài
 麻藥	máyào
+麻藥 / 麻药	máyào
 麻衣	máyī
 麻袋	mádài
 麻豆	mádòu
@@ -141787,6 +142728,7 @@ while 病歷	bìnglì
 齋果	zhāiguǒ
 齋菜	zhāicài
 齋飯	zhāifàn
+齌怒	jìnù
 齎恨	jīhèn
 齏粉	jīfěn
 齏臼	jījiù
@@ -141892,6 +142834,7 @@ while 病歷	bìnglì
 龋齿	qǔchǐ
 龋齿性	qǔchǐxìng
 龌龊	wòchuò
+龍	lóng
 龍井	Lóngjǐng
 龍介	lóngjiè
 龍位	lóngwèi
@@ -141913,6 +142856,7 @@ while 病歷	bìnglì
 龍性	lóngxìng
 龍捲風	lóngjuǎnfēng
 龍文	lóngwén
+龍椅 / 龙椅	lóngyǐ
 龍橋	Lóngqiáo
 龍江	Lóngjiāng
 龍泉	lóngquán
@@ -142016,6 +142960,7 @@ while 病歷	bìnglì
 龔場	Gōngchǎng
 龔工	Gōnggōng
 龔河	Gōnghé
+龙	lóng
 龙 三月	sānyuè
 龙井	Lóngjǐng
 龙介	lóngjiè
@@ -142186,7 +143131,6 @@ while 病歷	bìnglì
 𠊎这兜	ngài-iá-têu
 𠊎這兜	ngài-iá-têu
 𠙶山	Ǒushān
-𠛅仔	khau-á
 𠛅洗	khau-sé
 𠝹女	gaai3 neoi5-2
 𠢕人	gâu-lâng

@@ -30,6 +30,7 @@
 ހާސް	hās
 ހިނި	hini
 ހިނިތައް	hinitak̊
+ހިންނަވަރު	hin̊navaru
 ހިންދީ	hin̊dī
 ހިންދު ކަނޑު	hin̊du kaⁿḍu
 ހިންދު ދިދަމަސް	hin̊du didamas
@@ -85,6 +86,7 @@
 ނަންތައް	nan̊tak̊
 ނަރުވާ ބިބީ	naruvā bibī
 ނަރުވާ ބިބީތައް	naruvā bibītak̊
+ނައިފަރު	naifaru
 ނައިޖީރިއާ	naijīriā
 ނަވައި	navai
 ނަވާރަ	navāra
@@ -92,6 +94,8 @@
 ނަމާދު	namādu
 ނަމޫނާ	namūnā
 ނަމޫނާތައް	namūnātak̊
+ނަގަރު	nagaru
+ނަގަރުތައް	nagarutak̊
 ނަސަބުގެ ޢިލްމު	nasabuge ʿilmu
 ނާގަލޭންޑު	nāgalēn̊ḍu
 ނާޝްޕަތީ	nāšpatī
@@ -127,23 +131,33 @@
 ރަހިމު	rahimu
 ރަހިމުތައް	rahimutak̊
 ރަށިއާ	raṣiā
+ރަށް	raṣ̊
+ރަށްވެހި	raṣ̊vehi
+ރަށްވެހިތައް	raṣ̊vehitak̊
+ރަށްތައް	raṣ̊tak̊
 ރައި	rai
 ރައްދު	raddu
 ރައްދުތައް	raddutak̊
+ރަދުން	radun̊
+ރަދުންތައް	radun̊tak̊
 ރަތ	rat
 ރަތތެހި	rattehi
 ރަތުލޯ	ratulō
 ރަތްކަނޑު	rat̊kaⁿḍu
 ރަސްމީ	rasmī
+ރާހި	rāhi
+ރާހިތައް	rāhitak̊
 ރާނޭ	rānē
 ރާބޮނދި	rāboⁿdi
 ރާއްޖެ	rājje
 ރާއްޖެތައް	rājjetak̊
+ރާދަ	rāda
 ރާޒުވާ	rāzuvā
 ރާޖަސްތާން	rājastān̊
 ރިތް މަސް	rit̊ mas
 ރިޔާލު	riyālu
 ރިޔާޟިއްޔާތު	riyāḋiyyātu
+ރިޔާޟިއްޔާތުތައް	riyāḋiyyātutak̊
 ރީނދޫ	rīⁿdū
 ރުޅި	ruḷi
 ރުޅިތައް	ruḷitak̊
@@ -162,6 +176,8 @@
 ބަހާމަސް	bahāmas
 ބަށި	baṣi
 ބަންގާޅު	ban̊gāḷu
+ބަންޑާރައިން	ban̊ḍārain̊
+ބަންޑާރައިންތައް	ban̊ḍārain̊tak̊
 ބަންޔަން	ban̊yan̊
 ބަރަބޯ	barabō
 ބަރުމާ	barumā
@@ -214,6 +230,8 @@
 ބުޅިތުނބި	buḷituᵐbi
 ބުޅިގޮށް	buḷigoṣ̊
 ބުކްޝޮޕް	buk̊šop
+ބުވަނަ	buvana
+ބުވަނަތައް	buvanatak̊
 ބުދަ	buda
 ބުދަ ދުވަސް	buda duvas
 ބުދަ ދުވަސްތައް	buda duvastak̊
@@ -258,6 +276,7 @@
 ކަރާސީނު	karāsīnu
 ކަރުނަ	karuna
 ކަރުނަތައް	karunatak̊
+ކަރުކަށަ	karukaṣa
 ކަރުދާސް	karudās
 ކަރުދާސްތައް	karudāstak̊
 ކަރްނާޓަކާ	karnāṭakā
@@ -286,7 +305,9 @@
 ކަޒަކިސްތާން	kazakistān̊
 ކާނާ	kānā
 ކާނާތައް	kānātak̊
+ކާންޏަ	kān̊ña
 ކާޅު އާއިލާ	kāḷu āilā
+ކާކު	kāku
 ކާމަރަނގަ	kāmaraⁿga
 ކާމިޔާބީއަށް އެދެން	kāmiyābīaṣ̊ eden̊
 ކާފޫރު	kāfūru
@@ -301,6 +322,7 @@
 ކިރުޅިޔަތައް	kiruḷiyatak̊
 ކިއުބާ	kiubā
 ކީރިތި ޤުރުއާން	kīriti quruān̊
+ކުންބަ	kun̊ba
 ކުރު	kuru
 ކުރު މަސް	kuru mas
 ކުރު މަސްތައް	kuru mastak̊
@@ -310,6 +332,7 @@
 ކުޅަނދިލިތައް	kuḷaⁿdilitak̊
 ކުޅި	kuḷi
 ކުޅު	kuḷu
+ކުޅުދުއްފުށި	kuḷuduffuṣi
 ކުކުން	kukun̊
 ކުކުޅު	kukuḷu
 ކުކް ޖަޒީރާ	kuk̊ jazīrā
@@ -371,6 +394,8 @@
 އަނގޮޓި ބޮނޑަނަ	aⁿgoṭi boⁿḍana
 އަންހެންމީހާ	an̊hen̊mīhā
 އަންހެންމީހާތައް	an̊hen̊mīhātak̊
+އަންދާސާ	an̊dāsā
+އަންދާސާތައް	an̊dāsātak̊
 އަންދްރަ ޕްރަދޭޝް	an̊dra pradēš
 އަންގާރަ ދުވަސް	an̊gāra duvas
 އަންގާރަ ދުވަސްތައް	an̊gāra duvastak̊
@@ -381,15 +406,19 @@
 އަޅުގަންޑު	aḷugan̊ḍu
 އަޅުގަންޑުގެ	aḷugan̊ḍuge
 އަކުރު	akuru
+އަކުރުތައް	akurutak̊
 އައިބްރޯ	aibrō
 އައިސްއަލަމާރި	aisalamāri
 އައިސްލަންޑަން	aislan̊ḍan̊
 އައްލާހު	allāhu
 އައްޑޫ	aḍḍū
+އަފަ	afa
+އަފުން	afun̊
 އަފްޣާނިސްތާން	afġānistān̊
 އަދަބިއްޔާތު	adabiyyātu
 އަދި	adi
 އަތޮޅު	atoḷu
+އަތޮޅުތައް	atoḷutak̊
 އަތްތިލަ	at̊tila
 އަލަނާސި	alanāsi
 އަލަނާސި ބިބީ	alanāsi bibī
@@ -397,6 +426,7 @@
 އަލިފާން	alifān̊
 އަލިފާންތައް	alifān̊tak̊
 އަލިފުބާ	alifubā
+އަލިފުބާތައް	alifubātak̊
 އަލުގަނޑު	alugaⁿḍu
 އަލުގަނޑުމެން	alugaⁿḍumen̊
 އަލުގަނޑުމެންއަށް	alugaⁿḍumen̊aṣ̊
@@ -422,10 +452,12 @@
 އާދިއްތަ	āditta
 އާދިއްތަ ދުވަސް	āditta duvas
 އާދިއްތަ ދުވަސްތައް	āditta duvastak̊
+އާދިއްތަތައް	ādittatak̊
 އާތަމާލަ	ātamāla
 އާސާމު	āsāmu
 އާޖެންޓީ	ājen̊ṭī
 އިހި	ihi
+އިނބަ	iᵐba
 އިނގިރޭސި	iⁿgirēsi
 އިނގިރޭސިވިލާތް	iⁿgirēsivilāt̊
 އިނގިލި	iⁿgili
@@ -434,6 +466,7 @@
 އިންސިޔުލިން	in̊siyulin̊
 އިންޑިއާ	in̊ḍiā
 އިންޑޮނޭޝިޔާ	in̊ḍonēšiyā
+އިރަ	ira
 އިރަވީ ނިޒާމު	iravī nizāmu
 އިރަވީ ނިޒާމުތައް	iravī nizāmutak̊
 އިރާގް	irāg
@@ -441,10 +474,12 @@
 އިރުވައިހުދު	iruvaihudu
 އިރުމަތީ ޓިމޯރު	irumatī ṭimōru
 އިރުތައް	irutak̊
+އިބަ	iba
 އިކުއެޑޯރު	ikueḍōru
 އިކުއެޓޯރިއަލް ގިނީ	ikueṭōrial ginī
 އިދިފުށަށްދަމާ ބަލި	idifuṣaṣ̊damā bali
 އިލާހު	ilāhu
+އިސަބަ	isaba
 އިސްރާއީލު	isrāīlu
 އިސްކަންދަރިއްޔާ	iskan̊dariyyā
 އިސްލާމް	islām̊
@@ -453,6 +488,7 @@
 އިސްޕެނިޝް	ispeniš
 އިޓަލީވިލާތް	iṭalīvilāt̊
 އީސާގެފާނު	īsāgefānu
+އުނބަ	uᵐba
 އުރަމަތީ ކަށިގަނޑު	uramatī kaṣigaⁿḍu
 އުރުދުން	urudun̊
 އުރުދުޣާން	uruduġān̊
@@ -462,7 +498,9 @@
 އުއްބައްތި	ubbatti
 އުއްތަރު ޕްރަދޭޝް	uttaru pradēš
 އުއްތަރުކަންދު	uttarukan̊du
+އުތުރު	uturu
 އުތުރު ކޮރެއާ	uturu koreā
+އުތުރުތައް	uturutak̊
 އުޑު	uḍu
 އުޒްބެކި	uzbeki
 އުޒްބެކިސްތާން	uzbekistān̊
@@ -544,10 +582,13 @@
 ވާރެޑުނި	vāreḍuni
 ވިހަ	viha
 ވިހި	vihi
+ވިރުސިކަ	virusika
 ވިކިޕީޑިޔާ	vikipīḍiyā
 ވިއެޓުނާމު	vieṭunāmu
 ވިލާ	vilā
 ވިޓަމިން	viṭamin̊
+ވެހި	vehi
+ވެހިތައް	vehitak̊
 ވެނ	ven
 ވެނެޒުއޭލާ	venezuēlā
 ވެކްސިން	vek̊sin̊
@@ -568,6 +609,7 @@
 މަރު	maru
 މަރުތެޔޮ	maruteyo
 މަބުސްތާން	mabustān̊
+މަކަރަ	makara
 މަކާއޫ	makāū
 މައިދާ	maidā
 މައިދާތައް	maidātak̊
@@ -603,12 +645,14 @@
 މާލެ	māle
 މާސްކު ބިބީ	māsku bibī
 މާސްކު ބިބީތައް	māsku bibītak̊
+މި	mi
 މިނިކާވަގަ	minikāvaga
 މިނިވަންކަން	minivan̊kan̊
 މިއަންމާ	mian̊mā
 މިއަދު	miadu
 މިއުޒިކް	miuzik̊
 މިއުޒިކްތައް	miuzik̊tak̊
+މިތުނަ	mituna
 މިސްކިތް	miskit̊
 މިސްވާކު	misvāku
 މިޒޮރާމް	mizorām̊
@@ -616,7 +660,10 @@
 މިޔަރުތައް	miyarutak̊
 މިޔަރެމު ދޫނި	miyaremu dūni
 މިޞްރު	mişru
+މީންޏަ	mīn̊ña
 މީދާ	mīdā
+މުންނާރު	mun̊nāru
+މުންނާރުތައް	mun̊nārutak̊
 މުންބާ	mun̊bā
 މުރަނގަ ތޮޅި	muraⁿga toḷi
 މުރާކި	murāki
@@ -636,6 +683,7 @@
 މެސެޑޯނިއާ	meseḍōniā
 މެސޮޕޮޓޭމިއާ	mesopoṭēmiā
 މެޓާ	meṭā
+މޭސަ	mēsa
 މޭޒު	mēzu
 މޭޒުތައް	mēzutak̊
 މޮންގޯލިއާ	mon̊gōliā
@@ -654,8 +702,12 @@
 ފަރުޖު	faruju
 ފަރޮއޭ ޖަޒީރާ	faroē jazīrā
 ފަޅޯ	faḷō
+ފަކުސަމަ	fakusama
+ފަކުސަމަތައް	fakusamatak̊
 ފައި	fai
 ފައިސާ	faisā
+ފައްޅި	faḷḷi
+ފައްޅިތައް	faḷḷitak̊
 ފަތްމިނި ބިބީ	fat̊mini bibī
 ފަތްމިނި ބިބީތައް	fat̊mini bibītak̊
 ފަލަމަސްގަނޑު	falamasgaⁿḍu
@@ -680,8 +732,11 @@
 ފުރޮޅު	furoḷu
 ފުއްޕާމޭ	fuppāmē
 ފުއްޕާމޭތައް	fuppāmētak̊
+ފުވައްމުލައް	fuvammulak̊
 ފުލުސްމީހާ	fulusmīhā
 ފުޓްބޯލްް	fuṭbōlް
+ފޫރުއްބަ	fūrubba
+ފޫރުއްބަތައް	fūrubbatak̊
 ފެހުރިހި	fehurihi
 ފެހުރިހިތައް	fehurihitak̊
 ފެން	fen̊
@@ -696,6 +751,9 @@
 ފޮޑި	foḍi
 ފްލޮރައިޑް	floraiḍ
 ދ	d
+ދަނަ	dana
+ދަރުމަ	daruma
+ދަރުމަތައް	darumatak̊
 ދަބަރު	dabaru
 ދަބަރުޖެހުނ	dabarujehun
 ދައިޔ	daiy
@@ -704,6 +762,7 @@
 ދި	di
 ދިހަ	diha
 ދިރުމާބެހޭ އިލްމު	dirumābehē ilmu
+ދިއްދޫ	diddū
 ދިއްލީ	dillī
 ދިވެހި	divehi
 ދިވެހިރާއްޖެ	divehirājje
@@ -716,6 +775,7 @@
 ދިދަމަސް ބިބީތައް	didamas bibītak̊
 ދިގު	digu
 ދީން	dīn̊
+ދީންތައް	dīn̊tak̊
 ދުށްމިނު	duṣ̊minu
 ދުށްމިނުތައް	duṣ̊minutak̊
 ދުނފިނި	dunfini
@@ -724,6 +784,7 @@
 ދުއިސައްތަ	duisatta
 ދުވަސް	duvas
 ދުވަސްތައް	duvastak̊
+ދުވާފަރު	duvāfaru
 ދުމް	dum̊
 ދޫ	dū
 ދޫނި	dūni
@@ -731,8 +792,10 @@
 ދޫތައް	dūtak̊
 ދެ	de
 ދެހެކިން	dehekin̊
+ދެކުނު	dekunu
 ދެކުނު ކޮރެއާ	dekunu koreā
 ދެކުނު އެފްރިކާ	dekunu efrikā
+ދެކުނުތައް	dekunutak̊
 ދޭ	dē
 ދޮން ބިބީ	don̊ bibī
 ދޮން ބިބީތައް	don̊ bibītak̊
@@ -743,6 +806,7 @@
 ދޯނި	dōni
 ދޯނިތައް	dōnitak̊
 ތ	t
+ތަ	ta
 ތަށި	taṣi
 ތަށިތައް	taṣitak̊
 ތަނބި ކަށިގަނޑު	taᵐbi kaṣigaⁿḍu
@@ -751,10 +815,12 @@
 ތައާރަފް	taāraf
 ތައާރަފްތައް	taāraftak̊
 ތައިވާން	taivān̊
+ތަފުރުނު	tafurunu
 ތަލަކަޅު ބިބީ	talakaḷu bibī
 ތަލަކަޅު ބިބީތައް	talakaḷu bibītak̊
 ތަޖިކިސްތާން	tajikistān̊
 ތާނަ	tāna
+ތިނަދޫ	tinadū
 ތިނެސްކަން ބިބީ	tineskan̊ bibī
 ތިނެސްކަން ބިބީތައް	tineskan̊ bibītak̊
 ތިން	tin̊
@@ -783,6 +849,8 @@
 ތުރުކު	turuku
 ތުރުކުމެނިސްތާން	turukumenistān̊
 ތުކުނި	tukuni
+ތުލަ	tula
+ތުލަތައް	tulatak̊
 ތޫނިސް	tūnis
 ތެއްތިރީސް	tettirīs
 ތެލުގޫ	telugū
@@ -823,6 +891,8 @@
 ގ	g
 ގަހަވީ އިލްމު	gahavī ilmu
 ގަހުވަ	gahuva
+ގަން	gan̊
+ގަންތައް	gan̊tak̊
 ގަންގާ ކޯރު	gan̊gā kōru
 ގަބުރު	gaburu
 ގަދީމީ	gadīmī
@@ -852,7 +922,11 @@
 ގޮދަން	godan̊
 ގޯވާ	gōvā
 ޏ	ñ
+ޏަމްޏަމް	ñam̊ñam̊
+ޏަމްޏަމްތައް	ñam̊ñam̊tak̊
 ސ	s
+ސަހަރު	saharu
+ސަހަރުތައް	saharutak̊
 ސަންސްކްރިއްތް	san̊sk̊ritt̊
 ސައި	sai
 ސައިބޯނި	saibōni
@@ -875,6 +949,8 @@
 ސާރިދޯޅުތައް	sāridōḷutak̊
 ސާޅީސް	sāḷīs
 ސާދަ	sāda
+ސިންހަ	sin̊ha
+ސިރީ	sirī
 ސިކުނޑި	sikuⁿḍi
 ސިކުނޑިތައް	sikuⁿḍitak̊
 ސިކުންގެދީން	sikun̊gedīn̊
@@ -887,6 +963,8 @@
 ސީނުކަރަ	sīnukara
 ސުން	sun̊
 ސުރިނާމް	surinām̊
+ސުކުން	sukun̊
+ސުކުންތައް	sukun̊tak̊
 ސުއްނަތް	sunnat̊
 ސުވިޑެން	suviḍen̊
 ސުވިޒަލޭންޑު	suvizalēn̊ḍu
@@ -903,6 +981,7 @@
 ސްނޯ	snō
 ސްނޯތައް	snōtak̊
 ސްކޫލު	skūlu
+ސްކޫލުތައް	skūlutak̊
 ސްޓޯންހެންޖް	sṭōn̊hen̊j
 ސްޕެއިން	spein̊
 ޑ	ḍ
@@ -995,6 +1074,7 @@
 ޝަހަރުތައް	šaharutak̊
 ޝަރީޢަތް	šarīʿat̊
 ޝުކުރިއްޔާ	šukuriyyā
+ޝްރީ	šrī
 ޞ	ş
 ޟ	ḋ
 ޠ	ţ

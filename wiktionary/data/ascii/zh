@@ -3,8 +3,10 @@
 00後	linglinghou
 1 角	jiao
 10 女	nu
+100多MB	 duo mb
 11 虛	xu
 12 危	wei
+12路公交車 / 12路公交车	 lu gongjiaoche
 13 室	shi
 14 壁	bi
 15 奎	kui
@@ -188,7 +190,6 @@ tone 8 → tone 7: 藥仔	ioha
 t͡siː³⁵ pʰiːn³³ jɐn²¹	guangzhou
 t͡sʰwən⁵⁵	cun
 t͡ʃʰɵn⁵⁵	cun
-use 閃電	shandian
 web开发	waibu kaifa
 web開發	waibu kaifa
 while 病歷	bingli
@@ -278,6 +279,7 @@ while 病歷	bingli
 музей	muziey
 мулон	mulon
 мучин	mucin
+мәмә	meme
 нён	nion
 ни хо	ni ho
 олия	oliia
@@ -373,6 +375,7 @@ while 病歷	bingli
 җю	ziu
 җя	zia
 җян	zian
+җящя	ziaxia
 ңәлойин	ngeloyin
 ңәңәзы	ngengezi
 عِيدِيَّة	idiyya
@@ -571,8 +574,6 @@ while 病歷	bingli
 一切	yiqie
 一切从简	yiqiecongjian
 一切從簡	yiqiecongjian
-一切經音義	yiqiejing yinyi
-一切经音义	yiqiejing yinyi
 一切聽你的！ / 一切听你的！	yiqie ting ni de
 一则	yize
 一到OP就卡	yi dao op jiu ka
@@ -726,6 +727,8 @@ while 病歷	bingli
 一尊大炮	yi zun dapao
 一尊巨像	yi zun juxiang
 一對一映射 / 一对一映射	yiduiyi yingshe
+一對夫婦 / 一对夫妇	yi dui fufu
+一對燕子 / 一对燕子	yi dui yanzi
 一對電子 / 一对电子	yi dui dianzi
 一小	yixiao
 一小撮	yixiaocuo
@@ -783,6 +786,8 @@ while 病歷	bingli
 一心	yixin
 一心一德	yixinyide
 一心一意	yixinyiyi
+一心无二	yixinwuer
+一心無二	yixinwuer
 一念之差	yinianzhicha
 一怔	yileng
 一总	yizong
@@ -835,6 +840,7 @@ while 病歷	bingli
 一文不值	yiwenbuzhi
 一斑	yiban
 一方	yifang
+一方手帕	yi fang shoupa
 一方面	yifangmian
 一旁	yipang
 一无所得	yiwusuode
@@ -1108,6 +1114,7 @@ while 病歷	bingli
 一聲	yisheng
 一聲不響	yishengbuxiang
 一聲槍響 / 一声枪响	yi sheng qiangxiang
+一聲長嘆 / 一声长叹	yisheng changtan
 一肚子	yiduzi
 一肚子坏水	yiduzi huaishui
 一肚子壞水	yiduzi huaishui
@@ -1127,6 +1134,9 @@ while 病歷	bingli
 一致反對 / 一致反对	yizhi fandui
 一致同意	yizhi tongyi
 一致性	yizhixing
+一臺戲 / 一台戏	yi tai xi
+一臺望遠鏡 / 一台望远镜	yi tai wangyuanjing
+一臺電腦 / 一台电脑	yi tai diannao
 一舉	yiju
 一舉一動	yijuyidong
 一舉兩得	yijuliangde
@@ -1354,6 +1364,7 @@ while 病歷	bingli
 一黨專政	yidangzhuanzheng
 一鼓作气	yiguzuoqi
 一鼓作氣	yiguzuoqi
+一鼓作氣 / 一鼓作气	yiguzuoqi
 一鼻孔出气	yi bikong chuqi
 一鼻孔出氣	yi bikong chuqi
 一齊	yiqi
@@ -1496,6 +1507,8 @@ while 病歷	bingli
 七言	qiyan
 七言絕句	qiyan jueju
 七言绝句	qiyan jueju
+七言联	qiyanlian
+七言聯	qiyanlian
 七言詩	qiyanshi
 七言诗	qiyanshi
 七连音	qilianyin
@@ -1585,6 +1598,7 @@ while 病歷	bingli
 万州	wanzhou
 万年	wannian
 万年历	wannianli
+万年油	wannianyou
 万幸	wanxing
 万店	wandian
 万念俱灰	wannianjuhui
@@ -1664,6 +1678,7 @@ while 病歷	bingli
 三七開定論	sanqikai dinglun
 三三两两	sansanliangliang
 三三兩兩	sansanliangliang
+三三得九	san san de jiu
 三不五时	sanbuwushi
 三不五時	sanbuwushi
 三不管	sanbuguan
@@ -1792,6 +1807,7 @@ while 病歷	bingli
 三天两头	santianliangtou
 三天兩夜 / 三天两夜	san tian liang ye
 三天兩頭	santianliangtou
+三天後 / 三天后	san tian hou
 三头两日	santou liangri
 三头六臂	santouliubi
 三妙丸	sanmiao wan
@@ -1878,6 +1894,8 @@ while 病歷	bingli
 三棱镜	sanlengjing
 三棱髻	sanlengji
 三樣菜 / 三样菜	san yang cai
+三横王	sanhengwang
+三橫王	sanhengwang
 三權分立	sanquanfenli
 三次元	sanciyuan
 三次方程	sanci fangcheng
@@ -1958,6 +1976,7 @@ while 病歷	bingli
 三礼	sanli
 三神	sanshen
 三禮	sanli
+三秀	sanxiu
 三秦	sanqin
 三稜鏡	sanlengjing
 三穗	sansui
@@ -2022,7 +2041,7 @@ while 病歷	bingli
 三觀	sanguan
 三观	sanguan
 三角	sanjiao
-三角不等式	sanjiaobudengshi
+三角不等式	sanjiao budengshi
 三角函数	sanjiao hanshu
 三角函數	sanjiao hanshu
 三角学	sanjiaoxue
@@ -2066,6 +2085,7 @@ while 病歷	bingli
 三足乌	sanzuwu
 三足烏	sanzuwu
 三足鼎立	sanzudingli
+三路進軍 / 三路进军	san lu jinjun
 三身	sanshen
 三軍	sanjun
 三輔	sanfu
@@ -2246,6 +2266,7 @@ while 病歷	bingli
 上姓	shangxing
 上学	shangxue
 上學	shangxue
+上學 / 上学	shangxue
 上宋窑	shangsongyao
 上宋窯	shangsongyao
 上官	shangguan
@@ -2763,6 +2784,9 @@ while 病歷	bingli
 下次	xiaci
 下毒	xiadu
 下水道	xiashuidao
+下江	xiajiang
+下江官話	xiajiang guanhua
+下江官话	xiajiang guanhua
 下決心	xia juexin
 下沉	xiachen
 下河堤	xiahedi
@@ -3438,8 +3462,6 @@ while 病歷	bingli
 不敏	bumin
 不敗之地	bubaizhidi
 不敢	bugan
-不敢出声	bugan chusheng
-不敢出聲	bugan chusheng
 不敢問津	buganwenjin
 不敢当	bugandang
 不敢恭維	bugangongwei
@@ -3678,6 +3700,7 @@ while 病歷	bingli
 不羈	buji
 不義	buyi
 不義之財	buyi zhi cai
+不習水性 / 不习水性	buxishuixing
 不老	bulao
 不老少	bulaoshao
 不而过	putjiko
@@ -3854,6 +3877,7 @@ while 病歷	bingli
 不足挂齿	buzu guachi
 不足掛齒	buzu guachi
 不足為外人道	buzu wei wairen dao
+不足為外人道 / 不足为外人道	buzu wei wairen dao
 不足為奇	buzuweiqi
 不足為怪	buzuweiguai
 不足為慮	buzuweilu
@@ -4086,6 +4110,7 @@ while 病歷	bingli
 丕显	pixian
 丕變	pibian
 丕顯	pixian
+世	shi
 世上	shishang
 世世代代	shishidaidai
 世业	shiye
@@ -4485,6 +4510,7 @@ while 病歷	bingli
 丟棄	diuqi
 丟番圖方程	diufantu fangcheng
 丟臉	diulian
+丟臉 / 丢脸	diulian
 丟開	diukai
 丟面子	diu mianzi
 丟飯碗	diufanwan
@@ -4539,6 +4565,7 @@ while 病歷	bingli
 两性人	liangxingren
 两性关系	liangxing guanxi
 两性畸形	liangxing jixing
+两情相悦	liangqingxiangyue
 两手	liangshou
 两手空空	liangshoukongkong
 两旁	liangpang
@@ -4557,6 +4584,7 @@ while 病歷	bingli
 两用	liangyong
 两码事	liangmashi
 两立	liangli
+两粤	liangyue
 两翼	liangyi
 两老	lianglao
 两者	liangzhe
@@ -4826,15 +4854,11 @@ while 病歷	bingli
 中和	zhonghe
 中四	zhongsi
 中国	chungkoet
-中国	donggo
 中国	dungguok
 中国	tiongkok
 中国	tson koq
-中国	zhong gue
 中国	zhongguo
 中国	zung gued
-中国	zung gueh
-中国	zung guet
 中国	zung gwok
 中国人	zhongguoren
 中国内地	zhongguo neidi
@@ -5148,6 +5172,7 @@ while 病歷	bingli
 中联办	zhonglianban
 中聯辦	zhonglianban
 中聽	zhongting
+中聽 / 中听	zhongting
 中肠	zhongchang
 中肯	zhongken
 中胚层	zhongpeiceng
@@ -5194,6 +5219,8 @@ while 病歷	bingli
 中西	zhongxi
 中西合璧	zhongxihebi
 中西文化	zhongxi wenhua
+中規中矩	zhongguizhongju
+中规中矩	zhongguizhongju
 中計	zhongji
 中譯	zhongyi
 中譯本 / 中译本	zhongyiben
@@ -5511,6 +5538,7 @@ while 病歷	bingli
 主刑	zhuxing
 主力	zhuli
 主力军	zhulijun
+主力機 / 主力机	zhuli ji
 主力軍	zhulijun
 主办	zhuban
 主动	zhudong
@@ -5943,6 +5971,7 @@ while 病歷	bingli
 乌贼	wuzei
 乌贼骨	wuzeigu
 乌贼鱼	wuzeiyu
+乌都语	wuduyu
 乌醋	wucu
 乌金	wujin
 乌青	wuqing
@@ -6775,6 +6804,7 @@ while 病歷	bingli
 了事	liaoshi
 了却	liaoque
 了卻	liaoque
+了卻 / 了却	leque
 了后	liauau
 了如指掌	liaoruzhizhang
 了局	liaoju
@@ -6880,6 +6910,7 @@ while 病歷	bingli
 事后诸葛亮	shihou zhuge liang
 事在人为	shizairenwei
 事在人為	shizairenwei
+事在人為 / 事在人为	shizairenwei
 事大主义	shida zhuyi
 事大主義	shida zhuyi
 事头	shitou
@@ -7391,7 +7422,6 @@ while 病歷	bingli
 五大洲	wudazhou
 五大码	wudama
 五大碼	wudama
-五天前	wu tian qian
 五天竺	wutianzhu
 五子棋	wuziqi
 五子衍宗丸	wuzi yanzong wan
@@ -7413,7 +7443,6 @@ while 病歷	bingli
 五彩繽紛	wucaibinfen
 五彩纸屑	wucai zhixie
 五彩缤纷	wucaibinfen
-五成半	wu cheng ban
 五成熟	wuchengshu
 五戒	wujie
 五指	wuzhi
@@ -7495,6 +7524,8 @@ while 病歷	bingli
 五胡	wuhu
 五胡乱华	wuhuluanhua
 五胡亂華	wuhuluanhua
+五胡十六国	wuhu shiliu guo
+五胡十六國	wuhu shiliu guo
 五脏	wuzang
 五脏六腑	wuzang liufu
 五臟	wuzang
@@ -7764,6 +7795,7 @@ while 病歷	bingli
 亞鐵氰化鉀	yatieqinghuajia
 亞非利加	yafeilijia
 亞麻	yama
+亞麻 / 亚麻	yama
 亞麻油	yamayou
 亞麻籽	yamazi
 亞麻跌	yamadie
@@ -8807,7 +8839,6 @@ while 病歷	bingli
 今天我請客。 / 今天我请客。	jintian wo qingke
 今天星期幾？ / 今天星期几？	jintian xingqiji
 今天真熱。 / 今天真热。	jintian zhen re
-今天真陰啊。 / 今天真阴啊。	jintian zhen yin a
 今夫	jinfu
 今字	jinzi
 今宵	jinxiao
@@ -8893,6 +8924,7 @@ while 病歷	bingli
 从命	congming
 从商	congshang
 从善如流	congshanruliu
+从坐	congzuo
 从头	congtou
 从头到尾	congtoudaowei
 从容	congrong
@@ -8931,6 +8963,7 @@ while 病歷	bingli
 仓库	cangku
 仓廪	canglin
 仓忙	cangmang
+仓房	cangfang
 仓皇	canghuang
 仓颉	cangjie
 仓颉篇	cangjiepian
@@ -8965,6 +8998,7 @@ while 病歷	bingli
 他们俩	tamen lia
 他们自己	tamen ziji
 他休息了一會兒。 / 他休息了一会儿。	ta xiuxi le yihuir
+他作風不正。 / 他作风不正。	ta zuofeng bu zheng
 他倆一般兒大 / 他俩一般儿大	ta lia yibanr da
 他們	tamen
 他們不理我。 / 他们不理我。	tamen bu li wo
@@ -8992,6 +9026,7 @@ while 病歷	bingli
 他家	tajia
 他家裡有錢。 / 他家里有钱。	ta jiali youqian
 他屁都不是。	ta pi dou bushi
+他很會跳舞。 / 他很会跳舞。	ta hen hui tiaowu
 他很高興。 / 他很高兴。	ta hen gaoxing
 他律	talu
 他律道德	talu daode
@@ -9159,6 +9194,7 @@ while 病歷	bingli
 仡佬族	gelaozu
 仡佬語	gelaoyu
 仡佬语	gelaoyu
+代	dai
 代为	daiwei
 代书	daishu
 代付	daifu
@@ -9367,6 +9403,7 @@ while 病歷	bingli
 以小見大	yixiaojianda
 以小见大	yixiaojianda
 以少勝多 / 以少胜多	yi shao sheng duo
+以巴衝突 / 以巴冲突	yi ba chongtu
 以弗所书	yifusuoshu
 以弗所書	yifusuoshu
 以往	yiwang
@@ -9374,6 +9411,7 @@ while 病歷	bingli
 以後 / 以后	yihou
 以德報德	yidebaode
 以德報怨	yidebaoyuan
+以德報怨 / 以德报怨	yidebaoyuan
 以德报德	yidebaode
 以德报怨	yidebaoyuan
 以德服人	yidefuren
@@ -9456,6 +9494,9 @@ while 病歷	bingli
 以逸待勞	yiyidailao
 以邻为壑	yilinweihe
 以鄰為壑	yilinweihe
+以防万一	yifangwanyi
+以防萬一	yifangwanyi
+以防萬一 / 以防万一	yifangwanyi
 以降	yijiang
 以革命的名義 / 以革命的名义	yi geming de mingyi
 仨	sa
@@ -9559,6 +9600,7 @@ while 病歷	bingli
 任天堂	rentiantang
 任官	renguan
 任庄	renzhuang
+任弼時 / 任弼时	ren bishi
 任從	rencong
 任性	renxing
 任意	renyi
@@ -10919,11 +10961,13 @@ while 病歷	bingli
 作聲	zuosheng
 作色	zuose
 作茧自缚	zuojianzifu
+作計	zuoji
 作詞	zuoci
 作詞家	zuocijia
 作詞者	zuocizhe
 作詩	zuoshi
 作證	zuozheng
+作计	zuoji
 作证	zuozheng
 作词	zuoci
 作词家	zuocijia
@@ -11281,6 +11325,7 @@ while 病歷	bingli
 來臨	lailin
 來自	laizi
 來自於	laiziyu
+來臺旅客 / 来台旅客	lai tai luke
 來華機票 / 来华机票	laihua jipiao
 來著	laizhe
 來蘇糖	laisutang
@@ -11334,6 +11379,7 @@ while 病歷	bingli
 侍应生	shiyingsheng
 侍弄	shinong
 侍從	shicong
+侍從 / 侍从	shicong
 侍應	shiying
 侍應生	shiyingsheng
 侍立	shili
@@ -11426,6 +11472,8 @@ while 病歷	bingli
 依前	yiqian
 依力克其	yilikeqi
 依吞布拉克	yitunbulake
+依地語	yidiyu
+依地语	yidiyu
 依奶	ina
 依妈	ima
 依存	yicun
@@ -11635,6 +11683,7 @@ while 病歷	bingli
 便道	biandao
 便雅悯	bianyamin
 便雅憫	bianyamin
+便面	bianmian
 便飯	bianfan
 便餐	biancan
 便饭	bianfan
@@ -12336,6 +12385,7 @@ while 病歷	bingli
 俯仰无愧	fuyangwukui
 俯仰無愧	fuyangwukui
 俯伏	fufu
+俯允	fuyun
 俯冲	fuchong
 俯卧	fuwo
 俯卧撑	fuwocheng
@@ -12378,6 +12428,7 @@ while 病歷	bingli
 倉庫	cangku
 倉廩	canglin
 倉忙	cangmang
+倉房	cangfang
 倉皇	canghuang
 倉頡	cangjie
 倉頡碼表 / 仓颉码表	cangxie mabiao
@@ -13248,6 +13299,7 @@ while 病歷	bingli
 偷天換日	toutianhuanri
 偷工减料	tougongjianliao
 偷工減料	tougongjianliao
+偷工減料 / 偷工减料	tougongjianliao
 偷巧	touqiao
 偷情	touqing
 偷懒	toulan
@@ -13846,15 +13898,18 @@ while 病歷	bingli
 儉約	jianyue
 儉腸凹肚	khiamtngnehto
 儉錢	khiamchin
+儋县	danxian
 儋州	danzhou
 儋州話	danzhouhua
 儋州话	danzhouhua
+儋縣	danxian
 儐從	bincong
 儐相	binxiang
 儒医	ruyi
 儒士	rushi
 儒学	ruxue
 儒學	ruxue
+儒學 / 儒学	ruxue
 儒家	rujia
 儒家八派	rujia ba pai
 儒家思想	rujia sixiang
@@ -13954,6 +14009,7 @@ while 病歷	bingli
 儲備	chubei
 儲備金	chubeijin
 儲君	chujun
+儲君 / 储君	chujun
 儲存	chucun
 儲蓄	chuxu
 儲蓄互助社	chuxu huzhushe
@@ -14058,6 +14114,7 @@ while 病歷	bingli
 元气	yuanqi
 元气满满	yuanqi manman
 元氣	yuanqi
+元氣 / 元气	yuanqi
 元氣滿滿	yuanqi manman
 元江	yuan jiang
 元知識	yuanzhishi
@@ -14100,6 +14157,7 @@ while 病歷	bingli
 兄終弟及	xiongzhongdiji
 兄终弟及	xiongzhongdiji
 兄臺	xiongtai
+兄臺 / 兄台	xiongtai
 兄長	xiongzhang
 兄長 / 兄长	xiongzhang
 兄长	xiongzhang
@@ -14232,8 +14290,6 @@ while 病歷	bingli
 先父	xianfu
 先王	xianwang
 先生	xiansheng
-先生们	xianshengmen
-先生們	xianshengmen
 先發	xianfa
 先發制人	xianfazhiren
 先皇	xianhuang
@@ -14484,7 +14540,10 @@ while 病歷	bingli
 克夫	kefu
 克孜勒苏	kezilesu
 克孜勒蘇	kezilesu
+克宫	kegong
+克宮	kegong
 克尽	kejin
+克山病	keshanbing
 克州	kezhou
 克己	keji
 克己主义	keji zhuyi
@@ -14639,6 +14698,7 @@ while 病歷	bingli
 兒郎	erlang
 兒馬	erma
 兒齒	nichi
+兔	tu
 兔儿爷	turye
 兔兒爺	turye
 兔唇	tuchun
@@ -15077,6 +15137,8 @@ while 病歷	bingli
 全套	quantao
 全家	quanjia
 全家福	quanjiafu
+全小将	quan xiaojiang
+全小將	quan xiaojiang
 全局	quanju
 全局快捷键	quanju kuaijiejian
 全席	quanxi
@@ -15232,10 +15294,12 @@ while 病歷	bingli
 兩性人	liangxingren
 兩性畸形	liangxing jixing
 兩性關係	liangxing guanxi
+兩情相悅	liangqingxiangyue
 兩手	liangshou
 兩手空空	liangshoukongkong
 兩把掃把 / 两把扫把	liang ba saoba
 兩敗俱傷	liangbaijushang
+兩方圖章 / 两方图章	liang fang tuzhang
 兩旁	liangpang
 兩晉	liangjin
 兩本兒賬 / 两本儿账	liang benr zhang
@@ -15255,6 +15319,7 @@ while 病歷	bingli
 兩用	liangyong
 兩碼事	liangmashi
 兩立	liangli
+兩粵	liangyue
 兩翼	liangyi
 兩老	lianglao
 兩者	liangzhe
@@ -15401,8 +15466,10 @@ while 病歷	bingli
 八極	baji
 八極拳	bajiquan
 八榮八恥	ba rong ba chi
+八正道	bazhengdao
 八步	babu
 八沟	bagou
+八減三得五 / 八减三得五	ba jian san de wu
 八溝	bagou
 八爪魚	bazhuayu
 八爪鱼	bazhuayu
@@ -15734,6 +15801,7 @@ while 病歷	bingli
 公用牌	gongyongpai
 公用电话	gongyong dianhua
 公用電話	gongyong dianhua
+公畜	gongchu
 公畝	gongmu
 公益	gongyi
 公益事业	gongyi shiye
@@ -16417,6 +16485,7 @@ while 病歷	bingli
 兽性	shouxing
 兽欲	shouyu
 兽皮	shoupi
+兽穴	shouxue
 兽类	shoulei
 兽行	shouxing
 冀州	jizhou
@@ -17149,7 +17218,9 @@ while 病歷	bingli
 冰袋	bingdai
 冰醋酸	bingcusuan
 冰释	bingshi
+冰释前嫌	bingshiqianxian
 冰釋	bingshi
+冰釋前嫌	bingshiqianxian
 冰錐	bingzhui
 冰錐子	bingzhuizi
 冰鎬	binggao
@@ -17359,6 +17430,8 @@ while 病歷	bingli
 冷處理	lengchuli
 冷融合	lengronghe
 冷血	lengxue
+冷血动物	lengxue dongwu
+冷血動物	lengxue dongwu
 冷言冷語	lengyan lengyu
 冷言冷语	lengyan lengyu
 冷語	lengyu
@@ -17394,7 +17467,6 @@ while 病歷	bingli
 冷麵	lengmian
 冻	dung
 冻伤	dongshang
-冻冰	dongbing
 冻原	dongyuan
 冻土	dongtu
 冻土层	dongtuceng
@@ -17525,7 +17597,6 @@ while 病歷	bingli
 凌驾	lingjia
 凍傷	dongshang
 凍僵 / 冻僵	dongjiang
-凍冰	dongbing
 凍原	dongyuan
 凍土	dongtu
 凍土層	dongtuceng
@@ -17733,6 +17804,7 @@ while 病歷	bingli
 凭吊	pingdiao
 凭恃	pingshi
 凭据	pingju
+凭条	pingtiao
 凭栏	pinglan
 凭空	pingkong
 凭证	pingzheng
@@ -17878,6 +17950,7 @@ while 病歷	bingli
 出发	chufa
 出发点	chufadian
 出口	chukou
+出口商	chukoushang
 出口成章	chukouchengzhang
 出口量	chukouliang
 出口額	chukoue
@@ -18021,6 +18094,7 @@ while 病歷	bingli
 出笼	chulong
 出籠	chulong
 出类拔萃	chuleibacui
+出糗	chuqiu
 出納	chuna
 出納員	chunayuan
 出線	chuxian
@@ -18041,6 +18115,8 @@ while 病歷	bingli
 出處	chuchu
 出虹	chuhong
 出血	chuxue
+出血热	chuxuere
+出血熱	chuxuere
 出血量	chuxueliang
 出行	chuxing
 出街	chujie
@@ -18124,7 +18200,6 @@ while 病歷	bingli
 击出	jichu
 击剑	jijian
 击发	jifa
-击发的声音	jifa de shengyin
 击打	jida
 击掌	jizhang
 击柝	jituo
@@ -18191,6 +18266,7 @@ while 病歷	bingli
 刀柄	daobing
 刀槍不入	daoqiangburu
 刀槍劍戟	daoqiangjianji
+刀法	daofa
 刀片	daopian
 刀笔	daobi
 刀筆	daobi
@@ -18324,9 +18400,11 @@ while 病歷	bingli
 分散計劃	fensan jihua
 分散计划	fensan jihua
 分数	fenshu
+分数单	fenshudan
 分数段	fenshuduan
 分数线	fenshuxian
 分數	fenshu
+分數單	fenshudan
 分數段	fenshuduan
 分數線	fenshuxian
 分文	fenwen
@@ -18768,6 +18846,7 @@ while 病歷	bingli
 初冬	chudong
 初出茅庐	chuchumaolu
 初出茅廬	chuchumaolu
+初出茅廬 / 初出茅庐	chuchumaolu
 初夏	chuxia
 初夜	chuye
 初夜权	chuyequan
@@ -18787,6 +18866,7 @@ while 病歷	bingli
 初意	chuyi
 初愿	chuyuan
 初戀	chulian
+初戀 / 初恋	chulian
 初戀情人	chulian qingren
 初战	chuzhan
 初戰	chuzhan
@@ -18810,6 +18890,7 @@ while 病歷	bingli
 初筛	chushai
 初篩	chushai
 初級	chuji
+初級 / 初级	chuji
 初級中學	chuji zhongxue
 初級學院	chuji xueyuan
 初級產品	chuji chanpin
@@ -18910,6 +18991,7 @@ while 病歷	bingli
 別白	biebai
 別的	biede
 別稱	biecheng
+別稱 / 别称	biecheng
 別管	bieguan
 別耽誤時間。 / 别耽误时间。	bie danwu shijian
 別致	biezhi
@@ -19082,6 +19164,7 @@ while 病歷	bingli
 别驾从事	biejia congshi
 刭	jing
 刮削	guaxue
+刮削器	guaxueqi
 刮固本	gua guben
 刮民党	guamindang
 刮民黨	guamindang
@@ -19191,6 +19274,8 @@ while 病歷	bingli
 制造厂	zhizaochang
 制造商	zhizaoshang
 制造术	zhizaoshu
+制錢	zhiqian
+制钱	zhiqian
 制限	zhixian
 制高点	zhigaodian
 制高點	zhigaodian
@@ -19237,6 +19322,7 @@ while 病歷	bingli
 刺參	cishen
 刺史	cishi
 刺客	cike
+刺心	cixin
 刺手	cishou
 刺探	citan
 刺斜	cixie
@@ -19280,6 +19366,7 @@ while 病歷	bingli
 刺骨	cigu
 刺鼻	cibi
 刻	ke
+刻下	kexia
 刻不容緩	keburonghuan
 刻不容缓	keburonghuan
 刻写	kexie
@@ -19308,6 +19395,8 @@ while 病歷	bingli
 刻苦	keku
 刻苦學習 / 刻苦学习	keku xuexi
 刻薄	kebo
+刻赤海峡	kechi haixia
+刻赤海峽	kechi haixia
 刻鏤	kelou
 刻镂	kelou
 刻骨	kegu
@@ -19402,6 +19491,7 @@ while 病歷	bingli
 前列腺癌	qianliexianai
 前列腺素	qianliexiansu
 前列舒丸	qianlieshu wan
+前副總統 / 前副总统	qian fuzongtong
 前功	qiangong
 前功尽废	qiangongjinfei
 前功尽弃	qiangongjinqi
@@ -19446,6 +19536,7 @@ while 病歷	bingli
 前崗	qiangang
 前年	qiannian
 前幾天	qianjitian
+前幾天 / 前几天	qian ji tian
 前序	qianxu
 前度刘郎	qianduliulang
 前度劉郎	qianduliulang
@@ -19479,6 +19570,8 @@ while 病歷	bingli
 前方高能	qianfanggaoneng
 前无古人	qianwuguren
 前日	qianri
+前时	qianshi
+前時	qianshi
 前晌	qianshang
 前晚	qianwan
 前景	qianjing
@@ -19900,6 +19993,7 @@ while 病歷	bingli
 創辦人	chuangbanren
 創辦雜誌 / 创办杂志	chuangban zazhi
 創造	chuangzao
+創造 / 创造	chuangzao
 創造內容 / 创造内容	chuangzao neirong
 創造力	chuangzaoli
 創造幸福 / 创造幸福	chuangzao xingfu
@@ -19913,7 +20007,6 @@ while 病歷	bingli
 剽掠	piaolue
 剽窃	piaoqie
 剽竊	piaoqie
-剾仔	khaua
 剾洗	khause
 剿匪	jiaofei
 剿戮	jiaolu
@@ -20239,6 +20332,7 @@ while 病歷	bingli
 加成	jiacheng
 加成反应	jiacheng fanying
 加成反應	jiacheng fanying
+加把勁兒！ / 加把劲儿！	jia ba jinr
 加护	jiahu
 加护病房	jiahu bingfang
 加押	jiaya
@@ -20347,6 +20441,7 @@ while 病歷	bingli
 务端	wuduan
 务虚	wuxu
 务须	wuxu
+劣	lie
 劣势	lieshi
 劣勢	lieshi
 劣化	liehua
@@ -20363,6 +20458,7 @@ while 病歷	bingli
 劣質	liezhi
 劣质	liezhi
 劣跡	lieji
+劣跡 / 劣迹	lieji
 劣迹	lieji
 动不动	dongbudong
 动乱	dongluan
@@ -20517,6 +20613,7 @@ while 病歷	bingli
 劲敌	jingdi
 劲旅	jinglu
 劲草	jingcao
+劲道	jindao
 劳什子	laoshizi
 劳伦斯	laolunsi
 劳作	laozuo
@@ -20594,6 +20691,7 @@ while 病歷	bingli
 勁敵	jingdi
 勁旅	jinglu
 勁草	jingcao
+勁道	jindao
 勁頭	jintou
 勃兰登堡	bolandengbao
 勃兰登堡门	bolandengbaomen
@@ -20629,6 +20727,7 @@ while 病歷	bingli
 勇气	yongqi
 勇气百倍	yongqi baibei
 勇氣	yongqi
+勇氣十足 / 勇气十足	yongqi shizu
 勇氣百倍	yongqi baibei
 勇烈	yonglie
 勇猛	yongmeng
@@ -20984,6 +21083,7 @@ while 病歷	bingli
 勿忘草	wuwangcao
 匀出	yunchu
 匀称	yunchen
+包	baau
 包	bao
 包举	baoju
 包乘制	baochengzhi
@@ -21088,11 +21188,13 @@ while 病歷	bingli
 包袱皮兒	baofupir
 包装	baozhuang
 包装材料	baozhuang cailiao
+包装物	baozhuangwu
 包装箱	baozhuangxiang
 包装纸	baozhuangzhi
 包装车间	baozhuang chejian
 包裝	baozhuang
 包裝材料	baozhuang cailiao
+包裝物	baozhuangwu
 包裝箱	baozhuangxiang
 包裝紙	baozhuangzhi
 包裝車間	baozhuang chejian
@@ -21313,6 +21415,7 @@ while 病歷	bingli
 北京路	beijinglu
 北京鴨	beijingya
 北京鸭	beijingya
+北人	beiren
 北伐	beifa
 北伐战争	beifa zhanzheng
 北伐戰爭	beifa zhanzheng
@@ -21447,6 +21550,7 @@ while 病歷	bingli
 北瓜	beigua
 北礵	beishuang
 北票	beipiao
+北移	bei yi
 北竿	beigan
 北管	beiguan
 北約	beiyue
@@ -21596,6 +21700,7 @@ while 病歷	bingli
 区域网路	quyu wanglu
 区域自治	quyu zizhi
 区字框	quzikuang
+区宇	quyu
 区庄	ouzhuang
 区旗	quqi
 区段	quduan
@@ -21668,6 +21773,7 @@ while 病歷	bingli
 區域自治	quyu zizhi
 區塊鏈	qukuailian
 區字框	quzikuang
+區宇	quyu
 區旗	quqi
 區段	quduan
 區莊	ouzhuang
@@ -21826,6 +21932,7 @@ while 病歷	bingli
 千千	siansian
 千千万万	qianqianwanwan
 千千萬萬	qianqianwanwan
+千卡	qianka
 千变万化	qianbianwanhua
 千古	qiangu
 千古不易	qiangu buyi
@@ -21875,6 +21982,7 @@ while 病歷	bingli
 千斤頂	qianjinding
 千斤顶	qianjinding
 千方百計	qianfangbaiji
+千方百計 / 千方百计	qianfangbaiji
 千方百计	qianfangbaiji
 千歲	qiansui
 千泉	qianquan
@@ -22433,6 +22541,7 @@ while 病歷	bingli
 单峰骆驼	danfeng luotuo
 单帮	danbang
 单引号	danyinhao
+单张	danzhang
 单弦	danxian
 单恋	danlian
 单打	danda
@@ -22945,15 +23054,18 @@ while 病歷	bingli
 占领	zhanling
 占领军	zhanlingjun
 占领者	zhanlingzhe
+卡	ka
 卡介苗	kajiemiao
 卡其布	kaqibu
 卡其色	kaqise
+卡农	kanong
 卡司	kasi
 卡图什	katushi
 卡士达	kashida
 卡士達	kashida
 卡宴	kayan
 卡宾枪	kabinqiang
+卡尺	kachi
 卡尼丁	kaniding
 卡巴迪	kabadi
 卡布其諾	kabuqinuo
@@ -22986,6 +23098,7 @@ while 病歷	bingli
 卡車 / 卡车	kache
 卡車停靠點。 / 卡车停靠点。	kache tingkaodian
 卡车	kache
+卡農	kanong
 卡达	kada
 卡通	katong
 卡通片	katongpian
@@ -23079,6 +23192,7 @@ while 病歷	bingli
 卫满朝鲜	wei man chaoxian
 卫理宗	weilizong
 卫生	hygienic
+卫生丸	weishengwan
 卫生保健	weisheng baojian
 卫生儿裤子	muping
 卫生套	weishengtao
@@ -23102,6 +23216,7 @@ while 病歷	bingli
 卯眼	maoyan
 卯窍	sichuan
 卯竅	sichuan
+卯金刀	maojindao
 印	jan
 印	yin
 印书馆	yinshuguan
@@ -23257,6 +23372,7 @@ while 病歷	bingli
 危宿	weixiu
 危宿	weixiu weixiu
 危局	weiju
+危峰	weifeng
 危急	weiji
 危急存亡之秋	weijicunwangzhiqiu
 危情	weiqing
@@ -23404,6 +23520,7 @@ while 病歷	bingli
 卸货	xiehuo
 卸除	xiechu
 卻待	quedai
+卻敵 / 却敌	quedi
 卻是	queshi
 卻步	quebu
 卻說	queshuo
@@ -23419,6 +23536,7 @@ while 病歷	bingli
 厂房	changfang
 厂牌	changpai
 厂矿	changkuang
+厂礼拜	changlibai
 厂长	changzhang
 厄	e
 厄利垂亚	elichuiya
@@ -23935,6 +24053,7 @@ while 病歷	bingli
 县令	xianling
 县份	xianfen
 县城	xiancheng
+县境	xianjing
 县太爷	xiantaiye
 县官	xianguan
 县尉	xianwei
@@ -23954,6 +24073,8 @@ while 病歷	bingli
 参与感	canyugan
 参与者	canyuzhe
 参事	canshi
+参会	canhui
+参会	sanhui
 参保	canbao
 参入	canru
 参军	canjun
@@ -24021,6 +24142,8 @@ while 病歷	bingli
 參政	canzheng
 參數	canshu
 參數化	canshuhua
+參會	canhui
+參會	sanhui
 參湯	shentang
 參照	canzhao
 參照物	canzhaowu
@@ -24138,6 +24261,8 @@ while 病歷	bingli
 双休	shuangxiu
 双休日	shuangxiuri
 双体船	shuangtichuan
+双倍	shuangbei
+双倍赔偿	shuangbei peichang
 双元音	shuangyuanyin
 双全	shuangquan
 双六	shuangliu
@@ -25007,6 +25132,7 @@ while 病歷	bingli
 变为	bianwei
 变乱	bianluan
 变产	bianchan
+变价	bianjia
 变体	bianti
 变体假名	bianti jiaming
 变例	bianli
@@ -25018,6 +25144,7 @@ while 病歷	bingli
 变卖	bianmai
 变卦	biangua
 变压器	bianyaqi
+变口	biankou
 变啥魍	pinsianbang
 变坏	bianhuai
 变声	biansheng
@@ -25026,6 +25153,7 @@ while 病歷	bingli
 变天	biantian
 变奏	bianzou
 变奏曲	bianzouqu
+变局	bianju
 变差	biancha
 变幻	bianhuan
 变幻莫测	bianhuanmoce
@@ -25036,19 +25164,23 @@ while 病歷	bingli
 变弄	pinlang
 变形	bianxing
 变形虫	bianxingchong
+变形金刚	bianxing jingang
 变征之音	bianzhizhiyin
 变徵之音	bianzhizhiyin
 变心	bianxin
 变态	biantai
+变态反应	biantai fanying
 变性	bianxing
 变性人	bianxingren
 变性毒素	bianxing dusu
 变性者	bianxingzhe
+变戏法	bian xifa
 变成	biancheng
 变成岩	bianchengyan
 变换	bianhuan
 变故	biangu
 变数	bianshu
+变文	bianwen
 变易	bianyi
 变星	bianxing
 变更	biangeng
@@ -25056,6 +25188,8 @@ while 病歷	bingli
 变样	bianyang
 变法	bianfa
 变法儿	bianfar
+变温动物	bianwen dongwu
+变生肘腋	bianshengzhouye
 变电站	biandianzhan
 变电箱	biandianxiang
 变瘦	bianshou
@@ -25066,7 +25200,9 @@ while 病歷	bingli
 变胖	bianpang
 变脸	bianlian
 变色	bianse
+变色眼镜	bianse yanjing
 变色蜥蜴	bianse xiyi
+变色镜	biansejing
 变色龙	bianselong
 变节	bianjie
 变节者	bianjiezhe
@@ -25076,11 +25212,13 @@ while 病歷	bingli
 变调	biandiao
 变质	bianzhi
 变质岩	bianzhiyan
+变起萧墙	bianqixiaoqiang
 变身	bianshen
 变迁	bianqian
 变通	biantong
 变速	biansu
 变速器	biansuqi
+变速运动	biansu yundong
 变面	pinbin
 变革	biange
 变频	bianpin
@@ -25155,6 +25293,8 @@ while 病歷	bingli
 口出狂言	kou chu kuang yan
 口北	koubei
 口口声声	koukoushengsheng
+口口相传	koukouxiangchuan
+口口相傳	koukouxiangchuan
 口口聲聲	koukoushengsheng
 口号	kouhao
 口吃	kouchi
@@ -25360,6 +25500,7 @@ while 病歷	bingli
 古史	gushi
 古国	guguo
 古國	guguo
+古圣	gusheng
 古坑	gukeng
 古埃及	gu aiji
 古城	gucheng
@@ -25474,6 +25615,7 @@ while 病歷	bingli
 古義	guyi
 古老	gulao
 古者	guzhe
+古聖	gusheng
 古舊	gujiu
 古色古香	guseguxiang
 古英語	guyingyu
@@ -25496,6 +25638,7 @@ while 病歷	bingli
 古诺斯语	gunuosiyu
 古谚	guyan
 古跡	guji
+古跡 / 古迹	guji
 古路	gulu
 古蹟	guji
 古近紀	gujinji
@@ -25896,6 +26039,7 @@ while 病歷	bingli
 台北	taibei
 台北人	taibeiren
 台南	tainan
+台历	taili
 台商	taishang
 台地	taidi
 台型	taixing
@@ -25950,6 +26094,7 @@ while 病歷	bingli
 台球	taiqiu
 台甫	taifu
 台秤	taicheng
+台窝湾	taiwowan
 台胞	taibao
 台胞证	taibaozheng
 台西	taixi
@@ -26026,6 +26171,7 @@ while 病歷	bingli
 史迹	shiji
 史達林	shidalin
 史達林格勒	shidalingele
+右	jau
 右	you
 右侧	youce
 右倾	youqing
@@ -26173,6 +26319,7 @@ while 病歷	bingli
 司隸	sili
 司隸校尉	sili xiaowei
 司馬	sima
+司馬懿 / 司马懿	sima yi
 司馬昭之心	sima zhao zhi xin
 司馬晉	sima jin
 司馬遷 / 司马迁	sima qian
@@ -26423,6 +26570,7 @@ while 病歷	bingli
 各說各話	geshuogehua
 各说各话	geshuogehua
 各路	gelu
+各路人馬 / 各路人马	ge lu renma
 各路英雄好漢 / 各路英雄好汉	gelu yingxionghaohan
 各适其适	geshiqishi
 各適其適	geshiqishi
@@ -26862,6 +27010,7 @@ while 病歷	bingli
 同父異母	tongfu yimu
 同犯	tongfan
 同班	tongban
+同班的人	tongban de ren
 同理	tongli
 同理心	tonglixin
 同甘共苦	tonggangongku
@@ -26932,6 +27081,7 @@ while 病歷	bingli
 同進士出身	tong jinshi chusheng
 同鄉	tongxiang
 同鄉會	tongxianghui
+同鄉會 / 同乡会	tongxianghui
 同門	tongmen
 同门	tongmen
 同雠敌忾	tongchoudikai
@@ -26940,6 +27090,7 @@ while 病歷	bingli
 同音詞	tongyinci
 同音词	tongyinci
 同類	tonglei
+同類 / 同类	tonglei
 同餘	tongyu
 同餘的模 / 同余的模	tongyu de mo
 同黨	tongdang
@@ -27205,6 +27356,7 @@ while 病歷	bingli
 后晋	houjin
 后晌	houshang
 后晌饭	houshangfan
+后景	houjing
 后期	houqi
 后来	houlai
 后来人	houlairen
@@ -27263,7 +27415,6 @@ while 病歷	bingli
 后跟	hougen
 后路	houlu
 后车厢	houchexiang
-后车戒	qianjufu houjujie
 后轮	houlun
 后辈	houbei
 后边	houbian
@@ -27373,6 +27524,7 @@ while 病歷	bingli
 向暮	xiangmu
 向望	ngbang
 向来	xianglai
+向東走 / 向东走	xiang dong zou
 向格	xiangge
 向父母出櫃 / 向父母出柜	xiang fumu chugui
 向着	xiangzhe
@@ -27387,6 +27539,7 @@ while 病歷	bingli
 向量空间	xiangliang kongjian
 向阳	xiangyang
 向陽	xiangyang
+向陽 / 向阳	xiangyang
 向隅	xiangyu
 向隅独泣	xiangyuduqi
 向隅獨泣	xiangyuduqi
@@ -27441,6 +27594,7 @@ while 病歷	bingli
 吝嗇	linse
 吝嗇鬼	linsegui
 吝惜	linxi
+吞	tun
 吞併	tunbing
 吞剝	tunbo
 吞剥	tunbo
@@ -27606,12 +27760,14 @@ while 病歷	bingli
 启动费	qidongfei
 启发	qifa
 启导	qidao
+启封	qifeng
 启明	qiming
 启浪	qilang
 启用	qiyong
 启示	qishi
 启示录	qishilu
 启程	qicheng
+启航	qihang
 启蒙	qimeng
 启蒙时代	qimeng shidai
 启蒙运动	qimeng yundong
@@ -27972,6 +28128,7 @@ while 病歷	bingli
 周岁	zhousui
 周巷	zhouxiang
 周年	zhounian
+周年庆	zhounianqing
 周延	zhouyan
 周急	zhouji
 周恩來 / 周恩来	zhou enlai
@@ -28156,6 +28313,8 @@ while 病歷	bingli
 呼風喚雨	hufenghuanyu
 呼风唤雨	hufenghuanyu
 呼鹼	hujian
+呼麥	humai
+呼麦	humai
 命世	mingshi
 命世之才	mingshi zhi cai
 命中	mingzhong
@@ -28440,6 +28599,9 @@ while 病歷	bingli
 咬牙切齿	yaoyaqiechi
 咬耳朵	yao erduo
 咬肌	yaoji
+咬舌儿	yaosher
+咬舌兒	yaosher
+咬舌子	yaoshezi
 咭吱咯吱	jizhigezhi
 咯吱	gezhi
 咯咯	gege
@@ -28515,6 +28677,7 @@ while 病歷	bingli
 哀兵必勝	aibingbisheng
 哀兵必胜	aibingbisheng
 哀凄	aiqi
+哀切	aiqie
 哀号	aihao
 哀启	aiqi
 哀告	aigao
@@ -28599,6 +28762,7 @@ while 病歷	bingli
 品蓝	pinlan
 品藍	pinlan
 品行	pinxing
+品行端方	pinxing duanfang
 品評	pinping
 品議	pinyi
 品议	pinyi
@@ -28807,6 +28971,7 @@ while 病歷	bingli
 哥萨克人	gesake ren
 哥薩克	gesake
 哥薩克人	gesake ren
+哥薩克騎兵 / 哥萨克骑兵	gesake qibing
 哦	e
 哨兵	shaobing
 哨声	shaosheng
@@ -28947,7 +29112,6 @@ while 病歷	bingli
 唐古拉	tanggula
 唐古拉山	tanggula shan
 唐君毅	tang junyi
-唐城	tangcheng
 唐宁街	tangning jie
 唐宋变革	tangsong biange
 唐宋變革	tangsong biange
@@ -29008,6 +29172,7 @@ while 病歷	bingli
 唠叨	laodao
 唠嗑	laoke
 唢呐	suona
+唤	huan
 唤礼	huanli
 唤起	huanqi
 唤醒	huanxing
@@ -29136,6 +29301,7 @@ while 病歷	bingli
 唾液腺	tuoyexian
 唾盂	tuoyu
 唾腺	tuoxian
+啁哳	zhaozha
 啃書本 / 啃书本	ken shuben
 啃老族	kenlaozu
 啄木冠	zhuomuguan
@@ -29317,6 +29483,7 @@ while 病歷	bingli
 啟動	qidong
 啟動機關 / 启动机关	qidong jiguan
 啟動費	qidongfei
+啟封	qifeng
 啟導	qidao
 啟明	qiming
 啟會 / 启会	qihui
@@ -29327,6 +29494,7 @@ while 病歷	bingli
 啟示	qishi
 啟示錄	qishilu
 啟程	qicheng
+啟航	qihang
 啟蒙	qimeng
 啟蒙 / 启蒙	qimeng
 啟蒙教育 / 启蒙教育	qimeng jiaoyu
@@ -29519,6 +29687,7 @@ while 病歷	bingli
 喙	chhui
 喙	choi cheu
 喙䫌	chhuiphoe
+喚	huan
 喚禮	huanli
 喚起	huanqi
 喚醒	huanxing
@@ -29596,6 +29765,7 @@ while 病歷	bingli
 喝叱	hechi
 喝墨水	he moshui
 喝彩	hecai
+喝得一滴不剩	he de yidibusheng
 喝悶酒	he menjiu
 喝止	hezhi
 喝水	heshui
@@ -29711,6 +29881,7 @@ while 病歷	bingli
 單幫	danbang
 單引號	danyinhao
 單弦	danxian
+單張	danzhang
 單戀	danlian
 單打	danda
 單打獨鬥	dandadudou
@@ -29921,8 +30092,10 @@ while 病歷	bingli
 嘆惋	tanwan
 嘆惜	tanxi
 嘆服	tanfu
+嘆服 / 叹服	tanfu
 嘆氣	tanqi
 嘆為觀止	tanweiguanzhi
+嘆為觀止 / 叹为观止	tanweiguanzhi
 嘆美	tanmei
 嘆詞	tanci
 嘈乱	caoluan
@@ -30209,6 +30382,7 @@ while 病歷	bingli
 嚇呆	xiadai
 嚇唬	xiahu
 嚇壞	xiahuai
+嚇壞了 / 吓坏了	xia huai le
 嚇得半死 / 吓得半死	xia de bansi
 嚇死	xiasi
 嚇死寶寶了！ / 吓死宝宝了！	xia si baobao le
@@ -30414,6 +30588,7 @@ while 病歷	bingli
 四字頭	sizitou
 四季	siji
 四季分明	siji fenming
+四季橘	sijiju
 四季豆	sijidou
 四小龍	sixiaolong
 四小龙	sixiaolong
@@ -30455,6 +30630,7 @@ while 病歷	bingli
 四會	sihui
 四月	siyue
 四月份	siyuefen
+四月初	siyue chu
 四杠子	sigangzi
 四格	sige
 四棱豆	silengdou
@@ -30577,8 +30753,10 @@ while 病歷	bingli
 回中	huizhong
 回乡	huixiang
 回书	huishu
+回他個電話 / 回他个电话	hui ta ge dianhua
 回來	huilai
 回信	huixin
+回光返照	huiguangfanzhao
 回击	huiji
 回到	huidao
 回到原來 / 回到原来	huidao yuanlai
@@ -30649,6 +30827,7 @@ while 病歷	bingli
 回憶 / 回忆	huiyi
 回憶錄	huiyilu
 回應	huiying
+回應 / 回应	huiying
 回手	huishou
 回扣	huikou
 回执	huizhi
@@ -30743,6 +30922,7 @@ while 病歷	bingli
 回车	huiche
 回车键	huichejian
 回转	huizhuan
+回過身來 / 回过身来	hui guo shen lai
 回避	huibi
 回部	huibu
 回鄉	huixiang
@@ -30750,9 +30930,11 @@ while 病歷	bingli
 回銷	huixiao
 回鋒	huifeng
 回鍋	huiguo
+回鍋油	huiguoyou
 回鍋肉	huiguorou
 回销	huixiao
 回锅	huiguo
+回锅油	huiguoyou
 回锅肉	huiguorou
 回锋	huifeng
 回電	huidian
@@ -30766,6 +30948,7 @@ while 病歷	bingli
 回頭率	huitoulu
 回頭率百分百 / 回头率百分百	huitoulu baifenbai
 回頭看 / 回头看	huitou kan
+回頭看了一眼 / 回头看了一眼	huitou kan le yi yan
 回頭見	huitou jian
 回頭見！ / 回头见！	huitou jian
 回顧	huigu
@@ -30935,6 +31118,7 @@ while 病歷	bingli
 困难	kunnan
 困難	kunnan
 困難兒童 / 困难儿童	kunnan ertong
+困難的事情	kunnan de shiqing
 困頓	kundun
 困頓 / 困顿	kundun
 困顿	kundun
@@ -31063,6 +31247,8 @@ while 病歷	bingli
 国务院	guowuyuan
 国势	guoshi
 国医	guoyi
+国华	guohua
+国博	guobo
 国历	guoli
 国史	guoshi
 国号	guohao
@@ -31112,6 +31298,7 @@ while 病歷	bingli
 国小	guoxiao
 国庆	guoqing
 国庆日	guoqingri
+国庆节	guoqingjie
 国库	guoku
 国库券	guokuquan
 国府	guofu
@@ -31373,6 +31560,7 @@ while 病歷	bingli
 國務卿	guowuqing
 國務院	guowuyuan
 國勢	guoshi
+國博	guobo
 國史	guoshi
 國名	guoming
 國君	guojun
@@ -31432,6 +31620,7 @@ while 病歷	bingli
 國慶假期 / 国庆假期	guoqing jiaqi
 國慶慶祝 / 国庆庆祝	guoqing qingzhu
 國慶日	guoqingri
+國慶節	guoqingjie
 國戚	guoqi
 國手	guoshou
 國技	guoji
@@ -31503,6 +31692,7 @@ while 病歷	bingli
 國色	guose
 國色天香	guosetianxiang
 國花	guohua
+國華	guohua
 國葬	guozang
 國藥	guoyao
 國號	guohao
@@ -32058,6 +32248,7 @@ while 病歷	bingli
 在劫难逃	zaijienantao
 在劫難逃	zaijienantao
 在即	zaiji
+在嗎？ / 在吗？	zai ma
 在在	zaizai
 在地	zaidi
 在场	zaichang
@@ -32101,6 +32292,7 @@ while 病歷	bingli
 在职	zaizhi
 在职贫穷	zaizhi pinqiong
 在職	zaizhi
+在職 / 在职	zaizhi
 在職訓練 / 在职训练	zaizhi xunlian
 在職貧窮	zaizhi pinqiong
 在行	zaihang
@@ -32304,6 +32496,7 @@ while 病歷	bingli
 地目	dimu
 地磅	dibang
 地磅站	dibangzhan
+地祇	diqi
 地租	dizu
 地秤	dicheng
 地窖	dijiao
@@ -32410,6 +32603,7 @@ while 病歷	bingli
 均州路	junzhoulu
 均摊	juntan
 均攤	juntan
+均攤 / 均摊	juntan
 均方差	junfangcha
 均方根	junfanggen
 均沾	junzhan
@@ -32479,6 +32673,7 @@ while 病歷	bingli
 坐台小姐	zuotai xiaojie
 坐商	zuoshang
 坐困	zuokun
+坐在窗邊 / 坐在窗边	zuo zai chuang bian
 坐地	zuodi
 坐地起价	zuodiqijia
 坐地起價	zuodiqijia
@@ -32511,6 +32706,7 @@ while 病歷	bingli
 坐監	zuojian
 坐禅	zuochan
 坐禪	zuochan
+坐立不安	zuolibuan
 坐等	zuodeng
 坐臥不寧	zuowobuning
 坐药	zuoyao
@@ -32561,6 +32757,7 @@ while 病歷	bingli
 坚决	jianjue
 坚固	jiangu
 坚壁	jianbi
+坚壁清野	jianbiqingye
 坚如磐石	jianrupanshi
 坚守	jianshou
 坚定	jianding
@@ -32608,6 +32805,8 @@ while 病歷	bingli
 坠毁	zhuihui
 坠胎	zhuitai
 坠落	zhuiluo
+坡币	pobi
+坡幣	pobi
 坡度	podu
 坡道	podao
 坤包	kunbao
@@ -32740,6 +32939,7 @@ while 病歷	bingli
 垓心	gaixin
 垛子	duozi
 垣墉	yuanyong
+垦地	kendi
 垦殖	kenzhi
 垦荒	kenhuang
 垫付	dianfu
@@ -32760,6 +32960,7 @@ while 病歷	bingli
 垲垲	kaikai
 垸子	yuanzi
 垻子	bazi
+埃佛勒斯峰	aifolesi feng
 埃博拉出血热	aibola chuxuere
 埃博拉出血熱	aibola chuxuere
 埃及	aiji
@@ -33130,6 +33331,7 @@ while 病歷	bingli
 堅固	jiangu
 堅執	jianzhi
 堅壁	jianbi
+堅壁清野	jianbiqingye
 堅如磐石	jianrupanshi
 堅守	jianshou
 堅定	jianding
@@ -33188,6 +33390,7 @@ while 病歷	bingli
 堡壘 / 堡垒	baolei
 堡子	buzi
 堡礁	baojiao
+堤	di
 堤坝	diba
 堤坝路	dibalu
 堤壩	diba
@@ -33323,6 +33526,8 @@ while 病歷	bingli
 堵城	ducheng
 堵塞	duse
 堵得慌	dudehuang
+堵心	duxin
+堵車 / 堵车	duche
 塊	kuai
 塊根	kuaigen
 塊莖	kuaijing
@@ -33700,6 +33905,7 @@ while 病歷	bingli
 墳墩	fendun
 墳墩頭	fenduntou
 墳頭	fentou
+墾地	kendi
 墾殖	kenzhi
 墾荒	kenhuang
 壁	bi
@@ -33807,8 +34013,10 @@ while 病歷	bingli
 壙穴	kuangxue
 壚坶	lumu
 壞	huai
+壞了大事 / 坏了大事	huai le dashi
 壞事	huaishi
 壞人	huairen
+壞人 / 坏人	huairen
 壞分子	huaifenzi
 壞包兒	huaibaor
 壞小子	huaixiaozi
@@ -33816,6 +34024,7 @@ while 病歷	bingli
 壞死性筋膜炎	huaisixing jinmoyan
 壞水	huaishui
 壞疽	huaiju
+壞習慣 / 坏习惯	huai xiguan
 壞處	huaichu
 壞蛋	huaidan
 壞血病	huaixuebing
@@ -33823,6 +34032,7 @@ while 病歷	bingli
 壞賬	huaizhang
 壞運	huaiyun
 壞運氣	huai yunqi
+壞雞蛋 / 坏鸡蛋	huai jidan
 壟斷	longduan
 壟溝	longgou
 壤土	rangtu
@@ -33885,6 +34095,7 @@ while 病歷	bingli
 壮语	zhuangyu
 壮阔	zhuangkuo
 壮阳	zhuangyang
+壮阳药	zhuangyangyao
 壯丁	zhuangding
 壯丁 / 壮丁	zhuangding
 壯侗語系	zhuangdongyuxi
@@ -33911,6 +34122,7 @@ while 病歷	bingli
 壯語	zhuangyu
 壯闊	zhuangkuo
 壯陽	zhuangyang
+壯陽藥	zhuangyangyao
 壯麗	zhuangli
 声	sheng
 声	sing seng
@@ -34131,6 +34343,7 @@ while 病歷	bingli
 复杂	fuza
 复杂	hokchap
 复杂化	fuzahua
+复杂度	fuzadu
 复杂性	fuzaxing
 复查	fucha
 复核	fuhe
@@ -34221,6 +34434,7 @@ while 病歷	bingli
 夕阳	xiyang
 夕阳西下	xiyangxixia
 夕陽	xiyang
+夕陽 / 夕阳	xiyang
 夕陽西下	xiyangxixia
 外东北	wai dongbei
 外乡	waixiang
@@ -34521,6 +34735,7 @@ while 病歷	bingli
 外阴	waiyin
 外阴前庭炎	waiyin qiantingyan
 外陰	waiyin
+外陰 / 外阴	waiyin
 外陰前庭炎	waiyin qiantingyan
 外雙	waishuang
 外雙眼皮	waishuangyanpi
@@ -34559,7 +34774,9 @@ while 病歷	bingli
 多余	duoyu
 多來特巴格	duolaite bage
 多保他命	duobaotaming
+多俾亚	duobiya
 多俾亚传	duobiyazhuan
+多俾亞	duobiya
 多俾亞傳	duobiyazhuan
 多倫	duolun
 多倫多	duolunduo
@@ -34806,6 +35023,7 @@ while 病歷	bingli
 夜婆仔	iapoa
 夜学	yexue
 夜學	yexue
+夜宴	yeyan
 夜尿症	yeniaozheng
 夜工	yegong
 夜市	yeshi
@@ -34959,6 +35177,7 @@ while 病歷	bingli
 大乘	dacheng
 大乘佛教	dacheng fojiao
 大书	dashu
+大书特书	dashuteshu
 大乱	daluan
 大亂	daluan
 大事	dashi
@@ -35453,6 +35672,7 @@ while 病歷	bingli
 大把	daba
 大报	dabao
 大抵	dadi
+大担岛	dadandao
 大拇哥	damuge
 大拇指	damuzhi
 大拇指头	damuzhitou
@@ -35473,6 +35693,7 @@ while 病歷	bingli
 大搖大擺	dayaodabai
 大摇大摆	dayaodabai
 大摩	damo
+大擔島	dadandao
 大支坪	dazhiping
 大放厥詞	da fang jue ci
 大放厥詞	dafangjueci
@@ -35529,6 +35750,7 @@ while 病歷	bingli
 大曲	daqu
 大書	dashu
 大書法家 / 大书法家	da shufajia
+大書特書	dashuteshu
 大會	dahui
 大會堂	dahuitang
 大月	dayue
@@ -35678,8 +35900,10 @@ while 病歷	bingli
 大炮仙	dapaoxian
 大為不滿 / 大为不满	dawei buman
 大烟	dayan
+大烟鬼	dayangui
 大無畏	dawuwei
 大煙	dayan
+大煙鬼	dayangui
 大煞風景	dashafengjing
 大煞风景	dashafengjing
 大熊座	daxiongzuo
@@ -35832,6 +36056,7 @@ while 病歷	bingli
 大肠镜	dachangjing
 大肠镜检查	dachangjing jiancha
 大胆	dadan
+大胆岛	dadandao
 大背头	dabeitou
 大背頭	dabeitou
 大胜	dasheng
@@ -35869,6 +36094,7 @@ while 病歷	bingli
 大腿襪	datuiwa
 大膽	dadan
 大膽 / 大胆	dadan
+大膽島	dadandao
 大臣	dachen
 大自流盆地	da ziliu pendi
 大自然	daziran
@@ -35940,12 +36166,14 @@ while 病歷	bingli
 大計	daji
 大話	dahua
 大語	dayu
+大課	dake
 大調	dadiao
 大謬不然	damiuburan
 大變	dabian
 大计	daji
 大话	dahua
 大语	dayu
+大课	dake
 大调	dadiao
 大谬不然	damiuburan
 大豆	dadou
@@ -36043,6 +36271,7 @@ while 病歷	bingli
 大错特错	dacuotecuo
 大键琴	dajianqin
 大門	damen
+大門向南 / 大门向南	damen xiang nan
 大閆各莊	dayangezhuang
 大開殺戒	dakaishajie
 大開眼界	dakaiyanjie
@@ -36396,11 +36625,9 @@ while 病歷	bingli
 天機	tianji
 天機不可洩漏	tianji buke xielou
 天機不可洩漏。 / 天机不可泄漏。	tianji buke xielou
-天气	tianqi
 天气图	tianqitu
 天气预告	tianqi yugao
 天气预报	tianqi yubao
-天氣	tianqi
 天氣圖	tianqitu
 天氣怎麽樣？ / 天气怎么样？	tianqi zenmeyang
 天氣是冷。 / 天气是冷。	tianqi shi leng
@@ -36511,6 +36738,7 @@ while 病歷	bingli
 天罡	tiangang
 天罰	tianfa
 天羅地網	tianluodiwang
+天羅地網 / 天罗地网	tianluodiwang
 天老儿	tianlaor
 天老兒	tianlaor
 天职	tianzhi
@@ -36566,6 +36794,7 @@ while 病歷	bingli
 天际	tianji
 天际线	tianjixian
 天险	tianxian
+天陰了。 / 天阴了。	tian yin le
 天際	tianji
 天際線	tianjixian
 天險	tianxian
@@ -36765,6 +36994,7 @@ while 病歷	bingli
 太阴	taiyin
 太阴月	taiyinyue
 太陰	taiyin
+太陰 / 太阴	taiyin
 太陰月	taiyinyue
 太陽	taiyang
 太陽 / 太阳	taiyang
@@ -36823,6 +37053,8 @@ while 病歷	bingli
 夫妻肺片	fuqifeipian
 夫妻間的情趣 / 夫妻间的情趣	fuqi jian de qingqu
 夫妻關係 / 夫妻关系	fuqi guanxi
+夫妻魚	fuqiyu
+夫妻鱼	fuqiyu
 夫娘	funiang
 夫婦	fufu
 夫婦 / 夫妇	fufu
@@ -37234,6 +37466,7 @@ while 病歷	bingli
 奇缘	qiyuan
 奇耻大辱	qichidaru
 奇聞	qiwen
+奇聞 / 奇闻	qiwen
 奇花异草	qihuayicao
 奇花異卉 / 奇花异卉	qihuayihui
 奇花異草	qihuayicao
@@ -37254,6 +37487,7 @@ while 病歷	bingli
 奇貨可居	qihuokeju
 奇货可居	qihuokeju
 奇跡	qiji
+奇跡 / 奇迹	qiji
 奇迹	qiji
 奇遇	qiyu
 奇闻	qiwen
@@ -37824,6 +38058,8 @@ while 病歷	bingli
 奶罩	naizhao
 奶膀子	naipangzi
 奶茶	naicha
+奶茶联盟	naicha lianmeng
+奶茶聯盟	naicha lianmeng
 奶製品	naizhipin
 奶酪	nailao
 奶酪蛋糕	nailao dangao
@@ -38114,6 +38350,7 @@ while 病歷	bingli
 如坐針氈	ruzuozhenzhan
 如坐针毡	ruzuozhenzhan
 如夢初醒	rumengchuxing
+如夢初醒 / 如梦初醒	rumengchuxing
 如夢方醒	rumengfangxing
 如字	ruzi
 如实	rushi
@@ -38257,6 +38494,8 @@ while 病歷	bingli
 妒忌	duji
 妒忌心	dujixin
 妓女	jinu
+妓楼	jilou
+妓樓	jilou
 妓男	jinan
 妓院	jiyuan
 妓館	jiguan
@@ -38757,6 +38996,8 @@ while 病歷	bingli
 娼妓	changji
 娼婦	changfu
 娼寮	changliao
+娼楼	changlou
+娼樓	changlou
 婀娜	enuo
 婀娜多姿	enuoduozi
 婁子	louzi
@@ -38800,6 +39041,7 @@ while 病歷	bingli
 婊生仔	piausina
 婊砸	biaoza
 婚丧	hunsang
+婚丧喜庆	hunsangxiqing
 婚事	hunshi
 婚介所	hunjiesuo
 婚前	hunqian
@@ -38810,6 +39052,7 @@ while 病歷	bingli
 婚变	hunbian
 婚后	hunhou
 婚喪	hunsang
+婚喪喜慶	hunsangxiqing
 婚外	hunwai
 婚外恋	hunwailian
 婚外戀	hunwailian
@@ -38951,6 +39194,7 @@ while 病歷	bingli
 嫁禍於人 / 嫁祸于人	jiahuoyuren
 嫂嫂	saosao
 嫂子	saozi
+嫉	ji
 嫉妒	jidu
 嫉恨	jihen
 嫉賢	jixian
@@ -39381,6 +39625,7 @@ while 病歷	bingli
 孜然	ziran
 孝	xiao
 孝义	xiaoyi
+孝养	xiaoyang
 孝南	xiaonan
 孝呆	hautai
 孝女	xiaonu
@@ -39403,6 +39648,7 @@ while 病歷	bingli
 孝道	xiaodao
 孝順	xiaoshun
 孝顺	xiaoshun
+孝養	xiaoyang
 孟买	mengmai
 孟什維克	mengshiweike
 孟什维克	mengshiweike
@@ -39604,7 +39850,6 @@ while 病歷	bingli
 学潮	xuechao
 学理	xueli
 学生	xuesheng
-学生们	xueshengmen
 学生会	xueshenghui
 学生腔	xueshengqiang
 学生装	xueshengzhuang
@@ -39747,7 +39992,6 @@ while 病歷	bingli
 學無止境	xuewuzhijing
 學理	xueli
 學生	xuesheng
-學生們	xueshengmen
 學生手冊 / 学生手册	xuesheng shouce
 學生時代 / 学生时代	xuesheng shidai
 學生會	xueshenghui
@@ -39765,7 +40009,6 @@ while 病歷	bingli
 學系	xuexi
 學級	xueji
 學習	xuexi
-學習 / 学习	xuexi
 學習小組	xuexi xiaozu
 學習環境 / 学习环境	xuexi huanjing
 學習知識 / 学习知识	xuexi zhishi
@@ -40069,10 +40312,12 @@ while 病歷	bingli
 安家立业	anjialiye
 安家立業	anjialiye
 安家落戶	anjialuohu
+安家落戶 / 安家落户	anjialuohu
 安家落户	anjialuohu
 安寝	anqin
 安寢	anqin
 安寧	anning
+安寧 / 安宁	anning
 安居	anju
 安居乐业	anjuleye
 安居樂業	anjuleye
@@ -40080,8 +40325,11 @@ while 病歷	bingli
 安帖	antie
 安平	anping
 安广	anguang
+安庆	anqing
 安度	andu
 安康	ankang
+安康医院	ankang yiyuan
+安康醫院	ankang yiyuan
 安廣	anguang
 安得	ande
 安德烈	andelie
@@ -40104,6 +40352,7 @@ while 病歷	bingli
 安慰劑	anweiji
 安慰賽	anweisai
 安慰赛	anweisai
+安慶	anqing
 安打	anda
 安抚	anfu
 安抚奶嘴	anfu naizui
@@ -40121,6 +40370,7 @@ while 病歷	bingli
 安於	anyu
 安於現狀	anyuxianzhuang
 安於現狀 / 安于现状	anyu xianzhuang
+安於現狀 / 安于现状	anyuxianzhuang
 安曼	anman
 安村	ancun
 安東	andong
@@ -40148,6 +40398,7 @@ while 病歷	bingli
 安然	anran
 安然无恙	anranwuyang
 安然無恙	anranwuyang
+安然無恙 / 安然无恙	anranwuyang
 安營	anying
 安營下寨	anyingxiazhai
 安營紮寨	anyingzhazhai
@@ -40191,6 +40442,7 @@ while 病歷	bingli
 安详	anxiang
 安谧	anmi
 安貧樂道	anpinledao
+安貧樂道 / 安贫乐道	anpinyuedao
 安贫乐道	anpinledao
 安身	anshen
 安身立命	anshenliming
@@ -40219,6 +40471,7 @@ while 病歷	bingli
 安陵	anling
 安陸	anlu
 安陽	anyang
+安電燈 / 安电灯	an diandeng
 安靖	anjing
 安静	anjing
 安靜	anjing
@@ -40284,6 +40537,8 @@ while 病歷	bingli
 完形填空	wanxing tiankong
 完成	wancheng
 完成任務 / 完成任务	wancheng renwu
+完成学业	wancheng xueye
+完成學業	wancheng xueye
 完敗	wanbai
 完整	wanzheng
 完整性	wanzhengxing
@@ -40516,6 +40771,7 @@ while 病歷	bingli
 定义	dingyi
 定乡	dingxiang
 定乾坤	ding qiankun
+定于一尊	dingyuyizun
 定产	dingchan
 定亲	dingqin
 定价	dingjia
@@ -40562,6 +40818,7 @@ while 病歷	bingli
 定情	dingqing
 定数	dingshu
 定數	dingshu
+定於一尊	dingyuyizun
 定旋律	dingxuanlu
 定日	dingri
 定时	dingshi
@@ -40927,6 +41184,7 @@ while 病歷	bingli
 宣戰	xuanzhan
 宣扬	xuanyang
 宣揚	xuanyang
+宣揚 / 宣扬	xuanyang
 宣教	xuanjiao
 宣教士	xuanjiaoshi
 宣教师	xuanjiaoshi
@@ -40940,6 +41198,7 @@ while 病歷	bingli
 宣禮塔	xuanlita
 宣称	xuancheng
 宣稱	xuancheng
+宣稱 / 宣称	xuancheng
 宣紙	xuanzhi
 宣統	xuantong
 宣纸	xuanzhi
@@ -41030,6 +41289,7 @@ while 病歷	bingli
 宫禁	gongjin
 宫腔镜	gongqiangjing
 宫西	gongxi
+宫词	gongci
 宫闱	gongwei
 宫阙	gongque
 宫院	gongyuan
@@ -41060,6 +41320,7 @@ while 病歷	bingli
 宮禁	gongjin
 宮腔鏡	gongqiangjing
 宮西	gongxi
+宮詞	gongci
 宮闈	gongwei
 宮闕	gongque
 宮院	gongyuan
@@ -41067,10 +41328,13 @@ while 病歷	bingli
 宮頸塗片	gongjing tupian
 宮頸糜爛	gongjing milan
 宮鬥劇	gongdouju
+宰了一頭豬 / 宰了一头猪	zai le yi tou zhu
 宰制	zaizhi
 宰割	zaige
+宰客	zaike
 宰杀	zaisha
 宰殺	zaisha
+宰殺 / 宰杀	zaisha
 宰相	zaixiang
 宰衡	zaiheng
 害人	hairen
@@ -41194,7 +41458,9 @@ while 病歷	bingli
 家幽靈蛛	jiayoulingzhu
 家底	jiadi
 家庙	jiamiao
+家庭	gaa ting
 家庭	jiating
+家庭	kateng
 家庭主义	jiatingzhuyi
 家庭主妇	jiating zhufu
 家庭主婦	jiating zhufu
@@ -41246,6 +41512,7 @@ while 病歷	bingli
 家政	jiazheng
 家教	jiajiao
 家族	jiazu
+家族	kachok
 家族世襲 / 家族世袭	jiazu shixi
 家无担石	jiawudanshi
 家暴	jiabao
@@ -41287,6 +41554,7 @@ while 病歷	bingli
 家蝇	jiaying
 家蠅	jiaying
 家蠶	jiacan
+家裝設計 / 家装设计	jiazhuang sheji
 家裡	jiali
 家裡人	jialiren
 家裡有礦	jiali you kuang
@@ -41349,6 +41617,7 @@ while 病歷	bingli
 容光	rongguang
 容光焕发	rongguanghuanfa
 容光煥發	rongguanghuanfa
+容光煥發 / 容光焕发	rongguanghuanfa
 容县	rongxian
 容受	rongshou
 容器	rongqi
@@ -41446,6 +41715,7 @@ while 病歷	bingli
 宿營地	suyingdi
 宿生	susheng
 宿疾	suji
+宿管阿姨	suguan ayi
 宿緣	suyuan
 宿缘	suyuan
 宿舍	sushe
@@ -41644,6 +41914,7 @@ while 病歷	bingli
 富戶	fuhu
 富户	fuhu
 富拉	fula
+富文本	fuwenben
 富於	fuyu
 富昌	fuchang
 富有	fuyou
@@ -41668,8 +41939,10 @@ while 病歷	bingli
 富豪	fuhao
 富貴	fugui
 富貴病	fuguibing
+富貴險中求	fugui xian zhong qiu
 富贵	fugui
 富贵病	fuguibing
+富贵险中求	fugui xian zhong qiu
 富足	fuzu
 富農	funong
 富里	fuli
@@ -41742,6 +42015,7 @@ while 病歷	bingli
 寒鴉	hanya
 寒鸦	hanya
 寓	yu
+寓居	yuju
 寓意	yuyi
 寓所	yusuo
 寓言	yuyan
@@ -41992,6 +42266,7 @@ while 病歷	bingli
 寬宏大度	kuanhong dadu
 寬宏大量	kuanhong daliang
 寬容	kuanrong
+寬容 / 宽容	kuanrong
 寬寬仔	khoankhoana
 寬帶	kuandai
 寬度	kuandu
@@ -42036,6 +42311,7 @@ while 病歷	bingli
 寵信	chongxin
 寵幸	chongxing
 寵物	chongwu
+寵物 / 宠物	chongwu
 寶兮兮	sichuan
 寶典	baodian
 寶刀	baodao
@@ -42344,6 +42620,7 @@ while 病歷	bingli
 封条	fengtiao
 封條	fengtiao
 封殺	fengsha
+封爵	fengjue
 封牛	fengniu
 封疆	fengjiang
 封皮	fengpi
@@ -42641,6 +42918,7 @@ while 病歷	bingli
 對不起，打錯了。 / 对不起，打错了。	duibuqi da cuo le
 對了	duile
 對了，就這樣。 / 对了，就这样。	duile jiu zheyang
+對事不對人 / 对事不对人	dui shi bu dui ren
 對他開刀 / 对他开刀	dui ta kaidao
 對仗	duizhang
 對付	duifu
@@ -42651,25 +42929,28 @@ while 病歷	bingli
 對口型	duikouxing
 對合	duihe
 對唱	duichang
+對啊！ / 对啊！	dui a
 對嘴	duizui
 對圓	duiyuan
 對壘	duilei
 對外債務 / 对外债务	duiwai zhaiwu
 對外漢語	duiwai hanyu
 對外貿易	duiwai maoyi
-對她來說 / 对她来说	dui ta laishuo
 對子	duizi
 對對和	duiduihu
+對對子 / 对对子	dui duizi
 對峙	duizhi
 對帳單	duizhangdan
 對弈	duiyi
 對待	duidai
 對得住	duidezhu
 對得起	duideqi
+對心思 / 对心思	dui xinsi
 對應	duiying
 對應陰性 / 对应阴性	duiying yinxing
 對我來說	dui wo lai shuo
 對手	duishou
+對手 / 对手	duishou
 對打	duida
 對抗	duikang
 對抗性	duikangxing
@@ -42682,6 +42963,7 @@ while 病歷	bingli
 對數函數	duishuhanshu
 對數螺線	duishu luoxian
 對方	duifang
+對方 / 对方	duifang
 對於	duiyu
 對易算符 / 对易算符	duiyi suanfu
 對映異構	duiyingyigou
@@ -42703,6 +42985,7 @@ while 病歷	bingli
 對牛彈琴	duiniutanqin
 對症	duizheng
 對症下藥	duizhengxiayao
+對症下藥 / 对症下药	duizhengxiayao
 對白 / 对白	duibai
 對眼	duiyan
 對稱	duichen
@@ -42710,8 +42993,10 @@ while 病歷	bingli
 對稱性	duichenxing
 對稱軸	duichenzhou
 對立	duili
+對立 / 对立	duili
 對立統一法則	duili tongyi faze
 對立統一規律	duili tongyi guilu
+對筆跡 / 对笔迹	dui biji
 對等	duideng
 對答	duida
 對答如流	duidaruliu
@@ -42733,6 +43018,7 @@ while 病歷	bingli
 對話框	duihuakuang
 對話者	duihuazhe
 對調	duidiao
+對調 / 对调	duidiao
 對談	duitan
 對談者	duitanzhe
 對講機	duijiangji
@@ -42743,7 +43029,6 @@ while 病歷	bingli
 對質	duizhi
 對賬 / 对账	duizhang
 對路	duilu
-對身體好 / 对身体好	dui shenti hao
 對身體的危害 / 对身体的危害	dui shenti de weihai
 對轉	duizhuan
 對過	duiguo
@@ -42969,6 +43254,7 @@ while 病歷	bingli
 小孩子	xiaohaizi
 小孩子家	xiaohaizijia
 小學	xiaoxue
+小學 / 小学	xiaoxue
 小學校	xiaoxuexiao
 小學生	xiaoxuesheng
 小學雞	xiaoxueji
@@ -43671,6 +43957,7 @@ while 病歷	bingli
 尸骨未寒	shiguweihan
 尸骸	shihai
 尹吉甫	yin jifu
+尹志平	yin zhiping
 尹集	yinji
 尺	chi
 尺八	chiba
@@ -43910,6 +44197,7 @@ while 病歷	bingli
 居喪	jusang
 居士	jushi
 居多	juduo
+居奇	juqi
 居委会	juweihui
 居委會	juweihui
 居官	juguan
@@ -44195,6 +44483,7 @@ while 病歷	bingli
 屬意	zhuyi
 屬文	zhuwen
 屬於	shuyu
+屬於 / 属于	shuyu
 屬於微胖界 / 属于微胖界	shuyu weipangjie
 屬格	shuge
 屬相	shuxiang
@@ -44403,6 +44692,7 @@ while 病歷	bingli
 山重水複	shan chong shui fu
 山野	shanye
 山险	shanxian
+山陰 / 山阴	shanyin
 山陵	shanling
 山險	shanxian
 山难	shannan
@@ -44416,6 +44706,7 @@ while 病歷	bingli
 山頂	shanding
 山頂 / 山顶	shanding
 山頭	shantou
+山頭 / 山头	shantou
 山顶	shanding
 山體滑坡	shantihuapo
 山鶉	shanchun
@@ -44443,6 +44734,7 @@ while 病歷	bingli
 岁月	suiyue
 岁月不饶人	suiyue bu raoren
 岁月如梭	suiyuerusuo
+岁朝	suizhao
 岁物	suiwu
 岁荒	suihuang
 岂	qi
@@ -44634,6 +44926,7 @@ while 病歷	bingli
 崑崙奴	kunlunnu
 崑崙山	kunlun shan
 崑曲	kunqu
+崑玉	kunyu
 崑笛	kundi
 崑腔	kunqiang
 崒	zu
@@ -44678,6 +44971,7 @@ while 病歷	bingli
 崭然	zhanran
 崭露	zhanlu
 崭露头角	zhanlutoujiao
+崴子	waizi
 崽子	zaizi
 嵌入	qianru
 嵌造	qianzao
@@ -44989,12 +45283,15 @@ while 病歷	bingli
 工藝流程	gongyi liucheng
 工藝美術	gongyi meishu
 工蜂	gongfeng
+工装	gongzhuang
+工裝	gongzhuang
 工讀	gongdu
 工讀生	gongdusheng
 工读	gongdu
 工读生	gongdusheng
 工資	gongzi
 工资	gongzi
+工農 / 工农	gongnong
 工農兵	gongnongbing
 工農聯盟	gongnong lianmeng
 工農路	gongnonglu
@@ -45004,6 +45301,7 @@ while 病歷	bingli
 工錢	gongqian
 工钱	gongqian
 工頭	gongtou
+工頭 / 工头	gongtou
 工餘	gongyu
 工齡	gongling
 工龄	gongling
@@ -45050,6 +45348,7 @@ while 病歷	bingli
 左撇子	zuopiezi
 左擁右抱	zuoyongyoubao
 左旋	zuoxuan
+左氧氟沙星	zuoyangfushaxing
 左江	zuojiang
 左派	zuopai
 左海	zuohai
@@ -45295,6 +45594,7 @@ while 病歷	bingli
 已經沒了 / 已经没了	yijing mei le
 已经	yijing
 已脫稿付印 / 已脱稿付印	yi tuogao fuyin
+已讀不回 / 已读不回	yidubuhui
 巳 蛇 四月	siyue
 巳时	sishi
 巳時	sishi
@@ -45855,6 +46155,8 @@ while 病歷	bingli
 帕金森氏症	pajinsenshi zheng
 帕金森病	pajinsen bing
 帖子	tiezi
+帖学	tiexue
+帖學	tiexue
 帖撒罗尼迦	tiesaluonijia
 帖撒罗尼迦后书	tiesaluonijia houshu
 帖撒羅尼迦	tiesaluonijia
@@ -45964,6 +46266,7 @@ while 病歷	bingli
 師爺	shiye
 師生	shisheng
 師生戀	shishenglian
+師生比 / 师生比	shisheng bi
 師範	shifan
 師範大學	shifan daxue
 師範學校	shifan xuexiao
@@ -46203,6 +46506,7 @@ while 病歷	bingli
 幣帛	bibo
 幫	bang
 幫一把手 / 帮一把手	bang yi ba shour
+幫你一把 / 帮你一把	bang ni yi ba
 幫倒忙	bang dao mang
 幫傭	bangyong
 幫兇	bangxiong
@@ -46351,6 +46655,7 @@ while 病歷	bingli
 平乐	pingle
 平乱	pingluan
 平亂	pingluan
+平了世界紀錄 / 平了世界纪录	ping le shijie jilu
 平人	pingren
 平仄	pingze
 平仓	pingcang
@@ -46429,6 +46734,7 @@ while 病歷	bingli
 平手	pingshou
 平抚	pingfu
 平撫	pingfu
+平放	ping fang
 平政院	pingzhengyuan
 平整	pingzheng
 平文	pingwen
@@ -46470,6 +46776,7 @@ while 病歷	bingli
 平民主义	pingminzhuyi
 平民主義	pingminzhuyi
 平民出身	pingmin chushen
+平民憤 / 平民愤	ping minfen
 平民教育	pingmin jiaoyu
 平民英雄	pingmin yingxiong
 平水韵	pingshuiyun
@@ -46477,6 +46784,7 @@ while 病歷	bingli
 平河	pinghe
 平治	ping zi
 平治	pingzhi
+平津戰役 / 平津战役	ping jin zhanyi
 平流层	pingliuceng
 平流層	pingliuceng
 平淡	pingdan
@@ -46548,6 +46856,7 @@ while 病歷	bingli
 平躺	pingtang
 平車	pingche
 平輩	pingbei
+平輩 / 平辈	pingbei
 平车	pingche
 平辈	pingbei
 平遙	pingyao
@@ -46862,6 +47171,7 @@ while 病歷	bingli
 幼苗	youmiao
 幼虫	youchong
 幼蟲	youchong
+幼象	you xiang
 幼面	youmian
 幼體	youti
 幼麵	youmian
@@ -47018,11 +47328,14 @@ while 病歷	bingli
 庆典	qingdian
 庆功	qinggong
 庆功宴	qinggongyan
+庆寿	qingshou
 庆幸	qingxing
 庆生	qingsheng
+庆生会	qingshenghui
 庆祝	qingzhu
 庆贺	qinghe
 庆赏	qingshang
+庆辉	qinghui
 庇佑	biyou
 庇护	bihu
 庇护所	bihusuo
@@ -47069,6 +47382,7 @@ while 病歷	bingli
 床虱	chuangshi
 床蝨	chuangshi
 床褥	chuangru
+床邊 / 床边	chuang bian
 床鋪	chuangpu
 床铺	chhngpho
 床铺	chuangpu
@@ -47204,6 +47518,7 @@ while 病歷	bingli
 底数	dishu
 底數	dishu
 底本	diben
+底板	diban
 底比斯	dibisi
 底气	diqi
 底氣	diqi
@@ -47445,6 +47760,7 @@ while 病歷	bingli
 康樂球	kangleqiu
 康樂設施 / 康乐设施	kangle sheshi
 康橋	kangqiao
+康泰	kangtai
 康涅狄格	kangniedige
 康熙	kangxi
 康熙字典	kangxi zidian
@@ -47525,6 +47841,7 @@ while 病歷	bingli
 廟宇	miaoyu
 廟島	miaodao
 廟會	miaohui
+廟會 / 庙会	miaohui
 廟河	miaohe
 廟灘	miaotan
 廟祝	miaozhu
@@ -47540,6 +47857,7 @@ while 病歷	bingli
 廠房	changfang
 廠牌	changpai
 廠礦	changkuang
+廠禮拜	changlibai
 廠長	changzhang
 廢主	feizhu
 廢人	feiren
@@ -47558,7 +47876,6 @@ while 病歷	bingli
 廢止	feizhi
 廢死	feisi
 廢氣	feiqi
-廢氣處理設備 / 废气处理设备	feichu chuli shebei
 廢氣處理設備 / 废气处理设备	feiqi chuli shebei
 廢水	feishui
 廢物	feiwu
@@ -47659,8 +47976,10 @@ while 病歷	bingli
 延年	yannian
 延年益壽	yannianyishou
 延年益寿	yannianyishou
+延庆	yanqing
 延後	yanhou
 延性	yanxing
+延慶	yanqing
 延揽	yanlan
 延搁	yange
 延擱	yange
@@ -47678,6 +47997,8 @@ while 病歷	bingli
 延缓	yanhuan
 延聘	yanpin
 延胡索酸	yanhusuosuan
+延脑	yannao
+延腦	yannao
 延誤	yanwu
 延請	yanqing
 延误	yanwu
@@ -47742,6 +48063,7 @@ while 病歷	bingli
 建筑	jianzhu
 建筑业	jianzhuye
 建筑学	jianzhuxue
+建筑工	jianzhugong
 建筑工地	jianzhu gongdi
 建筑师	jianzhushi
 建筑材料	jianzhu cailiao
@@ -47750,6 +48072,7 @@ while 病歷	bingli
 建筑面积	jianzhu mianji
 建築	jianzhu
 建築學	jianzhuxue
+建築工	jianzhugong
 建築工人 / 建筑工人	jianzhu gongren
 建築工地	jianzhu gongdi
 建築師	jianzhushi
@@ -47933,6 +48256,7 @@ while 病歷	bingli
 开示	kaishi
 开票	kaipiao
 开禁	kaijin
+开科取士	kaikequshi
 开窍	kaiqiao
 开窍药	kaiqiaoyao
 开端	kaiduan
@@ -49331,7 +49655,6 @@ while 病歷	bingli
 很多	henduo
 很好很強大	hen hao hen qiangda
 很好很强大	hen hao hen qiangda
-很容易壞 / 很容易坏	hen rongyi huai
 很少	hen shao
 很少	henshao
 很快地	hen kuai de
@@ -49373,6 +49696,7 @@ while 病歷	bingli
 律诗	lushi
 後世	houshi
 後事	houshi
+後五名 / 后五名	hou wu ming
 後人	houren
 後代	houdai
 後任	houren
@@ -49437,6 +49761,7 @@ while 病歷	bingli
 後晉	houjin
 後晌	houshang
 後晌飯	houshangfan
+後景	houjing
 後會有期	houhuiyouqi
 後期	houqi
 後果	houguo
@@ -49510,6 +49835,7 @@ while 病歷	bingli
 後門	houmen
 後閘	houzha
 後院	houyuan
+後院 / 后院	houyuan
 後面	houmian
 後頭	houtou
 後頭灣	houtouwan
@@ -49677,6 +50003,7 @@ while 病歷	bingli
 得陇望蜀	delongwangshu
 得隴望蜀	delongwangshu
 得體	deti
+得體 / 得体	deti
 得！	de
 徘徊	paihuai
 徙动	xidong
@@ -49707,16 +50034,20 @@ while 病歷	bingli
 從善如流	congshanruliu
 從嚴	congyan
 從嚴治黨 / 从严治党	congyan zhidang
+從坐	congzuo
 從字面上看 / 从字面上看	cong zimianshang kan
 從容	congrong
 從容不迫	congrongbupo
 從容就義	congrongjiuyi
 從實際出發 / 从实际出发	cong shiji chufa
 從寬	congkuan
+從寬處理 / 从宽处理	congkuan chuli
 從小	congxiao
 從屬	congshu
+從屬 / 从属	congshu
 從屬國	congshuguo
 從師	congshi
+從師 / 从师	congshi
 從弟	congdi
 從影	congying
 從心所欲	congxinsuoyu
@@ -49740,6 +50071,7 @@ while 病歷	bingli
 從者	congzhe
 從良	congliang
 從軍	congjun
+從軍 / 从军	congjun
 從輕發落	congqingfaluo
 從輕發落 / 从轻发落	congqing faluo
 從速	congsu
@@ -49747,6 +50079,7 @@ while 病歷	bingli
 從零開始 / 从零开始	cong ling kaishi
 從頭	congtou
 從頭到尾	congtoudaowei
+從頭開始 / 从头开始	cong tou kaishi
 御世	yushi
 御仗	yuzhang
 御侮	yuwu
@@ -49875,6 +50208,7 @@ while 病歷	bingli
 循環線	xunhuanxian
 循環論證	xunhuan lunzheng
 循規蹈矩	xunguidaoju
+循規蹈矩 / 循规蹈矩	xunguidaoju
 循规蹈矩	xunguidaoju
 循證醫學	xunzheng yixue
 循证医学	xunzheng yixue
@@ -50175,6 +50509,7 @@ while 病歷	bingli
 心寬體胖	xin kuan ti pan
 心平气和	xinpingqihe
 心平氣和	xinpingqihe
+心平氣和 / 心平气和	xinpingqihe
 心广体胖	xinguangtipan
 心底	xindi
 心廣體胖	xinguangtipan
@@ -50526,6 +50861,7 @@ while 病歷	bingli
 忆昔抚今	yixifujin
 忉忉	daodao
 忉怛	daoda
+忌	ji
 忌刻	jike
 忌口	jikou
 忌嘴	jizui
@@ -50611,6 +50947,7 @@ while 病歷	bingli
 忘乎所以	wanghusuoyi
 忘却	wangque
 忘卻	wangque
+忘卻 / 忘却	wangque
 忘年	wangnian
 忘年之交	wangnianzhijiao
 忘年交	wangnianjiao
@@ -50995,6 +51332,7 @@ while 病歷	bingli
 思考题	sikaoti
 思華力腸	sihualichang
 思虑	silu
+思裁	sicai
 思裁	sichuan
 思覺失調	sijueshitiao
 思覺失調症	sijueshitiaozheng
@@ -51341,6 +51679,7 @@ while 病歷	bingli
 怵場	chuchang
 怵惕	chuti
 总之	zongzhi
+总书记	zongshuji
 总人口	zongrenkou
 总会	zonghui
 总体	zongti
@@ -51432,6 +51771,7 @@ while 病歷	bingli
 恆河猴	henghehou
 恆河鱷	henghee
 恆溫	hengwen
+恆溫動物	hengwen dongwu
 恆溫器	hengwenqi
 恆牙	hengya
 恆生指數 / 恒生指数	heng sheng zhishu
@@ -51532,6 +51872,7 @@ while 病歷	bingli
 恒河猴	henghehou
 恒河鳄	henghee
 恒温	hengwen
+恒温动物	hengwen dongwu
 恒温器	hengwenqi
 恒牙	hengya
 恒等式	hengdengshi
@@ -51841,9 +52182,11 @@ while 病歷	bingli
 患處	huanchu
 患部	huanbu
 患难	huannan
+患难与共	huannanyugong
 患难之交	huannanzhijiao
 患難	huannan
 患難之交	huannanzhijiao
+患難與共	huannanyugong
 悦服	yuefu
 悦目	yuemu
 您	nin
@@ -52173,6 +52516,8 @@ while 病歷	bingli
 惠泽	huize
 惠澤	huize
 惠灵顿	huilingdun
+惠阳	huiyang
+惠陽	huiyang
 惠靈頓	huilingdun
 惠顧	huigu
 惠顧 / 惠顾	huigu
@@ -52656,6 +53001,7 @@ while 病歷	bingli
 愛輝	aihui
 愛達荷	aidahe
 愛面子	ai mianzi
+愛面子 / 爱面子	ai mianzi
 愛顧	aigu
 愛麗斯	ailisi
 愛麗絲	ailisi
@@ -52729,6 +53075,7 @@ while 病歷	bingli
 感觸	ganchu
 感觸頗深 / 感触颇深	ganchu po shen
 感謝	ganxie
+感謝 / 感谢	ganxie
 感謝信	ganxiexin
 感謝得很！ / 感谢得很！	ganxie de hen
 感讚安拉 / 感赞安拉	ganzan anla
@@ -52919,12 +53266,16 @@ while 病歷	bingli
 慶典	qingdian
 慶功	qinggong
 慶功宴	qinggongyan
+慶壽	qingshou
 慶幸	qingxing
 慶生	qingsheng
 慶生 / 庆生	qingsheng
+慶生會	qingshenghui
 慶祝	qingzhu
+慶祝 / 庆祝	qingzhu
 慶賀	qinghe
 慶賞	qingshang
+慶輝	qinghui
 慶雲	qingyun
 慷他人之慨	kang taren zhi kai
 慷慨	kangkai
@@ -52985,6 +53336,7 @@ while 病歷	bingli
 憑憑	sichuan
 憑憑椅	sichuan
 憑據	pingju
+憑條	pingtiao
 憑欄	pinglan
 憑準	pingzhun
 憑票入場。 / 凭票入场。	ping piao ruchang
@@ -53069,8 +53421,10 @@ while 病歷	bingli
 應屆畢業生 / 应届毕业生	yingjie biyesheng
 應山	yingshan
 應市	yingshi
+應得 / 应得	yingde
 應徵	yingzheng
 應急	yingji
+應急 / 应急	yingji
 應急車道 / 应急车道	yingji chedao
 應戰	yingzhan
 應手	yingshou
@@ -53119,6 +53473,7 @@ while 病歷	bingli
 應酬	yingchou
 應門	yingmen
 應驗	yingyan
+應驗 / 应验	yingyan
 應鼓	yinggu
 應龍	yinglong
 懊丧	aosang
@@ -53274,6 +53629,7 @@ while 病歷	bingli
 戊糖	wutang
 戊酮	wutong
 戊酸	wusuan
+戋戋	jianjian
 戌 狗 九月	jiuyue
 戌时	xushi
 戌時	xushi
@@ -53284,6 +53640,7 @@ while 病歷	bingli
 戍衛	shuwei
 戍边	shubian
 戍邊	shubian
+戍邊 / 戍边	shubian
 戎机	rongji
 戎機	rongji
 戎狄	rongdi
@@ -53363,6 +53720,7 @@ while 病歷	bingli
 成功神學	chenggongshenxue
 成千上万	chengqianshangwan
 成千上萬	chengqianshangwan
+成千上萬 / 成千上万	chengqianshangwan
 成千成万	chengqianchengwan
 成千成萬	chengqianchengwan
 成双	chengshuang
@@ -53466,12 +53824,15 @@ while 病歷	bingli
 成虫	chengchong
 成蟲	chengchong
 成行	chengxing
+成衣	chengyi
 成見	chengjian
+成見 / 成见	chengjian
 成規	chenggui
 成親	chengqin
 成见	chengjian
 成规	chenggui
 成語	chengyu
+成語 / 成语	chengyu
 成誦	chengsong
 成语	chengyu
 成诵	chengsong
@@ -53488,6 +53849,7 @@ while 病歷	bingli
 成长率	chengzhanglu
 成雙	chengshuang
 成雙成對	chengshuangchengdui
+成雙成對 / 成双成对	chengshuangchengdui
 成風	chengfeng
 成风	chengfeng
 成骨細胞	chengguxibao
@@ -53577,6 +53939,7 @@ while 病歷	bingli
 我很想睡。	wo hen xiang shui
 我很氣。 / 我很气。	wo hen qi
 我很累。	wo hen lei
+我得了亞軍。 / 我得了亚军。	wo de le yajun
 我得走了。	wo dei zou le
 我從不吃肉。 / 我从不吃肉。	wo congbu chi rou
 我從不違約。 / 我从不违约。	wo congbu weiyue
@@ -53620,7 +53983,6 @@ while 病歷	bingli
 我沒有朋友。 / 我没有朋友。	wo meiyou pengyou
 我沒有錢。 / 我没有钱。	wo meiyou qian
 我沒有零錢。 / 我没有零钱。	wo meiyou lingqian
-我混得不好。	wo hun de bu hao
 我無求於你。 / 我无求于你。	wo wu qiu yu ni
 我爱你	wo ai ni
 我父親信佛教。 / 我父亲信佛教。	wo fuqin xin fojiao
@@ -53707,6 +54069,7 @@ while 病歷	bingli
 戒除	jiechu
 戒飭	jiechi
 戒饬	jiechi
+戔戔	jianjian
 戕害	qianghai
 戕害不辜	qianghaibugu
 戕賊	qiangzei
@@ -53738,6 +54101,7 @@ while 病歷	bingli
 战争舞	zhanzhengwu
 战争贩子	zhanzheng fanzi
 战事	zhanshi
+战伐	zhanfa
 战例	zhanli
 战俘	zhanfu
 战具	zhanju
@@ -53852,6 +54216,7 @@ while 病歷	bingli
 戮力同心	lulitongxin
 戰亂	zhanluan
 戰事	zhanshi
+戰伐	zhanfa
 戰例	zhanli
 戰俘	zhanfu
 戰備	zhanbei
@@ -53868,6 +54233,7 @@ while 病歷	bingli
 戰史	zhanshi
 戰國	zhanguo
 戰國七雄	zhanguo qixiong
+戰國七雄 / 战国七雄	zhanguo qi xiong
 戰國時代	zhanguo shidai
 戰國策	zhanguoce
 戰地	zhandi
@@ -54463,6 +54829,7 @@ while 病歷	bingli
 才略	cailue
 才疏学浅	caishuxueqian
 才疏學淺	caishuxueqian
+才疏學淺 / 才疏学浅	caishuxueqian
 才能	caineng
 才色	caise
 才色兼備 / 才色兼备	caise jianbei
@@ -55016,6 +55383,7 @@ while 病歷	bingli
 托尼老師	tuoni laoshi
 托幼	tuoyou
 托庇	tuobi
+托彼特	tuobite
 托故	tuogu
 托斯卡尼	tuosikani
 托斯卡納	tuosikana
@@ -55165,6 +55533,7 @@ while 病歷	bingli
 扬州	yangzhou
 扬州十日	yangzhoushiri
 扬州炒饭	yangzhou chaofan
+扬帆	yangfan
 扬弃	yangqi
 扬汤止沸	yangtangzhifei
 扬琴	yangqin
@@ -55236,6 +55605,7 @@ while 病歷	bingli
 扳倒	verbcomplement
 扳子	banzi
 扳手	banshou
+扳指	banzhi
 扳本	banben
 扳机	banji
 扳機	banji
@@ -55394,6 +55764,7 @@ while 病歷	bingli
 承继	chengji
 承续	chengxu
 承蒙	chengmeng
+承蒙惠顧 / 承蒙惠顾	chengmeng huigu
 承行	chengxing
 承袭	chengxi
 承製	chengzhi
@@ -55513,6 +55884,7 @@ while 病歷	bingli
 把A翻譯成B / 把A翻译成B	ba a fanyi cheng b
 把他帶走。 / 把他带走。	ba ta daizou
 把他給我拿下！ / 把他给我拿下！	ba ta gei wo naxia
+把他給打蒙了 / 把他给打蒙了	ba ta gei da meng le
 把位	bawei
 把住	bazhu
 把來	balai
@@ -55547,6 +55919,7 @@ while 病歷	bingli
 把斋	bazhai
 把来	balai
 把柄	babing
+把橋炸了 / 把桥炸了	ba qiao zha le
 把水搅浑	bashuijiaohun
 把水攪渾	bashuijiaohun
 把活幹掉！ / 把活干掉！	ba huo gandiao
@@ -55557,12 +55930,14 @@ while 病歷	bingli
 把牢	balao
 把玩	bawan
 把瓶口塞緊。 / 把瓶口塞紧。	ba pingkou sai jin
+把畫掛正。 / 把画挂正。	ba hua gua zheng
 把盏	bazhan
 把盞	bazhan
 把眼睛閤上。 / 把眼睛合上。	ba yanjing he shang
 把石子甩出去	ba shizi shuai chuqu
 把稳	bawen
 把穩	bawen
+把罐子封上	ba guanzi feng shang
 把脈	bamai
 把脉	bamai
 把舵	baduo
@@ -55578,6 +55953,7 @@ while 病歷	bingli
 把门	bamen
 把雪化掉	ba xue huadiao
 把頭	batou
+把頭剃光 / 把头剃光	ba tou ti guang
 把風	bafeng
 把风	bafeng
 把齋	bazhai
@@ -55702,6 +56078,7 @@ while 病歷	bingli
 投機分子	touji fenzi
 投機取巧	toujiquqiao
 投檔線	toudangxian
+投水	toushui
 投注	touzhu
 投献	touxian
 投獻	touxian
@@ -55966,6 +56343,7 @@ while 病歷	bingli
 抛光	paoguang
 抛出異常 / 抛出异常	paochu yichang
 抛售	paoshou
+抛头露面	paotoulumian
 抛头颅洒热血	paotoulusarexue
 抛妻弃子	paoqiqizi
 抛媚眼	paomeiyan
@@ -56020,6 +56398,7 @@ while 病歷	bingli
 护卫	huwei
 护卫舰	huweijian
 护发素	hufasu
+护唇膏	huchungao
 护国佑民	huguoyoumin
 护坡	hupo
 护城壕	huchenghao
@@ -56175,6 +56554,7 @@ while 病歷	bingli
 披风	pifeng
 披髮	pifa
 披髮左衽	pifazuoren
+披麻戴孝	pimadaixiao
 抬举	taiju
 抬价	taijia
 抬價	taijia
@@ -56413,6 +56793,8 @@ while 病歷	bingli
 抽象畫	chouxianghua
 抽身	choushen
 抽頭	choutou
+抽鴉片 / 抽鸦片	chou yapian
+抽鴉片煙 / 抽鸦片烟	chou yapianyan
 抽鼻子	choubizi
 抿嘴	minzui
 拂塵	fuchen
@@ -56512,6 +56894,7 @@ while 病歷	bingli
 拉伤	lashang
 拉依喀	layika
 拉倒	ladao
+拉偏架	lapianjia
 拉傷	lashang
 拉关系	la guanxi
 拉力	lali
@@ -56529,6 +56912,7 @@ while 病歷	bingli
 拉坯輪	lapilun
 拉坯轮	lapilun
 拉場子	la changzi
+拉多加湖	laduojia hu
 拉夫	lafu
 拉子	lazi
 拉客	lake
@@ -56551,8 +56935,6 @@ while 病歷	bingli
 拉扯	lache
 拉拉	lala
 拉拉扯扯	lalacheche
-拉拉队员	laladuiyuan
-拉拉隊員	laladuiyuan
 拉拔	laba
 拉拢	lalong
 拉撒路	lasalu
@@ -56663,9 +57045,12 @@ while 病歷	bingli
 拋輾斗	phaliantau
 拋錨	paomao
 拋開	paokai
+拋頭露面	paotoulumian
 拋頭顱灑熱血	paotoulusarexue
+拌	ban
 拌勻	banyun
 拌匀	banyun
+拌和	banhuo
 拌嘴	banzui
 拌蒜	bansuan
 拌面	banmian
@@ -57467,6 +57852,8 @@ while 病歷	bingli
 指甲蓋	zhijiagai
 指甲鉗	zhijiaqian
 指甲钳	zhijiaqian
+指画	zhihua
+指畫	zhihua
 指目	zhimu
 指示	zhishi
 指示代詞	zhishi daici
@@ -57680,6 +58067,7 @@ while 病歷	bingli
 挨凍	aidong
 挨剋	aikei
 挨台	sichuan
+挨宰	ai zai
 挨戶	aihu
 挨户	aihu
 挨打	aida
@@ -57876,7 +58264,6 @@ while 病歷	bingli
 捕鳥蛛	buniaozhu
 捕鸟蛛	buniaozhu
 捕鼠器	bushuqi
-捘	zun
 捙倒	chhiato
 捙拚	chhiapian
 捙畚斗	chhiapuntau
@@ -58013,7 +58400,6 @@ while 病歷	bingli
 捷足先登	jiezuxiandeng
 捷运	jieyun
 捷運	jieyun
-捻	nian
 捻儿	nianr
 捻兒	nianr
 捻子	nianzi
@@ -58254,6 +58640,7 @@ while 病歷	bingli
 排除	paichu
 排除万难	paichuwannan
 排除萬難	paichuwannan
+排除萬難 / 排除万难	paichuwannan
 排隊	paidui
 排隊買票 / 排队买票	paidui maipiao
 排雲	paiyun
@@ -58613,6 +59000,7 @@ while 病歷	bingli
 推卸	tuixie
 推卸責任 / 推卸责任	tuixie zeren
 推卻	tuique
+推卻 / 推却	tuique
 推土机	tuituji
 推土機	tuituji
 推头	tuitou
@@ -58714,6 +59102,7 @@ while 病歷	bingli
 推阻	tuizu
 推陈出新	tuichenchuxin
 推陳出新	tuichenchuxin
+推陳出新 / 推陈出新	tuichenchuxin
 推頭	tuitou
 掩体	yanti
 掩埋	yanmai
@@ -58799,6 +59188,7 @@ while 病歷	bingli
 提交	tijiao
 提交答案	tijiao daan
 提亲	tiqin
+提亲事	ti qinshi
 提价	tijia
 提供	tigong
 提供商	tigongshang
@@ -58838,6 +59228,7 @@ while 病歷	bingli
 提婆	tipo
 提婆达多	tipodaduo
 提婆達多	tipodaduo
+提婚	tihun
 提子	tizi
 提审	tishen
 提審	tishen
@@ -58896,6 +59287,7 @@ while 病歷	bingli
 提要	tiyao
 提要求	ti yaoqiu
 提親	tiqin
+提親事	ti qinshi
 提詞	tici
 提議	tiyi
 提议	tiyi
@@ -58925,6 +59317,7 @@ while 病歷	bingli
 插入	charu
 插入語	charuyu
 插入语	charuyu
+插入鑰匙卡。 / 插入钥匙卡。	charu yaoshika
 插口	chakou
 插嘴	chazui
 插图	chatu
@@ -58976,6 +59369,8 @@ while 病歷	bingli
 揚州 / 扬州	yangzhou
 揚州十日	yangzhoushiri
 揚州炒飯	yangzhou chaofan
+揚帆	yangfan
+揚手 / 扬手	yangshou
 揚棄	yangqi
 揚湯止沸	yangtangzhifei
 揚琴	yangqin
@@ -58984,6 +59379,7 @@ while 病歷	bingli
 揚聲器	yangshengqi
 揚言	yangyan
 揚鞭	yangbian
+揚鞭 / 扬鞭	yangbian
 換一種說法 / 换一种说法	huan yi zhong shuofa
 換乘	huancheng
 換代	huandai
@@ -59161,6 +59557,7 @@ while 病歷	bingli
 搖擺	yaobai
 搖擺不定	yaobaibuding
 搖擺州	yaobaizhou
+搖旗吶喊	yaoqinahan
 搖旗擂鼓	yao qi leigu
 搖晃	yaohuang
 搖曳	yaoye
@@ -59211,6 +59608,7 @@ while 病歷	bingli
 搜索機	sousuoji
 搜罗	souluo
 搜羅	souluo
+搜羅 / 搜罗	souluo
 搜证	souzheng
 搜身	soushen
 搜身	to frisk
@@ -59283,6 +59681,7 @@ while 病歷	bingli
 搭便车	dabianche
 搭台	datai
 搭夥	dahuo
+搭客	dake
 搭帐篷	da zhangpeng
 搭帳篷	da zhangpeng
 搭建	dajian
@@ -59317,6 +59716,7 @@ while 病歷	bingli
 搴芳	qianfang
 搵	wen
 搶修	qiangxiu
+搶修 / 抢修	qiangxiu
 搶先	qiangxian
 搶劫	qiangjie
 搶劫犯	qiangjiefan
@@ -59339,6 +59739,7 @@ while 病歷	bingli
 搶購	qianggou
 搶運物資 / 抢运物资	qiangyun wuzi
 搶鋒頭	qiang fengtou
+搶錢 / 抢钱	qiangqian
 搶鏡	qiangjing
 搶鏡頭	qiang jingtou
 搶風	qiangfeng
@@ -59382,6 +59783,7 @@ while 病歷	bingli
 摆	pai
 摆乌龙	baai wu lung
 摆乌龙	baiwulong
+摆供	baigong
 摆划	baihua
 摆列	bailie
 摆动	baidong
@@ -59433,6 +59835,7 @@ while 病歷	bingli
 摇摇	yaoyao
 摇摇晃晃	yaoyaohuanghuang
 摇摇欲坠	yaoyaoyuzhui
+摇旗呐喊	yaoqinahan
 摇旗擂鼓	yao qi leigu
 摇晃	yaohuang
 摇曳	yaoye
@@ -59550,9 +59953,11 @@ while 病歷	bingli
 摩門	momen
 摩門教	momenjiao
 摩門經	momenjing
+摩闊崴	mokuowai
 摩门	momen
 摩门教	momenjiao
 摩门经	momenjing
+摩阔崴	mokuowai
 摯友	zhiyou
 摳	kou
 摳住	kouzhu
@@ -59677,6 +60082,7 @@ while 病歷	bingli
 撒马利亚	samaliya
 撒马利亚人	samaliyaren
 撓癢	naoyang
+撓癢 / 挠痒	naoyang
 撓癢癢	nao yangyang
 撕	si
 撕屄	sibi
@@ -60164,6 +60570,7 @@ while 病歷	bingli
 擺	bai
 擺一個造型 / 摆一个造型	bai yi ge zaoxing
 擺佈	baibu
+擺供	baigong
 擺列	bailie
 擺劃	baihua
 擺動	baidong
@@ -60245,6 +60652,8 @@ while 病歷	bingli
 攏	long
 攏共	longgong
 攏總	longzong
+攒	cuan
+攒	zan
 攒盒	cuanhe
 攒钱	zanqian
 攔住	lanzhu
@@ -60296,6 +60705,8 @@ while 病歷	bingli
 攝護腺	shehuxian
 攝食	sheshi
 攞	lo
+攢	cuan
+攢	zan
 攢盒	cuanhe
 攢錢	zanqian
 攣縮症	luansuozheng
@@ -60749,7 +61160,7 @@ while 病歷	bingli
 放射線	fangshexian
 放射线	fangshexian
 放對	fangdui
-放尿	pangjio
+放尿	pangjio  panglio
 放屁	fangpi
 放屁坐垫	fangpi zuodian
 放屁坐墊	fangpi zuodian
@@ -61182,6 +61593,7 @@ while 病歷	bingli
 敗仗	baizhang
 敗兵折將	baibingzhejiang
 敗北	baibei
+敗北 / 败北	baibei
 敗卻	baique
 敗壞	baihuai
 敗壞德行 / 败坏德行	baihuai dexing
@@ -61234,7 +61646,6 @@ while 病歷	bingli
 教书	jiaoshu
 教书匠	jiaoshujiang
 教书育人	jiaoshuyuren
-教人笑話 / 教人笑话	jiaoren xiaohua
 教会	jiaohui
 教会拉丁语	jiaohui ladingyu
 教会罗马字	jiaohui luomazi
@@ -61949,6 +62360,7 @@ while 病歷	bingli
 文林	wenlin
 文武	wenwu
 文武双全	wenwushuangquan
+文武百官	wenwubaiguan
 文武雙全	wenwushuangquan
 文殊师利	wenshushili
 文殊師利	wenshushili
@@ -62578,6 +62990,7 @@ while 病歷	bingli
 新社	xinshe
 新福	xinfu
 新禧	xinxi
+新秀	xinxiu
 新穎	xinying
 新竹	xinzhu
 新笛	xindi
@@ -62606,6 +63019,7 @@ while 病歷	bingli
 新義州	xinyizhou
 新聚	xinju
 新聞	xinwen
+新聞 / 新闻	xinwen
 新聞價值	xinwen jiazhi
 新聞媒體	xinwen meiti
 新聞學	xinwenxue
@@ -62648,7 +63062,9 @@ while 病歷	bingli
 新蘆	xinlu
 新街	xinjie
 新西兰	xinxilan
+新西兰元	xinxilanyuan
 新西蘭	xinxilan
+新西蘭元	xinxilanyuan
 新詞	xinci
 新詞語	xinciyu
 新語	xinyu
@@ -62693,6 +63109,7 @@ while 病歷	bingli
 新電腦 / 新电脑	xin diannao
 新颖	xinying
 新風機房 / 新风机房	xinfeng jifang
+新風氣 / 新风气	xin fengqi
 新馬	xinma
 新馬泰	xinmatai
 新马	xinma
@@ -62976,6 +63393,7 @@ while 病歷	bingli
 旅宿汽車	lusu qiche
 旅宿汽车	lusu qiche
 旅居	luju
+旅居美國紐約 / 旅居美国纽约	luju meiguo niuyue
 旅店	ludian
 旅游	luyou
 旅游业	luyouye
@@ -63599,6 +64017,7 @@ while 病歷	bingli
 日本菜	riben cai
 日本血吸虫	riben xuexichong
 日本血吸蟲	riben xuexichong
+日本製商品 / 日本制商品	riben zhi shangpin
 日本話	ribenhua
 日本語	ribenyu
 日本话	ribenhua
@@ -63742,6 +64161,7 @@ while 病歷	bingli
 旧社会	jiushehui
 旧称	jiucheng
 旧约	jiuyue
+旧约全书	jiuyue quanshu
 旧约圣经	jiuyue shengjing
 旧臣	jiuchen
 旧街	jiujie
@@ -63811,6 +64231,7 @@ while 病歷	bingli
 早起時	chaikhisi
 早退	zaotui
 早逝	zaoshi
+早造	zaozao
 早霞	zaoxia
 早頓	chatng
 早顿	chatng
@@ -63866,6 +64287,8 @@ while 病歷	bingli
 时代广场	shidaiguangchang
 时代精神	shidai jingshen
 时令	shiling
+时令河	shilinghe
+时令病	shilingbing
 时俗	shisu
 时候	shihou
 时候	si hau
@@ -63939,7 +64362,7 @@ while 病歷	bingli
 时间	sukien sukian
 时间	zr ji
 时间囊	shijiannang
-时间复杂度	shijian fuza du
+时间复杂度	shijian fuzadu
 时间差	shijiancha
 时间序列	shijian xulie
 时间戳	shijianchuo
@@ -64343,6 +64766,7 @@ while 病歷	bingli
 星級飯店 / 星级饭店	xingji fandian
 星罗棋布	xingluoqibu
 星羅棋布	xingluoqibu
+星羅棋布 / 星罗棋布	xingluoqibu
 星群	xingqun
 星聞	xingwen
 星號	xinghao
@@ -64561,6 +64985,7 @@ while 病歷	bingli
 显眼	xianyan
 显眼处	xianyanchu
 显示	xianshi
+显示卡	xianshika
 显示器	xianshiqi
 显示屏	xianshiping
 显祖	xianzu
@@ -64587,6 +65012,9 @@ while 病歷	bingli
 時代氣息 / 时代气息	shidai qixi
 時代精神	shidai jingshen
 時令	shiling
+時令水果 / 时令水果	shiling shuiguo
+時令河	shilinghe
+時令病	shilingbing
 時俗	shisu
 時候	shihou
 時值	shizhi
@@ -64667,7 +65095,7 @@ while 病歷	bingli
 時間線	shijianxian
 時間膠囊	shijian jiaonang
 時間表	shijianbiao
-時間複雜度	shijian fuza du
+時間複雜度	shijian fuzadu
 時間軸	shijianzhou
 時間還來得及。 / 时间还来得及。	shijian hai laideji
 時限	shixian
@@ -65450,6 +65878,7 @@ while 病歷	bingli
 曬衣服 / 晒衣服	shai yifu
 曬黑	shaihei
 曬黑族	shaiheizu
+曱甴	yuezha
 曲	qu
 曲別針	qubiezhen
 曲别针	qubiezhen
@@ -65875,6 +66304,7 @@ while 病歷	bingli
 會面 / 会面	huimian
 會須	huixu
 會餐	huican
+會餐 / 会餐	huican
 會館	huiguan
 會黨	huidang
 會齊	huiqi
@@ -66068,7 +66498,7 @@ while 病歷	bingli
 有勇无谋	youyongwumou
 有勇無謀	youyongwumou
 有勞	youlao
-有口才	youkoucai
+有口才	you koucai
 有口无心	youkouwuxin
 有口無心	youkouwuxin
 有口皆碑	youkoujiebei
@@ -66208,6 +66638,7 @@ while 病歷	bingli
 有权威的	you quanwei de
 有条不紊	youtiaobuwen
 有条件	youtiaojian
+有条理	you tiaoli
 有来有往	youlaiyouwang
 有板有眼	youbanyouyan
 有极	youji
@@ -66216,6 +66647,7 @@ while 病歷	bingli
 有條不紊	youtiaobuwen
 有條件	youtiaojian
 有條件錄取 / 有条件录取	youtiaojian luqu
+有條理	you tiaoli
 有極	youji
 有樣學樣	youyangxueyang
 有機	youji
@@ -66239,6 +66671,7 @@ while 病歷	bingli
 有氧運動	youyang yundong
 有求必应	youqiubiying
 有求必應	youqiubiying
+有求必應 / 有求必应	youqiubiying
 有沒有	you meiyou
 有洁癖的人	you jiepi de ren
 有淑女氣質 / 有淑女气质	you shunu qizhi
@@ -66274,6 +66707,7 @@ while 病歷	bingli
 有的没的	youdemeide
 有益	youyi
 有益处	you yichu
+有益於健康 / 有益于健康	youyi yu jiankang
 有益處	you yichu
 有目共睹	youmugongdu
 有目共見	youmugongjian
@@ -66338,6 +66772,8 @@ while 病歷	bingli
 有血有肉	youxueyourou
 有袋动物	youdai dongwu
 有袋動物	youdai dongwu
+有袋类	youdailei
+有袋類	youdailei
 有解	youjie
 有言在先	youyan zaixian
 有話好說	youhuahaoshuo
@@ -66419,8 +66855,6 @@ while 病歷	bingli
 朋克	pengke
 朋党	pengdang
 朋友	pengyou
-朋友们	pengyoumen
-朋友們	pengyoumen
 朋友区间	pengyou qujian
 朋友區間	pengyou qujian
 朋友圈	pengyouquan
@@ -66542,6 +66976,7 @@ while 病歷	bingli
 望子成龙	wangzichenglong
 望尘莫及	wangchenmoji
 望府座	wangfuzuo
+望廈條約 / 望厦条约	wangxia tiaoyue
 望文生义	wangwenshengyi
 望文生義	wangwenshengyi
 望族	wangzu
@@ -66701,8 +67136,10 @@ while 病歷	bingli
 期满	qiman
 期滿	qiman
 期盼	qipan
+期終	qizhong
 期終考	qizhongkao
 期終考試	qizhong kaoshi
+期终	qizhong
 期终考	qizhongkao
 期终考试	qizhong kaoshi
 期考	qikao
@@ -66814,6 +67251,7 @@ while 病歷	bingli
 木結構	mujiegou
 木结构	mujiegou
 木耙	mupa
+木芙蓉	mufurong
 木莓	mumei
 木莲	mulian
 木菠萝	muboluo
@@ -67563,6 +68001,7 @@ while 病歷	bingli
 杜皮	dupi
 杜絕	dujue
 杜绝	dujue
+杜若	duruo
 杜詩韓文	dushihanwen
 杜诗韩文	dushihanwen
 杜郎度	dulangdu
@@ -67624,6 +68063,7 @@ while 病歷	bingli
 条形码阅读器	tiaoxingma yueduqi
 条支	tiaozhi
 条文	tiaowen
+条条框框	tiaotiaokuangkuang
 条款	tiaokuan
 条理	tiaoli
 条畅	tiaochang
@@ -67795,6 +68235,7 @@ while 病歷	bingli
 東京鐵塔	dongjing tieta
 東人	dongren
 東側	dongce
+東儀天主教 / 东仪天主教	dong yi tianzhujiao
 東光	dongguang
 東加	dongjia
 東加語	dongjiayu
@@ -68442,6 +68883,7 @@ while 病歷	bingli
 架锅山	jiaguoshan
 枷鎖	jiasuo
 枷锁	jiasuo
+枸地氯雷他定	judiluleitading
 枸杞	gouqi
 枸杞子	gouqizi
 枸橼	juyuan
@@ -69395,10 +69837,13 @@ while 病歷	bingli
 桥段	qiaoduan
 桥洞	qiaodong
 桥牌	qiaopai
+桥脑	qiaonao
 桥边	qiaobian
 桦太	huatai
 桧	gui
 桩脚	zhuangjiao
+桫椤	suoluo
+桫欏	suoluo
 桶盘	tongpan
 桶盤	tongpan
 桿秤	gancheng
@@ -69491,6 +69936,7 @@ while 病歷	bingli
 條支	tiaozhi
 條文	tiaowen
 條暢	tiaochang
+條條框框	tiaotiaokuangkuang
 條款	tiaokuan
 條理	tiaoli
 條目	tiaomu
@@ -70020,8 +70466,8 @@ while 病歷	bingli
 楮紙	chuzhi
 楮纸	chuzhi
 極	ji
+極不滿意 / 极不满意	ji bu manyi
 極了	jile
-極了 / 极了	jile
 極低密度脂蛋白	jidimidu zhidanbai
 極值點	jizhidian
 極光	jiguang
@@ -70298,6 +70744,7 @@ while 病歷	bingli
 樂捐	lejuan
 樂於	leyu
 樂於助人 / 乐于助人	leyu zhuren
+樂於助人 / 乐于助人	yue yu zhuren
 樂普	lepu
 樂曲	yuequ
 樂業	leye
@@ -70425,6 +70872,7 @@ while 病歷	bingli
 樞機	shuji
 樞機主教	shuji zhujiao
 樞紐	shuniu
+樞紐 / 枢纽	shuniu
 樞軸	shuzhou
 樟村坪	zhangcunping
 樟树	zhangshu
@@ -70624,6 +71072,7 @@ while 病歷	bingli
 樹輪年代學	shulun niandaixue
 樹鋪冷子	xian
 樹陰	shuyin
+樹陰 / 树阴	shuyin
 樹頭	shutou
 樺太	huatai
 樽俎	zunzu
@@ -70660,6 +71109,7 @@ while 病歷	bingli
 橋段	qiaoduan
 橋洞	qiaodong
 橋牌	qiaopai
+橋腦	qiaonao
 橋邊	qiaobian
 橋頭	qiaotou
 橋頭堡	qiaotoubao
@@ -70951,6 +71401,7 @@ while 病歷	bingli
 檯布	taibu
 檯式機	taishiji
 檯式麥克風 / 台式麦克风	taishi maikefeng
+檯曆	taili
 檯燈	taideng
 檯球	taiqiu
 檯秤	taicheng
@@ -71486,6 +71937,8 @@ while 病歷	bingli
 止息	zhixi
 止戈为武	zhigeweiwu
 止戈為武	zhigeweiwu
+止损	zhisun
+止損	zhisun
 止於至善	zhiyuzhishan
 止步	zhibu
 止水	zhishui
@@ -71540,6 +71993,7 @@ while 病歷	bingli
 正像	zhengxiang
 正儿八经	zhengrbajing
 正兒八經	zhengrbajing
+正六邊形 / 正六边形	zheng liubianxing
 正写	zhengxie
 正写法	zhengxiefa
 正冲	zhengchong
@@ -71549,9 +72003,12 @@ while 病歷	bingli
 正則座標 / 正则座标	zhengze zuobiao
 正則系綜 / 正则系综	zhengze xizong
 正則表達式 / 正则表达式	zhengze biaodashi
+正前方	zheng qianfang
+正副主任	zheng fu zhuren
 正割	zhengge
 正午	zhengwu
 正卒	zhengzu
+正南	zheng nan
 正反应	zhengfanying
 正反應	zhengfanying
 正取	zhengqu
@@ -71561,10 +72018,10 @@ while 病歷	bingli
 正告	zhenggao
 正味	zhengwei
 正品	zhengpin
+正四面體 / 正四面体	zheng simianti
 正在	zhengzai
 正在維修。 / 正在维修。	zhengzai weixiu
 正坐	zhengzuo
-正塗	zhengtu
 正声	zhengsheng
 正多边形	zhengduobianxing
 正多邊形	zhengduobianxing
@@ -71620,6 +72077,7 @@ while 病歷	bingli
 正手筆	mandalay taishanese
 正教	zhengjiao
 正数	zhengshu
+正整數 / 正整数	zheng zhengshu
 正數	zhengshu
 正文	zheng wen
 正文	zhengwen
@@ -71639,6 +72097,7 @@ while 病歷	bingli
 正极	zhengji
 正業	zhengye
 正極	zhengji
+正極 / 正极	zhengji
 正楷	zhengkai
 正歌	zhengge
 正正經經	zhengzhengjingjing
@@ -71651,7 +72110,6 @@ while 病歷	bingli
 正氣歌	zhengqige
 正沖	zhengchong
 正派	zhengpai
-正涂	zhengtu
 正港	chiankang
 正点	zhengdian
 正片	zhengpian
@@ -71668,12 +72126,14 @@ while 病歷	bingli
 正眼	zhengyan
 正矢	zhengshi
 正确	zhengque
+正确	zing kok
 正確	zhengque
 正离子	zhenglizi
 正立	zhengli
 正简	zhengjian
 正簡	zhengjian
 正簡轉換 / 正简转换	zhengjian zhuanhuan
+正紅色 / 正红色	zheng hongse
 正統	zhengtong
 正經	zhengjing
 正經八百	zhengjingbabai
@@ -71692,6 +72152,7 @@ while 病歷	bingli
 正襟危坐	zhengjinweizuo
 正要	zhengyao
 正規	zhenggui
+正規 / 正规	zhenggui
 正規化	zhengguihua
 正規軍	zhengguijun
 正視	zhengshi
@@ -71708,7 +72169,9 @@ while 病歷	bingli
 正轨	zhenggui
 正途	zhengtu
 正道	zhengdao
-正道`	zhengdao
+正長石	zhengchangshi
+正长石	zhengchangshi
+正門 / 正门	zhengmen
 正阳门	zhengyangmen
 正陽門	zhengyangmen
 正離子	zhenglizi
@@ -71716,6 +72179,7 @@ while 病歷	bingli
 正面	zhengmian
 正面形象	zhengmian xingxiang
 正面衝突 / 正面冲突	zhengmian chongtu
+正音	zhengyin
 正音学	zhengyinxue
 正音學	zhengyinxue
 正題	zhengti
@@ -71954,6 +72418,7 @@ while 病歷	bingli
 歲月	suiyue
 歲月不饒人	suiyue bu raoren
 歲月如梭	suiyuerusuo
+歲朝	suizhao
 歲物	suiwu
 歲荒	suihuang
 歷久	lijiu
@@ -72361,6 +72826,7 @@ while 病歷	bingli
 殘疾人電梯 / 残疾人电梯	canjiren dianti
 殘破	canpo
 殘篇斷簡	canpianduanjian
+殘紅 / 残红	canhong
 殘缺	canque
 殘缺不全	canquebuquan
 殘羹剩飯	cangengshengfan
@@ -72375,6 +72841,8 @@ while 病歷	bingli
 殘障	canzhang
 殘障人士 / 残障人士	canzhang renshi
 殘餘	canyu
+殘餘勢力 / 残余势力	canyu shili
+殘餘雜質 / 残余杂质	canyu zazhi
 殘骸	canhai
 殘體	canti
 殘體字	cantizi
@@ -72502,6 +72970,7 @@ while 病歷	bingli
 毀壞	huihuai
 毀容	huirong
 毀屍滅跡	huishimieji
+毀屍滅跡 / 毁尸灭迹	huishimieji
 毀掉	hui diao
 毀掉	huidiao
 毀損	huisun
@@ -72581,6 +73050,7 @@ while 病歷	bingli
 母机	muji
 母权	muquan
 母权制	muquanzhi
+母板	muban
 母校	muxiao
 母機	muji
 母權	muquan
@@ -72589,6 +73059,7 @@ while 病歷	bingli
 母狗	mugou
 母猪	muzhu
 母獸	mushou
+母畜	muchu
 母範	mufan
 母系	muxi
 母細胞	muxibao
@@ -72745,6 +73216,7 @@ while 病歷	bingli
 比心	bixin
 比手画脚	bishouhuajiao
 比手畫腳	bishouhuajiao
+比手畫腳 / 比手画脚	bishouhuajiao
 比托拉	bituola
 比拉魚	bilayu
 比拉鱼	bilayu
@@ -72890,6 +73362,7 @@ while 病歷	bingli
 毛妹	maomei
 毛子	maozi
 毛孔	maokong
+毛孩	maohai
 毛家港	maojiagang
 毛巾	maojin
 毛巾被	maojinbei
@@ -72930,6 +73403,7 @@ while 病歷	bingli
 毛細支氣管	maoxi zhiqiguan
 毛細支氣管炎	maoxizhiqiguanyan
 毛細淋巴管	maoxi linbaguan
+毛細現象	maoxi xianxiang
 毛細管	maoxiguan
 毛細管回流	maoxiguan huiliu
 毛細血管	maoxi xueguan
@@ -72945,6 +73419,7 @@ while 病歷	bingli
 毛细支气管	maoxi zhiqiguan
 毛细支气管炎	maoxizhiqiguanyan
 毛细淋巴管	maoxi linbaguan
+毛细现象	maoxi xianxiang
 毛细管	maoxiguan
 毛细管回流	maoxiguan huiliu
 毛细血管	maoxi xueguan
@@ -73308,6 +73783,7 @@ while 病歷	bingli
 气流	qiliu
 气温	qiwen
 气溶胶	qirongjiao
+气炸	qizha
 气炸锅	qizhaguo
 气焰	qiyan
 气球	qiqiu
@@ -73408,6 +73884,7 @@ while 病歷	bingli
 氣味	qiwei
 氣味 / 气味	qiwei
 氣呼呼	qihuhu
+氣哭了 / 气哭了	qi ku le
 氣喘	qichuan
 氣喘吁吁	qichuanxuxu
 氣喘如牛	qichuanruniu
@@ -73438,6 +73915,7 @@ while 病歷	bingli
 氣旋	qixuan
 氣根	qigen
 氣概	qigai
+氣概 / 气概	qigai
 氣槍	qiqiang
 氣樓	qilou
 氣死	qisi
@@ -73455,6 +73933,7 @@ while 病歷	bingli
 氣流 / 气流	qiliu
 氣溫	qiwen
 氣溶膠	qirongjiao
+氣炸	qizha
 氣炸鍋	qizhaguo
 氣焰	qiyan
 氣球	qiqiu
@@ -73472,6 +73951,7 @@ while 病歷	bingli
 氣絕	qijue
 氣胸	qixiong
 氣色	qise
+氣虛 / 气虚	qi xu
 氣血	qixue
 氣誼相投	qiyixiangtou
 氣象	qixiang
@@ -73687,6 +74167,7 @@ while 病歷	bingli
 水上飛機	shuishang feiji
 水上飞机	shuishang feiji
 水下	shuixia
+水中	shui zhong
 水中捞月	shuizhonglaoyue
 水中撈月	shuizhonglaoyue
 水中毒	shuizhongdu
@@ -74144,6 +74625,7 @@ while 病歷	bingli
 求他別走 / 求他别走	qiu ta bie zou
 求全	qiuquan
 求助	qiuzhu
+求助於人 / 求助于人	qiuzhu yu ren
 求勝	qiusheng
 求医	qiuyi
 求同存异	qiutongcunyi
@@ -74154,6 +74636,7 @@ while 病歷	bingli
 求学	qiuxue
 求学问	qiu xuewen
 求學	qiuxue
+求學 / 求学	qiuxue
 求學問	qiu xuewen
 求官	qiuguan
 求得	qiude
@@ -74419,6 +74902,7 @@ while 病歷	bingli
 江门	jiangmen
 江阴	jiangyin
 江陰	jiangyin
+江陰 / 江阴	jiangyin
 江陵	jiangling
 池	chi
 池上	chishang
@@ -74726,6 +75210,7 @@ while 病歷	bingli
 沒精打采	meijingdacai
 沒老沒少	harbin
 沒脾氣	mei piqi
+沒臉見人 / 没脸见人	mei lian jian ren
 沒良心	meiliangxin
 沒良心 / 没良心	mei liangxin
 沒落	moluo
@@ -74787,6 +75272,7 @@ while 病歷	bingli
 沙乌地阿拉伯	shawudi alabo
 沙仑	shalun
 沙僧	shaseng
+沙劘	suomo
 沙功那空	shagongnakong
 沙加緬度	shajiamianduo
 沙加缅度	shajiamianduo
@@ -75468,8 +75954,10 @@ while 病歷	bingli
 法外	fawai
 法子	fazi
 法学	faxue
+法学家	faxuejia
 法学院	faxueyuan
 法學	faxue
+法學家	faxuejia
 法學院	faxueyuan
 法官	faguan
 法定	fading
@@ -75526,6 +76014,7 @@ while 病歷	bingli
 法律学	faluxue
 法律學	faluxue
 法律实证主义	falu shizhengzhuyi
+法律家	falujia
 法律實證主義	falu shizhengzhuyi
 法律援助	falu yuanzhu
 法律效力	falu xiaoli
@@ -75920,10 +76409,12 @@ while 病歷	bingli
 泰国人	taiguoren
 泰国湾	taiguowan
 泰国话	taiguohua
+泰国语	taiguoyu
 泰國	taiguo
 泰國人	taiguoren
 泰國灣	taiguowan
 泰國話	taiguohua
+泰國語	taiguoyu
 泰坦尼克	taitannike
 泰山	tai shan
 泰山	taishan
@@ -76043,6 +76534,7 @@ while 病歷	bingli
 洋洋得意	yangyangdeyi
 洋洋洒洒	yangyangsasa
 洋洋灑灑	yangyangsasa
+洋洋自得	yangyangzide
 洋洋萬言 / 洋洋万言	yangyangwanyan
 洋津畈	yangjinfan
 洋涇浜	yangjingbang
@@ -76193,6 +76685,7 @@ while 病歷	bingli
 洗腎	xishen
 洗腦	xinao
 洗臉	xilian
+洗臉 / 洗脸	xilian
 洗臉盆	xilianpen
 洗血	xixue
 洗衣	xiyi
@@ -76522,6 +77015,7 @@ while 病歷	bingli
 流变	liubian
 流口水	liu koushui
 流向	liuxiang
+流向大海	liu xiang dahai
 流域	liuyu
 流失	liushi
 流失生	liushisheng
@@ -76714,6 +77208,7 @@ while 病歷	bingli
 浅近	qianjin
 浅陋	qianlou
 浆果	jiangguo
+浆洗	jiangxi
 浆溪店	jiangxidian
 浆石	sichuan
 浆细胞	jiangxibao
@@ -76823,6 +77318,7 @@ while 病歷	bingli
 浦东	pudong
 浦口	pukou
 浦東	pudong
+浦西	puxi
 浩劫	haojie
 浩博	haobo
 浩大	haoda
@@ -76885,6 +77381,7 @@ while 病歷	bingli
 浮华	fuhua
 浮图	futu
 浮圖	futu
+浮土	futu
 浮在水面	fu zai shuimian
 浮塵	fuchen
 浮塵子	fuchenzi
@@ -76934,14 +77431,17 @@ while 病歷	bingli
 浮薸	sichuan
 浮言	fuyan
 浮誇	fukua
+浮誇 / 浮夸	fukua
 浮議	fuyi
 浮议	fuyi
 浮財	fucai
+浮財 / 浮财	fucai
 浮财	fucai
 浮躁	fuzao
 浮躁的時代 / 浮躁的时代	fuzao de shidai
 浮雕	fudiao
 浮雲	fuyun
+浮雲 / 浮云	fuyun
 浮面	fumian
 浮頭	futou
 浯屿	wuyu
@@ -77059,7 +77559,9 @@ while 病歷	bingli
 海底撈針	haidilaozhen
 海底針	haidizhen
 海底针	haidizhen
+海废	haifei
 海康	haikang
+海廢	haifei
 海建	haijian
 海归	haigui
 海德公园	haide gongyuan
@@ -77338,6 +77840,7 @@ while 病歷	bingli
 消導藥	xiaodaoyao
 消弭	xiaomi
 消息	xiaoxi
+消息不確 / 消息不确	xiaoxi bu que
 消拯员	xiaozhengyuan
 消拯員	xiaozhengyuan
 消拯局	xiaozhengju
@@ -77354,6 +77857,7 @@ while 病歷	bingli
 消氣	xiaoqi
 消沉	xiaochen
 消泗	xiaosi
+消消氣 / 消消气	xiao xiaoqi
 消渴症	xiaokezheng
 消滅	xiaomie
 消火	xiaohuo
@@ -77674,6 +78178,7 @@ while 病歷	bingli
 淚骨	leigu
 淚點	leidian
 淚點低 / 泪点低	leidian di
+淜滂	pingpang
 淝水之戰 / 淝水之战	feishui zhi zhan
 淡仓	dancang
 淡倉	dancang
@@ -77896,6 +78401,7 @@ while 病歷	bingli
 深静脉血栓	shenjingmaixueshuan
 深靜脈血栓	shenjingmaixueshuan
 淳于	chunyu
+淳化	chunhua
 淳厚	chunhou
 淳朴	chunpu
 淳樸	chunpu
@@ -77955,6 +78461,7 @@ while 病歷	bingli
 混混日子而已	hunhun rizi eryi
 混濁	hunzhuo
 混為一談	hunweiyitan
+混為一談 / 混为一谈	hunweiyitan
 混球	hunqiu
 混社會 / 混社会	hun shehui
 混紡	hunfang
@@ -78044,7 +78551,10 @@ while 病歷	bingli
 清北复交	qingbeifujiao
 清北復交	qingbeifujiao
 清华	qinghua
+清华园	qinghuayuan
 清单	qingdan
+清君侧	qingjunce
+清君側	qingjunce
 清和	qinghe
 清咖啡	qingkafei
 清咽丸	qingyan wan
@@ -78179,6 +78689,7 @@ while 病歷	bingli
 清苦	qingku
 清茶	qingcha
 清華	qinghua
+清華園	qinghuayuan
 清蒸	qingzheng
 清規	qinggui
 清规	qinggui
@@ -78359,6 +78870,8 @@ while 病歷	bingli
 渣滓	zhazi
 渣男	zhanan
 渤海	bo hai
+渤海国	bohaiguo
+渤海國	bohaiguo
 渤海海峡	bohai haixia
 渤海海峽	bohai haixia
 渤海湾	bohaiwan
@@ -78408,6 +78921,7 @@ while 病歷	bingli
 温热	wenre
 温煦	wenxu
 温良	wenliang
+温血动物	wenxue dongwu
 温酒	wenjiu
 温里药	wenliyao
 温雅	wenya
@@ -78590,6 +79104,7 @@ while 病歷	bingli
 渾天儀	huntianyi
 渾家	hunjia
 渾樸	hunpu
+渾樸 / 浑朴	hunpu
 渾水	hunshui
 渾水摸魚	hun shui mo yu
 渾水摸魚	hunshuimoyu
@@ -78695,7 +79210,6 @@ while 病歷	bingli
 湠種	thoancheng
 湠草	thoanchhau
 湠開	thoankhui
-湢浴	biyu
 湧入	yongru
 湧出	yongchu
 湧湍	yongtuan
@@ -78804,10 +79318,12 @@ while 病歷	bingli
 準時	zhunshi
 準晶	zhunjing
 準確	zhunque
+準確 / 准确	zhunque
 準確度	zhunquedu
 準確性	zhunquexing
 準線	zhunxian
 準繩	zhunsheng
+溚	ta
 溜	liu
 溜之大吉	liuzhidaji
 溜冰	liubing
@@ -78913,6 +79429,7 @@ while 病歷	bingli
 溫熱	wenre
 溫習	wenxi
 溫良	wenliang
+溫血動物	wenxue dongwu
 溫裡藥	wenliyao
 溫酒	wenjiu
 溫雅	wenya
@@ -78967,6 +79484,7 @@ while 病歷	bingli
 滁州	chuzhou
 滂沱	pangtuo
 滂沱大雨	pangtuodayu
+滂濞	pengpi
 滄桑	cangsang
 滄浪	canglang
 滄海	canghai
@@ -79001,7 +79519,9 @@ while 病歷	bingli
 滇劇	dianju
 滇南	diannan
 滇池	dianchi
+滇紅	dianhong
 滇緬公路	dian mian gonglu
+滇红	dianhong
 滇缅公路	dian mian gonglu
 滇西	dianxi
 滋事	zishi
@@ -79236,6 +79756,7 @@ while 病歷	bingli
 滥觞	lanshang
 滥调	landiao
 滦州	luanzhou
+滦河	luanhe
 滨州	binzhou
 滨海	binhai
 滨海边疆区	binhai bianjiangqu
@@ -79391,6 +79912,7 @@ while 病歷	bingli
 滿身	manshen
 滿身是傷 / 满身是伤	manshen shi shang
 滿身是血 / 满身是血	man shen shi xue
+滿身酒氣 / 满身酒气	manshen jiu qi
 滿載	manzai
 滿門	manmen
 滿門抄斬	manmenchaozhan
@@ -79698,6 +80220,7 @@ while 病歷	bingli
 漲水	zhangshui
 漲渡湖	zhangduhu
 漲潮	zhangchao
+漲潮 / 涨潮	zhangchao
 漲跌	zhangdie
 漲跌互見 / 涨跌互见	zhangdie hujian
 漳州	zhangzhou
@@ -79713,11 +80236,13 @@ while 病歷	bingli
 漸近線	jianjinxian
 漸進	jianjin
 漿果	jiangguo
+漿洗	jiangxi
 漿溪店	jiangxidian
 漿石	sichuan
 漿細胞	jiangxibao
 漿膜	jiangmo
 潁川	yingchuan
+潇水	xiaoshui
 潇洒	xiaosa
 潇湘	xiaoxiang
 潇潇	xiaoxiao
@@ -79774,6 +80299,7 @@ while 病歷	bingli
 潛艇三明治	qianting sanmingzhi
 潛藏	qiancang
 潛血	qianxue
+潛行	qianxing
 潛規則	qianguize
 潛蹤	qianzong
 潛躲	qianduo
@@ -79806,6 +80332,7 @@ while 病歷	bingli
 潜艇三明治	qianting sanmingzhi
 潜藏	qiancang
 潜血	qianxue
+潜行	qianxing
 潜规则	qianguize
 潜踪	qianzong
 潜躲	qianduo
@@ -79930,12 +80457,14 @@ while 病歷	bingli
 澎湖島	penghudao
 澎湖群岛	penghu qundao
 澎湖群島	penghu qundao
+澎濞	pengpi
 澗	jian
 澗口	jiankou
 澗池	jianchi
 澜沧江	lancang jiang
 澠池	mianchi
 澡堂	zaotang
+澡堂子	zaotangzi
 澡盆	zaopen
 澡盆盆	sichuan
 澡雪	zaoxue
@@ -79975,7 +80504,7 @@ while 病歷	bingli
 澳式足球	aoshi zuqiu
 澳抗	aokang
 澳新	aoxin
-澳新银行	aoxinyinxing
+澳新銀行 / 澳新银行	ao xin yinhang
 澳氹大橋 / 澳氹大桥	ao dang daqiao
 澳洲	aozhou
 澳洲	ochiu
@@ -80227,6 +80756,7 @@ while 病歷	bingli
 瀝酒	lijiu
 瀝青	liqing
 瀝青鈾礦	liqing youkuang
+瀟水	xiaoshui
 瀟湘	xiaoxiang
 瀟瀟	xiaoxiao
 瀟灑	xiaosa
@@ -80288,6 +80818,7 @@ while 病歷	bingli
 灣潭	wantan
 灣灣	wanwan
 灤州	luanzhou
+灤河	luanhe
 火	fo
 火	hoe he
 火	hu
@@ -80361,6 +80892,7 @@ while 病歷	bingli
 火枪	huoqiang
 火柴	huochai
 火柴盒	huochaihe
+火柴頭 / 火柴头	huochai tou
 火柿子	huoshizi
 火树银花	huoshuyinhua
 火槍	huoqiang
@@ -80369,6 +80901,7 @@ while 病歷	bingli
 火氣	huoqi
 火油	huoyou
 火海	huohai
+火漆	huoqi
 火災	huozai
 火灾	huozai
 火炉	huolu
@@ -80559,7 +81092,7 @@ while 病歷	bingli
 灰泥	huini
 灰浆	huijiang
 灰漿	huijiang
-灰濛蒙	huimengmeng
+灰濛濛	huimengmeng
 灰烬	huijin
 灰熊	huixiong
 灰燼	huijin
@@ -80617,6 +81150,7 @@ while 病歷	bingli
 灵物	lingwu
 灵犀	lingxi
 灵猫	lingmao
+灵界	lingjie
 灵芝	lingzhi
 灵车	lingche
 灵通	lingtong
@@ -80916,6 +81450,7 @@ while 病歷	bingli
 為什麼	weishenme
 為伍	weiwu
 為何	weihe
+為公平起見 / 为公平起见	wei gongping qijian
 為叢驅爵 / 为丛驱爵	weicongqujue
 為叢驅雀	weicongquque
 為咗	wai zo
@@ -80935,6 +81470,7 @@ while 病歷	bingli
 為期	weiqi
 為止	weizhi
 為此	weici
+為民服務 / 为民服务	wei min fuwu
 為淵驅魚	weiyuanquyu
 為生	weisheng
 為著	weizhe
@@ -81024,6 +81560,7 @@ while 病歷	bingli
 烏桕	wujiu
 烏梁海	wulianghai
 烏梅	wumei
+烏梅 / 乌梅	wumei
 烏江	wujiang
 烏泰他尼	wutaitani
 烏洛侯	wuluohou
@@ -81052,6 +81589,7 @@ while 病歷	bingli
 烏賊	wuzei
 烏賊骨	wuzeigu
 烏賊魚	wuzeiyu
+烏都語	wuduyu
 烏醋	wucu
 烏金	wujin
 烏雞	wuji
@@ -81277,6 +81815,7 @@ while 病歷	bingli
 热力瑜伽	reli yujia
 热加工	rejiagong
 热化学	rehuaxue
+热化学卡	rehuaxueka
 热可可	rekeke
 热和	rehuo
 热天	retian
@@ -81290,6 +81829,7 @@ while 病歷	bingli
 热带气旋	redai qixuan
 热带雨林	redai yulin
 热带风暴	redai fengbao
+热带鱼	redaiyu
 热干面	reganmian
 热度	redu
 热心	rexin
@@ -81335,6 +81875,7 @@ while 病歷	bingli
 热能	reneng
 热菜	recai
 热血	rexue
+热血动物	rexue dongwu
 热补	rebu
 热衰竭	reshuaijie
 热衷	rezhong
@@ -81378,6 +81919,9 @@ while 病歷	bingli
 烹龙煮凤	penglongzhufeng
 烽	feng
 烽火	fenghuo
+烽火台	fenghuotai
+烽火臺	fenghuotai
+烽火臺 / 烽火台	fenghuotai
 烽烟	fengyan
 烽烟四起	fengyansiqi
 烽煙	fengyan
@@ -81753,6 +82297,7 @@ while 病歷	bingli
 無解	wujie
 無言	wuyan
 無言以對	wuyanyidui
+無言以對 / 无言以对	wuyanyidui
 無計	wuji
 無計可施	wujikeshi
 無記名投票	wujiming toupiao
@@ -81782,6 +82327,7 @@ while 病歷	bingli
 無邊	wubian
 無邊 / 无边	wubian
 無邊無際	wubianwuji
+無邊無際 / 无边无际	wubianwuji
 無邪	wuxie
 無酬	wuchou
 無重力	wuzhongli
@@ -81974,6 +82520,7 @@ while 病歷	bingli
 煙霧彈	yanwudan
 煙霧探測器	yanwu tanceqi
 煙頭	yantou
+煙頭 / 烟头	yantou
 煙館	yanguan
 煙鬼	yangui
 煙鬼 / 烟鬼	yangui
@@ -81996,6 +82543,7 @@ while 病歷	bingli
 煤氣	meiqi
 煤氣灶	meiqizao
 煤氣爐	meiqilu
+煤氣罐炸了。 / 煤气罐炸了。	meiqi guan zha le
 煤油	meiyou
 煤油取暖器	meiyou qunuanqi
 煤渣	meizha
@@ -82263,6 +82811,7 @@ while 病歷	bingli
 熱力瑜伽	reli yujia
 熱加工	rejiagong
 熱化學	rehuaxue
+熱化學卡	rehuaxueka
 熱可可	rekeke
 熱和	rehuo
 熱天	retian
@@ -82274,6 +82823,7 @@ while 病歷	bingli
 熱帶氣旋	redai qixuan
 熱帶雨林	redai yulin
 熱帶風暴	redai fengbao
+熱帶魚	redaiyu
 熱度	redu
 熱得要命 / 热得要命	re de yaoming
 熱心	rexin
@@ -82324,6 +82874,7 @@ while 病歷	bingli
 熱能	reneng
 熱菜	recai
 熱血	rexue
+熱血動物	rexue dongwu
 熱血青年 / 热血青年	rexue qingnian
 熱衰竭	reshuaijie
 熱衷	rezhong
@@ -83076,9 +83627,9 @@ while 病歷	bingli
 牛人	niuren
 牛仔	niuzai
 牛仔布	niuzaibu
-牛仔毋捌虎	gua mpat ho
 牛仔裤	niuzaiku
 牛仔褲	niuzaiku
+牛仔骨	niuzaigu
 牛刀	niudao
 牛叉	niucha
 牛圈	niujuan
@@ -83818,6 +84369,7 @@ while 病歷	bingli
 狗咬吕洞宾	gou yao lu dongbin
 狗咬呂洞賓	gou yao lu dongbin
 狗咬狗	gouyaogou
+狗子	gouzi
 狗官	gouguan
 狗尾巴草	gouweibacao
 狗尾草	gouweicao
@@ -84433,6 +84985,7 @@ while 病歷	bingli
 獲益	huoyi
 獲益匪淺	huoyifeiqian
 獲益良多	huoyiliangduo
+獲知	huozhi
 獲罪	huozui
 獲聘	huopin
 獲致	huozhi
@@ -84459,6 +85012,7 @@ while 病歷	bingli
 獸性	shouxing
 獸慾	shouyu
 獸皮	shoupi
+獸穴	shouxue
 獸行	shouxing
 獸迷 / 兽迷	shoumi
 獸醫	shouyi
@@ -84548,6 +85102,7 @@ while 病歷	bingli
 玉搔头	yusaotou
 玉搔頭	yusaotou
 玉枕薯	yuzhenshu
+玉林	yulin
 玉树	yushu
 玉树临风	yushulinfeng
 玉楼	yulou
@@ -84714,9 +85269,11 @@ while 病歷	bingli
 王滩	wangtan
 王灘	wangtan
 王爷	wangye
+王爷庙	wangyemiao
 王爷府	wangyefu
 王爺	wangye
 王爺府	wangyefu
+王爺廟	wangyemiao
 王牌	wangpai
 王畿	wangji
 王綱	wanggang
@@ -85126,6 +85683,7 @@ while 病歷	bingli
 現出	xianchu
 現在	xianzai
 現在分詞	xianzai fenci
+現在幾比幾？ / 现在几比几？	xianzai ji bi ji
 現在幾點了？ / 现在几点了？	xianzai jidian le
 現在時	xianzaishi
 現在的情況 / 现在的情况	xianzai de qingkuang
@@ -85281,6 +85839,7 @@ while 病歷	bingli
 理想社會 / 理想社会	lixiang shehui
 理想鄉	lixiangxiang
 理應	liying
+理應如此 / 理应如此	liying ruci
 理所当然	lisuodangran
 理所當然	lisuodangran
 理据	liju
@@ -85651,9 +86210,12 @@ while 病歷	bingli
 瓦埠	wabu
 瓦屋	wawu
 瓦工	wagong
+瓦当	wadang
 瓦房	wafang
 瓦拉多利德	waladuolide
 瓦斯	wasi
+瓦斯炉	wasilu
+瓦斯爐	wasilu
 瓦杜兹	waduzi
 瓦杜茲	waduzi
 瓦松	wasong
@@ -85662,6 +86224,7 @@ while 病歷	bingli
 瓦格纳	wagena
 瓦片	wapian
 瓦特	wate
+瓦當	wadang
 瓦石峡	washixia
 瓦石峽	washixia
 瓦砾	wali
@@ -85730,6 +86293,7 @@ while 病歷	bingli
 甕	weng
 甕中捉鱉	wengzhongzhuobie
 甕城	wengcheng
+甘	gan
 甘える	amaeru
 甘井先竭	ganjingxianjie
 甘休	ganxiu
@@ -85802,6 +86366,7 @@ while 病歷	bingli
 甚至于	shenzhiyu
 甚至於	shenzhiyu
 甚麼	shenme
+甜	tian
 甜不辣	tianbula
 甜味	tianwei
 甜味剂	tianweiji
@@ -85929,7 +86494,6 @@ while 病歷	bingli
 生命體徵	shengming tizheng
 生員	shengyuan
 生啤	shengpi
-生啤酒	shengpijiu
 生地	shengdi
 生地黃	shengdihuang
 生地黄	shengdihuang
@@ -86556,6 +87120,7 @@ while 病歷	bingli
 甲乙丙丁	jiayibingding
 甲亢	jiakang
 甲仙	jiaxian
+甲促素	jiacusu
 甲兵	jiabing
 甲功報告 / 甲功报告	jiagong baogao
 甲午战争	jiawu zhanzheng
@@ -86577,6 +87142,7 @@ while 病歷	bingli
 甲壳动物	jiaqiao dongwu
 甲壳虫	jiaqiaochong
 甲子	jiazi
+甲方	jia fang
 甲方	jiafang
 甲板	jiaban
 甲殼	jiaqiao
@@ -86584,11 +87150,13 @@ while 病歷	bingli
 甲殼蟲	jiaqiaochong
 甲烷	jiawan
 甲状旁腺	jiazhuangpangxian
+甲状旁腺素	jiazhuangpangxiansu
 甲状腺	jiazhuangxian
 甲状腺素	jiazhuangxiansu
 甲状腺肿	jiazhuangxianzhong
 甲状软骨	jiazhuang ruangu
 甲狀旁腺	jiazhuangpangxian
+甲狀旁腺素	jiazhuangpangxiansu
 甲狀腺	jiazhuangxian
 甲狀腺素	jiazhuangxiansu
 甲狀腺腫	jiazhuangxianzhong
@@ -86974,6 +87542,9 @@ while 病歷	bingli
 男子組合	nanzi zuhe
 男子组合	nanzi zuhe
 男孩	nanhai
+男孩儿	nanhair
+男孩兒	nanhair
+男孩兒 / 男孩儿	nanhair
 男孩子	nanhaizi
 男寝	nanqin
 男寢	nanqin
@@ -87146,6 +87717,7 @@ while 病歷	bingli
 畏難苟安	weinangouan
 畏首畏尾	weishouweiwei
 畏𢸣	uingiau
+畔	pan
 留	liu
 留⫽下	verbcomplement
 留下	liuxia
@@ -87188,6 +87760,8 @@ while 病歷	bingli
 留班	liuban
 留白	liubai
 留神	liushen
+留種公豬 / 留种公猪	liuzhong gongzhu
+留種繁殖 / 留种繁殖	liuzhong fanzhi
 留級	liuji
 留级	liuji
 留置	liuzhi
@@ -87236,6 +87810,7 @@ while 病歷	bingli
 畢業 / 毕业	biye
 畢業以來 / 毕业以来	biye yilai
 畢業典禮 / 毕业典礼	biye dianli
+畢業後 / 毕业后	biye hou
 畢業生	biyesheng
 畢業紀念冊 / 毕业纪念册	biye jiniance
 畢業論文	biye lunwen
@@ -87284,6 +87859,7 @@ while 病歷	bingli
 番禺	panyu
 番紅花	fanhonghua
 番红花	fanhonghua
+番舶	fanbo
 番芋	fanyu
 番芫荽	fanyansui
 番茄	fanqie
@@ -87714,6 +88290,8 @@ while 病歷	bingli
 疾行	jixing
 疾視	jishi
 疾视	jishi
+疾言厉色	jiyanlise
+疾言厲色	jiyanlise
 疾走	jizou
 疾風	jifeng
 疾風勁草	jifengjingcao
@@ -87909,6 +88487,7 @@ while 病歷	bingli
 痛脚	tongjiao
 痛腳	tongjiao
 痛苦	tongku
+痛苦極了 / 痛苦极了	tongku jile
 痛處	tongchu
 痛覺	tongjue
 痛觉	tongjue
@@ -88253,6 +88832,7 @@ while 病歷	bingli
 發展不平衡 / 发展不平衡	fazhan bu pingheng
 發展中	fazhanzhong
 發展中國家	fazhanzhong guojia
+發展中國家 / 发展中国家	fazhan zhong guojia
 發展史	fazhanshi
 發展壯大 / 发展壮大	fazhan zhuangda
 發展太陽能 / 发展太阳能	fazhan taiyangneng
@@ -89125,8 +89705,8 @@ while 病歷	bingli
 百端待舉	baiduan daiju
 百笕河	baijianhe
 百筧河	baijianhe
-百粤	bai yue
-百粵	bai yue
+百粤	baiyue
+百粵	baiyue
 百老匯	bailaohui
 百老汇	bailaohui
 百聞不如一見	bai wen buru yi jian
@@ -89169,7 +89749,7 @@ while 病歷	bingli
 百货公司	baihuo gongsi
 百货商店	baihuo shangdian
 百货店	baihuodian
-百越	bai yue
+百越	baiyue
 百足	baizu
 百足之虫	baizuzhichong
 百足之蟲	baizuzhichong
@@ -89613,6 +90193,7 @@ while 病歷	bingli
 盘子	panzi
 盘存	pancun
 盘尼西林	pannixilin
+盘山	panshan
 盘川	panchuan
 盘式桥牌	pan shi qiaopai
 盘心	sichuan
@@ -89802,6 +90383,7 @@ while 病歷	bingli
 盤子	panzi
 盤存	pancun
 盤尼西林	pannixilin
+盤山	panshan
 盤川	panchuan
 盤式橋牌	pan shi qiaopai
 盤心	sichuan
@@ -89946,6 +90528,7 @@ while 病歷	bingli
 盲干	manggan
 盲幹	manggan
 盲從	mangcong
+盲從 / 盲从	mangcong
 盲文	mangwen
 盲棋	mangqi
 盲点	mangdian
@@ -90152,6 +90735,7 @@ while 病歷	bingli
 相合	xianghe
 相同	xiangtong
 相向	xiangxiang
+相向而行	xiang xiang er xing
 相命	xiangming
 相命者	xiangmingzhe
 相和	xianghe
@@ -90159,6 +90743,7 @@ while 病歷	bingli
 相因	xiangyin
 相国	xiangguo
 相國	xiangguo
+相坐	xiangzuo
 相声	xiangsheng
 相处	xiangchu
 相夫教子	xiangfujiaozi
@@ -90230,6 +90815,7 @@ while 病歷	bingli
 相比而言	xiangbi eryan
 相求	xiangqiu
 相济	xiangji
+相激	xiangji
 相濟	xiangji
 相濡以沫	xiangruyimo
 相為	xiangwei
@@ -90400,6 +90986,7 @@ while 病歷	bingli
 眉開眼笑	meikaiyanxiao
 眉頭	meitou
 眉飛色舞	meifeisewu
+眉飛色舞 / 眉飞色舞	meifeisewu
 眉飞色舞	meifeisewu
 眉黛	meidai
 看	kan
@@ -90417,6 +91004,9 @@ while 病歷	bingli
 看不見	kanbujian
 看不见	kanbujian
 看不起	kanbuqi
+看不过去	kanbuguoqu
+看不過去	kanbuguoqu
+看不開 / 看不开	kan bu kai
 看中	kanzhong
 看书	kanshu
 看似	kansi
@@ -90443,6 +91033,7 @@ while 病歷	bingli
 看家	kanjia
 看庄	kanzhuang
 看座	kanzuo
+看开	kankai
 看待	kandai
 看得懂	kandedong
 看得見	kandejian
@@ -90511,6 +91102,7 @@ while 病歷	bingli
 看門	kanmen
 看門人	kanmenren
 看門狗	kanmengou
+看開	kankai
 看门	kanmen
 看门人	kanmenren
 看门狗	kanmengou
@@ -90529,6 +91121,7 @@ while 病歷	bingli
 真个	zhenge
 真主	zhenzhu
 真主党	zhenzhudang
+真主至大	zhenzhu zhida
 真主黨	zhenzhudang
 真书	zhenshu
 真事	zhenshi
@@ -90633,8 +91226,6 @@ while 病歷	bingli
 真谛	zhendi
 真跡	zhenji
 真迹	zhenji
-真金不怕火炼	zhenjinbupahuolian
-真金不怕火煉	zhenjinbupahuolian
 真面目	zhenmianmu
 眠	mian
 眠床	binchhng
@@ -90733,8 +91324,6 @@ while 病歷	bingli
 眼神	yanshen
 眼福	yanfu
 眼科	yanke
-眼科医生	yanke yisheng
-眼科醫生	yanke yisheng
 眼窝	yanwo
 眼窩	yanwo
 眼簾	yanlian
@@ -90875,6 +91464,7 @@ while 病歷	bingli
 睡地鋪 / 睡地铺	shui dipu
 睡夢	shuimeng
 睡大覺 / 睡大觉	shui dajiao
+睡帽	shuimao
 睡得很沉	shui de hen chen
 睡得很香	shui de hen xiang
 睡得着	shuidezhao
@@ -90897,6 +91487,7 @@ while 病歷	bingli
 睡著	shuizhao
 睡著	verbcomplement
 睡蓮	shuilian
+睡蓮 / 睡莲	shuilian
 睡衣	shuiyi
 睡袋	shuidai
 睡袍	shuipao
@@ -91494,6 +92085,7 @@ while 病歷	bingli
 石胡荽	shihusui
 石膏	shigao
 石膏工	shigaogong
+石舫	shifang
 石花	shihua
 石花菜	shihuacai
 石苇	shiwei
@@ -91768,6 +92360,8 @@ while 病歷	bingli
 破綻	pozhan
 破约	poyue
 破绽	pozhan
+破罐子破摔	po guanzi po shuai
+破罐破摔	po guan po shuai
 破舊	pojiu
 破获	pohuo
 破落	poluo
@@ -92101,6 +92695,7 @@ while 病歷	bingli
 碑铭	beiming
 碑阴	beiyin
 碑陰	beiyin
+碑陰 / 碑阴	beiyin
 碓臼	duijiu
 碗仔翅	wanzaichi
 碗儿糕	wanrgao
@@ -92118,6 +92713,7 @@ while 病歷	bingli
 碗粿	wanguo
 碗糕	wangao
 碗豚底	huizhou
+碗邊兒 / 碗边儿	wan bianr
 碘乙烷	dianyiwan
 碘仿	dianfang
 碘化氢	dianhuaqing
@@ -92283,6 +92879,7 @@ while 病歷	bingli
 確保	quebao
 確保安全 / 确保安全	quebao anquan
 確信	quexin
+確信 / 确信	quexin
 確切	queqie
 確定	queding
 確定性	quedingxing
@@ -92482,6 +93079,7 @@ while 病歷	bingli
 礦夫	kuangfu
 礦山	kuangshan
 礦工	kuanggong
+礦工 / 矿工	kuanggong
 礦床	kuangchuang
 礦業	kuangye
 礦泉	kuangquan
@@ -92625,7 +93223,7 @@ while 病歷	bingli
 社会行为	shehui xingwei
 社会规范	shehui guifan
 社会角色	shehui juese
-社会语言学	shehuiyuyanxue
+社会语言学	shehui yuyanxue
 社会问题	shehui wenti
 社会阶层	shehui jieceng
 社会阶级	shehui jieji
@@ -92714,7 +93312,7 @@ while 病歷	bingli
 社會行為	shehui xingwei
 社會規範	shehui guifan
 社會角色	shehui juese
-社會語言學	shehuiyuyanxue
+社會語言學	shehui yuyanxue
 社會階層	shehui jieceng
 社會階級	shehui jieji
 社會青年	shehui qingnian
@@ -92748,7 +93346,9 @@ while 病歷	bingli
 祁巷	qixiang
 祁曼塔格	qimantage
 祁東	qidong
+祁紅	qihong
 祁縣	qixian
+祁红	qihong
 祁连	qilian
 祁连山	qilian shan
 祁連	qilian
@@ -92994,7 +93594,7 @@ while 病歷	bingli
 神經纖維	shenjingxianwei
 神經衝動	shenjing chongdong
 神經衰弱	shenjing shuairuo
-神經語言學	shenjingyuyanxue
+神經語言學	shenjing yuyanxue
 神經質	shenjingzhi
 神經過敏	shenjing guomin
 神經鞘瘤	shenjingqiaoliu
@@ -93028,7 +93628,7 @@ while 病歷	bingli
 神经网络	shenjing wangluo
 神经网路	shenjing wanglu
 神经衰弱	shenjing shuairuo
-神经语言学	shenjingyuyanxue
+神经语言学	shenjing yuyanxue
 神经质	shenjingzhi
 神经过敏	shenjing guomin
 神经鞘瘤	shenjingqiaoliu
@@ -93162,6 +93762,7 @@ while 病歷	bingli
 祸根	huogen
 祸殃	huoyang
 祸水	huoshui
+祸生肘腋	huoshengzhouye
 祸祟	huosui
 祸福	huofu
 祸胎	huotai
@@ -93275,6 +93876,7 @@ while 病歷	bingli
 禍根	huogen
 禍殃	huoyang
 禍水	huoshui
+禍生肘腋	huoshengzhouye
 禍祟	huosui
 禍福	huofu
 禍胎	huotai
@@ -93354,6 +93956,7 @@ while 病歷	bingli
 福田河	futianhe
 福相	fuxiang
 福祉	fuzhi
+福祚	fuzuo
 福祿	fulu
 福祿壽	fulushou
 福祿考	fulukao
@@ -93583,6 +94186,7 @@ while 病歷	bingli
 私奔	siben
 私娼	sichang
 私学	sixue
+私孩子	sihaizi
 私學	sixue
 私家	sijia
 私家侦探	sijia zhentan
@@ -93946,6 +94550,7 @@ while 病歷	bingli
 秤盤子	chengpanzi
 秤砣	chengtuo
 秤紐	chengniu
+秤紐 / 秤纽	chengniu
 秤纽	chengniu
 秤鉤	chenggou
 秤錘	chengchui
@@ -94035,6 +94640,7 @@ while 病歷	bingli
 称	cheng
 称为	chengwei
 称义	chengyi
+称兄道弟	chengxiongdaodi
 称号	chenghao
 称呼	chenghu
 称孤	chenggu
@@ -94321,14 +94927,18 @@ while 病歷	bingli
 種花	zhonghua
 種花 / 种花	zhonghua
 種花家	zhonghuajia
+種茶 / 种茶	zhong cha
 種草	zhongcao
 種質資源 / 种质资源	zhongzhi ziyuan
 種類	zhonglei
 種馬	zhongma
+稱兄道弟	chengxiongdaodi
+稱兄道弟 / 称兄道弟	chengxiongdaodi
 稱呼	chenghu
 稱孤	chenggu
 稱尊	chengzun
 稱帝	chengdi
+稱帝 / 称帝	chengdi
 稱引	chengyin
 稱得上	chengdeshang
 稱心	chenxin
@@ -94359,6 +94969,7 @@ while 病歷	bingli
 稱雄	chengxiong
 稱霸	chengba
 稱頌	chengsong
+稱頌 / 称颂	chengsong
 稳	wen
 稳住	wenzhu
 稳便	wenbian
@@ -94373,6 +94984,7 @@ while 病歷	bingli
 稳态	wentai
 稳扎稳打	wenzhawenda
 稳操胜券	wencaoshengquan
+稳赚不赔	wenzhuanbupei
 稳重	wenzhong
 稳阵	wan zan
 稻	dao
@@ -94474,6 +95086,7 @@ while 病歷	bingli
 積蓄	jixu
 積遜	jixun
 積重難返	jizhongnanfan
+積陰德 / 积阴德	ji yinde
 積雨雲	jiyuyun
 積雪	jixue
 積雪草	jixuecao
@@ -94510,6 +95123,7 @@ while 病歷	bingli
 穩操勝券	wencaoshengquan
 穩當	wendang
 穩紮穩打	wenzhawenda
+穩賺不賠	wenzhuanbupei
 穩重	wenzhong
 穩陣	wan zan
 穰	rang
@@ -94659,6 +95273,7 @@ while 病歷	bingli
 空白	kongbai
 空白点	kongbaidian
 空白點	kongbaidian
+空穴	kongxue
 空穴來風	kongxuelaifeng
 空穴来风	kongxuelaifeng
 空空如也	kongkongruye
@@ -94724,10 +95339,12 @@ while 病歷	bingli
 空間科學	kongjian kexue
 空間站	kongjianzhan
 空間群	kongjianqun
+空間複雜度	kongjian fuzadu
 空闊	kongkuo
 空闲	kongxian
 空间	kongjian
 空间主义	kongjianzhuyi
+空间复杂度	kongjian fuzadu
 空间实验室	kongjian shiyanshi
 空间技术	kongjian jishu
 空间探测器	kongjian tanceqi
@@ -94759,6 +95376,7 @@ while 病歷	bingli
 穿凿	chuanzao
 穿凿附会	chuanzaofuhui
 穿刺	chuanci
+穿堂	chuantang
 穿孔	chuankong
 穿孝	chuanxiao
 穿小鞋	chuan xiaoxie
@@ -94768,6 +95386,7 @@ while 病歷	bingli
 穿幫	chuanbang
 穿心莲	chuanxinlian
 穿心蓮	chuanxinlian
+穿心蓮 / 穿心莲	chuanxinlian
 穿戴	chuandai
 穿插	chhengchhah
 穿插	chuancha
@@ -95241,6 +95860,7 @@ while 病歷	bingli
 章鱼	zhangyu
 章鱼烧	zhangyushao
 竣工	jungong
+童便	tongbian
 童党	tongdang
 童养媳	tongyangxi
 童军	tongjun
@@ -95264,6 +95884,7 @@ while 病歷	bingli
 童牛角馬	tong niu jue ma
 童牛角马	tong niu jue ma
 童生	tongsheng
+童男童女	tongnantongnu
 童真	tongzhen
 童稚	tongzhi
 童童	tongtong
@@ -95474,6 +96095,7 @@ while 病歷	bingli
 笋	sun
 笋子	sunzi
 笋干	sungan
+笋粿	sunguo
 笏	hu
 笑剧	xiaoju
 笑劇	xiaoju
@@ -95802,6 +96424,7 @@ while 病歷	bingli
 筆資	bizi
 筆走龍蛇	bizoulongshe
 筆跡	biji
+筆跡 / 笔迹	biji
 筆路	bilu
 筆鉛	biqian
 筆鋒	bifeng
@@ -95850,6 +96473,8 @@ while 病歷	bingli
 等比中项	dengbi zhongxiang
 等比数列	dengbi shulie
 等比數列	dengbi shulie
+等温线	dengwenxian
+等溫線	dengwenxian
 等离子体	dengliziti
 等等	dengdeng
 等級	dengji
@@ -95887,6 +96512,7 @@ while 病歷	bingli
 筍	sun
 筍乾	sungan
 筍子	sunzi
+筍粿	sunguo
 筏子	fazi
 筐	kuang
 筐子	kuangzi
@@ -96335,6 +96961,7 @@ while 病歷	bingli
 篩骨	shaigu
 篮协	lanxie
 篮圈	lanquan
+篮坛	lantan
 篮子	lanzi
 篮板球	lanbanqiu
 篮框	lankuang
@@ -96478,6 +97105,7 @@ while 病歷	bingli
 籀書	zhoushu
 籃協	lanxie
 籃圈	lanquan
+籃壇	lantan
 籃子	lanzi
 籃板球	lanbanqiu
 籃框	lankuang
@@ -96615,8 +97243,6 @@ while 病歷	bingli
 籿	cun
 粀	zhang
 粁	qian
-粄条	bantiao
-粄條	bantiao
 粉	fen
 粉专	fenzhuan
 粉丝	fan si fen si
@@ -96776,12 +97402,14 @@ while 病歷	bingli
 粤东	yuedong
 粤剧	yueju
 粤北	yuebei
+粤匪	yuefei
 粤拼	yuepin
 粤教中	yuejiaozhong
 粤方言	yuefangyan
 粤曲	yuequ
 粤江	yuejiang
 粤海	yuehai
+粤省	yuesheng
 粤胡	yuehu
 粤菜	yuecai
 粤西	yuexi
@@ -96829,6 +97457,7 @@ while 病歷	bingli
 粳米	jingmi
 粵劇	yueju
 粵北	yuebei
+粵匪	yuefei
 粵拼	yuepin
 粵教中	yuejiaozhong
 粵方言	yuefangyan
@@ -96836,6 +97465,7 @@ while 病歷	bingli
 粵東	yuedong
 粵江	yuejiang
 粵海	yuehai
+粵省	yuesheng
 粵胡	yuehu
 粵菜	yuecai
 粵西	yuexi
@@ -97138,6 +97768,7 @@ while 病歷	bingli
 糞門	fenmen
 糞青	fenqing
 糟坊	zaofang
+糟朽	zaoxiu
 糟粕	zaopo
 糟糕	zaogao
 糟糠	zaokang
@@ -97415,6 +98046,7 @@ while 病歷	bingli
 紅細胞	hongxibao
 紅絳絳	angkongkong
 紅綠燈	hongludeng
+紅綠色盲 / 红绿色盲	honglu semang
 紅線	hongxian
 紅肉	hongrou
 紅脖子	hongbozi
@@ -97509,6 +98141,7 @@ while 病歷	bingli
 紋章	wenzhang
 紋章學	wenzhangxue
 紋路	wenlu
+紋路 / 纹路	wenlu
 紋身	wenshen
 紋身 纹身	wenshen
 紋身藝術家	wenshen yishujia
@@ -97550,11 +98183,14 @@ while 病歷	bingli
 納鴻	nahong
 紐京	niujing
 紐修威	niuxiuwei
+紐元	niuyuan
 紐卡斯爾	niukasier
 紐卡素	niukasu
 紐奧良	niuaoliang
 紐威士緬士打	niu weishimianshida
 紐帶	niudai
+紐帶 / 纽带	niudai
+紐幣	niubi
 紐扣	niukou
 紐扣 / 纽扣	niukou
 紐澤西	niuzexi
@@ -97568,6 +98204,7 @@ while 病歷	bingli
 紐華克	niuhuake
 紐襻	niupan
 紐西蘭	niuxilan
+紐西蘭元	niuxilanyuan
 紐賓士域	niubinshiyu
 紓困	shukun
 紓解	shujie
@@ -97591,6 +98228,7 @@ while 病歷	bingli
 純情	chunqing
 純摯	chunzhi
 純文學	chunwenxue
+純文本	chunwenben
 純棉	chunmian
 純樸	chunpu
 純正	chunzheng
@@ -97657,6 +98295,7 @@ while 病歷	bingli
 紙牌卜卦	zhipai bugua
 紙牌占卜	zhipai zhanbu
 紙牌遊戲	zhipai youxi
+紙皮	zhipi
 紙盒	zhihe
 紙盤遊戲	zhipan youxi
 紙箱	zhixiang
@@ -97695,6 +98334,7 @@ while 病歷	bingli
 紛繁	fenfan
 紛至沓來	fenzhitalai
 紛雜	fenza
+素不往來 / 素不往来	su bu wanglai
 素不相識	subuxiangshi
 素不相识	subuxiangshi
 素人	suren
@@ -97725,6 +98365,7 @@ while 病歷	bingli
 素油	suyou
 素淡	sudan
 素淨	sujing
+素淨 / 素净	sujing
 素王	suwang
 素知	suzhi
 素色	suse
@@ -97732,6 +98373,7 @@ while 病歷	bingli
 素菜館	sucaiguan
 素菜馆	sucaiguan
 素質	suzhi
+素質 / 素质	suzhi
 素質差！ / 素质差！	suzhi cha
 素質教育	suzhi jiaoyu
 素质	suzhi
@@ -98023,7 +98665,9 @@ while 病歷	bingli
 紹介	shaojie
 紹興	shaoxing
 紹興酒	shaoxingjiu
+紹酒	shaojiu
 紺	gan
+終	zhong
 終久	zhongjiu
 終了	zhongliao
 終南山	zhongnan shan
@@ -98140,6 +98784,7 @@ while 病歷	bingli
 結末	jiemo
 結束	jieshu
 結束 / 结束	jieshu
+結束學習	jieshu xuexi
 結束語	jieshuyu
 結果	jieguo
 結果 / 结果	jieguo
@@ -98309,6 +98954,7 @@ while 病歷	bingli
 給予 / 给予	jiyu
 給予財政資助 / 给予财政资助	jiyu caizheng zizhu
 給他一個驚喜 / 给他一个惊喜	gei ta yi ge jingxi
+給他留面子 / 给他留面子	gei ta liu mianzi
 給付	jifu
 給以	geiyi
 給你一個吻 / 给你一个吻	gei ni yige wen
@@ -98433,6 +99079,7 @@ while 病歷	bingli
 經典力學	jingdian lixue
 經典版 / 经典版	jingdian ban
 經典老歌 / 经典老歌	jingdian laoge
+經卷	jingjuan
 經受	jingshou
 經史子集	jingshiziji
 經合組織	jinghe zuzhi
@@ -98672,6 +99319,7 @@ while 病歷	bingli
 維生	weisheng
 維生工資	weisheng gongzi
 維生素	weishengsu
+維生素 / 维生素	weishengsu
 維生素D	weishengsudi
 維管束	weiguanshu
 維納斯	weinasi
@@ -98704,9 +99352,11 @@ while 病歷	bingli
 網市	wangshi
 網店	wangdian
 網文	wangwen
+網暴	wangbao
 網格	wangge
 網格 / 网格	wangge
 網民	wangmin
+網爆	wangbao
 網狀細胞	wangzhuang xibao
 網狀結構	wangzhuang jiegou
 網狀網絡	wangzhuang wangluo
@@ -99042,8 +99692,10 @@ while 病歷	bingli
 縣令	xianling
 縣份	xianfen
 縣城	xiancheng
+縣境	xianjing
 縣太爺	xiantaiye
 縣官	xianguan
+縣宰 / 县宰	xianzai
 縣尉	xianwei
 縣府	xianfu
 縣志	xianzhi
@@ -99065,6 +99717,7 @@ while 病歷	bingli
 縫縫補補	fengfengbubu
 縫補	fengbu
 縫製	fengzhi
+縫製 / 缝制	fengzhi
 縫隙	fengxi
 縮	suo
 縮印	suoyin
@@ -99155,6 +99808,7 @@ while 病歷	bingli
 總攬	zonglan
 總數	zongshu
 總是	zongshi
+總書記	zongshuji
 總會	zonghui
 總有一天 / 总有一天	zong you yitian
 總機	zongji
@@ -99246,6 +99900,7 @@ while 病歷	bingli
 繁體	fanti
 繁體中文	fanti zhongwen
 繁體字	fantizi
+繃	beng
 繃不住	bengbuzhu
 繃場面	beng changmian
 繃子	bengzi
@@ -99320,6 +99975,7 @@ while 病歷	bingli
 繳稅	jiaoshui
 繳納	jiaona
 繳費	jiaofei
+繳費憑條 / 缴费凭条	jiaofei pingtiao
 繳費窗口 / 缴费窗口	jiaofei chuangkou
 繳還	jiaohuan
 繼任	jiren
@@ -99721,6 +100377,7 @@ while 病歷	bingli
 纯情	chunqing
 纯挚	chunzhi
 纯文学	chunwenxue
+纯文本	chunwenben
 纯朴	chunpu
 纯棉	chunmian
 纯正	chunzheng
@@ -99873,6 +100530,7 @@ while 病歷	bingli
 纸牌卜卦	zhipai bugua
 纸牌占卜	zhipai zhanbu
 纸牌游戏	zhipai youxi
+纸皮	zhipi
 纸盒	zhihe
 纸盘游戏	zhipan youxi
 纸箱	zhixiang
@@ -99919,12 +100577,14 @@ while 病歷	bingli
 纽丝纶	niusilun
 纽京	niujing
 纽修威	niuxiuwei
+纽元	niuyuan
 纽华克	niuhuake
 纽卡斯尔	niukasier
 纽卡素	niukasu
 纽奥良	niuaoliang
 纽威士缅士打	niu weishimianshida
 纽宾士域	niubinshiyu
+纽币	niubi
 纽带	niudai
 纽扣	niukou
 纽泽西	niuzexi
@@ -99935,6 +100595,7 @@ while 病歷	bingli
 纽英伦	niuyinglun
 纽襻	niupan
 纽西兰	niuxilan
+纽西兰元	niuxilanyuan
 纾困	shukun
 纾解	shujie
 线	xian
@@ -100105,6 +100766,7 @@ while 病歷	bingli
 织物柔软剂	zhiwu rouruanji
 织补	zhibu
 织锦	zhijin
+终	zhong
 终久	zhongjiu
 终了	zhongliao
 终于	zhongyu
@@ -100151,6 +100813,7 @@ while 病歷	bingli
 绍介	shaojie
 绍兴	shaoxing
 绍兴酒	shaoxingjiu
+绍酒	shaojiu
 经不起	jingbuqi
 经世	jingshi
 经世济民	jingshijimin
@@ -100162,6 +100825,7 @@ while 病歷	bingli
 经典	jingdian
 经典力学	jingdian lixue
 经办	jingban
+经卷	jingjuan
 经历	jingli
 经受	jingshou
 经史子集	jingshiziji
@@ -100315,6 +100979,7 @@ while 病歷	bingli
 结晶水	jiejingshui
 结末	jiemo
 结束	jieshu
+结束学习	jieshu xuexi
 结束语	jieshuyu
 结构	jiegou
 结构主义	jiegouzhuyi
@@ -100659,6 +101324,7 @@ while 病歷	bingli
 绵长	mianchang
 绵阳	mianyang
 绶带	shoudai
+绷	beng
 绷不住	bengbuzhu
 绷场面	beng changmian
 绷子	bengzi
@@ -101011,8 +101677,10 @@ while 病歷	bingli
 网开一面	wangkaiyimian
 网志	wangzhi
 网文	wangwen
+网暴	wangbao
 网格	wangge
 网民	wangmin
+网爆	wangbao
 网状细胞	wangzhuang xibao
 网状结构	wangzhuang jiegou
 网状网络	wangzhuang wangluo
@@ -101251,6 +101919,7 @@ while 病歷	bingli
 罷兵	babing
 罷官	baguan
 罷工	bagong
+罷工 / 罢工	bagong
 罷市	bashi
 罷戰	bazhan
 罷手	bashou
@@ -101275,6 +101944,7 @@ while 病歷	bingli
 羁绊	jiban
 羅克斯普林	luokesipulin
 羅列	luolie
+羅列 / 罗列	luolie
 羅剎	luocha
 羅勒	luole
 羅圈	luoquan
@@ -101873,6 +102543,7 @@ while 病歷	bingli
 翌日	yiri
 習主席 / 习主席	xi zhuxi
 習以為常	xiyiweichang
+習以為常 / 习以为常	xiyiweichang
 習作	xizuo
 習俗	xisu
 習包子	xi baozi
@@ -101886,10 +102557,12 @@ while 病歷	bingli
 習慣法	xiguanfa
 習慣用語	xiguan yongyu
 習武	xiwu
+習武 / 习武	xiwu
 習氣	xiqi
 習用	xiyong
 習習	xixi
 習見	xijian
+習見 / 习见	xijian
 習近平 / 习近平	xi jinping
 習非成是	xifeichengshi
 習題	xiti
@@ -102075,6 +102748,7 @@ while 病歷	bingli
 老中医	laozhongyi
 老中醫	laozhongyi
 老中醫 / 老中医	laozhongyi
+老中青	laozhongqing
 老么	laoyao
 老乡	laoxiang
 老乾媽	laoganma
@@ -102226,10 +102900,8 @@ while 病歷	bingli
 老山東 / 老山东	laoshandong
 老布什	lao bushi
 老师	laoshi
-老师们	laoshimen
 老師	laoshi
 老師 / 老师	laoshi
-老師們	laoshimen
 老師好 / 老师好	laoshi hao
 老師早！ / 老师早！	laoshi zao
 老干妈	laoganma
@@ -102719,7 +103391,6 @@ while 病歷	bingli
 耳穴	erxue
 耳空	hinkhang
 耳空重	hinkhangtang
-耳筒	ertong
 耳罩	erzhao
 耳聋	erlong
 耳聞	erwen
@@ -102898,6 +103569,7 @@ while 病歷	bingli
 联共	liangong
 联共（布）	liangong bu
 联军	lianjun
+联句	lianju
 联合	lianhe
 联合体	lianheti
 联合国	lianheguo
@@ -103087,7 +103759,6 @@ while 病歷	bingli
 聚斂	julian
 聚星	juxing
 聚會	juhui
-聚會 / 聚会	juhui
 聚氯乙烯	juluyixi
 聚沙成塔	jushachengta
 聚焦	jujiao
@@ -103138,6 +103809,7 @@ while 病歷	bingli
 聪颖	congying
 聯共	liangong
 聯共（布）	liangong bu
+聯句	lianju
 聯合	lianhe
 聯合國	lianheguo
 聯合國大會	lianheguo dahui
@@ -103422,6 +104094,7 @@ while 病歷	bingli
 肇事	zhaoshi
 肇事者	zhaoshizhe
 肇事逃逸	zhaoshi taoyi
+肇因	zhaoyin
 肇基	zhaoji
 肇始	zhaoshi
 肇庆	zhaoqing
@@ -103973,6 +104646,8 @@ while 病歷	bingli
 胃液	weiye
 胃溃疡	weikuiyang
 胃潰瘍	weikuiyang
+胃灼热	weizhuore
+胃灼熱	weizhuore
 胃炎	weiyan
 胃病	weibing
 胃痉挛	weijingluan
@@ -104067,6 +104742,7 @@ while 病歷	bingli
 背弃	beiqi
 背影	beiying
 背後	beihou
+背後 / 背后	beihou
 背後的故事 / 背后的故事	beihou de gushi
 背後的目的 / 背后的目的	beihou de mudi
 背心	beixin
@@ -104128,6 +104804,7 @@ while 病歷	bingli
 背阔肌	beikuoji
 背阴	beiyin
 背陰	beiyin
+背陰 / 背阴	beiyin
 背離	beili
 背静	beijing
 背靜	beijing
@@ -104732,7 +105409,6 @@ while 病歷	bingli
 脚气	kiokhi
 脚气病	jiaoqibing
 脚注	jiaozhu
-脚湿气	wenzhounese
 脚炉	jiaolu
 脚瓜	goek gwaa
 脚癣	jiaoxuan
@@ -104745,7 +105421,6 @@ while 病歷	bingli
 脚膝腕	huizhou
 脚船	jiaochuan
 脚色	juese
-脚蚀	muping
 脚费	xinzhou
 脚趾	jiaozhi
 脚趾头	jiaozhitou
@@ -104778,6 +105453,7 @@ while 病歷	bingli
 脫位	tuowei
 脫俗	tuosu
 脫光	tuoguang
+脫光光	tuoguangguang
 脫北者	tuobeizhe
 脫去 / 脱去	tuoqu
 脫口	tuokou
@@ -104845,6 +105521,7 @@ while 病歷	bingli
 脱位	tuowei
 脱俗	tuosu
 脱光	tuoguang
+脱光光	tuoguangguang
 脱北者	tuobeizhe
 脱单	tuodan
 脱发	tuofa
@@ -105212,7 +105889,6 @@ while 病歷	bingli
 腳氣	jiaoqi
 腳氣	kiokhi
 腳氣病	jiaoqibing
-腳濕氣	wenzhounese
 腳爐	jiaolu
 腳瓜	goek gwaa
 腳癬	jiaoxuan
@@ -105225,7 +105901,6 @@ while 病歷	bingli
 腳膝腕	huizhou
 腳船	jiaochuan
 腳色	juese
-腳蝕	muping
 腳註	jiaozhu
 腳費	xinzhou
 腳趾	jiaozhi
@@ -105735,6 +106410,7 @@ while 病歷	bingli
 自供	zigong
 自供状	zigongzhuang
 自供狀	zigongzhuang
+自保	zibao
 自信	zixin
 自信心	zixinxin
 自信豁達 / 自信豁达	zixin huoda
@@ -105777,6 +106453,7 @@ while 病歷	bingli
 自动提款机	zidong tikuanji
 自动柜员机	zidong guiyuanji
 自动楼梯	zidong louti
+自动步枪	zidong buqiang
 自动词	zidongci
 自动贩卖机	zidong fanmaiji
 自动车	chutongchhia
@@ -105812,6 +106489,7 @@ while 病歷	bingli
 自動樓梯	zidong louti
 自動檢票機 / 自动检票机	zidong jianpiaoji
 自動櫃員機	zidong guiyuanji
+自動步槍	zidong buqiang
 自動步行道 / 自动步行道	zidong buxingdao
 自動沖洗 / 自动冲洗	zidong chongxi
 自動詞	zidongci
@@ -106101,6 +106779,7 @@ while 病歷	bingli
 自由島	ziyoudao
 自由市场	ziyou shichang
 自由市場	ziyou shichang
+自由度	ziyoudu
 自由意志	ziyou yizhi
 自由意志主义	ziyouyizhizhuyi
 自由意志主義	ziyouyizhizhuyi
@@ -106110,6 +106789,7 @@ while 病歷	bingli
 自由战士	ziyou zhanshi
 自由戰士	ziyou zhanshi
 自由投票	ziyou toupiao
+自由插畫師 / 自由插画师	ziyou chahuashi
 自由操	ziyoucao
 自由放任	ziyoufangren
 自由文化	ziyou wenhua
@@ -106218,6 +106898,7 @@ while 病歷	bingli
 自衛隊 / 自卫队	ziweidui
 自裁	zicai
 自製	zizhi
+自製 / 自制	zizhi
 自西徂東 / 自西徂东	zi xi cu dong
 自視	zishi
 自覺	zijue
@@ -106359,6 +107040,7 @@ while 病歷	bingli
 至急	zhiji
 至情	zhiqing
 至於	zhiyu
+至於 / 至于	zhiyu
 至於嗎	zhiyu ma
 至日	zhiri
 至极	zhiji
@@ -106385,6 +107067,7 @@ while 病歷	bingli
 致使	zhishi
 致冷	zhileng
 致力	zhili
+致力於創新 / 致力于创新	zhili yu chuangxin
 致命	zhiming
 致命伤	zhimingshang
 致命傷	zhimingshang
@@ -106464,6 +107147,7 @@ while 病歷	bingli
 臺獨史觀 / 台独史观	taidu shiguan
 臺甫	taifu
 臺甫 / 台甫	taifu
+臺窩灣	taiwowan
 臺胞	taibao
 臺胞證	taibaozheng
 臺西	taixi
@@ -106660,6 +107344,7 @@ while 病歷	bingli
 舊社會	jiushehui
 舊稱	jiucheng
 舊約	jiuyue
+舊約全書	jiuyue quanshu
 舊約聖經	jiuyue shengjing
 舊縣	jiuxian
 舊聞	jiuwen
@@ -106711,6 +107396,7 @@ while 病歷	bingli
 舌面	shemian
 舌音	sheyin
 舌頭	shetou
+舌頭發麻 / 舌头发麻	shetou fama
 舌骨	shegu
 舍下	shexia
 舍不得	shebude
@@ -106762,6 +107448,7 @@ while 病歷	bingli
 舒適	shushi
 舒適區	shushiqu
 舒適圈	shushiquan
+舔狗	tiangou
 舜华	shunhua
 舜華	shunhua
 舜陵	shunling
@@ -106797,9 +107484,11 @@ while 病歷	bingli
 舞狮	wushi
 舞狮子	wushizi
 舞獅	wushi
+舞獅 / 舞狮	wushi
 舞獅子	wushizi
 舞者	wuzhe
 舞臺	wutai
+舞臺 / 舞台	wutai
 舞臺劇	wutaiju
 舞臺美術	wutai meishu
 舞艺	wuyi
@@ -107298,6 +107987,7 @@ while 病歷	bingli
 芝士堡	zhishibao
 芝士蛋糕	zhishi dangao
 芝罘	zhifu
+芝草	zhicao
 芝麻	zhima
 芝麻官	zhimaguan
 芝麻油	zhimayou
@@ -107392,6 +108082,7 @@ while 病歷	bingli
 花东纵谷	huadong zonggu
 花丝	huasi
 花会	huahui
+花体	huati
 花侨	huaqiao
 花俏	huaqiao
 花僑	huaqiao
@@ -107519,8 +108210,10 @@ while 病歷	bingli
 花環	huahuan
 花瓣	huaban
 花瓶	huaping
+花瓶党	huapingdang
 花瓶屿	huapingyu
 花瓶嶼	huapingyu
+花瓶黨	huapingdang
 花生仁	huashengren
 花生四烯酸	huashengsixisuan
 花生奶	huashengnai
@@ -107587,6 +108280,7 @@ while 病歷	bingli
 花言巧語	huayanqiaoyu
 花言巧语	huayanqiaoyu
 花語	huayu
+花謝了。 / 花谢了。	hua xie le
 花语	huayu
 花費	huafei
 花费	huafei
@@ -107619,6 +108313,7 @@ while 病歷	bingli
 花飾	huashi
 花饰	huashi
 花香	huaxiang
+花體	huati
 花魁	huakui
 花魚湖	huayuhu
 花鰱	hualian
@@ -107783,6 +108478,7 @@ while 病歷	bingli
 苔麩	taifu
 苔麸	taifu
 苕子	tiaozi
+苗	miao
 苗圃	miaopu
 苗头	miaotou
 苗子	miaozi
@@ -107866,9 +108562,11 @@ while 病歷	bingli
 若隐若现	ruoyinruoxian
 若隱若現	ruoyinruoxian
 若非	ruofei
+苦	ku
 苦不堪言	kubukanyan
 苦中作乐	kuzhongzuole
 苦中作樂	kuzhongzuole
+苦于	kuyu
 苦刑	kuxing
 苦力	kuli
 苦劝	kuquan
@@ -107899,6 +108597,7 @@ while 病歷	bingli
 苦惱	kunao
 苦战	kuzhan
 苦戰	kuzhan
+苦於	kuyu
 苦旱	kuhan
 苦杏仁	kuxingren
 苦果	kuguo
@@ -108360,6 +109059,7 @@ while 病歷	bingli
 草堆	caodui
 草場	caochang
 草墊子	caodianzi
+草头黄	caotouhuang
 草寇	caokou
 草屋	caowu
 草履虫	caoluchong
@@ -108443,9 +109143,11 @@ while 病歷	bingli
 草醯乙酸	caoxiyisuan
 草里	caoli
 草野	caoye
+草金魚 / 草金鱼	caojinyu
 草问荆	cao wen jing
 草雞	caoji
 草鞋	caoxie
+草頭黃	caotouhuang
 草食	caoshi
 草食动物	caoshi dongwu
 草食動物	caoshi dongwu
@@ -108524,6 +109226,7 @@ while 病歷	bingli
 荞麦面条	qiaomai miantiao
 荟萃	huicui
 荠菜	jicai
+荡	dang
 荡妇	dangfu
 荡平	dangping
 荡漾	dangyang
@@ -108601,6 +109304,7 @@ while 病歷	bingli
 药方儿	yaofangr
 药末	yaomo
 药材	yaocai
+药材铺	yaocaipu
 药柜	yaogui
 药检	yaojian
 药水	yaoshui
@@ -108763,6 +109467,7 @@ while 病歷	bingli
 莫大	moda
 莫大的鼓勵 / 莫大的鼓励	moda de guli
 莫如	moru
+莫差特	mochate
 莫希托	moxituo
 莫干山	mogan shan
 莫当	modang
@@ -108785,6 +109490,7 @@ while 病歷	bingli
 莫衷一是	mozhongyishi
 莫过于	moguoyu
 莫逆	moni
+莫逆之交	monizhijiao
 莫過於	moguoyu
 莫邪	moye
 莫非	mofei
@@ -108849,6 +109555,7 @@ while 病歷	bingli
 获益	huoyi
 获益匪浅	huoyifeiqian
 获益良多	huoyiliangduo
+获知	huozhi
 获罪	huozui
 获聘	huopin
 获胜	huosheng
@@ -108945,6 +109652,7 @@ while 病歷	bingli
 菜販子	caifanzi
 菜贩子	caifanzi
 菜農	cainong
+菜農 / 菜农	cainong
 菜頭	caitou
 菜餚	caiyao
 菜館	caiguan
@@ -109201,6 +109909,7 @@ while 病歷	bingli
 萧墙	xiaoqiang
 萧山	xiaoshan
 萧条	xiaotiao
+萧洒	xiaosa
 萧瑟	xiaose
 萧疏	xiaoshu
 萧索	xiaosuo
@@ -109243,6 +109952,7 @@ while 病歷	bingli
 萬一	wanyi
 萬丈	wanzhang
 萬不得已	wanbudeyi
+萬不得已 / 万不得已	wanbudeyi
 萬世	wanshi
 萬中無一	wanzhongwuyi
 萬丹	wandan
@@ -109299,6 +110009,7 @@ while 病歷	bingli
 萬州	wanzhou
 萬年	wannian
 萬年曆	wannianli
+萬年油	wannianyou
 萬幸	wanxing
 萬幾	wanji
 萬店	wandian
@@ -109323,6 +110034,7 @@ while 病歷	bingli
 萬用	wanyong
 萬用錶	wanyongbiao
 萬眾一心	wanzhongyixin
+萬眾一心 / 万众一心	wanzhongyixin
 萬福	wanfu
 萬福店	wanfudian
 萬端	wanduan
@@ -109449,8 +110161,11 @@ while 病歷	bingli
 落第	luodi
 落筆	luobi
 落紅	luohong
+落紅 / 落红	luohong
+落紙	luozhi
 落網	luowang
 落红	luohong
+落纸	luozhi
 落网	luowang
 落胆	luodan
 落胎	luotai
@@ -109655,10 +110370,12 @@ while 病歷	bingli
 葫芦丝	hulusi
 葫芦儿	hulur
 葫芦岛	huludao
+葫芦瓶	huluping
 葫芦笙	hulusheng
 葫蘆	hulu
 葫蘆兒	hulur
 葫蘆島	huludao
+葫蘆瓶	huluping
 葫蘆笙	hulusheng
 葫蘆絲	hulusi
 葬仪	zangyi
@@ -109713,6 +110430,7 @@ while 病歷	bingli
 蒓菜	chuncai
 蒔蘿	shiluo
 蒙上	mengshang
+蒙东	mengdong
 蒙元	mengyuan
 蒙受	mengshou
 蒙受損失 / 蒙受损失	mengshou sunshi
@@ -109754,6 +110472,7 @@ while 病歷	bingli
 蒙昧	mengmei
 蒙昧主义	mengmeizhuyi
 蒙昧主義	mengmeizhuyi
+蒙東	mengdong
 蒙混	menghun
 蒙特內哥羅	mengteneigeluo
 蒙特内哥罗	mengteneigeluo
@@ -110127,6 +110846,7 @@ while 病歷	bingli
 蕓薹	yuntai
 蕨类	juelei
 蕨類	juelei
+蕩	dang
 蕩婦	dangfu
 蕩平	dangping
 蕩漾	dangyang
@@ -110140,6 +110860,7 @@ while 病歷	bingli
 蕪雜	wuza
 蕭山	xiaoshan
 蕭條	xiaotiao
+蕭灑	xiaosa
 蕭牆	xiaoqiang
 蕭瑟	xiaose
 蕭疏	xiaoshu
@@ -110517,6 +111238,7 @@ while 病歷	bingli
 藥方兒	yaofangr
 藥末	yaomo
 藥材	yaocai
+藥材鋪	yaocaipu
 藥檢	yaojian
 藥櫃	yaogui
 藥水	yaoshui
@@ -110703,6 +111425,7 @@ while 病歷	bingli
 蘿蔔糕	luobogao
 蘿蔔頭	luobotou
 虀粉	jifen
+虎	hu
 虎不拉	hubula
 虎井	hujing
 虎井蜜	hochinbit
@@ -110761,6 +111484,7 @@ while 病歷	bingli
 虎鑼	huluo
 虎钳	huqian
 虎锣	huluo
+虎門銷煙 / 虎门销烟	humen xiao yan
 虎頭蛇尾	hutoushewei
 虎頭蜂	hutoufeng
 虎頭鉗	hutouqian
@@ -111092,7 +111816,6 @@ while 病歷	bingli
 蚍蜉撼樹	pifuhanshu
 蚕丝	cansi
 蚕农	cannong
-蚕卵	canluan
 蚕子	canzi
 蚕宝宝	canbaobao
 蚕室刑	canshi xing
@@ -111109,7 +111832,6 @@ while 病歷	bingli
 蚕蚁	canyi
 蚕蛹	canyong
 蚕蛹油	canyongyou
-蚕蛾儿	jinhua wu
 蚕豆	candou
 蚕豆病	candoubing
 蚕豆症	candouzheng
@@ -111120,6 +111842,7 @@ while 病歷	bingli
 蚝油	haoyou
 蚝烙	haolao
 蚝煎	haojian
+蚝田	haotian
 蚝菇	haogu
 蚝豉	haochi
 蚣蝑	zhongxu
@@ -111154,6 +111877,7 @@ while 病歷	bingli
 蛆虫疗法	quchong liaofa
 蛆蟲	quchong
 蛆蟲療法	quchong liaofa
+蛇	she
 蛇壳	huizhou
 蛇头	shetou
 蛇殼	huizhou
@@ -111188,9 +111912,11 @@ while 病歷	bingli
 蛋壳	danke
 蛋奶冻	dannaidong
 蛋奶凍	dannaidong
+蛋奶酒	dannaijiu
 蛋批	daan pai
 蛋挞	danta
 蛋撻	danta
+蛋散	dansan
 蛋殼	danke
 蛋殼 / 蛋壳	danke
 蛋浆	danjiang
@@ -111220,6 +111946,7 @@ while 病歷	bingli
 蛋花汤	danhuatang
 蛋花湯	danhuatang
 蛋花羹	danhuageng
+蛋酒	danjiu
 蛋雞	danji
 蛋餅	danbing
 蛋饼	danbing
@@ -111291,6 +112018,7 @@ while 病歷	bingli
 蛾绿	elu
 蜀汉	shu han
 蜀漢	shu han
+蜀犬吠日	shuquanfeiri
 蜀芹	shuqin
 蜀葵	shukui
 蜀道	shudao
@@ -111397,6 +112125,7 @@ while 病歷	bingli
 蜡烛线	lazhuxian
 蜡笔	labi
 蜡笔画	labihua
+蜡笺	lajian
 蜡纸	lazhi
 蜡蜂	lafeng
 蜡黄	lahuang
@@ -111714,6 +112443,7 @@ while 病歷	bingli
 蠔油	haoyou
 蠔烙	haolao
 蠔煎	haojian
+蠔田	haotian
 蠔菇	haogu
 蠔豉	haochi
 蠕动	rudong
@@ -111733,6 +112463,7 @@ while 病歷	bingli
 蠟燭線	lazhuxian
 蠟筆	labi
 蠟筆畫	labihua
+蠟箋	lajian
 蠟紙	lazhi
 蠟臺	latai
 蠟蜂	lafeng
@@ -111766,7 +112497,6 @@ while 病歷	bingli
 蠱術	gushu
 蠵龜	xigui
 蠵龟	xigui
-蠶卵	canluan
 蠶子	canzi
 蠶室刑	canshi xing
 蠶寶寶	canbaobao
@@ -111783,8 +112513,6 @@ while 病歷	bingli
 蠶蔟	cancu
 蠶蛹	canyong
 蠶蛹油	canyongyou
-蠶蛾兒	jinhua wu
-蠶蛾子／蚕蛾子	jinan nanjing
 蠶蟻	canyi
 蠶豆	candou
 蠶豆病	candoubing
@@ -111917,6 +112645,7 @@ while 病歷	bingli
 血玛丽	xuemali
 血球	xueqiu
 血瑪麗	xuemali
+血痂	xuejia
 血痕	xuehen
 血瘀	xueyu
 血石	xueshi
@@ -112272,6 +113001,7 @@ while 病歷	bingli
 街谈巷说	jietanxiangshuo
 街边	jiebian
 街道	jiedao
+街道兩邊 / 街道两边	jiedao liang bian
 街邊	jiebian
 街頭	jietou
 街頭小吃 / 街头小吃	jietou xiaochi
@@ -112305,6 +113035,7 @@ while 病歷	bingli
 衛滿朝鮮	wei man chaoxian
 衛理宗	weilizong
 衛生	hygienic
+衛生丸	weishengwan
 衛生保健	weisheng baojian
 衛生兒褲子	muping
 衛生套	weishengtao
@@ -112510,6 +113241,7 @@ while 病歷	bingli
 表扬	biaoyang
 表报	biaobao
 表揚	biaoyang
+表揚 / 表扬	biaoyang
 表文	biaowen
 表日本	biaoriben
 表明	biaoming
@@ -112600,6 +113332,7 @@ while 病歷	bingli
 衬里	chenli
 衰亡	shuaiwang
 衰变	shuaibian
+衰年	shuainian
 衰弱	shuairuo
 衰微	shuaiwei
 衰敗	shuaibai
@@ -112765,6 +113498,7 @@ while 病歷	bingli
 袭取	xiqu
 袯襫	boshi
 袼褙	gebei
+裁	cai
 裁人	cairen
 裁军	caijun
 裁决	caijue
@@ -112803,6 +113537,7 @@ while 病歷	bingli
 裁軍	caijun
 裁軍 / 裁军	caijun
 裁量	cailiang
+裂	lie
 裂变	liebian
 裂口	liekou
 裂开	liekai
@@ -113096,6 +113831,7 @@ while 病歷	bingli
 製藥	zhiyao
 製藥廠	zhiyaochang
 製造	zhizao
+製造 / 制造	zhizao
 製造商	zhizaoshang
 製造廠	zhizaochang
 製造恐慌 / 制造恐慌	zhizao konghuang
@@ -113152,6 +113888,7 @@ while 病歷	bingli
 複選框	fuxuankuang
 複雜	fuza
 複雜化	fuzahua
+複雜度	fuzadu
 複雜性	fuzaxing
 複鹽	fuyan
 褊急	bianji
@@ -113177,7 +113914,9 @@ while 病歷	bingli
 褒词	baoci
 褒貶	baobian
 褒貶人物 / 褒贬人物	baobian renwu
+褒賞	baoshang
 褒贬	baobian
+褒赏	baoshang
 褙子	beizi
 褡裢	dalian
 褡褳	dalian
@@ -113496,9 +114235,11 @@ while 病歷	bingli
 西貝柳斯	xibeiliusi
 西貝流士	xibeiliushi
 西貢	xigong
+西貢河	xigonghe
 西贝柳斯	xibeiliusi
 西贝流士	xibeiliushi
 西贡	xigong
+西贡河	xigonghe
 西赵湖	xizhaohu
 西趙湖	xizhaohu
 西边	xibian
@@ -113905,6 +114646,7 @@ while 病歷	bingli
 覺著	juezhe
 覺醒	juexing
 覺醒 / 觉醒	juexing
+覺青 / 觉青	jueqing
 覽古	langu
 覿面	dimian
 觀世音	guanshiyin
@@ -113957,6 +114699,7 @@ while 病歷	bingli
 觀音壋	guanyindang
 觀音大士	guanyin dashi
 觀音菩薩	guanyin pusa
+觀音誕	guanyindan
 觀鯨	guanjing
 觀鳥	guanniao
 觀點	guandian
@@ -114071,6 +114814,7 @@ while 病歷	bingli
 观音垱	guanyindang
 观音大士	guanyin dashi
 观音菩萨	guanyin pusa
+观音诞	guanyindan
 观鲸	guanjing
 观鸟	guanniao
 规	gui
@@ -114243,6 +114987,7 @@ while 病歷	bingli
 解家沖	xiejiachong
 解密	jiemi
 解小手	jie xiaoshou
+解廌	xiezhi
 解开	jiekai
 解忧	jieyou
 解恨	jiehen
@@ -115252,6 +115997,7 @@ while 病歷	bingli
 說和	shuohe
 說唱	shuochang
 說唱家	shuochangjia
+說嘴	shuozui
 說夢話	shuo menghua
 說大話	shuodahua
 說好	shuohao
@@ -115382,6 +116128,7 @@ while 病歷	bingli
 調查報告	diaocha baogao
 調查工作	diaocha gongzuo
 調查組	diaochazu
+調查者	diaochazhe
 調查表	diaochabiao
 調治	tiaozhi
 調派	diaopai
@@ -115467,6 +116214,7 @@ while 病歷	bingli
 請上車。 / 请上车。	qing shang che
 請人客	chhianlangkheh
 請仔細聽。 / 请仔细听。	qing zixi ting
+請你立刻離開。 / 请你立刻离开。	qing ni like likai
 請便	qingbian
 請假	qingjia
 請假條	qingjiatiao
@@ -115731,6 +116479,7 @@ while 病歷	bingli
 講習班	jiangxiban
 講耶穌	jiang yesu
 講臺	jiangtai
+講臺 / 讲台	jiangtai
 講英語 / 讲英语	jiang yingyu
 講衛生 / 讲卫生	jiang weisheng
 講解	jiangjie
@@ -115745,8 +116494,10 @@ while 病歷	bingli
 講題	jiangti
 謝不邀	xiebuyao
 謝世	xieshi
+謝世 / 谢世	xieshi
 謝別	xiebie
 謝天謝地	xietianxiedi
+謝天謝地 / 谢天谢地	xietianxiedi
 謝師宴	xieshiyan
 謝幕	xiemu
 謝忱	xiechen
@@ -115754,7 +116505,9 @@ while 病歷	bingli
 謝棚	xiepeng
 謝票	xiepiao
 謝絕	xiejue
+謝絕 / 谢绝	xiejue
 謝罪	xiezui
+謝罪 / 谢罪	xiezui
 謝謝	xiexie
 謝謝你提醒我。 / 谢谢你提醒我。	xiexie ni tixing wo
 謝謝你的好意！ / 谢谢你的好意！	xiexie ni de haoyi
@@ -115992,6 +116745,7 @@ while 病歷	bingli
 護目鏡 / 护目镜	humujing
 護短	huduan
 護符	hufu
+護脣膏	huchungao
 護腿	hutui
 護膚品	hufupin
 護膚霜	hufushuang
@@ -116040,18 +116794,21 @@ while 病歷	bingli
 變	bian
 變亂	bianluan
 變例	bianli
+變價	bianjia
 變分法	bianfenfa
 變動	biandong
 變化	bianhua
 變化多端	bianhuaduoduan
 變化莫測	bianhuamoce
 變卦	biangua
+變口	biankou
 變啥魍	pinsianbang
 變壓器	bianyaqi
 變壞	bianhuai
 變天	biantian
 變奏	bianzou
 變奏曲	bianzouqu
+變局	bianju
 變差	biancha
 變幻	bianhuan
 變幻莫測	bianhuanmoce
@@ -116060,6 +116817,7 @@ while 病歷	bingli
 變彎 / 变弯	bian wan
 變形	bianxing
 變形蟲	bianxingchong
+變形金剛	bianxing jingang
 變徵之音	bianzhizhiyin
 變心	bianxin
 變性	bianxing
@@ -116067,13 +116825,16 @@ while 病歷	bingli
 變性毒素	bianxing dusu
 變性者	bianxingzhe
 變態	biantai
+變態反應	biantai fanying
 變應原	bianyingyuan
 變應性	bianyingxing
 變成	biancheng
 變成岩	bianchengyan
+變戲法	bian xifa
 變換	bianhuan
 變故	biangu
 變數	bianshu
+變文	bianwen
 變易	bianyi
 變星	bianxing
 變更	biangeng
@@ -116081,7 +116842,9 @@ while 病歷	bingli
 變樣	bianyang
 變法	bianfa
 變法兒	bianfar
+變溫動物	bianwen dongwu
 變為	bianwei
+變生肘腋	bianshengzhouye
 變產	bianchan
 變異	bianyi
 變瘦	bianshou
@@ -116099,7 +116862,9 @@ while 病歷	bingli
 變胖	bianpang
 變臉	bianlian
 變色	bianse
+變色眼鏡	bianse yanjing
 變色蜥蜴	bianse xiyi
+變色鏡	biansejing
 變色龍	bianselong
 變裝	bianzhuang
 變裝皇后	bianzhuang huanghou
@@ -116108,10 +116873,12 @@ while 病歷	bingli
 變賣	bianmai
 變質	bianzhi
 變質岩	bianzhiyan
+變起蕭牆	bianqixiaoqiang
 變身	bianshen
 變通	biantong
 變速	biansu
 變速器	biansuqi
+變速運動	biansu yundong
 變道不打燈 / 变道不打灯	biandao bu dadeng
 變遷	bianqian
 變電站	biandianzhan
@@ -116148,6 +116915,7 @@ while 病歷	bingli
 讕言	lanyan
 讕言	slander
 讖緯	chenwei
+讚	zan
 讚不絕口	zanbujuekou
 讚嘆	zantan
 讚揚	zanyang
@@ -116999,6 +117767,7 @@ while 病歷	bingli
 说和	shuohe
 说唱	shuochang
 说唱家	shuochangjia
+说嘴	shuozui
 说大话	shuodahua
 说好	shuohao
 说媒	shuomei
@@ -117222,6 +117991,7 @@ while 病歷	bingli
 调查工作	diaocha gongzuo
 调查报告	diaocha baogao
 调查组	diaochazu
+调查者	diaochazhe
 调查表	diaochabiao
 调治	tiaozhi
 调派	diaopai
@@ -117608,7 +118378,6 @@ while 病歷	bingli
 象床	xiangchuang
 象形	xiangxing
 象形: pictogram	xiangxing
-象形字	xiangxingzi
 象形文字	xiangxing wenzi
 象征	xiangzheng
 象征主义	xiangzhengzhuyi
@@ -117947,6 +118716,7 @@ while 病歷	bingli
 貧困線	pinkunxian
 貧困陷阱	pinkun xianjing
 貧富	pinfu
+貧富不均 / 贫富不均	pinfu bujun
 貧富分化 / 贫富分化	pinfu fenhua
 貧富差距	pinfu chaju
 貧富差距 / 贫富差距	pinfu chaju
@@ -118109,6 +118879,7 @@ while 病歷	bingli
 貴體	guiti
 貶低	biandi
 貶值	bianzhi
+貶價	bianjia
 貶官	bianguan
 貶抑	bianyi
 貶損	biansun
@@ -118182,10 +118953,12 @@ while 病歷	bingli
 貼切	tieqie
 貼吧	tieba
 貼吧 / 贴吧	tieba
+貼對子 / 贴对子	tie duizi
 貼己	tieji
 貼心	tiexin
 貼息	tiexi
 貼換	tiehuan
+貼春聯 / 贴春联	tie chunlian
 貼紙	tiezhi
 貼補	tiebu
 貼身	tieshen
@@ -118343,6 +119116,7 @@ while 病歷	bingli
 賞罰	shangfa
 賞罰分明	shangfa fenming
 賞臉	shanglian
+賞臉 / 赏脸	shanglian
 賞花	shanghua
 賞識	shangshi
 賞賜	shangci
@@ -118938,6 +119712,7 @@ while 病歷	bingli
 贫铀	pinyou
 贬义	bianyi
 贬义词	bianyici
+贬价	bianjia
 贬低	biandi
 贬值	bianzhi
 贬官	bianguan
@@ -119526,6 +120301,7 @@ while 病歷	bingli
 走私	zousi
 走私貨	zousihuo
 走私货	zousihuo
+走穴	zouxue
 走紅	zouhong
 走红	zouhong
 走肉行尸	zourouxingshi
@@ -119584,6 +120360,7 @@ while 病歷	bingli
 赴死	fusi
 赴汤蹈火	futangdaohuo
 赴湯蹈火	futangdaohuo
+赴湯蹈火 / 赴汤蹈火	futangdaohuo
 赴約	fuyue
 赴约	fuyue
 赴难	funan
@@ -120011,6 +120788,7 @@ while 病歷	bingli
 趕早	ganzao
 趕時間	gan shijian
 趕時髦	gan shimao
+趕會 / 赶会	ganhui
 趕盡殺絕	ganjinshajue
 趕緊	ganjin
 趕緊把他拉開 / 赶紧把他拉开	ganjin ba ta lakai
@@ -120109,6 +120887,7 @@ while 病歷	bingli
 足跟	zugen
 足跟血	zugenxue
 足跡	zuji
+足跡 / 足迹	zuji
 足踝	zuhuai
 足迹	zuji
 足部	zubu
@@ -120431,6 +121210,7 @@ while 病歷	bingli
 路鞀	lutao
 路鼗	lutao
 跳	tiao
+跳一個舞 / 跳一个舞	tiao yige wu
 跳下深淵 / 跳下深渊	tiaoxia shenyuan
 跳井	tiaojing
 跳伞	tiaosan
@@ -120610,6 +121390,7 @@ while 病歷	bingli
 蹈袭	daoxi
 蹈袭故常	daoxiguchang
 蹈襲	daoxi
+蹈襲 / 蹈袭	daoxi
 蹈襲故常	daoxiguchang
 蹉跌	cuodie
 蹉跎	cuotuo
@@ -120629,6 +121410,7 @@ while 病歷	bingli
 蹣跼	panju
 蹤影	zongying
 蹤跡	zongji
+蹦	beng
 蹦儿	bengr
 蹦兒	bengr
 蹦床	bengchuang
@@ -120678,6 +121460,7 @@ while 病歷	bingli
 躁狂症	zaokuangzheng
 躁郁症	zaoyuzheng
 躁鬱症	zaoyuzheng
+躄踊	biyong
 躉售	dunshou
 躉批	dunpi
 躉船	dunchuan
@@ -120845,6 +121628,7 @@ while 病歷	bingli
 車公	chegong
 車前	cheqian
 車前子	cheqianzi
+車匠	chejiang
 車卡	cheka
 車厘子	chelizi
 車單	chhiatoan
@@ -120859,6 +121643,7 @@ while 病歷	bingli
 車家店	chejiadian
 車尾	chewei
 車工	chegong
+車帶	chedai
 車幫	chebang
 車床	chechuang
 車庫	cheku
@@ -121273,6 +122058,7 @@ while 病歷	bingli
 輪埠	lunbu
 輪姦	lunjian
 輪子	lunzi
+輪帶	lundai
 輪廓	lunkuo
 輪換	lunhuan
 輪暴	lunbao
@@ -121402,7 +122188,7 @@ while 病歷	bingli
 轉法輪	zhuan falun
 轉注	zhuanzhu
 轉燈	zhuandeng
-轉瓶子	zhuanpingzi
+轉瓶子	zhuan pingzi
 轉生	zhuansheng
 轉發	zhuanfa
 轉盤	zhuanpan
@@ -121476,6 +122262,7 @@ while 病歷	bingli
 车况	chekuang
 车前	cheqian
 车前子	cheqianzi
+车匠	chejiang
 车单	chhiatoan
 车卡	cheka
 车厂	chechang
@@ -121493,6 +122280,7 @@ while 病歷	bingli
 车尘	chechen
 车尾	chewei
 车工	chegong
+车带	chedai
 车帮	chebang
 车床	chechuang
 车库	cheku
@@ -121636,7 +122424,7 @@ while 病歷	bingli
 转法轮	zhuan falun
 转注	zhuanzhu
 转灯	zhuandeng
-转瓶子	zhuanpingzi
+转瓶子	zhuan pingzi
 转生	zhuansheng
 转盘	zhuanpan
 转眼	zhuanyan
@@ -121683,6 +122471,7 @@ while 病歷	bingli
 轮埠	lunbu
 轮奸	lunjian
 轮子	lunzi
+轮带	lundai
 轮廓	lunkuo
 轮换	lunhuan
 轮暴	lunbao
@@ -121972,6 +122761,7 @@ while 病歷	bingli
 辞呈	cicheng
 辞官	ciguan
 辞旧迎新	cijiuyingxin
+辞林	cilin
 辞气	ciqi
 辞海	cihai
 辞源	ciyuan
@@ -122085,6 +122875,7 @@ while 病歷	bingli
 辭書	cishu
 辭書 / 辞书	cishu
 辭書學	cishuxue
+辭林	cilin
 辭氣	ciqi
 辭海	cihai
 辭源	ciyuan
@@ -122219,6 +123010,7 @@ while 病歷	bingli
 边塞	biansai
 边塞诗	biansaishi
 边境	bianjing
+边境牧羊犬	bianjing muyangquan
 边境贸易	bianjing maoyi
 边头	biantou
 边寨	bianzhai
@@ -122444,6 +123236,7 @@ while 病歷	bingli
 过言	guoyan
 过誉	guoyu
 过访	guofang
+过话	guohua
 过谦	guoqian
 过路	guolu
 过路人	guoluren
@@ -122726,6 +123519,7 @@ while 病歷	bingli
 进发	jinfa
 进取	jinqu
 进口	jinkou
+进口商	jinkoushang
 进口税	jinkoushui
 进口货	jinkouhuo
 进口量	jinkouliang
@@ -122905,6 +123699,7 @@ while 病歷	bingli
 连续体	lianxuti
 连续剧	lianxuju
 连续变调	lianxu biantiao
+连续性	lianxuxing
 连续统	lianxutong
 连绵	lianmian
 连绵不断	lianmianbuduan
@@ -123031,6 +123826,7 @@ while 病歷	bingli
 迳启者	jingqizhe
 迳直	jingzhi
 迳自	jingzi
+迴光返照	huiguangfanzhao
 迴圈經濟	huiquan jingji
 迴廊	huilang
 迴形針	huixingzhen
@@ -123211,6 +124007,7 @@ while 病歷	bingli
 退化	tuihua
 退却	tuique
 退卻	tuique
+退卻 / 退却	tuique
 退后	tuihou
 退回	tuihui
 退团	tuituan
@@ -123487,6 +124284,7 @@ while 病歷	bingli
 选美	xuanmei
 选词	xuanci
 选读	xuandu
+选课	xuanke
 选调	xuandiao
 选贤与能	xuanxianyuneng
 选购	xuangou
@@ -123507,6 +124305,7 @@ while 病歷	bingli
 透你媽！ / 透你妈！	tou ni ma
 透光	touguang
 透写纸	touxiezhi
+透地雨	toudiyu
 透天厝	toutiancuo
 透寫紙	touxiezhi
 透平机	toupingji
@@ -123651,12 +124450,11 @@ while 病歷	bingli
 這樣做不行。 / 这样做不行。	zheyang zuo buxing
 這樣大丈夫？ / 这样大丈夫？	zheyang dazhangfu
 這樣子	zheyangzi
-這樣才對嘛！ / 这样才对嘛！	zheyang cai dui ma
 這次	zheci
-這水果壞了。 / 这水果坏了。	zhe shuiguo huai le
 這的	zhede
 這等	zhedeng
 這般	zheban
+這蘋果壞了。 / 这苹果坏了。	zhe pingguo huai le
 這裡	zheli
 這裡 / 这里	zheli
 這說明什麼？ / 这说明什么？	zhe shuoming shenme
@@ -123905,6 +124703,7 @@ while 病歷	bingli
 通风器	tongfengqi
 通风报信	tongfengbaoxin
 通體	tongti
+逛廟會 / 逛庙会	guang miaohui
 逛窯子 / 逛窑子	guang yaozi
 逛荡	guangdang
 逛蕩	guangdang
@@ -123954,10 +124753,12 @@ while 病歷	bingli
 速食	sushi
 速食面	sushimian
 速食麵	sushimian
+造一臺手機 / 造一台手机	zao yi tai shouji
 造人	zaoren
 造价	zaojia
 造作	zaozuo
 造假	zaojia
+造假帳 / 造假帐	zao jiazhang
 造價	zaojia
 造势	zaoshi
 造势大会	zaoshidahui
@@ -123979,6 +124780,7 @@ while 病歷	bingli
 造影劑	zaoyingji
 造成	zaocheng
 造成後果 / 造成后果	zaocheng houguo
+造房子	zao fangzi
 造林	zaolin
 造林学	zaolinxue
 造林學	zaolinxue
@@ -124000,8 +124802,11 @@ while 病歷	bingli
 造血干细胞	zaoxue ganxibao
 造血幹細胞	zaoxue ganxibao
 造訪	zaofang
+造訪 / 造访	zaofang
 造詣	zaoyi
+造詣 / 造诣	zaoyi
 造謠	zaoyao
+造謠 / 造谣	zaoyao
 造謠惑眾	zaoyao huozhong
 造謠生事	zaoyaoshengshi
 造謠生非	zaoyaoshengfei
@@ -124011,6 +124816,7 @@ while 病歷	bingli
 造谣惑众	zaoyao huozhong
 造谣生事	zaoyaoshengshi
 造谣生非	zaoyaoshengfei
+造輿論 / 造舆论	zao yulun
 造馬	zaoma
 造马	zaoma
 逡巡	qunxun
@@ -124081,6 +124887,7 @@ while 病歷	bingli
 連續創業者 / 连续创业者	lianxu chuangyezhe
 連續劇	lianxuju
 連續彎路。 / 连续弯路。	lianxu wanlu
+連續性	lianxuxing
 連續統	lianxutong
 連續變調	lianxu biantiao
 連續體	lianxuti
@@ -124096,6 +124903,7 @@ while 病歷	bingli
 連襟	lianjin
 連襠褲	liandangku
 連詞	lianci
+連說帶比 / 连说带比	lian shuo dai bi
 連讀變調	liandu biantiao
 連貫	lianguan
 連貫性	lianguanxing
@@ -124128,6 +124936,7 @@ while 病歷	bingli
 週刊	zhoukan
 週四	zhousi
 週報	zhoubao
+週年慶	zhounianqing
 週日	zhouri
 週期	zhouqi
 週期函數	zhouqi hanshu
@@ -124165,6 +124974,7 @@ while 病歷	bingli
 進去	verbcomplement
 進取	jinqu
 進口	jinkou
+進口商	jinkoushang
 進口稅	jinkoushui
 進口貨	jinkouhuo
 進口量	jinkouliang
@@ -124553,6 +125363,7 @@ while 病歷	bingli
 過街老鼠	guojie laoshu
 過言	guoyan
 過訪	guofang
+過話	guohua
 過謙	guoqian
 過譽	guoyu
 過路	guolu
@@ -124749,6 +125560,7 @@ while 病歷	bingli
 違誤	weiwu
 違逆	weini
 遗世	yishi
+遗书	weishu
 遗书	yishu
 遗事	yishi
 遗产	yichan
@@ -125085,6 +125897,7 @@ while 病歷	bingli
 選舉文宣 / 选举文宣	xuanju wenxuan
 選舉權	xuanjuquan
 選詞	xuanci
+選課	xuanke
 選調	xuandiao
 選讀	xuandu
 選賢與能	xuanxianyuneng
@@ -125129,6 +125942,7 @@ while 病歷	bingli
 遺恨	yihen
 遺憾	yihan
 遺族	yizu
+遺書	weishu
 遺書	yishu
 遺棄	yiqi
 遺毒	yidu
@@ -125173,6 +125987,7 @@ while 病歷	bingli
 遼遠	liaoyuan
 遼遼	liaoliao
 遼闊	liaokuo
+遽然	juran
 避世	bishi
 避乱	biluan
 避亂	biluan
@@ -125216,6 +126031,7 @@ while 病歷	bingli
 避雷	bilei
 避雷器	bileiqi
 避雷針	bileizhen
+避雷針 / 避雷针	bileizhen
 避雷针	bileizhen
 避震	bizhen
 避震器	bizhenqi
@@ -125263,6 +126079,7 @@ while 病歷	bingli
 還嘴 / 还嘴	huanzui
 還報	huanbao
 還好	haihao
+還好不是x / 还好不是x	haihao bushi x
 還家 / 还家	huanjia
 還手	huanshou
 還手 / 还手	huanshou
@@ -125294,6 +126111,7 @@ while 病歷	bingli
 邊塞	biansai
 邊塞詩	biansaishi
 邊境	bianjing
+邊境牧羊犬	bianjing muyangquan
 邊境貿易	bianjing maoyi
 邊寨	bianzhai
 邊將	bianjiang
@@ -125312,6 +126130,7 @@ while 病歷	bingli
 邊界條件	bianjie tiaojian
 邊界線	bianjiexian
 邊疆	bianjiang
+邊疆 / 边疆	bianjiang
 邊緣	bianyuan
 邊緣人	bianyuanren
 邊緣化	bianyuanhua
@@ -125543,6 +126362,7 @@ while 病歷	bingli
 郁卒	yuzu
 郁垒	yulu
 郁愤	yufen
+郁抑	yuyi
 郁李	yuli
 郁李仁	yuliren
 郁江	yujiang
@@ -125612,6 +126432,7 @@ while 病歷	bingli
 郧阳	yunyang
 部下	buxia
 部件	bujian
+部众	buzhong
 部会	buhui
 部位	buwei
 部分	bufen
@@ -125624,6 +126445,7 @@ while 病歷	bingli
 部族	buzu
 部曲	buqu
 部會	buhui
+部眾	buzhong
 部类	bulei
 部署	bushu
 部署兵力	bushu bingli
@@ -125700,6 +126522,7 @@ while 病歷	bingli
 都指揮使	duzhihuishi
 都是我的不是。	dou shi wo de bushi
 都會	duhui
+都會 / 都会	douhui
 都會區	duhuiqu
 都柏林	dubolin
 都江堰	dujiangyan
@@ -125857,7 +126680,9 @@ while 病歷	bingli
 鄱陽	poyang
 鄱陽湖	poyang hu
 鄲城	dancheng
+酂阳	cuoyang
 酂阳	zanyang
+酇陽	cuoyang
 酇陽	zanyang
 酉	you
 酉 雞	bayue
@@ -126003,6 +126828,7 @@ while 病歷	bingli
 酒樓	jiulou
 酒樽	jiuzun
 酒母	jiumu
+酒水	jiushui
 酒池肉林	jiuchiroulin
 酒泉	jiuquan
 酒渣鼻	jiuzhabi
@@ -126403,6 +127229,7 @@ while 病歷	bingli
 采摘	caizhai
 采撷	caijie
 采样率	caiyanglu
+采椽	caichuan
 采用	caiyong
 采石场	caishichang
 采矿	caikuang
@@ -126569,6 +127396,7 @@ while 病歷	bingli
 重庆	chongqing
 重建	chongjian
 重建古史	chongjian gushi
+重建家園 / 重建家园	chongjian jiayuan
 重心	jushin
 重心	zhongxin
 重感情	zhong ganqing
@@ -127032,7 +127860,9 @@ while 病歷	bingli
 金砖五国: BRICS	jinzhuanwuguo
 金砖四国: BRIC	jinzhuansiguo
 金砖国家	jinzhuanguojia
+金碧輝映	jinbihuiying
 金碧輝煌	jinbihuihuang
+金碧辉映	jinbihuiying
 金碧辉煌	jinbihuihuang
 金磚	jinzhuan
 金磚五國	jinzhuanwuguo
@@ -127483,6 +128313,7 @@ while 病歷	bingli
 銷售額	xiaoshoue
 銷售點	xiaoshoudian
 銷毀	xiaohui
+銷毀罪證 / 销毁罪证	xiaohui zuizheng
 銷聲匿跡	xiaoshengniji
 銷蝕	xiaoshi
 銷路	xiaolu
@@ -127569,6 +128400,7 @@ while 病歷	bingli
 鋼琴熱	gangqinre
 鋼琴熱 / 钢琴热	gangqin re
 鋼盔	gangkui
+鋼盔魚	tiekuiyu
 鋼筆	gangbi
 鋼筋	gangjin
 鋼管	gangguan
@@ -127707,6 +128539,7 @@ while 病歷	bingli
 錯誤信息 / 错误信息	cuowu xinxi
 錯譯	cuoyi
 錯過	cuoguo
+錯金	cuojin
 錯雜	cuoza
 錶仔	pioa
 錶帶	biaodai
@@ -127850,9 +128683,11 @@ while 病歷	bingli
 鏟車	chanche
 鏟運車	chanyunche
 鏟除	chanchu
+鏡	jing
 鏡像	jingxiang
 鏡子	jingzi
 鏡子 / 镜子	jingzi
+鏡子摔壞了 / 镜子摔坏了	jingzi shuai huai le
 鏡框	jingkuang
 鏡泊湖	jingpo hu
 鏡片	jingpian
@@ -127901,6 +128736,7 @@ while 病歷	bingli
 鐵人三項	tieren san xiang
 鐵公雞	tiegongji
 鐵則	tieze
+鐵勒	tiele
 鐵匠	tiejiang
 鐵匠鋪	tiejiangpu
 鐵嘴	tiezui
@@ -128026,7 +128862,9 @@ while 病歷	bingli
 鑪	lu
 鑪卡	luka
 鑰匙	yaoshi
+鑰匙 / 钥匙	yaoshi
 鑰匙兒童	yaochi ertong
+鑰匙卡	yaoshika
 鑰匙圈	yaoshiquan
 鑰匙扣	yaoshikou
 鑰匙鏈	yaoshilian
@@ -128180,6 +129018,7 @@ while 病歷	bingli
 钢琴家	gangqinjia
 钢琴热	gangqinre
 钢盔	gangkui
+钢盔鱼	tiekuiyu
 钢笔	gangbi
 钢笔尖	gangbijian
 钢筋	gangjin
@@ -128202,6 +129041,7 @@ while 病歷	bingli
 钥匙	yaoshi
 钥匙	yeh si
 钥匙儿童	yaochi ertong
+钥匙卡	yaoshika
 钥匙圈	yaoshiquan
 钥匙扣	yaoshikou
 钥匙链	yaoshilian
@@ -128297,6 +129137,7 @@ while 病歷	bingli
 铁公鸡	tiegongji
 铁则	tieze
 铁制品	tiezhipin
+铁勒	tiele
 铁匠	tiejiang
 铁匠铺	tiejiangpu
 铁嘴	tiezui
@@ -128424,6 +129265,7 @@ while 病歷	bingli
 铌	ni
 铐子	kaozi
 铓锣	mangluo
+铔	ya
 铗子	jiazi
 铙钹	naobo
 铜像	tongxiang
@@ -128688,6 +129530,7 @@ while 病歷	bingli
 错译	cuoyi
 错误	cuowu
 错过	cuoguo
+错金	cuojin
 锚	mao
 锚地	maodi
 锛子	benzi
@@ -128827,6 +129670,7 @@ while 病歷	bingli
 镚	beng
 镚儿	bengr
 镚子	bengzi
+镜	jing
 镜像	jingxiang
 镜头	jingtou
 镜头盖	jingtougai
@@ -128951,6 +129795,7 @@ while 病歷	bingli
 長濱	changbin
 長灘	changtan
 長焦距鏡頭	changjiaoju jingtou
+長物	zhangwu
 長生不老	changshengbulao
 長生果	changshengguo
 長生殿	changsheng dian
@@ -129115,6 +129960,7 @@ while 病歷	bingli
 长滩	changtan
 长潭河	changtanhe
 长焦距镜头	changjiaoju jingtou
+长物	zhangwu
 长生不老	changshengbulao
 长生果	changshengguo
 长生殿	changsheng dian
@@ -129185,6 +130031,7 @@ while 病歷	bingli
 門口 / 门口	menkou
 門古寺	mengusi
 門可羅雀	menkeluoque
+門可羅雀 / 门可罗雀	menkeluoque
 門吏	menli
 門地	mendi
 門墩	mendun
@@ -129339,6 +130186,8 @@ while 病歷	bingli
 閉門	bimen
 閉門思過	bimensiguo
 閉門羹	bimengeng
+閉門謝客	bimenxieke
+閉門謝客 / 闭门谢客	bimenxieke
 閉門造車	bimenzaoche
 閉關	biguan
 閉關鎖國	biguansuoguo
@@ -129498,6 +130347,7 @@ while 病歷	bingli
 開票	kaipiao
 開禁	kaijin
 開禁 / 开禁	kaijin
+開科取士	kaikequshi
 開竅	kaiqiao
 開竅藥	kaiqiaoyao
 開端	kaiduan
@@ -129636,6 +130486,7 @@ while 病歷	bingli
 間歇熱	jianxiere
 間腦	jiannao
 間苗	jianmiao
+間苗 / 间苗	jianmiao
 間行	jianxing
 間諜	jiandie
 間諜活動	jiandie huodong
@@ -129746,6 +130597,7 @@ while 病歷	bingli
 闊大爺	kuodaye
 闊少	kuoshao
 闊步	kuobu
+闊步 / 阔步	kuobu
 闊氣	kuoqi
 闊筋膜張肌	kuojinmozhangji
 闊綽	kuochuo
@@ -130014,6 +130866,7 @@ while 病歷	bingli
 闭门	bimen
 闭门思过	bimensiguo
 闭门羹	bimengeng
+闭门谢客	bimenxieke
 闭门造车	bimenzaoche
 闭音节	biyinjie
 闭馆	biguan
@@ -130420,6 +131273,7 @@ while 病歷	bingli
 防齲	fangqu
 防龋	fangqu
 阳	yang
+阳世	yangshi
 阳乌	yangwu
 阳伞	yangsan
 阳光	yangguang
@@ -130499,8 +131353,10 @@ while 病歷	bingli
 阴毛	yinmao
 阴沉	yinchen
 阴沟	yingou
+阴河	yinhe
 阴湿	yinshi
 阴爻	yinyao
+阴物	yinwu
 阴电	yindian
 阴盛阳衰	yinshengyangshuai
 阴离子	yinlizi
@@ -130526,6 +131382,7 @@ while 病歷	bingli
 阴阜	yinfu
 阴阳	yinyang
 阴阳人	yinyangren
+阴阳历	yinyangli
 阴阳家	yinyangjia
 阴阳怪气	yinyangguaiqi
 阴阳烛	yinyangzhu
@@ -130613,6 +131470,7 @@ while 病歷	bingli
 阿依庫勒	ayikule
 阿修罗	axiuluo
 阿修羅	axiuluo
+阿僧祇	asengqi
 阿兄	axiong
 阿克塞	akesai
 阿克托海	aketuohai
@@ -130777,6 +131635,7 @@ while 病歷	bingli
 阿民念主義	aminnianzhuyi
 阿波罗	aboluo
 阿波羅	aboluo
+阿波羅13號 / 阿波罗13号	aboluo hao
 阿洛酮糖	aluotongtang
 阿洪魯庫木	ahong lukumu
 阿洪鲁库木	ahong lukumu
@@ -131133,9 +131992,12 @@ while 病歷	bingli
 限定词	xiandingci
 限度	xiandu
 限於	xianyu
+限於條件 / 限于条件	xian yu tiaojian
 限日	xianri
 限时	xianshi
+限时信	xianshixin
 限時	xianshi
+限時信	xianshixin
 限時搶購 / 限时抢购	xianshi qianggou
 限期	xianqi
 限期已滿。 / 限期已满。	xianqi yi man
@@ -131146,12 +132008,16 @@ while 病歷	bingli
 限量	xianliang
 限電	xiandian
 陕北	shanbei
+陕县	shanxian
+陕州	shanzhou
 陕庄	shanzhuang
 陕西	shanxi
 陛下	bixia
 陝北	shanbei
 陝北民歌 / 陕北民歌	shanbei minge
+陝州	shanzhou
 陝甘寧邊區 / 陕甘宁边区	shanganning bianqu
+陝縣	shanxian
 陝莊	shanzhuang
 陝西	shanxi
 陟罚	zhifa
@@ -131218,6 +132084,7 @@ while 病歷	bingli
 除掉	chudiao
 除数	chushu
 除數	chushu
+除旧布新	chujiubuxin
 除服	chufu
 除权	chuquan
 除根	chugen
@@ -131230,6 +132097,7 @@ while 病歷	bingli
 除籍	chuji
 除臭剂	chuchouji
 除臭劑	chuchouji
+除舊布新	chujiubuxin
 除草	chucao
 除草剂	chucaoji
 除草劑	chucaoji
@@ -131305,7 +132173,6 @@ while 病歷	bingli
 陰地	sichuan
 陰壽	yinshou
 陰天	yintian
-陰天 / 阴天	yintian
 陰宅	yinzhai
 陰山	yinshan
 陰差陽錯	yinchayangcuo
@@ -131319,6 +132186,7 @@ while 病歷	bingli
 陰悄悄	sichuan
 陰戶	yinhu
 陰文	yinwen
+陰文 / 阴文	yinwen
 陰晦	yinhui
 陰晴	yinqing
 陰晴圓缺	yinqingyuanque
@@ -131335,11 +132203,12 @@ while 病歷	bingli
 陰毒	yindu
 陰毛	yinmao
 陰沉	yinchen
-陰沉 / 阴沉	yinchen
+陰河	yinhe
 陰涼	yinliang
 陰溝	yingou
 陰濕	yinshi
 陰爻	yinyao
+陰物	yinwu
 陰盛陽衰	yinshengyangshuai
 陰私	yinsi
 陰線	yinxian
@@ -131356,7 +132225,9 @@ while 病歷	bingli
 陰謀家	yinmoujia
 陰謀論	yinmoulun
 陰賊	yinze
+陰轉晴 / 阴转晴	yin zhuan qing
 陰道	yindao
+陰道 / 阴道	yindao
 陰部	yinbu
 陰部神經	yinbu shenjing
 陰間	yinjian
@@ -131366,9 +132237,12 @@ while 病歷	bingli
 陰陽人	yinyangren
 陰陽家	yinyangjia
 陰陽怪氣	yinyangguaiqi
+陰陽曆	yinyangli
 陰陽燭	yinyangzhu
 陰險	yinxian
+陰險 / 阴险	yinxian
 陰離子	yinlizi
+陰離子 / 阴离子	yinlizi
 陰雨	yinyu
 陰電	yindian
 陰霾	yinmai
@@ -131506,6 +132380,8 @@ while 病歷	bingli
 陸離	luli
 陸風	lufeng
 陽	yang
+陽世	yangshi
+陽世 / 阳世	yangshi
 陽傘	yangsan
 陽傘 / 阳伞	yangsan
 陽光	yangguang
@@ -131515,11 +132391,16 @@ while 病歷	bingli
 陽去	yangqu
 陽塘	yangtang
 陽壽	yangshou
+陽壽 / 阳寿	yangshou
 陽奉陰違	yangfengyinwei
+陽奉陰違 / 阳奉阴违	yangfengyinwei
 陽宅	yangzhai
 陽平	yangping
+陽平 / 阳平	yangping
 陽性	yangxing
+陽性反應 / 阳性反应	yangxing fanying
 陽文	yangwen
+陽文 / 阳文	yangwen
 陽新	yangxin
 陽日	yangri
 陽明	yangming
@@ -131527,6 +132408,7 @@ while 病歷	bingli
 陽春白雪	yangchunbaixue
 陽春麵	yangchunmian
 陽曆	yangli
+陽曆 / 阳历	yangli
 陽月	yangyue
 陽朔	yangshuo
 陽極	yangji
@@ -131540,6 +132422,7 @@ while 病歷	bingli
 陽物 / 阳物	yangwu
 陽珓	yangjiao
 陽痿	yangwei
+陽痿 / 阳痿	yangwei
 陽秋	yangqiu
 陽線	yangxian
 陽臺	yangtai
@@ -131550,6 +132433,7 @@ while 病歷	bingli
 陽關大道	yangguan dadao
 陽關道	yangguandao
 陽離子	yanglizi
+陽離子 / 阳离子	yanglizi
 陽電	yangdian
 陽電子	yangdianzi
 隆中	longzhong
@@ -131638,6 +132522,7 @@ while 病歷	bingli
 隐函数	yinhanshu
 隐匿	yinni
 隐君子	yinjunzi
+隐含	yinhan
 隐含的	yinhande
 隐喻	yinyu
 隐士	yinshi
@@ -131808,6 +132693,7 @@ while 病歷	bingli
 隱函數	yinhanshu
 隱匿	yinni
 隱君子	yinjunzi
+隱含	yinhan
 隱喻	yinyu
 隱士	yinshi
 隱姓埋名	yinxingmaiming
@@ -131984,6 +132870,7 @@ while 病歷	bingli
 雄圖	xiongtu
 雄壮	xiongzhuang
 雄壯	xiongzhuang
+雄壯 / 雄壮	xiongzhuang
 雄奇	xiongqi
 雄姿	xiongzi
 雄师	xiongshi
@@ -132004,6 +132891,7 @@ while 病歷	bingli
 雄脱	xiongtuo
 雄花	xionghua
 雄蕊	xiongrui
+雄虎	xiong hu
 雄蜂	xiongfeng
 雄赳赳	xiongjiujiu
 雄起	xiongqi
@@ -132138,7 +133026,6 @@ while 病歷	bingli
 集成顯卡	jicheng xianka
 集显	jixian
 集會	jihui
-集會 / 集会	jihui
 集會自由	jihui ziyou
 集权	jiquan
 集權	jiquan
@@ -132267,6 +133154,8 @@ while 病歷	bingli
 雙人間 / 双人间	shuangrenjian
 雙休	shuangxiu
 雙休日	shuangxiuri
+雙倍	shuangbei
+雙倍賠償	shuangbei peichang
 雙元音	shuangyuanyin
 雙全	shuangquan
 雙六	shuangliu
@@ -132389,6 +133278,7 @@ while 病歷	bingli
 雙車道	shuangchedao
 雙週	shuangzhou
 雙邊	shuangbian
+雙邊會談 / 双边会谈	shuang bian huitan
 雙邊貿易 / 双边贸易	shuangbian maoyi
 雙邊關係 / 双边关系	shuangbian guanxi
 雙鄉	shuangxiang
@@ -133001,6 +133891,7 @@ while 病歷	bingli
 雷托-罗曼语	leituoluomanyu
 雷托-羅曼語	leituoluomanyu
 雷擊	leiji
+雷擊 / 雷击	leiji
 雷暴	leibao
 雷根	leigen
 雷根主义	leigenzhuyi
@@ -133379,6 +134270,7 @@ while 病歷	bingli
 霍去病	huo qubing
 霍巴特	huobate
 霍林郭勒	huolinguole
+霍然	huoran
 霍邱	huoqiu
 霍閃	huoshan
 霍闪	huoshan
@@ -133548,6 +134440,7 @@ while 病歷	bingli
 靈牌	lingpai
 靈物	lingwu
 靈犀	lingxi
+靈界	lingjie
 靈異	lingyi
 靈聖	lengsian
 靈臺	lingtai
@@ -133583,6 +134476,7 @@ while 病歷	bingli
 青少年	qingshaonian
 青少年犯罪	qingshaonian fanzui
 青山綠水	qingshanlushui
+青山綠水 / 青山绿水	qingshanlushui
 青山绿水	qingshanlushui
 青岛	qingdao
 青峰	qingfeng
@@ -133647,6 +134541,7 @@ while 病歷	bingli
 青紅皂白	qinghongzaobai
 青紫	qingzi
 青絲	qingsi
+青絲 / 青丝	qingsi
 青綠	qinglu
 青红灯	chhenangteng
 青红皂白	qinghongzaobai
@@ -133677,6 +134572,7 @@ while 病歷	bingli
 青蔥	qingcong
 青蔥 / 青葱	qingcong
 青蔥歲月	qingcong suiyue
+青藏鐵路 / 青藏铁路	qing cang tielu
 青藏高原	qingzang gaoyuan
 青藜	qingli
 青虫	qingchong
@@ -133965,6 +134861,7 @@ while 病歷	bingli
 面具	mianju
 面前	mianqian
 面包	mianbao
+面包	min baau
 面包圈	mianbaoquan
 面包屑	mianbaoxie
 面包店	mianbaodian
@@ -134018,6 +134915,7 @@ while 病歷	bingli
 面板	mian ban
 面板	mianban
 面汤	miantang
+面煎粿	mianjianguo
 面熟	mianshu
 面珠	min zyu
 面生	miansheng
@@ -134358,6 +135256,7 @@ while 病歷	bingli
 音像圖書	yinxiang tushu
 音叉	yincha
 音变	yinbian
+音名	yinming
 音响	yinxiang
 音场	yinchang
 音域	yinyu
@@ -134578,6 +135477,7 @@ while 病歷	bingli
 順延	shunyan
 順式	shunshi
 順從	shuncong
+順從 / 顺从	shuncong
 順德	shunde
 順心	shunxin
 順性別	shunxingbie
@@ -134712,6 +135612,7 @@ while 病歷	bingli
 頓時	dunshi
 頓河	dun he
 頓涅茨克	dunniecike
+頓然	dunran
 頓腳	dunjiao
 頓號	dunhao
 頓足	dunzu
@@ -134799,7 +135700,9 @@ while 病歷	bingli
 頦	ke
 頭	tou
 頭一名	touyiming
+頭一遍 / 头一遍	tou yi bian
 頭七	touqi
+頭三天 / 头三天	tou san tian
 頭上	toushang
 頭份	toufen
 頭像	touxiang
@@ -134822,6 +135725,7 @@ while 病歷	bingli
 頭屋	touwu
 頭屑	touxie
 頭巾	toujin
+頭幾個 / 头几个	tou jige
 頭彩	toucai
 頭文字	touwenzi
 頭昏	touhun
@@ -134835,6 +135739,8 @@ while 病歷	bingli
 頭版	touban
 頭版新聞 / 头版新闻	touban xinwen
 頭獎	toujiang
+頭獎 / 头奖	toujiang
+頭班車 / 头班车	tou ban che
 頭由	touyou
 頭疼	touteng
 頭疼腦熱	toutengnaore
@@ -135077,6 +135983,7 @@ while 病歷	bingli
 顯眼	xianyan
 顯眼處	xianyanchu
 顯示	xianshi
+顯示卡	xianshika
 顯示器	xianshiqi
 顯示屏	xianshiping
 顯示心理 / 显示心理	xianshi xinli
@@ -135273,6 +136180,7 @@ while 病歷	bingli
 顿时	dunshi
 顿河	dun he
 顿涅茨克	dunniecike
+顿然	dunran
 顿脚	dunjiao
 顿足	dunzu
 顿首	dunshou
@@ -135552,6 +136460,7 @@ while 病歷	bingli
 風勸 / 风劝	fengquan
 風口	fengkou
 風向	fengxiang
+風向 / 风向	fengxiang
 風向標	fengxiangbiao
 風吹草動	fengchuicaodong
 風吹雨打	fengchuiyuda
@@ -135578,6 +136487,7 @@ while 病歷	bingli
 風帆	fengfan
 風帽	fengmao
 風平浪靜	fengpinglangjing
+風平浪靜 / 风平浪静	fengpinglangjing
 風度	fengdu
 風度 / 风度	fengdu
 風急雨驟	fengjiyuzhou
@@ -135725,6 +136635,7 @@ while 病歷	bingli
 颮線	biaoxian
 颮颮	popo
 颯爽	sashuang
+颯爽 / 飒爽	sashuang
 颯秣建	samojian
 颯颯	sasa
 颱風	taifeng
@@ -135738,6 +136649,7 @@ while 病歷	bingli
 飄忽不定	piaohubuding
 飄拂	piaofu
 飄揚	piaoyang
+飄揚 / 飘扬	piaoyang
 飄搖	piaoyao
 飄散	piaosan
 飄浮	piaofu
@@ -136289,7 +137201,6 @@ while 病歷	bingli
 飲恨	yinhen
 飲料	yinliao
 飲水	yinshui
-飲水台	yinshuitai
 飲水思源	yinshuisiyuan
 飲水機	yinshuiji
 飲水臺	yinshuitai
@@ -136339,6 +137250,7 @@ while 病歷	bingli
 飽讀	baodu
 飽讀詩書	baodushishu
 飽足	baozu
+飽雨	baoyu
 飽食	baoshi
 飽食終日	baoshizhongri
 飽餐	baocan
@@ -136653,6 +137565,7 @@ while 病歷	bingli
 饱读	baodu
 饱读诗书	baodushishu
 饱足	baozu
+饱雨	baoyu
 饱食	baoshi
 饱食终日	baoshizhongri
 饱餐	baocan
@@ -136965,7 +137878,6 @@ while 病歷	bingli
 馬友魚	mayouyu
 馬口鐵	makoutie
 馬可	make
-馬可居先說	make juxian shuo
 馬可福音	make fuyin
 馬嘶	masi
 馬圈	majuan
@@ -137084,6 +137996,7 @@ while 病歷	bingli
 馬路	malu
 馬路中央 / 马路中央	malu zhongyang
 馬路如虎口	maluruhukou
+馬路很平。 / 马路很平。	malu hen ping
 馬路牙子	malu yazi
 馬蹄	mati
 馬蹄 / 马蹄	mati
@@ -137123,6 +138036,7 @@ while 病歷	bingli
 馬面	mamian
 馬靴	maxue
 馬鞭	mabian
+馬韉	majian
 馬韓	mahan
 馬頭	mezu
 馬頭琴	matouqin
@@ -137238,6 +138152,7 @@ while 病歷	bingli
 騊駼	taotu
 騍馬	kema
 騎兵	qibing
+騎呢	ke le
 騎士	jishi
 騎士	qishi
 騎射	qishe
@@ -137477,7 +138392,6 @@ while 病歷	bingli
 马友鱼	mayouyu
 马口铁	makoutie
 马可	make
-马可居先说	make juxian shuo
 马可福音	make fuyin
 马号	mahao
 马后炮	mahoupao
@@ -137636,6 +138550,7 @@ while 病歷	bingli
 马面	mamian
 马靴	maxue
 马鞭	mabian
+马鞯	majian
 马韩	mahan
 马首是瞻	mashoushizhan
 马马虎虎	mamahuhu
@@ -137812,6 +138727,7 @@ while 病歷	bingli
 骐骥	qiji
 骐𬴊	qilin
 骑兵	qibing
+骑呢	ke le
 骑墙	qiqiang
 骑士	jishi
 骑士	qishi
@@ -137877,6 +138793,7 @@ while 病歷	bingli
 骨力	guli
 骨力	kutlat
 骨化	guhua
+骨化三醇	guhua sanchun
 骨坛	gutan
 骨头	gutou
 骨头	gutou gutou
@@ -137905,7 +138822,9 @@ while 病歷	bingli
 骨牌效应	gupai xiaoying
 骨牌效應	gupai xiaoying
 骨痛热	gutongre
+骨痛热症	gutongrezheng
 骨痛熱	gutongre
+骨痛熱症	gutongrezheng
 骨瘦如柴	gushouruchai
 骨盆	gupen
 骨盘	gupan
@@ -138017,6 +138936,7 @@ while 病歷	bingli
 體操	ticao
 體操運動員	ticao yundongyuan
 體會	tihui
+體會 / 体会	tihui
 體格	tige
 體格檢查	tige jiancha
 體檢	tijian
@@ -138607,6 +139527,7 @@ while 病歷	bingli
 鬱悶	yumen
 鬱悶！ / 郁闷！	yumen
 鬱憤	yufen
+鬱抑	yuyi
 鬱李仁	yuliren
 鬱江	yujiang
 鬱然	yuran
@@ -138837,6 +139758,7 @@ while 病歷	bingli
 魚白	yubai
 魚皮花生	yupi huasheng
 魚目混珠	yumuhunzhu
+魚目混珠 / 鱼目混珠	yumuhunzhu
 魚眼	yuyan
 魚種	yuzhong
 魚窩頭	yuwotou
@@ -139328,6 +140250,7 @@ while 病歷	bingli
 鴉嘴筆	yazuibi
 鴉片	yapian
 鴉片戰爭	yapian zhanzheng
+鴉片煙	yapianyan
 鴉片癮	yapianyin
 鴉片館	yapianguan
 鴉膽子	yadanzi
@@ -139340,6 +140263,7 @@ while 病歷	bingli
 鴛鴦	yuanyang
 鴛鴦 / 鸳鸯	yuanyang
 鴛鴦鍋	yuanyangguo
+鴛鴦魚	yuanyangyu
 鴝鵒	quyu
 鴟吻	chiwen
 鴟鴞	chixiao
@@ -139666,6 +140590,7 @@ while 病歷	bingli
 鸦嘴笔	yazuibi
 鸦片	yapian
 鸦片战争	yapian zhanzheng
+鸦片烟	yapianyan
 鸦片瘾	yapianyin
 鸦片馆	yapianguan
 鸦胆子	yadanzi
@@ -139707,6 +140632,7 @@ while 病歷	bingli
 鸲鹆	quyu
 鸳鸯	yuanyang
 鸳鸯锅	yuanyangguo
+鸳鸯鱼	yuanyangyu
 鸴鸠	xuejiu
 鸴鸠笑鹏	xuejiuxiaopeng
 鸵鸟	tuoniao
@@ -140195,15 +141121,18 @@ while 病歷	bingli
 麻糖	sichuan
 麻糬	mashu
 麻繩	masheng
+麻繩 / 麻绳	masheng
 麻绳	masheng
 麻脸	malian
 麻臉	malian
+麻臉 / 麻脸	malian
 麻芋果	mayuguo
 麻花	mahua
 麻药	mayao
 麻萨诸塞	masazhusai
 麻薩諸塞	masazhusai
 麻藥	mayao
+麻藥 / 麻药	mayao
 麻衣	mayi
 麻袋	madai
 麻豆	madou
@@ -141385,6 +142314,7 @@ while 病歷	bingli
 齋果	zhaiguo
 齋菜	zhaicai
 齋飯	zhaifan
+齌怒	jinu
 齎恨	jihen
 齏粉	jifen
 齏臼	jijiu
@@ -141490,6 +142420,7 @@ while 病歷	bingli
 龋齿	quchi
 龋齿性	quchixing
 龌龊	wochuo
+龍	long
 龍井	longjing
 龍介	longjie
 龍位	longwei
@@ -141511,6 +142442,7 @@ while 病歷	bingli
 龍性	longxing
 龍捲風	longjuanfeng
 龍文	longwen
+龍椅 / 龙椅	longyi
 龍橋	longqiao
 龍江	longjiang
 龍泉	longquan
@@ -141614,6 +142546,7 @@ while 病歷	bingli
 龔場	gongchang
 龔工	gonggong
 龔河	gonghe
+龙	long
 龙 三月	sanyue
 龙井	longjing
 龙介	longjie
@@ -141784,7 +142717,6 @@ while 病歷	bingli
 𠊎这兜	ngaiiateu
 𠊎這兜	ngaiiateu
 𠙶山	oushan
-𠛅仔	khaua
 𠛅洗	khause
 𠝹女	gaai neoi
 𠢕人	gaulang

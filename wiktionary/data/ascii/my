@@ -285,6 +285,7 @@ Synonym: အင်း	ang
 ကိုဆိုဗို	kuihcuibui
 ကိုပင်ဟေဂင်	kuipanghegang
 ကိုပင်ဟေဂင်မြို့	kuipanghegangmrui
+ကိုဗစ်-၁၉	kuibac
 ကိုဘော့	kuibhau
 ကိုမိုရို	kuimuirui
 ကိုမိုရိုနိုင်ငံ	kuimuiruinuingngam
@@ -493,6 +494,7 @@ Synonym: အင်း	ang
 ကျ	kya
 ကျက်စား	kyakca
 ကျက်သရေ	kyaksare
+ကျင်	kyang
 ကျင်ကြီး	kyangkri
 ကျင်ကြီးစွန့်	kyangkricwan
 ကျင်ချောင်း	kyanghkyaung
@@ -651,6 +653,8 @@ Synonym: အင်း	ang
 ကျွန်းကလေး	kywankale
 ကျွန်းဆွယ်	kywanhcwai
 ကျွန်းသစ်	kywansac
+ကျွမ်း	kywam
+ကျွမ်းကျင်သူ	kywamkyangsu
 ကျွဲ	kywai
 ကျွဲကော	kywaikau
 ကျွဲကောပင်	kywaikaupang
@@ -1731,9 +1735,11 @@ Synonym: အင်း	ang
 စိမ့်	cim
 စိမ်း	cim
 စိမ်းစားဥ	cimcau
+စိမ်းပုပ်	cimpup
 စိမ်းပြာ	cimpra
 စိမ်းပြာနက်	cimpranak
 စိမ်းပြာရောင်	cimpraraung
+စိမ်းဖန့်ဖန့်	cimhpanhpan
 စိမ်းဝါ	cimwa
 စို	cui
 စိုက်	cuik
@@ -1804,6 +1810,7 @@ Synonym: အင်း	ang
 စောပြာ	caupra
 စော်ဘွား	caubhwa
 စေ့စပ်	cecap
+စေ့စပ်ရေး	cecapre
 စေးမခန်း	cemahkan
 စဲ	cai
 စံကား	camka
@@ -1868,6 +1875,7 @@ Synonym: အင်း	ang
 ဆဌဂံ	hcahtagam
 ဆဌမ	hcahtama
 ဆတိုးကိန်း	hcatuikin
+ဆတ္တာသည်	hcattasany
 ဆတ်ကလေး	hcatkale
 ဆတ်ခလောက်	hcathkalauk
 ဆန့်ကျင်	hcankyang
@@ -2059,6 +2067,7 @@ Synonym: အင်း	ang
 ဆူ	hcu
 ဆူဒန်	hcudan
 ဆူဒန်နိုင်ငံ	hcudannuingngam
+ဆူနာမီ	hcunami
 ဆူမားရီးယန်းခေတ်	hcumariyanhket
 ဆူမို	hcumui
 ဆူရာနမ်	hcuranam
@@ -2382,11 +2391,13 @@ Synonym: အင်း	ang
 တစ်ဆယ်	tachcai
 တစ်ထောင်	tachtaung
 တစ်နေ့က	tacneka
+တစ်ပတ်	tacpat
 တစ်ရာ	tacra
 တစ်ရှန်	tachran
 တစ်လ	tacla
 တစ်လကိုးသီတင်း	taclakuisitang
 တစ်ဝက်	per stedt
+တစ်သဝေမတိမ်း	tacsawematim
 တစ်သိန်း	tacsin
 တစ်သီးပုဂ္ဂလ	tacsipuggala
 တစ်သောင်း	tacsaung
@@ -2731,6 +2742,7 @@ Synonym: အင်း	ang
 တွက်ကိန်း	twakkin
 တွင်	twang
 တွင်း	twang
+တွင်းထွက်ရေ	twanghtwakre
 တွတ်	twat
 တွန်း	twan
 တွပ်	twap
@@ -2776,7 +2788,9 @@ Synonym: အင်း	ang
 ထမနဲ	htamanai
 ထမိန်	htamin
 ထမီ	htami
+ထမ်း	htam
 ထမ်းစင်	htamcang
+ထမ်းပိုး	htampui
 ထယ်	htai
 ထယ်ထိုး	htaihtui
 ထရန့်	htaran
@@ -3121,6 +3135,7 @@ Synonym: အင်း	ang
 ဓာတ်ရထား	dhatrahta
 ဓာတ်လှေကား	dhathleka
 ဓာတ်သတ္တု	dhatsattu
+ဓာတ်သတ္တုရေ	dhatsatture
 ဓာတ်သွား	dhatswa
 ဓာတ်အို	dhatui
 ဓာတ်အိုး	dhatui
@@ -3341,6 +3356,7 @@ Synonym: အင်း	ang
 နိပ်	nip
 နိဗ္ဗာန်	nibban
 နိဗ္ဗာန်ယာဉ်	nibbanyany
+နိမိတ်ကြီးလေးပါး	nimitkrilepa
 နိမ့်	nim
 နိမ့်သေ	nimse
 နိမ္မာနရတိ	nimmanarati
@@ -3570,6 +3586,7 @@ Synonym: အင်း	ang
 ပကတိ	pakati
 ပကတိကံ	pakatikam
 ပကောဋိ	pakauti
+ပက်	pak
 ပက်ကျိ	pakkyi
 ပခုက္ကူ	pahkukku
 ပခုံး	pahkum
@@ -3644,6 +3661,7 @@ Synonym: အင်း	ang
 ပဋိဇီဝဆေး	patijiwahce
 ပဋိပက္ခ	patipakhka
 ပဋိပက္ခဒေသ	patipakhkadesa
+ပဋိသန္ဒါရစကား	patisandaracaka
 ပဋိသန္ဓေ	patisandhe
 ပဌမ	pahtama
 ပဏ္ဍိတ	pandita
@@ -3812,6 +3830,7 @@ Synonym: အင်း	ang
 ပါတီ	pati
 ပါပူအာနယူးဂီနီ	papuanayugini
 ပါမောက္ခ	pamaukhka
+ပါရဂူ	paragu
 ပါရဂူဘွဲ့	paragubhwai
 ပါရမီ	parami
 ပါရမီဆယ်ပါး	paramihcaipa
@@ -4053,6 +4072,7 @@ Synonym: အင်း	ang
 ပဲလှော်	paihlau
 ပဲ့ကိုင်ဘီး	paikuingbhi
 ပဲ့တင်သံ	paitangsam
+ပျက်	pyak
 ပျင်းရိခြင်း	pyangrihkrang
 ပျစ်	pyac
 ပျဉ်	pyany
@@ -5220,6 +5240,7 @@ Synonym: အင်း	ang
 မုန်း	mun
 မုန်းတီးမိနျးမ	muntiminyama
 မုယော	muyau
+မုရန်	muran
 မုရား	mura
 မုရားကြီး	murakri
 မုရားသိမ်	murasim
@@ -5571,6 +5592,7 @@ Synonym: အင်း	ang
 မွေးနေ့	mwene
 မွေးနေ့မင်္ဂလာပါ	mwenemanggalapa
 မွေးရပ်	mwerap
+မွေးရပ်မြေ	mwerapmre
 မွဲ	mwai
 မွှား	hmwa
 မွှေး	hmwe
@@ -6160,6 +6182,7 @@ Synonym: အင်း	ang
 ရှီလောင်	hrilaung
 ရှုခင်း	hruhkang
 ရှုမျှော်ခင်း	hruhmyauhkang
+ရှုံး	hrum
 ရှူ	hru
 ရှူဆေး	hruhce
 ရှူတင်	hrutang
@@ -6198,6 +6221,7 @@ Synonym: အင်း	ang
 လက္ခဏာတော်ငယ်	lakhkanataungai
 လက္ခဏာပါးရှား	lakhkanapahra
 လက္ခဏာဖတ်	lakhkanahpat
+လက္ခဏာဗေဒ	lakhkanabeda
 လက္ခဏာရေးသုံးပါး	lakhkanaresumpa
 လက်	lak
 လက်ကိုင်ပဝါ	lakkuingpawa
@@ -6525,8 +6549,8 @@ Synonym: အင်း	ang
 လေယာဉ်	leyany
 လေယာဉ်ပျံ	leyanypyam
 လေယာဉ်မယ်	leyanymai
-လေယာဉ်မူး	leyanymu
 လေယာဉ်မောင်	leyanymaung
+လေယာဉ်မှူး	leyanyhmu
 လေရဟတ်	lerahat
 လေရောဂါ	lerauga
 လေလည်	lelany
@@ -6981,6 +7005,7 @@ Synonym: အင်း	ang
 သတင်းစာစက္ကူ	satangcacakku
 သတင်းစာဆရာ	satangcahcara
 သတင်းစာပညာ	satangcapanya
+သတင်းထောက်	satanghtauk
 သတင်းပို့	satangpui
 သတင်းပေး	satangpe
 သတိ	sati
@@ -8468,6 +8493,7 @@ Synonym: အင်း	ang
 အားနာ	ana
 အားနာပါးနာ	anapana
 အားနာမှု	anahmu
+အားလပ်	alap
 အားလပ်ရက်	alaprak
 အားလုံး	alum
 အိတ်	it

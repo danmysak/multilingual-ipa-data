@@ -40,11 +40,13 @@ winter:кыш	kis
 Тымык теҥис	timik tengis
 Ӱлкер	ulker
 Ӱч Мыйгак	uc miygak
+Эдил	edil
 Энесей	enesey
 Эртиш	ertis
 аару	aaru
 абра	abra
 агалу-ийиндӱ	agaluiyindu
+агар	agar
 агас	agas
 агаш	agas
 агашту	agastu
@@ -80,19 +82,20 @@ winter:кыш	kis
 айды	aydi
 айдылаачы	aydilaaci
 айдыҥ	ayding
-айлануу	aylanuu
+айланар	aylanar
 айлар	aylar
 айларга	aylarga
 айларда	aylarda
 айлардаҥ	aylardang
 айларды	aylardi
 айлардыҥ	aylarding
-айтуу	aytuu
+айрыыр	ayriir
 айу	ayu
 айыл	ayil
 ак	ak
 ак айазы	ak ayazi
 ака	aka
+аксагал	aksagal
 аксак	aksak
 акча	akca
 акырын	akirin
@@ -127,13 +130,14 @@ winter:кыш	kis
 арка	arka
 арка канат	arka kanat
 аркар	arkar
+арслан	arslan
 артык	artik
 артыш	artis
 ару	aru
 ас	as
 аспан	aspan
 ат	at
-ат-	at
+атар	atar
 атка	atka
 атта	atta
 аттар	attar
@@ -163,10 +167,15 @@ winter:кыш	kis
 баатыр	baatir
 бабырган	babirgan
 багыр	bagir
+бадар	badar
+базар	bazar
 бай	bay
+байа	baya
 байрам	bayram
+байтал	baytal
 байыыр	bayiir
 бака	baka
+бакана	bakana
 бакыр	bakir
 бал	bal
 бала	bala
@@ -177,24 +186,35 @@ winter:кыш	kis
 бар	bar
 барар	barar
 бармак	barmak
+барс	bars
 бары-јогым	barijogim
 барынтычы	barintici
+баскыш	baskis
+бассы	bassi
+баткак	batkak
 батша	batsa
 баш	bas
 баш кийим	bas kiyim
 башка	baska
+башкарар	baskarar
+башмак	basmak
 баштаачы	bastaaci
 баштапкы	bastapki
+баштык	bastik
+башчы	basci
 баја	baja
+бее	bee
 бежен	bezen
 бежинчи	bejinci
 бежинчи	bezinci
+бежӱ	bezu
 бек	bek
 бектӱ	bektu
 бел	bel
 бел-буу	belbuu
 белги	belgi
 беле	bele
+белен	belen
 берер	berer
 берт	bert
 бес	bes
@@ -202,8 +222,11 @@ winter:кыш	kis
 беш	bes
 беш јӱс	bes jus
 бийе	biye
+бийеер	biyeer
 бийеле-	biyele
+бийечи	biyeci
 бийик	biyik
+бийт	biyt
 биле	bile
 билек	bilek
 билер	biler
@@ -213,10 +236,13 @@ winter:кыш	kis
 билиш	bilis
 бир	bir
 бирге	birge
+биригер	biriger
+бириккен	birikken
 биринчи	birinci
 бирлеш-	birles
 бирлик	birlik
 бирсӱӱн	birsuun
+бирӱ	biru
 бис	bis
 бистиҥ	bisting
 бичен	bicen
@@ -230,10 +256,13 @@ winter:кыш	kis
 бије	bije
 бијеле-	bijele
 бӧднӧ	bodno
+бӧкӧ	boko
 бӧктӧӧр	boktoor
+бӧӧрӧк	boorok
 бӧрӱ	boru
 бӧрӱк	boruk
 бӧс	bos
+богок	bogok
 бозого	bozogo
 бозорор	bozoror
 бозорт	bozort
@@ -248,10 +277,12 @@ winter:кыш	kis
 болордо	bolordo
 болордоҥ	bolordong
 болот	bolot
+боос	boos
 бороон	boroon
 борсок	borsok
 борсык	borsik
 бос	bos
+бос торкой	bos torkoy
 боскос	boskos
 ботулка	botulka
 бош	bos
@@ -261,6 +292,7 @@ winter:кыш	kis
 бу	bu
 бӱгӱн	bugun
 бӱгӱнги	bugungi
+бӱдер	buder
 бӱдӱн	budun
 бӱк	buk
 буйур-	buyur
@@ -276,10 +308,14 @@ winter:кыш	kis
 буудай	buuday
 буудак	buudak
 буур	buur
+бујыл	bujil
+быжар	bizar
 быйан болзын	biyan bolzin
+былтыр	biltir
 былтыргы	biltirgi
 бычак	bicak
 бычкы	bicki
+бычыыр	biciir
 быштак	bistak
 бэт	bet
 выјдан	vijdan
@@ -303,6 +339,7 @@ winter:кыш	kis
 ийе бер-	iye ber
 ийик	iyik
 ийин	iyin
+ийирер	iyirer
 ийне	iyne
 ийнек	iynek
 ийт	iyt
@@ -328,9 +365,13 @@ winter:кыш	kis
 кабырчак	kabircak
 кагас	kagas
 каду	kadu
+кадын	kadin
+кадыт	kadit
 кажы	kazi
 кажык	kazik
 казан	kazan
+казар	kazar
+казык	kazik
 казына	kazina
 казыначы	kazinaci
 кай	kay
@@ -385,6 +426,8 @@ winter:кыш	kis
 кандыҥ	kanding
 канча	kanca
 канјыл	kanjil
+кап	kap
+капчык	kapcik
 кар	qar
 кара	kara
 кара кайын	kara kayin
@@ -396,6 +439,8 @@ winter:кыш	kis
 караҥу	karangu
 караҥуй	karanguy
 карга	karga
+карлагаш	karlagas
+кармаар	karmaar
 кармак	karmak
 каруу	karuu
 каруул	karuul
@@ -416,6 +461,7 @@ winter:кыш	kis
 качы	kaci
 каш	kas
 каҥза	kangza
+каҥмыл	kangmil
 кебедел	kebedel
 кебис	kebis
 кедей	kedey
@@ -428,6 +474,8 @@ winter:кыш	kis
 келин	kelin
 кем	kem
 кеме	keme
+кемеге	kemege
+кемирер	kemirer
 кемирӱ	kemiru
 кендир	kendir
 кенек	kenek
@@ -435,6 +483,7 @@ winter:кыш	kis
 керек	kerek
 кереп	kerep
 кери	keri
+кертме	kertme
 кес	kes
 кесе	kese
 кеткин-	ketkin
@@ -474,6 +523,7 @@ winter:кыш	kis
 кӧк чай	kok cay
 кӧк јэлэ	kok jele
 кӧк-бӧрӱ	kokboru
+кӧктӧӧр	koktoor
 кӧл	kol
 кӧлӧтки	kolotki
 кӧмӱр	komur
@@ -515,6 +565,7 @@ winter:кыш	kis
 коркыыр	korkiir
 корон	koron
 коронду	korondu
+коскоор	koskoor
 кош	kos
 коҥору	kongoru
 коҥус	kongus
@@ -542,6 +593,7 @@ winter:кыш	kis
 кӱрек	kurek
 кӱреш	kures
 кӱреҥ	kureng
+кӱркӱреер	kurkureer
 кӱртӱк	kurtuk
 кӱс	kus
 кӱскӱ	kusku
@@ -580,6 +632,7 @@ winter:кыш	kis
 куну	kunu
 кур	kur
 кураган	kuragan
+кургаар	kurgaar
 кургак	kurgak
 курсак	kursak
 курт	kurt
@@ -602,6 +655,7 @@ winter:кыш	kis
 кыл-	kil
 кылыч	kilic
 кылыш	kilis
+кымыс	kimis
 кыркар	kirkar
 кыру	kiru
 кырык	kirik
@@ -619,6 +673,7 @@ winter:кыш	kis
 май	may
 макарон	makaron
 максат	maksat
+мал	mal
 малта	malta
 мамык	mamik
 манјы	manji
@@ -642,6 +697,7 @@ winter:кыш	kis
 мечин	mecin
 мешке	meske
 меҥ	meng
+мин-	min
 минер	miner
 мис	mis
 мӧндӱр	mondur
@@ -720,6 +776,7 @@ winter:кыш	kis
 ӧзӱм	ozum
 ӧй	oy
 ӧкпӧ	okpo
+ӧксӱс	oksus
 ӧкӱс	okus
 ӧкчӧ	okco
 ӧл-	ol
@@ -734,8 +791,10 @@ winter:кыш	kis
 ӧӧй эне	ooy ene
 ӧргӧӧ	orgoo
 ӧркӧш	orkos
+ӧрӧр	oror
 ӧрт	ort
 ӧртӧк	ortok
+ӧрӱм	orum
 ӧс	os
 ӧс алдынаҥ	os aldinang
 ӧскӧ	osko
@@ -744,6 +803,7 @@ winter:кыш	kis
 ӧткӧн ӧй	otkon oy
 ӧтмӧк	otmok
 ӧтпӧк	otpok
+ӧч	oc
 ӧчӱргиш	ocurgis
 ӧштӱ	ostu
 ӧҥ	ong
@@ -769,37 +829,48 @@ winter:кыш	kis
 ол	ol
 олор	olor
 олјо	oljo
+омуртка	omurtka
 он	on
 он бир	on bir
 он эки	on eki
 ондый	ondiy
+ону	onu
 онынчы	oninci
 оо	oo
 оок	ook
 оок-теек	ookteek
 оору	ooru
+оорулу	oorulu
+оорыыр	ooriir
 оос	oos
 оркестр	orkestr
 ормон	ormon
 орозо	orozo
 ором	orom
 ороом	oroom
+ороор	oroor
 орто	orto
 орто кулак	orto kulak
 ортозында	ortozinda
+орток	ortok
 ортокчы	ortokci
 ортолык	ortolik
+ортон	orton
 орус	orus
 орус тил	orus til
 орын	orin
 от	ot
 оток	otok
+отту	ottu
 отурар	oturar
 отуру	oturu
 отус	otus
+отык	otik
 очок	ocok
+ошкоор	oskoor
 оҥ	ong
 оҥ јаны јаар бурыыр	ong jani jaar buriir
+оҥдоор	ongdoor
 оҥор	ongor
 оҥор тил	ongor til
 пахта	pahta
@@ -810,7 +881,10 @@ winter:кыш	kis
 пыштақ	teleut
 республика	respublika
 рух	ruh
+саадак	saadak
 саады	saadi
+саам	saam
+саамай	saamay
 саанчы	saanci
 саар	saar
 саат	saat
@@ -818,16 +892,19 @@ winter:кыш	kis
 сааш	saas
 сабар	sabar
 сабат	sabat
+сагал	sagal
 сагыскан	sagiskan
 садар	sadar
 садучы	saduci
 сайын	sayin
 сака	saka
 сакчы	sakci
+сал-	sal
 салкын	salkin
 самын	samin
 сан	san
 санаа	sanaa
+санаар	sanaar
 сап	sap
 сарлык	sarlik
 сары	sari
@@ -838,15 +915,22 @@ winter:кыш	kis
 сарын	sarin
 сарындаар	sarindaar
 сас	sas
+саҥыс	sangis
 саҥыскан	sangiskan
 сегизен	segizen
 сегизинчи	segizinci
+сегизӱ	segizu
 сегис јӱс	segis jus
 сезим	sezim
 сек	sek
+секирер	sekirer
+семирер	semirer
 семис	semis
 сен	sen
+сеп	sep
+сепкил	sepkil
 сийдик	siydik
+сирке	sirke
 сиҥир	singir
 сӧзлик	sozlik
 сӧйлӧжӱ	soylozu
@@ -888,6 +972,8 @@ winter:кыш	kis
 сӱҥӱ	sungu
 суйук	suyuk
 сулук	suluk
+сунар	sunar
+сундук	sunduk
 сур	sur
 сурак	surak
 суракту темдек	suraktu temdek
@@ -895,22 +981,34 @@ winter:кыш	kis
 суузар	suuzar
 суук	teleut
 сууры	suuri
+сыбыскы	sibiski
+сызар	sizar
+сый	siy
+сыйлаар	siylaar
+сыймаар	siymaar
+сыйму	siymu
+сыймучы	siymuci
 сыйыр	siyir
+сыйырар	siyirar
 сымда	simda
 сыр	sir
 сыра	sira
 сырга	sirga
+сырт	sirt
 сыҥар	singar
 сээк	seek
 та̀ма́к	tamak
 та́гы	tagi
 та́р	tar
+таа	taa
 таары	taari
 таајы	taaji
+табар	tabar
 табаш	tabas
 табыш	tabis
 тажыыр	taziir
 тайак	tayak
+тайар	tayar
 тайгак	taygak
 така	taka
 такта	takta
@@ -927,7 +1025,9 @@ winter:кыш	kis
 тар	tar
 тараан	taraan
 тарак	tarak
+тарам	taram
 тарбаган	tarbagan
+тартар	tartar
 тару	taru
 тарых	tarih
 тат	tat
@@ -941,13 +1041,20 @@ winter:кыш	kis
 тебетей	tebetey
 тегелик	tegelik
 тегерик	tegerik
+тегин	tegin
 тегин тоо	tegin too
 тежик	tezik
+тек	tek
+теке	teke
 телеҥир	telengir
 телӱӱн	teluun
 темир	temir
 темир чак	temir cak
+темир јол	temir jol
 темирлӱ	temirlu
+темирчи	temirci
+тенке	tenke
+тер	ter
 тергее	tergee
 тере	tere
 терек	terek
@@ -960,11 +1067,17 @@ winter:кыш	kis
 теҥери	tengeri
 теҥис	tengis
 теҥис јол	tengis jol
+тигер	tiger
+тиги	tigi
+тижи	tizi
 тизе	tize
 тийер	tiyer
 тийиҥ	tiyin
 тийиҥ	tiying
 тил	til
+тилмеш	tilmes
+тиреер	tireer
+тирӱ	tiru
 тиш	tis
 тиш-	tis
 тӧбӧ	tobo
@@ -982,8 +1095,10 @@ winter:кыш	kis
 тӧртӧн	torton
 тӧс банк	tos bank
 тӧҥмӧк	tongmok
+тобрак	tobrak
 тоголок	togolok
 тогузон	toguzon
+тогузу	toguzu
 тогузынчы	toguzinci
 тогус муҥ	togus mung
 тогус јӱс	togus jus
@@ -995,6 +1110,10 @@ winter:кыш	kis
 тойдырар	toydirar
 токой	tokoy
 толку	tolku
+толо	tolo
+толоно	tolono
+толор	tolor
+толтырар	toltirar
 томуртка	tomurtka
 тон	ton
 тонус	tonus
@@ -1015,6 +1134,7 @@ winter:кыш	kis
 тоҥоор	tongoor
 тоҥор	tongor
 тоҥус	tongus
+ту	tu
 тӱдӱн	tudun
 тӱймеен	tuymeen
 тӱк	tuk
@@ -1025,6 +1145,7 @@ winter:кыш	kis
 тӱрме	turme
 тӱӱки	tuuki
 тӱӱкилик	tuukilik
+тӱӱме	tuume
 тӱш	tus
 тӱштӱк	tustuk
 тӱҥӱр	tungur
@@ -1080,9 +1201,13 @@ winter:кыш	kis
 узун	uzun
 уй	uy
 уйа	uya
+уйалар	uyalar
 уйку	uyku
 уйкузыра-	uykuzira
+уйуктаар	uyuktaar
+улам	ulam
 уланты	ulanti
+улу	ulu
 улуу	uluu
 ун	un
 унаш	unas
@@ -1090,6 +1215,7 @@ winter:кыш	kis
 ундыыр	undiir
 ур	ur
 уруш	urus
+ус	us
 уу	uu
 уул	uul
 уур	uur
@@ -1097,6 +1223,8 @@ winter:кыш	kis
 ууру	uuru
 уурчы	uurci
 ууры	uuri
+ууш	uus
+уч	uc
 учар	ucar
 учмак	ucmak
 учун	ucun
@@ -1105,7 +1233,6 @@ winter:кыш	kis
 хис	his
 хлеб	hleb
 хол аягаа	hol ayagaa
-хымыс	himis
 цай	cay
 чаазын	caazin
 чабар	cabar
@@ -1121,6 +1248,7 @@ winter:кыш	kis
 чалгы	calgi
 чалкан	calqan
 чанак	canak
+чапкы	capki
 чапчак	capcak
 чар	car
 чараган	caragan
@@ -1169,6 +1297,8 @@ winter:кыш	kis
 чымчым	cimcim
 чымчыыр	cimciir
 чымын	cimin
+чын	cin
+чындык	cindik
 чырай	ciray
 чырайлу	ciraylu
 чырыш	ciris
@@ -1193,16 +1323,26 @@ winter:кыш	kis
 штат	stat
 шуму	sumu
 ыйлаар	iylaar
+ыйык	iyik
 ылаачын	ilaacin
 ылгаар	ilgaar
+ылтам	iltam
+ылјыраар	iljiraar
+ымдаар	imdaar
 ынсап	insap
+ыр	ir
+ыра	ira
 ыраак	iraak
 ыргак	irgak
+ыркыраар	irkiraar
 ырыс	iris
 ыш	is
+ыҥырчак	ingircak
 эбирер	ebirer
 эгис	egis
 эгӱ	egu
+эдек	edek
+эдер	eder
 эжик	ezik
 эзен	ezen
 эйе	eye
@@ -1219,6 +1359,7 @@ winter:кыш	kis
 элчи	elci
 элчилик	elcilik
 эм	em
+эмди	emdi
 эмес	emes
 эмик	emik
 эмчек	emcek
@@ -1229,8 +1370,10 @@ winter:кыш	kis
 эп	ep
 эр	er
 эргек	ergek
+эриир	eriir
 эрик	erik
 эрин	erin
+эрке	erke
 эркек	erkek
 эркин	erkin
 эрмек	ermek
@@ -1265,10 +1408,13 @@ winter:кыш	kis
 јажыл	jazil
 јажыл чай	jazil cay
 јажын	jazin
+јазаар	jazaar
 јай	cay
 јай	jay
 јайаандык иш	jayaandik is
+јайар	jayar
 јайгар	jaygar
+јайдак	jaydak
 јайы́н	jayin
 јайылу	jayilu
 јайыт	jayit
@@ -1280,6 +1426,7 @@ winter:кыш	kis
 јалбырак	jalbirak
 јалган	jalgan
 јалганча	jalganca
+јалганчак	jalgancak
 јалку	jalku
 јалкын	jalkin
 јалмаш	jalmas
@@ -1290,6 +1437,9 @@ winter:кыш	kis
 јап-	jap
 јапшынар	japsinar
 јар	jar
+јара	jara
+јараар	jaraar
+јарар	jarar
 јарганат	jarganat
 јаргы	jargi
 јарды	jardi
@@ -1336,6 +1486,7 @@ winter:кыш	kis
 јер силкиниш	jer silkinis
 јес	jes
 јесте	jeste
+јетеген	jetegen
 јетен	jeden
 јетен	jeten
 јетенинчи	jeteninci
@@ -1343,7 +1494,9 @@ winter:кыш	kis
 јети јӱс	jeti jus
 јетинчи	jetinci
 јетирӱ	jetiru
+јетӱ	jetu
 јеҥ	jeng
+јеҥе	jenge
 јеҥер	jenger
 јеҥил	jengil
 јеҥӱ	jengu
@@ -1359,9 +1512,12 @@ winter:кыш	kis
 јип	jip
 јирме	jirme
 јӧргӧмӧш	jorgomos
+јобо	jobo
+јоголор	jogolor
 јодо	jodo
 јодро	jodro
 јойгон	joygon
+јойу	joyu
 јок	jok
 јол	jol
 јолдош	joldos
@@ -1379,6 +1535,7 @@ winter:кыш	kis
 јӱгӱрӱк	juguruk
 јӱзинчи	juzinci
 јӱзӱнчи	juzunci
+јӱйер	juyer
 јӱлӱн	julun
 јӱр-	jur
 јӱргӱнчӱ	jurguncu
@@ -1386,12 +1543,16 @@ winter:кыш	kis
 јӱрӱм	jurum
 јӱрӱмниҥ кеби	jurumning kebi
 јӱс	jus
+јӱс јыл	jus jil
 јӱс-	jus
 јӱстӱк	justuk
 јӱӱлгек	juulgek
 јудар	judar
 јудрук	judruk
 јука	juka
+јулар	jular
+јум	jum
+јумгак	jumgak
 јумурт	jumurt
 јун-	jun
 јура-	jura
@@ -1400,11 +1561,13 @@ winter:кыш	kis
 јуу	juu
 јуу-согуш	juusogus
 јуу-чак	juucak
+јуук	juuk
 јуун	juun
 јууркан	juurkan
 јуучы	juuci
 јуучыл	juucil
 јуҥ	jung
+јыбар	jibar
 јыл	cil
 јыл	jil
 јылан	cilan

@@ -1173,6 +1173,8 @@ owner is male لك	lik
 حمل	ḥiml
 حمّامات	ḥammamāt
 حنجرة	ḥangara
+حنش	ḥanaš
+حنش	ḥenaš
 حنطور	ḥanṭor
 حنطور عين	ḥanṭūr ʿēn
 حنك	ḥanak
@@ -2234,7 +2236,6 @@ owner is male لك	lik
 عيد القيامة	ʕīd il-ʾiyāma
 عيد الملاد	ʿīd il-milād
 عيد ميلاد	ʿīd melad
-عيش	ʿēš
 عيش الغراب	ɛēš el-ġorāb
 عيش الغراب	ʿēš el-ḡorāb
 عيلات	ʿēlāt
@@ -2638,7 +2639,6 @@ owner is male لك	lik
 كرش	kirš
 كرع	kárraʕ
 كرفس	karafs
-كركدن	karkadann
 كركم	kurkum
 كرلي	kerli
 كرم	karam
@@ -3179,14 +3179,12 @@ owner is male لك	lik
 منى جيب	míni žīb
 مني	mani
 منين	meniin
-منين	menīn
 مهجور	mahgūrr
 مهر	mahr
 مهر	muhr
 مهلة	mihla
 مهم	mohimm
 مهم	muhimm
-مهما	mahma
 مهمة	muhemma
 مهنة	mehna
 مهنة	mihna
@@ -3445,9 +3443,8 @@ owner is male لك	lik
 وصل	wiṣil
 وصول	wuṣūl
 وظيفة	waẓīfa
-وعد	waʕad
-وعد	waʕd
 وعد	waʿad
+وعد	waʿd
 وفقا لـ	wefqan le-
 وفقا لـ	wefqn le
 وقت	waʾt
@@ -3570,7 +3567,6 @@ owner is male لك	lik
 يمكن	yimkin
 يمنع	yimnaʿ
 يموت	yimūt
-يمين	yimīn
 ينام	yinām
 يناير	yanāyir
 ينبح	yenbaḥ
